@@ -1,0 +1,261 @@
+{
+ "entities": [
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt"
+   ]
+  },
+  {
+   "name": "Eredin",
+   "kind": "boss",
+   "aliases": [
+    "Eredin Bréacc Glas"
+   ]
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Aen Elle",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Ciri",
+   "kind": "character",
+   "aliases": [
+    "Cirilla"
+   ]
+  },
+  {
+   "name": "Avallac'h",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "White Frost",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Isle of Undvik",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Zoltan Chivay",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Yennefer",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Imlerith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Tedd Deireadh",
+   "kind": "world",
+   "aliases": [
+    "The Final Age",
+    "Time of the White Frost"
+   ]
+  },
+  {
+   "name": "Ragh nar Roog",
+   "kind": "world",
+   "aliases": [
+    "Last Battle"
+   ]
+  },
+  {
+   "name": "Hemdall",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Naglfar",
+   "kind": "item",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Geralt of Rivia boarded the ghostly ship of the Wild Hunt after the imperial fleet cut off its escape route to the high seas.",
+   "entities": [
+    "Geralt of Rivia",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Geralt of Rivia fought a long, difficult duel against Eredin, the leader of the Aen Elle and commander of the Wild Hunt.",
+   "entities": [
+    "Geralt of Rivia",
+    "Eredin",
+    "Aen Elle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Geralt of Rivia emerged victorious from his duel with Eredin, breaking the power of the Wild Hunt permanently.",
+   "entities": [
+    "Geralt of Rivia",
+    "Eredin",
+    "Wild Hunt"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "According to Skellige mythology, the Final Age called Tedd Deireadh will bring the Time of the White Frost and the Wolf's Blizzard.",
+   "entities": [
+    "Tedd Deireadh"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Skellige mythology says the cockerel Cambi will crow to herald the arrival of the Naglfar, a longship built from dead men's claws carrying an army of demons from Morhogg.",
+   "entities": [
+    "Naglfar"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to Skellige myth, the crowing of Cambi will awaken the hero Hemdall, who will stand on the Rainbow Bridge and blow his horn to signal the Last Battle, Ragh nar Roog.",
+   "entities": [
+    "Hemdall",
+    "Ragh nar Roog"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Skellige mythology states the outcome of Ragh nar Roog will determine whether the world falls to Darkness and Cold or whether a new dawn of New Days begins.",
+   "entities": [
+    "Ragh nar Roog"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Avallac'h believed that only Ciri possessed the power to stop the White Frost, a near-mythical force threatening to destroy not just one world but all worlds.",
+   "entities": [
+    "Avallac'h",
+    "Ciri",
+    "White Frost"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Ciri decided to enter an ancient portal on the Isle of Undvik to confront her destiny and try to stop the White Frost.",
+   "entities": [
+    "Ciri",
+    "Isle of Undvik",
+    "White Frost"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Ciri left behind her adoptive father Geralt of Rivia, who had spent a long time searching for her, when she entered the portal on the Isle of Undvik.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia",
+    "Isle of Undvik"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "The narrator (implied to be Dandelion) suggests that Ciri succeeded in her mission against the White Frost, since the world afterward enjoyed a glorious summer.",
+   "entities": [
+    "Ciri",
+    "White Frost",
+    "Dandelion"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 99
+  },
+  {
+   "text": "Before the final confrontation, Eredin led an assault on Kaer Morhen alongside his second-in-command Imlerith and the riders of the Wild Hunt in an attempt to capture Ciri.",
+   "entities": [
+    "Eredin",
+    "Imlerith",
+    "Kaer Morhen",
+    "Wild Hunt",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The defenders of Kaer Morhen only managed to repel Eredin's assault through a stroke of miraculous luck.",
+   "entities": [
+    "Eredin",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The narrator, Dandelion, leaves several questions unanswered at the end of his tale, including the fates of Ciri, Geralt of Rivia, Yennefer, and Zoltan Chivay.",
+   "entities": [
+    "Dandelion",
+    "Ciri",
+    "Geralt of Rivia",
+    "Yennefer",
+    "Zoltan Chivay"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dandelion compares a good tale to a feast that should end while the audience is neither thirsty nor drunk, paraphrasing a philosopher.",
+   "entities": [
+    "Dandelion"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

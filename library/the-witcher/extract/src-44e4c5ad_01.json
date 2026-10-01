@@ -1,0 +1,907 @@
+{
+ "entities": [
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt",
+    "White Wolf"
+   ]
+  },
+  {
+   "name": "Ciri",
+   "kind": "character",
+   "aliases": [
+    "Siri",
+    "Cirilla",
+    "the lion cub of Cintra"
+   ]
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Yennefer"
+   ]
+  },
+  {
+   "name": "Law of Surprise",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Cintra",
+   "kind": "location",
+   "aliases": [
+    "Cra"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": [
+    "K Moran",
+    "Care"
+   ]
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": [
+    "Vzameir"
+   ]
+  },
+  {
+   "name": "Eskel",
+   "kind": "character",
+   "aliases": [
+    "Escll"
+   ]
+  },
+  {
+   "name": "Lambert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rivia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Rivian Pogrom",
+   "kind": "history",
+   "aliases": [
+    "Rivian Prom"
+   ]
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Eredin",
+   "kind": "character",
+   "aliases": [
+    "Erodin",
+    "Eridan"
+   ]
+  },
+  {
+   "name": "Avallon",
+   "kind": "location",
+   "aliases": [
+    "Isle of Avallon",
+    "aisle of Malus",
+    "aisle of Marus"
+   ]
+  },
+  {
+   "name": "Letho of Gulet",
+   "kind": "character",
+   "aliases": [
+    "Letha of Gullet"
+   ]
+  },
+  {
+   "name": "School of the Viper",
+   "kind": "faction",
+   "aliases": [
+    "Viper school"
+   ]
+  },
+  {
+   "name": "King Demavend",
+   "kind": "character",
+   "aliases": [
+    "Demovven"
+   ]
+  },
+  {
+   "name": "King Foltest",
+   "kind": "character",
+   "aliases": [
+    "King Fest"
+   ]
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Loc Muinne",
+   "kind": "location",
+   "aliases": [
+    "Loen"
+   ]
+  },
+  {
+   "name": "Radovid the Stern",
+   "kind": "character",
+   "aliases": [
+    "Radvid"
+   ]
+  },
+  {
+   "name": "Philippa Eilhart",
+   "kind": "character",
+   "aliases": [
+    "Philipperhart"
+   ]
+  },
+  {
+   "name": "Sile de Tansarville",
+   "kind": "character",
+   "aliases": [
+    "Seal Dansville"
+   ]
+  },
+  {
+   "name": "Third Northern War",
+   "kind": "history",
+   "aliases": [
+    "Third War"
+   ]
+  },
+  {
+   "name": "White Orchard",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Velen",
+   "kind": "location",
+   "aliases": [
+    "Velon"
+   ]
+  },
+  {
+   "name": "Novigrad",
+   "kind": "location",
+   "aliases": [
+    "Novagrad"
+   ]
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Skeleiger",
+    "Skeleiga"
+   ]
+  },
+  {
+   "name": "Philip Strenger",
+   "kind": "character",
+   "aliases": [
+    "Bloody Baron",
+    "Philip Stranger"
+   ]
+  },
+  {
+   "name": "Crones of Crookback Bog",
+   "kind": "enemy",
+   "aliases": [
+    "Brewess",
+    "Weavess",
+    "Whispess",
+    "Bruis, Weeus, Wispus"
+   ]
+  },
+  {
+   "name": "Botchling",
+   "kind": "enemy",
+   "aliases": [
+    "Lubokin"
+   ]
+  },
+  {
+   "name": "Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "Emir",
+    "the White Flame",
+    "him var race"
+   ]
+  },
+  {
+   "name": "Vizima",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nilfgard",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgardian Empire"
+   ]
+  },
+  {
+   "name": "Jurgen",
+   "kind": "character",
+   "aliases": [
+    "Jurgger"
+   ]
+  },
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": [
+    "knights of the order of the flaming rose"
+   ]
+  },
+  {
+   "name": "Kaer Morhen Wolf School",
+   "kind": "faction",
+   "aliases": [
+    "Wolf School"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Geralt's invocation of the Law of Surprise at the feast in Cintra unknowingly bound his fate to the unborn Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Law of Surprise",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "As a Witcher, Geralt is sterile due to his mutations, making the idea of having a child deeply ironic to him.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "For six years after the feast in Cintra, Geralt avoided returning to see Ciri, taking contracts in distant lands to escape the responsibility.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Law of Surprise is depicted as a supernatural contract that the universe enforces with absolute rigidity in the Witcher world.",
+   "entities": [
+    "Law of Surprise"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ciri carries the Elder Blood, a genetic trait tied to prophecy and immense magical power.",
+   "entities": [
+    "Ciri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt's survival of the experimental mutations at Kaer Morhen is linked to his destined role as Ciri's protector.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Following the fall of Cintra, Ciri became a war refugee wandering the northern kingdoms alone.",
+   "entities": [
+    "Ciri",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Geralt and Ciri were reunited in Sodden after Geralt saved a merchant named Jurgen from monsters and invoked the Law of Surprise again.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Jurgen",
+    "Law of Surprise"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Jurgen's wife had taken in an orphaned war refugee who turned out to be Ciri, leading to her reunion with Geralt.",
+   "entities": [
+    "Ciri",
+    "Jurgen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "After reuniting with Ciri, Geralt chose to accept his role as her father, abandoning his belief that he was incapable of love.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Geralt decided to take Ciri to Kaer Morhen, the mountain fortress of the Wolf School, believing it was the safest place for her.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Bringing Ciri to Kaer Morhen broke Witcher tradition, since the fortress had only ever housed Witcher recruits and trainers.",
+   "entities": [
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "During the journey to Kaer Morhen, Geralt trained Ciri in survival skills such as hiding her trail, sleeping outdoors, and reading forest signs.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "At Kaer Morhen, Ciri was cared for by Geralt's fellow Witchers Vesemir, Eskel, and Lambert, who acted as father figures and uncles to her.",
+   "entities": [
+    "Ciri",
+    "Vesemir",
+    "Eskel",
+    "Lambert",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "Geralt personally supervised Ciri's Witcher training in swordplay and combat techniques at Kaer Morhen.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "The winter Geralt and Ciri spent at Kaer Morhen became a formative period of peace that solidified their father-daughter bond.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 27
+  },
+  {
+   "text": "The Rivian Pogrom occurred in the year 1268, when a tavern argument in Rivia escalated into a genocidal riot against non-humans.",
+   "entities": [
+    "Rivian Pogrom",
+    "Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Geralt was killed during the Rivian Pogrom when a terrified young man named Rob stabbed him with a pitchfork while he defended his dwarven and elven friends.",
+   "entities": [
+    "Geralt of Rivia",
+    "Rivian Pogrom",
+    "Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Yennefer arrived after Geralt's death in Rivia and exhausted her own life force trying to heal him, collapsing over his body.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Geralt of Rivia",
+    "Rivian Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Ciri used her Elder Blood power to transport the bodies of Geralt and Yennefer to the mystical isle of Avallon, a place outside of time, to heal them.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Avallon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "While Geralt and Yennefer were in limbo on Avallon, the Wild Hunt, led by Eredin, tracked Ciri's magical resonance to the island.",
+   "entities": [
+    "Wild Hunt",
+    "Eredin",
+    "Avallon",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "The Wild Hunt captured Yennefer on Avallon, intending to use her as bait to lure Ciri out of hiding.",
+   "entities": [
+    "Wild Hunt",
+    "Yennefer of Vengerberg",
+    "Ciri",
+    "Avallon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Geralt traded his own soul to the Wild Hunt in exchange for Yennefer's freedom.",
+   "entities": [
+    "Geralt of Rivia",
+    "Wild Hunt",
+    "Yennefer of Vengerberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Geralt spent roughly a year serving as one of the spectral red riders of the Wild Hunt, an experience that stripped away his identity and memory.",
+   "entities": [
+    "Geralt of Rivia",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Geralt was eventually found near Kaer Morhen with total amnesia, remembering nothing of his past, loves, or daughter.",
+   "entities": [
+    "Geralt of Rivia",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Geralt's amnesia after the Wild Hunt ordeal serves as the foundational mystery driving the events of the first Witcher game.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 34
+  },
+  {
+   "text": "Despite losing his memories, Geralt retained his combat skills and ability to cast Witcher Signs.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Letho of Gulet is a member of the largely extinct School of the Viper, known for combining brute strength with a sharp tactical mind.",
+   "entities": [
+    "Letho of Gulet",
+    "School of the Viper"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Letho of Gulet made a bargain with the Emperor of Nilfgard to destabilize the northern kingdoms in exchange for restoring the Viper school.",
+   "entities": [
+    "Letho of Gulet",
+    "Nilfgard",
+    "School of the Viper"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Years before the games, Geralt saved Letho of Gulet's life from a manticore, creating a bond of debt and respect between them.",
+   "entities": [
+    "Geralt of Rivia",
+    "Letho of Gulet"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "While Geralt served the Wild Hunt, Letho of Gulet and two other Viper witchers protected the amnesiac Yennefer within Nilfgardian territory.",
+   "entities": [
+    "Letho of Gulet",
+    "Yennefer of Vengerberg",
+    "Nilfgard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Letho of Gulet, acting on orders from the White Flame, assassinated King Demavend of Aedirn and King Foltest of Temeria to destabilize the north.",
+   "entities": [
+    "Letho of Gulet",
+    "King Demavend",
+    "King Foltest",
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "Letho of Gulet used the Lodge of Sorceresses as a scapegoat to cover his role in the regicides.",
+   "entities": [
+    "Letho of Gulet",
+    "Lodge of Sorceresses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "At the end of the second Witcher game, Geralt confronts Letho of Gulet, who calmly explains his motives without asking for forgiveness.",
+   "entities": [
+    "Geralt of Rivia",
+    "Letho of Gulet"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "The player can choose whether to kill or spare Letho of Gulet after learning of his role in the regicides.",
+   "entities": [
+    "Letho of Gulet",
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "The summit at Loc Muinne was held in the ruins of an ancient elven city to address the regicides and reestablish the Conclave of Mages.",
+   "entities": [
+    "Loc Muinne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "The summit at Loc Muinne collapsed into violence when the Lodge of Sorceresses' plot to create a puppet state in the Pontar Valley, ruled by a dragon in human form, was exposed.",
+   "entities": [
+    "Loc Muinne",
+    "Lodge of Sorceresses",
+    "Philippa Eilhart",
+    "Sile de Tansarville"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "Philippa Eilhart and Sile de Tansarville were sorceresses who conspired to manipulate the political landscape at Loc Muinne.",
+   "entities": [
+    "Philippa Eilhart",
+    "Sile de Tansarville",
+    "Loc Muinne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "At Loc Muinne, Geralt fully recovered his lost memories, including the events of Avallon, the Rivian Pogrom, and his bargain with Eredin.",
+   "entities": [
+    "Geralt of Rivia",
+    "Loc Muinne",
+    "Avallon",
+    "Rivian Pogrom",
+    "Eredin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "After recovering his memories at Loc Muinne, Geralt learned that Yennefer was alive and held captive in Nilfgard, and that Ciri had returned to the world.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Ciri",
+    "Nilfgard",
+    "Loc Muinne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The collapse of the Loc Muinne summit triggered the start of the Third Northern War.",
+   "entities": [
+    "Loc Muinne",
+    "Third Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Radovid the Stern emerged as the harshest northern leader, persecuting anyone associated with magic under the guise of protecting the realm.",
+   "entities": [
+    "Radovid the Stern"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "At the start of the Third Witcher game, Geralt arrives in White Orchard, a village devastated by the Third Northern War and Nilfgardian occupation.",
+   "entities": [
+    "Geralt of Rivia",
+    "White Orchard",
+    "Third Northern War",
+    "Nilfgard"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "In White Orchard, Geralt is accompanied by his mentor Vesemir while searching for leads on Yennefer and Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Vesemir",
+    "White Orchard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "To gain information from the Nilfgardian commander in White Orchard, Geralt was forced to kill a griffin threatening supply lines.",
+   "entities": [
+    "Geralt of Rivia",
+    "White Orchard",
+    "Nilfgard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "White Orchard exposes Geralt to the cold, bureaucratic style of Nilfgardian occupation compared to the chaotic cruelty of northern lords.",
+   "entities": [
+    "White Orchard",
+    "Nilfgard"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 45
+  },
+  {
+   "text": "Geralt's search for Ciri in The Witcher 3 leads him through three major regions: Velen, Novigrad, and Skellige.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Velen",
+    "Novigrad",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "In Velen, Geralt found evidence that Ciri had been a refugee fleeing something more dangerous than the Nilfgardian army.",
+   "entities": [
+    "Ciri",
+    "Velen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "In Novigrad, Geralt tracked Ciri's movements through the criminal underworld and religious authorities, finding she had matured into a resourceful, powerful woman.",
+   "entities": [
+    "Ciri",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "In Skellige, Geralt found evidence of a magical explosion and battle linked to Ciri's flight from the Wild Hunt.",
+   "entities": [
+    "Ciri",
+    "Skellige",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Geralt met with Emperor Emhyr var Emreis, the White Flame, in occupied Vizima, who hired him to find Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Emhyr var Emreis",
+    "Vizima",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Emhyr var Emreis wanted Ciri found in order to secure an heir carrying the Elder Blood to strengthen Nilfgardian dynastic rule.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Ciri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Geralt accepted Emhyr var Emreis's commission for pragmatic reasons, using imperial resources to find Ciri while intending to protect her autonomy.",
+   "entities": [
+    "Geralt of Rivia",
+    "Emhyr var Emreis",
+    "Ciri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Yennefer allied herself with the Nilfgardian Empire's intelligence network to help locate Ciri.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Nilfgard",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "In Velen, Geralt encountered Philip Strenger, known as the Bloody Baron, who offered information on Ciri in exchange for help finding his missing wife and daughter.",
+   "entities": [
+    "Philip Strenger",
+    "Velen",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Crones of Crookback Bog, named Brewess, Weavess, and Whispess, are ancient malevolent entities who once hosted Ciri and later tried to consume her for her blood's power.",
+   "entities": [
+    "Crones of Crookback Bog",
+    "Ciri"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "The Crones of Crookback Bog demanded blood and obedience from local peasants in exchange for protection.",
+   "entities": [
+    "Crones of Crookback Bog"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt performed a ritual on the Botchling, the cursed spirit of the Bloody Baron's unborn child, choosing to either destroy it or transform it into a guardian spirit called a Lubokin.",
+   "entities": [
+    "Botchling",
+    "Philip Strenger",
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Bloody Baron's questline in Velen serves as a mirror for Geralt's own fears about fatherhood and failing to protect Ciri.",
+   "entities": [
+    "Philip Strenger",
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "After Velen, Geralt's search for Ciri continued in Novigrad, a city that had become gripped by religious paranoia and persecution under the Eternal Fire.",
+   "entities": [
+    "Novigrad",
+    "Ciri"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 51
+  }
+ ],
+ "_src": "src-44e4c5ad"
+}

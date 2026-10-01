@@ -1,0 +1,931 @@
+{
+ "entities": [
+  {
+   "name": "Striga",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Draconids",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Dragons",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Lesser Draconids",
+   "kind": "enemy",
+   "aliases": [
+    "Slyzards",
+    "Forktails",
+    "Wyverns"
+   ]
+  },
+  {
+   "name": "Golden Dragon",
+   "kind": "enemy",
+   "aliases": [
+    "draconis aurum nobilis"
+   ]
+  },
+  {
+   "name": "Villentretenmerth",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "King Niedamir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Arachas",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Endrega",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Koshchey",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Ferengal",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cosimo Malaspina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Alzur",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Golem",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Genie",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Nekker",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Troll",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Leshen",
+   "kind": "enemy",
+   "aliases": [
+    "Forest One",
+    "Wood One",
+    "Kerun",
+    "Kernos"
+   ]
+  },
+  {
+   "name": "Fiend",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Chort",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "White Wolf",
+    "Butcher of Blaviken"
+   ]
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Renfri",
+   "kind": "character",
+   "aliases": [
+    "Shrike"
+   ]
+  },
+  {
+   "name": "Blaviken",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Caldemeyn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Yennefer",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Calanthe",
+   "kind": "character",
+   "aliases": [
+    "Lioness of Cintra"
+   ]
+  },
+  {
+   "name": "Pavetta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Duny",
+   "kind": "character",
+   "aliases": [
+    "Urcheon of Erlenwald"
+   ]
+  },
+  {
+   "name": "Cintra",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Vengerberg",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Rinde",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Klamat Pass",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Woefield",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Eist Tuirseach",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "A striga is created when a cursed person who was buried dies but their curse survives, causing them to rise years later as a monster.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A striga is small, thickset, and hunched, but supernaturally fast, agile, and strong, making it dangerous even to experienced fighters.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Strigas usually hunt at night and become more aggressive during a full moon, though some attack during daytime.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Strigas feed on the flesh and blood of humans and animals, preferring internal organs like the liver and heart for sustenance during lethargic periods.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The curse can be lifted from a striga by waiting at its burial site through the night until the third crowing of a rooster catches it outside its coffin, returning it to human form.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Draconids form a large order including true dragons, of which at least half a dozen species exist, and lesser draconids.",
+   "entities": [
+    "Draconids"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Conflicts between draconids and humans increased as human settlements expanded into draconid territory.",
+   "entities": [
+    "Draconids"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lesser draconids include slyzards, forktails, and wyverns, which share scaly skin, bony plate armor, bat wings, and reptilian features with true dragons.",
+   "entities": [
+    "Lesser Draconids"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lesser draconids have atrophied forelegs, with wyverns and forktails having none at all, but possess long flexible necks for fast striking attacks.",
+   "entities": [
+    "Lesser Draconids"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "True dragons are larger than lesser draconids, with two pairs of well-developed legs, huge wings and tails, and greater intelligence and cunning.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dragons universally love to collect gold, gemstones, and treasure, a trait reflected in countless legends.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Most dragon hunts are motivated by greed for treasure rather than genuine desire to eliminate a threat or gain fame.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dragon subspecies are classified by color: rock, green, red, black, white, and golden dragons.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rock dragons are the smallest dragon subspecies and have been hunted to near extinction.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Black dragons are the largest dragon breed, actually a very dark brown color despite their name.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "White dragons live in the far North and are known only from tales of a few explorers who describe their scales as light gray or light blue.",
+   "entities": [
+    "Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The golden dragon, draconis aurum nobilis, is a semimythical creature said to have telepathic communication and shapeshifting abilities, including the power to take human form.",
+   "entities": [
+    "Golden Dragon"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A golden dragon named Villentretenmerth confronted King Niedamir of Caingorn and his dragon hunters near Woefield, forcing them to retreat.",
+   "entities": [
+    "Villentretenmerth",
+    "King Niedamir",
+    "Woefield"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The confrontation involving Villentretenmerth was confirmed by multiple eyewitnesses, including two sorcerers and a witcher.",
+   "entities": [
+    "Villentretenmerth"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The arachas is an insectoid predator originally native to the far South that has spread north over a few decades, adapting to colder climates by hibernating in mud or forest beds.",
+   "entities": [
+    "Arachas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The arachas has a chitinous carapace covering its trunk and limbs, with a vulnerable abdomen it protects using shells or hollow logs as makeshift armor.",
+   "entities": [
+    "Arachas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The arachas ambushes prey by launching a long tendril from its maw to pull victims toward itself, and some subspecies use mimicry to surprise victims.",
+   "entities": [
+    "Arachas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Endregas are insectoids that live in colonies divided into castes, including workers who tend cocoons and larvae, and warriors who defend the nest and hunt.",
+   "entities": [
+    "Endrega"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Endregas are highly territorial and will attack any creature that approaches their nests, and growing colonies can threaten nearby human settlements.",
+   "entities": [
+    "Endrega"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The koshchey is an artificially created monster resulting from magical experiments, resembling a giant chitinous arachnid several meters long with powerful spiked pincers.",
+   "entities": [
+    "Koshchey"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A koshchey is created by magically stimulating the growth of a regular uropygid until it reaches enormous size, retaining the strength-to-size ratio of a normal arachnid.",
+   "entities": [
+    "Koshchey"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Only two cases of creating a koshchey have ever been recorded, credited to sorcerers Cosimo Malaspina and his apprentice Alzur.",
+   "entities": [
+    "Koshchey",
+    "Cosimo Malaspina",
+    "Alzur"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The renegade druid Ferengal created a koshchey to help his band of robbers ambush merchant caravans crossing Klamat Pass, halting trade on that route.",
+   "entities": [
+    "Ferengal",
+    "Koshchey",
+    "Klamat Pass"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Golems are magical constructs made by sorcerers from stone, clay, or wood to perform designated tasks such as carrying loads or fighting.",
+   "entities": [
+    "Golem"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A golem is typically animated by a magical stone called a golem heart placed in its chest.",
+   "entities": [
+    "Golem"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Golems have no will of their own and can only follow their creator's simple instructions, but they compensate with supernatural resilience and strength.",
+   "entities": [
+    "Golem"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Golems used as guardians may continue their duties even after their creator's death.",
+   "entities": [
+    "Golem"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Genies are commonly misnamed lesser elemental creatures summoned from one of four elemental planes (earth, fire, water, air), while true genies are beings of nearly unstoppable power.",
+   "entities": [
+    "Genie"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lesser elemental servant creatures, though weaker than true genies, are still mortally dangerous and can be defeated only by highly skilled individuals.",
+   "entities": [
+    "Genie"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In a folktale, the sorceress Yennefer tried to ensnare a genie in a magical net in the Redanian city of Rinde to use it against local officials who had criticized her lifestyle.",
+   "entities": [
+    "Yennefer",
+    "Rinde"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The genie Yennefer tried to control escaped her spells and destroyed a dozen buildings in Rinde before a witcher named Gerhard used a secret exorcism to banish it.",
+   "entities": [
+    "Yennefer",
+    "Rinde"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nekkers are small, misshapen creatures that live in colonies in dark woods, damp gullies, and shadowy dales, connected by underground tunnels.",
+   "entities": [
+    "Nekker"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nekkers communicate through screeches, grunts, and moans that some scholars theorize may be a primitive language.",
+   "entities": [
+    "Nekker"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nekkers hunt in packs, ambushing prey from underground tunnels and mobbing cornered victims, though they often hesitate before attacking due to low individual courage.",
+   "entities": [
+    "Nekker"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Larger, more aggressive nekkers called nekker warriors are identifiable by colorful clay smeared on their snouts and often lead groups of smaller nekkers.",
+   "entities": [
+    "Nekker"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trolls are huge, strong, but not very intelligent creatures that are surprisingly skilled at carpentry and stonemasonry, building resilient structures like bridges.",
+   "entities": [
+    "Troll"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trolls often live near bridges and demand tolls of provisions, livestock, or horses from travelers, sometimes eating travelers who have nothing to offer.",
+   "entities": [
+    "Troll"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some intelligent trolls make deals with nearby villages, maintaining bridges and even protecting peasants from bandits or predators in exchange for goods.",
+   "entities": [
+    "Troll"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trolls have largely abandoned man-eating habits over time and are now considered a primitive intelligent race rather than true monsters.",
+   "entities": [
+    "Troll"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder mountain trolls sometimes still attack travelers and harass villages, especially in early spring when winter food stores run low.",
+   "entities": [
+    "Troll"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Relicts are creatures that predate the arrival of men, elves, dwarves, and gnomes into the world, and are often too rare or unique to fit standard taxonomy.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "The leshen, also called the Forest One or Wood One, is a shapeshifter inhabiting ancient forests, able to take forms from a bark-skinned old man to a horned deer-skulled beast or various forest animals.",
+   "entities": [
+    "Leshen"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A leshen can command the forest and its creatures to aid it in battle, making it highly dangerous and earning it the title of lord of the forest.",
+   "entities": [
+    "Leshen"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In some regions, leshens are worshipped as nature deities under the names Kerun or Kernos, with communities sacrificing small game or birds to them.",
+   "entities": [
+    "Leshen"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leshens are highly territorial, often treating armed intruders such as bandits or hunters as threats to be driven off or eliminated.",
+   "entities": [
+    "Leshen"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fiends and chorts are large beasts with bulging fur-covered torsos, goat-like hind legs, and antlers (fiends) or curved ram-like horns (chorts).",
+   "entities": [
+    "Fiend",
+    "Chort"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fiends rarely leave their deep forest lairs, but when they do, their size and aggression cause catastrophic damage to nearby regions.",
+   "entities": [
+    "Fiend"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt of Rivia was already a famous folk hero known as the White Wolf before his later deeds affected the fates of kingdoms.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Geralt of Rivia was infamously known as the Butcher of Blaviken for killing several people in broad daylight in that town.",
+   "entities": [
+    "Geralt of Rivia",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Geralt of Rivia first met Dandelion at a fete in Gulet, in the Kingdom of Aedirn, and the two became close friends who traveled together.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Geralt of Rivia and Dandelion's first adventure together involved a contract to deal with a devil in the Valley of the Flowers near the Blue Mountains, which turned out to be a sylvan (nicknamed a 'deovel').",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Rather than killing the sylvan, Geralt of Rivia tried to drive it off peacefully, showing he was not indiscriminately violent.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "During the sylvan encounter, elven guerrillas surrounded Geralt of Rivia and Dandelion, and Geralt's first instinct was to negotiate for Dandelion's safety before his own.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "According to Caldemeyn, ealdorman of Blaviken, seven armed people came to Blaviken including mercenaries Tavik, Nohorn, Fifteen, twins Vyr and Nimir, half-elf bandit Civril, and Renfri (called Shrike).",
+   "entities": [
+    "Caldemeyn",
+    "Blaviken",
+    "Renfri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Renfri, known as Shrike for her habit of impaling victims, led a gang seeking vengeance against a mage she believed had wronged her.",
+   "entities": [
+    "Renfri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Renfri threatened Blaviken with a 'Tridam Ultimatum,' referencing an earlier massacre where her band had killed pilgrims one by one until demands were met.",
+   "entities": [
+    "Renfri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Geralt of Rivia attacked Renfri's group before they could harm anyone, resulting in a bloodbath in the Blaviken town square that killed seven people.",
+   "entities": [
+    "Geralt of Rivia",
+    "Renfri",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Geralt of Rivia and Dandelion once fished a magic amphora containing an imprisoned genie out of a river; when freed, the genie attacked Dandelion's throat instead of granting wishes.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Seeking help for Dandelion's throat injury, Geralt of Rivia traveled to Rinde and met the sorceress Yennefer for the first time.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer",
+    "Rinde"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Yennefer initially treated Geralt of Rivia as a useful tool, flirting with him while planning to use him to help capture a genie for her own power.",
+   "entities": [
+    "Yennefer",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Yennefer cast a spell on Geralt of Rivia that put him into a trance, causing him to publicly flog several people before fainting and being jailed.",
+   "entities": [
+    "Yennefer",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "During the chaos in Rinde, the genie destroyed a quarter of the city before Geralt of Rivia used one of his wishes to win Yennefer's heart and save the city.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer",
+    "Rinde"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "One year into their relationship, Geralt of Rivia left Yennefer's home in Vengerberg without warning, leaving only a letter and a bouquet of violets.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer",
+    "Vengerberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Yennefer was so enraged by Geralt of Rivia's abrupt departure that she refused to hear his name mentioned for four years afterward.",
+   "entities": [
+    "Yennefer",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "During his separation from Yennefer, Geralt of Rivia traveled to the Kingdom of Cintra on a contract that would become the most important of his life.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Geralt of Rivia was summoned to Cintra by Queen Calanthe, who feared disruption at her daughter Pavetta's birthday feast.",
+   "entities": [
+    "Geralt of Rivia",
+    "Calanthe",
+    "Pavetta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "At Pavetta's feast, a monster called the Urcheon of Erlenwald, with the body of an armored knight and the head of a giant hedgehog, invoked the Law of Surprise to claim the right to marry Pavetta.",
+   "entities": [
+    "Pavetta",
+    "Duny"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Geralt of Rivia suspected the Urcheon of Erlenwald was a cursed man rather than a true monster and prevented it from being killed.",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Urcheon of Erlenwald was revealed to be a southern duke named Duny, and Queen Calanthe eventually agreed to let him marry Pavetta, lifting his curse.",
+   "entities": [
+    "Duny",
+    "Pavetta",
+    "Calanthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Grateful Duny offered Geralt of Rivia anything he desired, and Geralt invoked the Law of Surprise in return, entangling him in fate.",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Calanthe was known to islanders as the Lioness of Cintra, and her death along with Duny and Pavetta's was mourned as a family tragedy by the people of the Skellige Isles.",
+   "entities": [
+    "Calanthe",
+    "Duny",
+    "Pavetta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Calanthe's second husband was Eist Tuirseach, a man from the Skellige Isles.",
+   "entities": [
+    "Calanthe",
+    "Eist Tuirseach"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 26
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

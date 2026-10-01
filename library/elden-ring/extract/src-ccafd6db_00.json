@@ -1,0 +1,2353 @@
+{
+ "entities": [
+  {
+   "name": "Elden Ring",
+   "kind": "concept",
+   "aliases": [
+    "the Ring"
+   ]
+  },
+  {
+   "name": "Lands Between",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Queen Marika",
+   "kind": "character",
+   "aliases": [
+    "Marika the Eternal",
+    "God-Queen",
+    "Eternal Queen"
+   ]
+  },
+  {
+   "name": "Godwyn the Golden",
+   "kind": "character",
+   "aliases": [
+    "Godwyn"
+   ]
+  },
+  {
+   "name": "The Shattering",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "General Radahn",
+   "kind": "character",
+   "aliases": [
+    "Radahn"
+   ]
+  },
+  {
+   "name": "Malenia the Severed",
+   "kind": "character",
+   "aliases": [
+    "Malenia"
+   ]
+  },
+  {
+   "name": "Great Runes",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Erdtree",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Tarnished",
+   "kind": "character",
+   "aliases": [
+    "player character"
+   ]
+  },
+  {
+   "name": "Elden Lord",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Melina",
+   "kind": "character",
+   "aliases": [
+    "Finger Maiden"
+   ]
+  },
+  {
+   "name": "Blade of Calling",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Frenzied Flame",
+   "kind": "faction",
+   "aliases": [
+    "Flame of Frenzy"
+   ]
+  },
+  {
+   "name": "White Mask Varre",
+   "kind": "character",
+   "aliases": [
+    "Varre"
+   ]
+  },
+  {
+   "name": "Mohg, Lord of Blood",
+   "kind": "character",
+   "aliases": [
+    "Mohg"
+   ]
+  },
+  {
+   "name": "Mohgwyn Dynasty",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Bloody Finger Hunter Yura",
+   "kind": "character",
+   "aliases": [
+    "Yura"
+   ]
+  },
+  {
+   "name": "Eleonora, Violet Bloody Finger",
+   "kind": "character",
+   "aliases": [
+    "Eleonora"
+   ]
+  },
+  {
+   "name": "Sorcerer Rogier",
+   "kind": "character",
+   "aliases": [
+    "Rogier"
+   ]
+  },
+  {
+   "name": "D, Hunter of the Dead",
+   "kind": "character",
+   "aliases": [
+    "D"
+   ]
+  },
+  {
+   "name": "Night of the Black Knives",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Those Who Live in Death",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Fia",
+   "kind": "character",
+   "aliases": [
+    "Fia, Deathbed Companion"
+   ]
+  },
+  {
+   "name": "Lionel the Lionhearted",
+   "kind": "character",
+   "aliases": [
+    "Lionel"
+   ]
+  },
+  {
+   "name": "Ranni the Witch",
+   "kind": "character",
+   "aliases": [
+    "Ranni"
+   ]
+  },
+  {
+   "name": "Cursemark of Death",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Mending Rune of the Death-Prince",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "D, Beholder of Death",
+   "kind": "character",
+   "aliases": [
+    "Devin"
+   ]
+  },
+  {
+   "name": "Gurranq, Beast Clergyman",
+   "kind": "character",
+   "aliases": [
+    "Gurranq"
+   ]
+  },
+  {
+   "name": "Maliketh, the Black Blade",
+   "kind": "character",
+   "aliases": [
+    "Maliketh"
+   ]
+  },
+  {
+   "name": "Rune of Death",
+   "kind": "item",
+   "aliases": [
+    "Destined Death"
+   ]
+  },
+  {
+   "name": "Roderika",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Smithing Master Hewg",
+   "kind": "character",
+   "aliases": [
+    "Hewg"
+   ]
+  },
+  {
+   "name": "Roundtable Hold",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nepheli Loux",
+   "kind": "character",
+   "aliases": [
+    "Nepheli"
+   ]
+  },
+  {
+   "name": "Sir Gideon Ofnir",
+   "kind": "character",
+   "aliases": [
+    "Gideon"
+   ]
+  },
+  {
+   "name": "Village of the Albinaurics",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kenneth Haight",
+   "kind": "character",
+   "aliases": [
+    "Kenneth"
+   ]
+  },
+  {
+   "name": "Godrick",
+   "kind": "character",
+   "aliases": [
+    "Godrick the Grafted"
+   ]
+  },
+  {
+   "name": "Gatekeeper Gostoc",
+   "kind": "character",
+   "aliases": [
+    "Gostoc"
+   ]
+  },
+  {
+   "name": "Stormveil Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Boc the Seamster",
+   "kind": "character",
+   "aliases": [
+    "Boc"
+   ]
+  },
+  {
+   "name": "Brother Corhyn",
+   "kind": "character",
+   "aliases": [
+    "Corhyn"
+   ]
+  },
+  {
+   "name": "Goldmask",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Mending Rune of Perfect Order",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Radagon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Gowry",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Millicent",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Order of Rot",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Unalloyed Golden Needle",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Irina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Edgar",
+   "kind": "character",
+   "aliases": [
+    "Commander Edgar"
+   ]
+  },
+  {
+   "name": "Castle Morne",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Grafted Blade Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Hyetta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Shabriri Grape",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Three Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Shabriri",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Howl of Shabriri",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Rennala",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ranni's Dark Moon",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Renna, the Snow Witch",
+   "kind": "character",
+   "aliases": [
+    "Snow Witch"
+   ]
+  },
+  {
+   "name": "Blaidd",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Royal Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Adula the Glintstone Dragon",
+   "kind": "character",
+   "aliases": [
+    "Adula"
+   ]
+  },
+  {
+   "name": "War Counselor Iji",
+   "kind": "character",
+   "aliases": [
+    "Iji"
+   ]
+  },
+  {
+   "name": "Preceptor Seluvis",
+   "kind": "character",
+   "aliases": [
+    "Seluvis"
+   ]
+  },
+  {
+   "name": "Pidia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Merchant Kale",
+   "kind": "character",
+   "aliases": [
+    "Kale"
+   ]
+  },
+  {
+   "name": "Great Caravan",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Witch-Hunter Jerren",
+   "kind": "character",
+   "aliases": [
+    "Jerren"
+   ]
+  },
+  {
+   "name": "Sorceress Sellen",
+   "kind": "character",
+   "aliases": [
+    "Sellen",
+    "Graven Witch Sellen"
+   ]
+  },
+  {
+   "name": "Master Lusat",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Master Azur",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Raya Lucaria Academy",
+   "kind": "location",
+   "aliases": [
+    "Academy of Raya Lucaria"
+   ]
+  },
+  {
+   "name": "Thops",
+   "kind": "character",
+   "aliases": [
+    "Thops the Bluntstone"
+   ]
+  },
+  {
+   "name": "Thops's Barrier",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Miriel, Pastor of Vows",
+   "kind": "character",
+   "aliases": [
+    "Miriel"
+   ]
+  },
+  {
+   "name": "Church of Vows",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Albus",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Haligtree Secret Medallion",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Miquella's Haligtree",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Latenna",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lobo",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Phillia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ensha of the Royal Remains",
+   "kind": "character",
+   "aliases": [
+    "Ensha"
+   ]
+  },
+  {
+   "name": "Soulless King",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Tanith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lord Rykard",
+   "kind": "character",
+   "aliases": [
+    "Rykard"
+   ]
+  },
+  {
+   "name": "Rya",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Limgrave",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Caelid",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Liurnia of the Lakes",
+   "kind": "location",
+   "aliases": [
+    "Liurnia"
+   ]
+  },
+  {
+   "name": "Altus Plateau",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mt. Gelmir",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mountaintops of the Giants",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Hoarah Loux",
+   "kind": "character",
+   "aliases": [
+    "Godfrey"
+   ]
+  },
+  {
+   "name": "Divine Tower of Liurnia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Deeproot Depths",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Shattering was a devastating war between the demigod children of Queen Marika the Eternal.",
+   "entities": [
+    "The Shattering",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "On a night of wintry fog, a group of unknown assassins struck across the Lands Between, killing many of Queen Marika's kin.",
+   "entities": [
+    "Queen Marika",
+    "Lands Between"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "The most devastating loss to Queen Marika from the coordinated assassinations was the death of Godwyn the Golden.",
+   "entities": [
+    "Queen Marika",
+    "Godwyn the Golden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "After Godwyn the Golden's death, the Elden Ring was shattered, breaking the order of the world.",
+   "entities": [
+    "Godwyn the Golden",
+    "Elden Ring"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "The shattering of the Elden Ring caused open war among Marika's children, breaking the empire into fragments.",
+   "entities": [
+    "Elden Ring",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "No single faction in the Shattering could achieve decisive victory even when empowered by a Great Rune.",
+   "entities": [
+    "The Shattering",
+    "Great Runes"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "The battle between General Radahn and Malenia the Severed demonstrated that neither could conquer all the lands united by Marika.",
+   "entities": [
+    "General Radahn",
+    "Malenia the Severed",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "After the clash between General Radahn and Malenia the Severed, the Lands Between settled into an unresolved stalemate rather than open war.",
+   "entities": [
+    "General Radahn",
+    "Malenia the Severed",
+    "Lands Between"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "The mythology of Elden Ring was created by George R. R. Martin, while the narrative and worldbuilding were developed by Hidetaka Miyazaki and FromSoftware.",
+   "entities": [
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Rune of Death (also called Destined Death) was stolen on the night the demigods began to fall, starting with Godwyn the Golden.",
+   "entities": [
+    "Rune of Death",
+    "Godwyn the Golden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "General Radahn is described as 'the conqueror of the stars' and Malenia the Severed as 'the Blade of Miquella'.",
+   "entities": [
+    "General Radahn",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The battle between General Radahn and Malenia the Severed had no victor.",
+   "entities": [
+    "General Radahn",
+    "Malenia the Severed"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The Lands Between is ruled by Queen Marika the Eternal, and the Elden Ring is the source of the Erdtree.",
+   "entities": [
+    "Lands Between",
+    "Queen Marika",
+    "Elden Ring",
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Marika's demigod offspring claimed shards of the shattered Elden Ring called Great Runes, and the corrupting power of these runes triggered the war known as the Shattering.",
+   "entities": [
+    "Queen Marika",
+    "Great Runes",
+    "The Shattering"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "The Shattering meant abandonment of the Lands Between by the Greater Will.",
+   "entities": [
+    "The Shattering",
+    "Greater Will"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Tarnished were once blessed with grace but lost it and were exiled from the Lands Between; they are now called back by the guidance of grace to seek the Elden Lordship.",
+   "entities": [
+    "Tarnished",
+    "Elden Lord"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Demigods are described as warped Lords who began as members of a royal and noble family, ruling their domains with power granted by shards of the Elden Ring.",
+   "entities": [
+    "Elden Ring"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Those blessed by the Elden Ring and Erdtree are marked by a golden aura visible in their eyes.",
+   "entities": [
+    "Elden Ring",
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Those who lost their grace were exiled and labeled the Tarnished.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Lands Between is divided into seven distinct areas: Limgrave, Caelid, Liurnia of the Lakes, Altus Plateau, Mt. Gelmir, Mountaintops of the Giants, and underground river locations.",
+   "entities": [
+    "Lands Between",
+    "Limgrave",
+    "Caelid",
+    "Liurnia of the Lakes",
+    "Altus Plateau",
+    "Mt. Gelmir",
+    "Mountaintops of the Giants"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Each of the seven areas of the Lands Between is overseen by a Demigod.",
+   "entities": [
+    "Lands Between"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina does not have a physical form and serves as the Tarnished's Finger Maiden in exchange for being taken to the Erdtree and later the Mountaintops of the Giants.",
+   "entities": [
+    "Melina",
+    "Erdtree",
+    "Mountaintops of the Giants",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina seeks a purpose given to her by her mother, whom she believes can be found at the base of the Erdtree, leading to speculation that her mother is Marika.",
+   "entities": [
+    "Melina",
+    "Queen Marika",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "When summoned, Melina wields the Blade of Calling, a dagger previously owned by a kindling maiden.",
+   "entities": [
+    "Melina",
+    "Blade of Calling"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina can recall echoes of Queen Marika's past actions and words when spoken to at Sites of Grace.",
+   "entities": [
+    "Melina",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina holds contempt for the Frenzied Flame and believes its lord is no true Lord.",
+   "entities": [
+    "Melina",
+    "Frenzied Flame"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the Tarnished takes the Frenzied Flame before the event at the Forge of the Giants, Melina will leave and threaten to deliver Destined Death.",
+   "entities": [
+    "Melina",
+    "Frenzied Flame",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The White Masks at Mohgwyn Palace were abducted by Mohg, Lord of Blood, and turned into Bloody Fingers through a ritual involving his Omen blood.",
+   "entities": [
+    "Mohg, Lord of Blood"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Of the four White Masks encountered, only Varre was able to withstand and tame the accursed blood.",
+   "entities": [
+    "White Mask Varre"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "White Mask Varre remains loyal to the Mohgwyn Dynasty and tries to indoctrinate the Tarnished into it.",
+   "entities": [
+    "White Mask Varre",
+    "Mohgwyn Dynasty",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the end of his questline, White Mask Varre, forsaken by Mohg, still calls out to him and blesses the Mohgwyn Dynasty as he dies.",
+   "entities": [
+    "White Mask Varre",
+    "Mohg, Lord of Blood",
+    "Mohgwyn Dynasty"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloody Finger Hunter Yura is a samurai from the Land of Reeds who hunts down Bloody Fingers.",
+   "entities": [
+    "Bloody Finger Hunter Yura"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yura's biggest target is Eleonora, Violet Bloody Finger, a Tarnished he holds in high regard.",
+   "entities": [
+    "Bloody Finger Hunter Yura",
+    "Eleonora, Violet Bloody Finger"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yura warns that those who partake in Dragon Communion eventually lose their humanity.",
+   "entities": [
+    "Bloody Finger Hunter Yura"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some Bloody Fingers encountered by the Tarnished have been swayed by Mohg, the Lord of Blood.",
+   "entities": [
+    "Mohg, Lord of Blood",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerer Rogier was once a scholar seeking the truth behind the Night of the Black Knives.",
+   "entities": [
+    "Sorcerer Rogier",
+    "Night of the Black Knives"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rogier's scholarly pursuits led him under Stormveil Castle, where he disturbed a corpse and became afflicted with Death.",
+   "entities": [
+    "Sorcerer Rogier",
+    "Stormveil Castle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike D, who sees Those Who Live in Death as a threat to the Golden Order, Rogier is empathetic toward them.",
+   "entities": [
+    "Sorcerer Rogier",
+    "D, Hunter of the Dead",
+    "Those Who Live in Death",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Finishing Rogier's quest reveals insights about the Night of the Black Knives before he succumbs to his affliction.",
+   "entities": [
+    "Sorcerer Rogier",
+    "Night of the Black Knives"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia is a Tarnished Deathbed Companion driven from her home when awoken by the guidance of grace.",
+   "entities": [
+    "Fia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A Deathbed Companion receives warmth and life from champions and then lies with the remains of an exalted noble to revive them, a practice revered in Fia's homeland.",
+   "entities": [
+    "Fia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia is empathetic toward Those Who Live in Death and considers herself their guardian.",
+   "entities": [
+    "Fia",
+    "Those Who Live in Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia's champions include Rogier and Lionel the Lionhearted, a knight who claims to be her father.",
+   "entities": [
+    "Fia",
+    "Sorcerer Rogier",
+    "Lionel the Lionhearted"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "By combining Ranni's half of the Cursemark of Death from the Divine Tower of Liurnia with Godwyn's half from D, Fia implies Godwyn could be reborn as the Mending Rune of the Death-Prince through her role as his Deathbed Companion.",
+   "entities": [
+    "Fia",
+    "Ranni the Witch",
+    "Cursemark of Death",
+    "Divine Tower of Liurnia",
+    "D, Hunter of the Dead",
+    "Godwyn the Golden",
+    "Mending Rune of the Death-Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D, Hunter of the Dead is a devout follower of the Golden Order who hunts Those Who Live in Death, especially Tibia Mariners for their Deathroot.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "Golden Order",
+    "Those Who Live in Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D has a twin brother whose name is implied to be Darian.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "D, Beholder of Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D and his twin brother share the same soul and body, and cannot be conscious at the same time despite having separate bodies and minds.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "D, Beholder of Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D and his twin found comfort in the Golden Order, which was the one order that did not consider them cursed.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "D, Beholder of Death",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D states that Those Who Live in Death violate the principles of the Golden Order and must be exterminated.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "Those Who Live in Death",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D's twin brother is inferred to be named Devin based on D's voicelines.",
+   "entities": [
+    "D, Beholder of Death"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "D, Beholder of Death can be found slumbering in Siofra Aqueduct while D is alive, and grieving there if D is dead.",
+   "entities": [
+    "D, Beholder of Death",
+    "D, Hunter of the Dead"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D's twin brother swears revenge on his brother's killer, whether it be Fia or the Tarnished, when given his brother's armor.",
+   "entities": [
+    "D, Beholder of Death",
+    "Fia",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gurranq, Beast Clergyman is a large beastman who hungers for Deathroot.",
+   "entities": [
+    "Gurranq, Beast Clergyman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "D was previously in charge of hunting and providing Deathroot to Gurranq before the Tarnished took over.",
+   "entities": [
+    "D, Hunter of the Dead",
+    "Gurranq, Beast Clergyman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is heavily implied that the Beast Clergyman found in Crumbling Farum Azula is Gurranq himself, and that Gurranq is Maliketh, the Black Blade.",
+   "entities": [
+    "Gurranq, Beast Clergyman",
+    "Maliketh, the Black Blade"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Maliketh is Marika's Shadow, bestowed on her by the Greater Will as an Empyrean, similar to how Blaidd is Ranni's Shadow.",
+   "entities": [
+    "Maliketh, the Black Blade",
+    "Queen Marika",
+    "Greater Will",
+    "Blaidd",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to the Stone of Gurranq, Maliketh was a ferocious warrior whose name meant 'Death of the Demigods'.",
+   "entities": [
+    "Maliketh, the Black Blade"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Marika ordered Maliketh to lock away the Rune of Death, also called Destined Death.",
+   "entities": [
+    "Queen Marika",
+    "Maliketh, the Black Blade",
+    "Rune of Death"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "A fragment of the Rune of Death was stolen and used in the Night of the Black Knives, leading to the death of the first demigod, Godwyn the Golden.",
+   "entities": [
+    "Rune of Death",
+    "Night of the Black Knives",
+    "Godwyn the Golden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "To prevent the Rune of Death from being stolen again, Maliketh bound his sword, imbued with the rune, within his own body and changed his name.",
+   "entities": [
+    "Maliketh, the Black Blade",
+    "Rune of Death"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "Maliketh's Remembrance implies he was betrayed by Marika, though the details are unknown.",
+   "entities": [
+    "Maliketh, the Black Blade",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Roderika is a Tarnished driven away from her home across the sea, and her cloak implies she was once royalty.",
+   "entities": [
+    "Roderika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Roderika met White Mask Varre, who gave her the same advice he gives the Tarnished: to seek Godrick and his Great Rune at Stormveil Castle.",
+   "entities": [
+    "Roderika",
+    "White Mask Varre",
+    "Godrick",
+    "Stormveil Castle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The men escorting Roderika at Stormhill were taken and sacrificed for grafting, leaving her guilt-ridden for being too afraid to join them.",
+   "entities": [
+    "Roderika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Roderika moves to the Roundtable Hold and is trained by Smithing Master Hewg to become a skillful spirit tuner.",
+   "entities": [
+    "Roderika",
+    "Smithing Master Hewg",
+    "Roundtable Hold"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Roderika stays behind with Hewg even as the Roundtable Hold burns, to repay his kindness.",
+   "entities": [
+    "Roderika",
+    "Smithing Master Hewg",
+    "Roundtable Hold"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Smithing Master Hewg is a misbegotten chained and imprisoned at the Roundtable Hold, tasked by Queen Marika with forging a weapon strong enough to kill a god.",
+   "entities": [
+    "Smithing Master Hewg",
+    "Roundtable Hold",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hewg believes the Tarnished will become Elden Lord, and states so before losing his memory completely.",
+   "entities": [
+    "Smithing Master Hewg",
+    "Tarnished",
+    "Elden Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nepheli Loux is the adoptive daughter of Sir Gideon Ofnir, who took her in when she became Tarnished after losing grace.",
+   "entities": [
+    "Nepheli Loux",
+    "Sir Gideon Ofnir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nepheli Loux loses faith in Sir Gideon Ofnir after learning he orchestrated the attack on the Village of the Albinaurics.",
+   "entities": [
+    "Nepheli Loux",
+    "Sir Gideon Ofnir",
+    "Village of the Albinaurics"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is speculated that Nepheli Loux has ties to Godfrey, the first Elden Lord, based on sharing the surname Loux with Hoarah Loux and Kenneth Haight deeming her worthy to lead Limgrave.",
+   "entities": [
+    "Nepheli Loux",
+    "Hoarah Loux",
+    "Kenneth Haight",
+    "Limgrave"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Kenneth Haight is a member of Erdtree royalty and self-proclaimed rightful leader of Limgrave, owner of Fort Haight.",
+   "entities": [
+    "Kenneth Haight",
+    "Limgrave"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kenneth Haight looks down on Godrick for his cowardly actions during the Shattering and for lacking proper lineage to rule.",
+   "entities": [
+    "Kenneth Haight",
+    "Godrick",
+    "The Shattering"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After retaking Fort Haight, Kenneth Haight seeks an eligible candidate to rule Limgrave and eventually finds Nepheli Loux.",
+   "entities": [
+    "Kenneth Haight",
+    "Nepheli Loux",
+    "Limgrave"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gatekeeper Gostoc is the gatekeeper of Stormveil Castle who nonetheless informs the Tarnished of a safer side passage.",
+   "entities": [
+    "Gatekeeper Gostoc",
+    "Stormveil Castle",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gostoc secretly follows and steals a portion of the Tarnished's Golden Runes each time they are defeated in the castle.",
+   "entities": [
+    "Gatekeeper Gostoc",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gostoc holds contempt for Godrick, having been mistreated by him, and longs for freedom from his duties.",
+   "entities": [
+    "Gatekeeper Gostoc",
+    "Godrick"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Nepheli Loux takes the throne, Gostoc is happy to return to his duties.",
+   "entities": [
+    "Gatekeeper Gostoc",
+    "Nepheli Loux"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Boc the Seamster is a demi-human outcast who admires his late mother, a skilled seamstress.",
+   "entities": [
+    "Boc the Seamster"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Boc was expelled from the Coastal Cave and had his possessions stolen by other demi-humans.",
+   "entities": [
+    "Boc the Seamster"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Tarnished helps Boc reclaim his Sewing Needle and Tailoring Tools, he offers to tailor their armor.",
+   "entities": [
+    "Boc the Seamster",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tarnished can help Boc by giving him a Larval Tear to change his appearance or by telling him he is beautiful, and he is grateful either way.",
+   "entities": [
+    "Boc the Seamster",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brother Corhyn is a cleric of the Golden Order whose armor implies he once foretold an inauspicious prophecy.",
+   "entities": [
+    "Brother Corhyn",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Corhyn leaves the Roundtable Hold in search of Goldmask, a scholar of Golden Order fundamentalism.",
+   "entities": [
+    "Brother Corhyn",
+    "Goldmask",
+    "Roundtable Hold"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Corhyn acts as Goldmask's scribe, translating his finger movements into written records.",
+   "entities": [
+    "Brother Corhyn",
+    "Goldmask"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Corhyn begins to question Goldmask's intentions after learning of his reservations toward the Golden Order.",
+   "entities": [
+    "Brother Corhyn",
+    "Goldmask",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Goldmask is a famed scholar of Golden Order fundamentalism who does not speak, communicating instead through rhythmic hand and finger movements.",
+   "entities": [
+    "Goldmask",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Goldmask once lamented that hunters of Those Who Live in Death had become fanatics who hunted merely to have an evil to fight.",
+   "entities": [
+    "Goldmask",
+    "Those Who Live in Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Using the Mending Rune of Perfect Order, Goldmask concluded that the Golden Order's imperfections stemmed from the gods being as fickle as ordinary men.",
+   "entities": [
+    "Goldmask",
+    "Mending Rune of Perfect Order",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gowry is a Kindred of Rot disguised as an old sage and was Millicent's caretaker as a child.",
+   "entities": [
+    "Gowry",
+    "Millicent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Malenia's Scarlet Aeonia bloomed in Caelid during the Shattering, Gowry dedicated his services to her, believing she would found a new Order of Rot.",
+   "entities": [
+    "Gowry",
+    "Malenia the Severed",
+    "Caelid",
+    "The Shattering",
+    "Order of Rot"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Gowry found Millicent and presumably her sisters as babies in the swamp of Aeonia and raised them hoping they would become scarlet valkyries under Malenia.",
+   "entities": [
+    "Gowry",
+    "Millicent",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gowry saw the most potential in Millicent among the sisters to follow Malenia's path.",
+   "entities": [
+    "Gowry",
+    "Millicent",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the end of Millicent's quest, Gowry asks the Tarnished to help Millicent's sisters attack her, believing betrayal will trigger her to 'bloom'.",
+   "entities": [
+    "Gowry",
+    "Millicent",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Millicent is a daughter of Malenia, sharing her mother's red hair, missing arm from scarlet rot, and swordsmanship style.",
+   "entities": [
+    "Millicent",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Due to scarlet rot, Millicent does not remember her childhood with Gowry despite feeling familiarity at his shack.",
+   "entities": [
+    "Millicent",
+    "Gowry"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After being cured with the Unalloyed Golden Needle, Millicent seeks out Malenia to help her resist the scarlet rot.",
+   "entities": [
+    "Millicent",
+    "Unalloyed Golden Needle",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Millicent is ambushed by her sisters at Elphael before reaching Malenia.",
+   "entities": [
+    "Millicent",
+    "Malenia the Severed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If defended by the Tarnished, Millicent reveals she knows what Gowry hoped she would become, then removes the golden needle and succumbs to scarlet rot to remain herself.",
+   "entities": [
+    "Millicent",
+    "Gowry",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Irina is the blind daughter of Edgar, Commander of Castle Morne.",
+   "entities": [
+    "Irina",
+    "Edgar",
+    "Castle Morne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Irina escaped Castle Morne with her father's and attendants' help after the Misbegotten serving the castle rebelled.",
+   "entities": [
+    "Irina",
+    "Edgar",
+    "Castle Morne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Irina asks the Tarnished to deliver a letter persuading her father to leave the castle, but she is murdered before their reunion.",
+   "entities": [
+    "Irina",
+    "Edgar",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The large sword found by Irina's corpse implies an escaped Misbegotten from Castle Morne was her killer.",
+   "entities": [
+    "Irina",
+    "Castle Morne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Edgar, Commander of Castle Morne, was ordained by Godrick and stays to protect the castle's Grafted Blade Greatsword even as attendants flee the Misbegotten rebellion.",
+   "entities": [
+    "Edgar",
+    "Castle Morne",
+    "Godrick",
+    "Grafted Blade Greatsword"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After finding Irina's body, Edgar regrets failing to protect her and swears vengeance on her killers.",
+   "entities": [
+    "Edgar",
+    "Irina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Edgar can later be found as an invader at Revengers Shack, and the Shabriri Grape he drops suggests he succumbed to madness from Irina's death.",
+   "entities": [
+    "Edgar",
+    "Irina",
+    "Shabriri Grape"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Hyetta is a blind young woman who resembles Irina and can perceive light by consuming Shabriri Grapes.",
+   "entities": [
+    "Hyetta",
+    "Irina",
+    "Shabriri Grape"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hyetta is initially disgusted that Shabriri Grapes are human eyes but accepts it as necessary to become a finger maiden.",
+   "entities": [
+    "Hyetta",
+    "Shabriri Grape"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hyetta mentions other beings with trembling hands and emaciated fingers have also given her Shabriri Grapes.",
+   "entities": [
+    "Hyetta",
+    "Shabriri Grape"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Completing Hyetta's quest and helping her become a Finger Maiden reveals more information on the Three Fingers and the Frenzied Flame.",
+   "entities": [
+    "Hyetta",
+    "Three Fingers",
+    "Frenzied Flame"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Shabriri is a mysterious figure calling himself chaos incarnate, inhabiting the body of Yura, who he claims willingly gave it up.",
+   "entities": [
+    "Shabriri",
+    "Bloody Finger Hunter Yura"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When met at the Mountaintops of the Giants, Shabriri tries to persuade the Tarnished to become Lord of Frenzied Flame and shares information on the Frenzied Flame Proscription.",
+   "entities": [
+    "Shabriri",
+    "Mountaintops of the Giants",
+    "Frenzied Flame",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Shabriri was also the name of a man punished for slander by having his eyes gouged out, after which his eyes filled with the flame of frenzy.",
+   "entities": [
+    "Shabriri",
+    "Frenzied Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "According to the Howl of Shabriri, this was the first instance of the maddening sickness of frenzy in the Lands Between.",
+   "entities": [
+    "Shabriri",
+    "Howl of Shabriri",
+    "Frenzied Flame",
+    "Lands Between"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ranni the Witch is the daughter of Rennala and Radagon.",
+   "entities": [
+    "Ranni the Witch",
+    "Rennala",
+    "Radagon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni discovered her own full moon, Ranni's Dark Moon, and learned cold sorceries from the mysterious Snow Witch she encountered in the woods.",
+   "entities": [
+    "Ranni the Witch",
+    "Ranni's Dark Moon",
+    "Renna, the Snow Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni has held Blaidd and Iji dear since childhood.",
+   "entities": [
+    "Ranni the Witch",
+    "Blaidd",
+    "War Counselor Iji"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni defeated the Glintstone Dragon Adula, who then swore allegiance to her.",
+   "entities": [
+    "Ranni the Witch",
+    "Adula the Glintstone Dragon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Although not born a demigod, Ranni became eligible to be an Empyrean due to Radagon's unity with Marika.",
+   "entities": [
+    "Ranni the Witch",
+    "Radagon",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni rejected her fate of being controlled by the Two Fingers and masterminded the Night of the Black Knives, stealing the Rune of Death and imbuing it in the Black Knife Assassins' blades.",
+   "entities": [
+    "Ranni the Witch",
+    "Night of the Black Knives",
+    "Rune of Death"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "On the night of the assassination, Ranni's body died and her soul was transferred into a doll resembling her old teacher, the Snow Witch Renna.",
+   "entities": [
+    "Ranni the Witch",
+    "Renna, the Snow Witch",
+    "Night of the Black Knives"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "Blaidd is the half-wolven Shadow of Ranni, granted to her by the Two Fingers when she became an Empyrean.",
+   "entities": [
+    "Blaidd",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Blaidd's loyalty lies only with Ranni, whom he considers family, despite being an agent of the Two Fingers.",
+   "entities": [
+    "Blaidd",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Blaidd's sword, the Royal Greatsword, was imbued with cold magic as proof of his loyalty to Ranni.",
+   "entities": [
+    "Blaidd",
+    "Royal Greatsword",
+    "Ranni the Witch"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If an Empyrean defies the will of the Two Fingers, their Shadow is fated to go mad and oppose them.",
+   "entities": [
+    "Blaidd"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Even in madness, Blaidd continued to defy his fate and remain faithful to Ranni.",
+   "entities": [
+    "Blaidd",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "War Counselor Iji is the only friendly Troll the Tarnished encounters, serving as the Carian royal family's blacksmith.",
+   "entities": [
+    "War Counselor Iji",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to Jerren, the blades smithed by Iji were blunt but resistant to decay from scarlet rot.",
+   "entities": [
+    "War Counselor Iji",
+    "Witch-Hunter Jerren"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Iji also serves as Ranni's war counselor, providing guidance on the lost city of Nokron.",
+   "entities": [
+    "War Counselor Iji",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Iji has watched over Blaidd and Ranni since they were children.",
+   "entities": [
+    "War Counselor Iji",
+    "Blaidd",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Iji's Mirrorhelm implies he feared the consequences of his treachery against the Greater Will.",
+   "entities": [
+    "War Counselor Iji",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Preceptor Seluvis is a magic preceptor serving the Carian Royal family and currently aids Ranni in her search for the dark path.",
+   "entities": [
+    "Preceptor Seluvis",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Seluvis helped Sellen in some way when she was initially exiled from the academy, though Sellen does not seem fond of him.",
+   "entities": [
+    "Preceptor Seluvis",
+    "Sorceress Sellen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Seluvis reveals a scheme to betray Ranni and add her, a demigod, to his puppet collection.",
+   "entities": [
+    "Preceptor Seluvis",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is speculated that Seluvis and Pidia have a connection due to their shared affinity for puppets.",
+   "entities": [
+    "Preceptor Seluvis",
+    "Pidia"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Merchant Kale is one of the nomadic merchants the Tarnished can buy from, acquainted with Blaidd who calls him a busybody.",
+   "entities": [
+    "Merchant Kale",
+    "Blaidd",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kale's nomadic clan, the Great Caravan, was accused of heresy and buried alive underground, where they summoned the flame of frenzy.",
+   "entities": [
+    "Merchant Kale",
+    "Great Caravan",
+    "Frenzied Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Kale describes the nomadic clan as spiteful, suggesting their summoning of the frenzied flame was an act of spite.",
+   "entities": [
+    "Merchant Kale",
+    "Great Caravan",
+    "Frenzied Flame"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "In cut content, Kale would have discovered his people, the Great Caravan, were falsely accused of worshipping the Three Fingers and summoning the frenzied flame, filling him with spite toward the Greater Will and Golden Order.",
+   "entities": [
+    "Merchant Kale",
+    "Great Caravan",
+    "Three Fingers",
+    "Frenzied Flame",
+    "Greater Will",
+    "Golden Order"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witch-Hunter Jerren was originally a nomadic wanderer who became a guest of the Carian royal family, befriending Ranni, Iji, and Radahn.",
+   "entities": [
+    "Witch-Hunter Jerren",
+    "Ranni the Witch",
+    "War Counselor Iji",
+    "General Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jerren promised Ranni and Iji he would slay the Graven Witch Sellen, a longstanding enemy of the Carian family who had committed atrocities against fellow sorcerers.",
+   "entities": [
+    "Witch-Hunter Jerren",
+    "Ranni the Witch",
+    "War Counselor Iji",
+    "Sorceress Sellen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "General Radahn recruited Jerren into his army as a guest commander during the Shattering, before he could fulfill his promise to slay Sellen.",
+   "entities": [
+    "Witch-Hunter Jerren",
+    "General Radahn",
+    "The Shattering"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Jerren wields the Flamberge, a symbol of Redmane Castle, and heralds the beginning of the war festival when first met.",
+   "entities": [
+    "Witch-Hunter Jerren"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorceress Sellen was one of the most promising sorcerers in the history of Raya Lucaria Academy and had a unique glintstone crown.",
+   "entities": [
+    "Sorceress Sellen",
+    "Raya Lucaria Academy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sellen was exiled from Raya Lucaria Academy for her obsession with the forbidden primeval current.",
+   "entities": [
+    "Sorceress Sellen",
+    "Raya Lucaria Academy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Master Lusat and Master Azur were other primeval sorcerers banished from the Academy, and both had their minds broken by glimpsing the primeval current.",
+   "entities": [
+    "Master Lusat",
+    "Master Azur"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "According to Jerren, Sellen has killed many fellow sorcerers in her studies.",
+   "entities": [
+    "Sorceress Sellen",
+    "Witch-Hunter Jerren"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Graven-School Talisman notes that fashioning sorcerers' bodies into 'seeds of stars' is one method of pursuing the primeval current, suggesting the practice requires human sacrifice.",
+   "entities": [
+    "Sorceress Sellen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sellen was imprisoned in Witchbane Ruins by the Academy and the Carian Royal Family due to her forbidden pursuits.",
+   "entities": [
+    "Sorceress Sellen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tarnished can help Sellen transplant her primeval glintstone, essentially her soul, into another compatible body to free her.",
+   "entities": [
+    "Sorceress Sellen",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thops is a glintstone sorcerer from Raya Lucaria Academy nicknamed 'Thops the Bluntstone' for lacking talent for powerful sorceries.",
+   "entities": [
+    "Thops",
+    "Raya Lucaria Academy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If aided, Thops completes his lifelong project, creating Thops's Barrier, a defensive glintstone sorcery that deflects sorceries and incantations back at the caster.",
+   "entities": [
+    "Thops",
+    "Thops's Barrier"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miriel, Pastor of Vows is a large turtle and steward of the Church of Vows who teaches Absolution though he does not require it himself.",
+   "entities": [
+    "Miriel, Pastor of Vows",
+    "Church of Vows"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miriel is well-versed in the history of Rennala and Radagon's union and teaches the Tarnished sorceries and incantations.",
+   "entities": [
+    "Miriel, Pastor of Vows",
+    "Rennala",
+    "Radagon",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Corhyn, who deems non-Golden Order incantations heresy, Miriel is open-minded toward all sorcery and incantation scrolls given to him.",
+   "entities": [
+    "Miriel, Pastor of Vows",
+    "Brother Corhyn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Albus is a first-generation Albinauric; first-generation Albinaurics were created with defective legs that prevented walking, and when their legs fade, their life fades too.",
+   "entities": [
+    "Albus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tarnished finds Albus disguised as a pot to escape Gideon's subordinates attacking the Village of the Albinaurics.",
+   "entities": [
+    "Albus",
+    "Sir Gideon Ofnir",
+    "Village of the Albinaurics",
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Albus safeguards the right half of the Haligtree Secret Medallion, said to be key to reaching Miquella's Haligtree, the Albinaurics' promised land.",
+   "entities": [
+    "Albus",
+    "Haligtree Secret Medallion",
+    "Miquella's Haligtree"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Latenna is a first-generation Albinauric and wolf-riding archer.",
+   "entities": [
+    "Latenna"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Latenna was interrogated by an agent of Sir Gideon Ofnir (or possibly Gideon himself) about the second half of the Haligtree Secret Medallion, leading to the death of her wolf Lobo.",
+   "entities": [
+    "Latenna",
+    "Sir Gideon Ofnir",
+    "Haligtree Secret Medallion",
+    "Lobo"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If approached with the right half of the medallion, Latenna asks to be taken to Apostate Derelict in exchange for the location of the left half.",
+   "entities": [
+    "Latenna",
+    "Haligtree Secret Medallion"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At Apostate Derelict, Latenna transfers a birthing droplet to a large Albinauric named Phillia, related to creating life for the Albinaurics.",
+   "entities": [
+    "Latenna",
+    "Phillia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ensha of the Royal Remains is Sir Gideon Ofnir's silent right-hand man.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Sir Gideon Ofnir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ensha's armor set, the Royal Remains Set, and weapon, the Clinging Bone, suggest he is the reanimated remains of a king known as the Soulless King.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Soulless King"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is speculated that Ensha was tasked with finding both halves of the Haligtree Secret Medallion and attacks the Tarnished at Roundtable Hold to take the half they hold.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Haligtree Secret Medallion",
+    "Tarnished",
+    "Roundtable Hold"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Tanith is consort to Lord Rykard and adoptive mother of Rya.",
+   "entities": [
+    "Tanith",
+    "Lord Rykard",
+    "Rya"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tanith worked as a dancer in a foreign land until she caught Lord Rykard's eye and became his consort.",
+   "entities": [
+    "Tanith",
+    "Lord Rykard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ccafd6db"
+}

@@ -1,0 +1,389 @@
+{% extends "base.html" %}
+{% block title %}{{ p.run_id }} — LoreForge{% endblock %}
+{% block body_class %}cockpit-body{% endblock %}
+{% block shell %}
+
+<div id="toast-container" aria-live="polite"></div>
+
+<article class="cockpit" x-data='runPage("{{ p.run_id }}", {{ steps | tojson }})'>
+
+  <!-- Sidebar: run identity + step navigation -->
+  <aside class="cockpit-nav">
+    <div class="cockpit-nav-top">
+      <a href="/" class="brand"><strong>LORE<span>FORGE</span></strong></a>
+      <a href="/" class="cockpit-back">← Runs</a>
+    </div>
+
+    <div class="cockpit-run">
+      <h1 class="cockpit-run-title" data-fallback="{{ p.game }}" x-text="brief.game || $el.dataset.fallback">{{ p.game }}</h1>
+      <p class="cockpit-run-anime" x-text="brief.scope"></p>
+      <p class="cockpit-run-meta">
+        <code>{{ p.run_id }}</code>
+        <span class="run-fmt" x-text="brief.format"></span>
+        <span class="run-fmt" x-text="`${brief.target_minutes || 0} min`"></span>
+      </p>
+      <p class="cockpit-run-mood"><em x-text="`~${state.target_words || 0} words`"></em></p>
+    </div>
+
+    <div class="cockpit-progress">
+      <div class="cockpit-progress-track">
+        <div class="cockpit-progress-fill" :style="`width: ${steps.length ? (doneCount / steps.length * 100) : 0}%`"></div>
+      </div>
+      <span class="cockpit-progress-label"><strong x-text="doneCount"></strong> / <span x-text="steps.length"></span></span>
+    </div>
+
+    <nav class="nav-steps">
+      <button type="button" class="nav-step status-done" :class="openStep==='brief' ? 'is-active' : ''"
+              @click="openStep='brief'">
+        <span class="nav-step-num">00</span>
+        <span class="step-badge nav-step-badge">✎</span>
+        <span class="nav-step-label"><span class="nav-step-name">Brief</span></span>
+      </button>
+      <template x-for="(step, i) in steps" :key="step.id">
+        <button type="button" class="nav-step" :class="stepClass(step) + (openStep===step.id ? ' is-active' : '')"
+                @click="openStep=step.id">
+          <span class="nav-step-num" x-text="String(i + 1).padStart(2, '0')"></span>
+          <span class="step-badge nav-step-badge" x-text="badge(step.status)"></span>
+          <span class="nav-step-label">
+            <span class="nav-step-name" x-text="step.label.split(/[:(]/)[0].trim()" :title="step.label"></span>
+            <template x-if="step.status==='locked' && step.requires_hint">
+              <small class="nav-step-hint" x-text="step.requires_hint" :title="step.requires_hint"></small>
+            </template>
+          </span>
+        </button>
+      </template>
+    </nav>
+
+    <div class="cockpit-costs" x-show="Object.keys(state.project?.costs || {}).length">
+      <strong>Costs</strong>
+      <template x-for="[k, v] in Object.entries(state.project?.costs || {})" :key="k">
+        <div><span x-text="k"></span><span x-text="v"></span></div>
+      </template>
+    </div>
+  </aside>
+
+  <!-- Main working pane -->
+  <section class="cockpit-main">
+
+    <!-- BRIEF -->
+    <div class="pane" x-show="openStep==='brief'">
+      <header class="pane-head">
+        <span class="pane-num">00</span>
+        <h2>Brief</h2>
+        <span class="step-status" x-text="dirty ? 'unsaved' : 'saved'"></span>
+      </header>
+      <div class="step-body">
+        <p class="pane-lead">What this video is about. Saved automatically before any step runs.</p>
+        <div class="grid">
+          <label>Game <input x-model="brief.game" @input="dirty=true"></label>
+          <label>Channel
+            <select x-model="brief.channel_slug" @change="dirty=true">
+              {% for c in channels %}<option value="{{ c.slug }}">{{ c.name }}</option>{% endfor %}
+            </select>
+          </label>
+        </div>
+        <div class="grid">
+          <label>Format
+            <select x-model="brief.format" @change="dirty=true">
+              <option value="history">history</option><option value="facts">facts</option><option value="catalog">catalog</option>
+            </select>
+          </label>
+          <label>Target minutes <input type="number" min="105" x-model="brief.target_minutes" @input="dirty=true"></label>
+        </div>
+        <label>Scope <input x-model="brief.scope" @input="dirty=true"></label>
+        <label>Publisher <input x-model="brief.publisher" @input="dirty=true" placeholder="FromSoftware / Sony Interactive Entertainment"></label>
+        <label>Direction notes <textarea rows="3" x-model="brief.notes" @input="dirty=true"></textarea></label>
+        <button @click="saveBrief(true)" :disabled="!dirty">Save brief</button>
+      </div>
+    </div>
+
+    <!-- STEPS -->
+    <template x-for="(step, i) in steps" :key="step.id">
+      <div class="pane" x-show="openStep===step.id" :class="stepClass(step)">
+        <header class="pane-head">
+          <span class="pane-num" x-text="String(i + 1).padStart(2, '0')"></span>
+          <h2 x-text="step.label"></h2>
+          <span class="step-status" x-text="statusLabel(step.status)"></span>
+        </header>
+
+        <div class="step-body">
+          <p class="pane-lead" x-text="LEADS[step.id] || ''"></p>
+
+          <!-- RESEARCH: reference URLs + sources -->
+          <template x-if="step.id === 'research'">
+            <div>
+              <label>Reference video URLs <small class="muted">(one per line)</small>
+                <textarea rows="4" x-model="brief.reference_urls" @input="dirty=true" @change="saveBrief(false)"></textarea></label>
+              <label>Sources <small class="muted">(wiki pages, PDFs, notes)</small>
+                <input type="file" multiple @change="upload('sources', $event)"></label>
+              <div class="file-list">
+                <template x-for="f in state.sources || []" :key="f"><span class="chip" x-text="f.split(/[\\/]/).pop()"></span></template>
+                <small class="muted" x-show="!(state.sources || []).length">No sources yet.</small>
+              </div>
+            </div>
+          </template>
+
+          <!-- FOOTAGE: URLs + own captures -->
+          <template x-if="step.id === 'footage'">
+            <div>
+              <label>Footage URLs <small class="muted">(one per line)</small>
+                <textarea rows="4" x-model="brief.footage_urls" @input="dirty=true" @change="saveBrief(false)"></textarea></label>
+              <label>Own footage captures
+                <input type="file" multiple accept="video/*" @change="upload('footage', $event)"></label>
+              <div class="file-list">
+                <template x-for="f in state.footage || []" :key="f"><span class="chip" x-text="f.split(/[\\/]/).pop()"></span></template>
+                <small class="muted" x-show="!(state.footage || []).length">No footage yet.</small>
+              </div>
+            </div>
+          </template>
+
+          <!-- THUMBNAIL: style references, title override, variants -->
+          <template x-if="step.id === 'thumbnail'">
+            <div>
+              <label>Reference thumbnail <small class="muted">(recreated as closely as possible for this game on the next Run/Redo)</small>
+                <input type="file" multiple accept="image/*" @change="upload('thumbnail-refs', $event)"></label>
+              <div class="file-list">
+                <template x-for="f in state.thumbnail_refs || []" :key="f">
+                  <span class="chip">
+                    <a target="_blank" :href="`/runs/${runId}/files/thumbnail/refs/${f}`" x-text="f"></a>
+                    <a href="#" title="Remove" @click.prevent="removeRef(f)">✕</a>
+                  </span>
+                </template>
+                <small class="muted" x-show="!(state.thumbnail_refs || []).length">No reference: AI key art in the channel style, with the title and band drawn on top.</small>
+              </div>
+            </div>
+          </template>
+
+          <!-- Actions -->
+          <div class="pane-actions">
+            <button @click="run(step, false)" x-show="step.status !== 'done'"
+                    :disabled="['locked', 'running', 'todo'].includes(step.status)"
+                    :aria-busy="step.status === 'running'">Run</button>
+            <button class="secondary outline redo-btn" x-show="step.status === 'done' || step.status === 'error'"
+                    :class="step.status === 'error' ? 'retry-btn' : ''"
+                    :disabled="step.status === 'running'"
+                    @click="run(step, true)" x-text="step.status === 'error' ? 'Retry' : 'Redo'"></button>
+          </div>
+          <template x-if="step.status==='locked' && step.requires_hint">
+            <small class="muted locked-hint" x-text="step.requires_hint"></small>
+          </template>
+          <template x-if="step.status==='todo'">
+            <small class="muted locked-hint">Not implemented yet.</small>
+          </template>
+
+          <!-- Thumbnail preview + variants -->
+          <template x-if="step.id === 'thumbnail' && state.thumbnail">
+            <div class="pane-section">
+              <strong>Current thumbnail</strong>
+              <a class="thumb-link" target="_blank" :href="`/runs/${runId}/files/thumbnail/thumbnail.jpg?t=${stamp}`">
+                <img class="thumb" :src="`/runs/${runId}/files/thumbnail/thumbnail.jpg?t=${stamp}`" alt="Current thumbnail"></a>
+            </div>
+          </template>
+          <template x-if="step.id === 'thumbnail' && (state.thumbnail_variants || []).length">
+            <div class="pane-section">
+              <strong>Variants <small class="muted">(click one to make it the thumbnail, no new images)</small></strong>
+              <div class="variant-grid">
+                <template x-for="(v, n) in state.thumbnail_variants" :key="v">
+                  <button type="button" class="variant" :class="chosenArt === v ? 'is-chosen' : ''"
+                          :disabled="step.status === 'running'" @click="pickVariant(step, v)">
+                    <img :src="`/runs/${runId}/files/thumbnail/${v}?t=${stamp}`" :alt="v" loading="lazy">
+                    <span x-text="(v.startsWith('refthumb_') ? 'ref #' : 'art #') + v.match(/\d+/)[0]"></span>
+                  </button>
+                </template>
+              </div>
+            </div>
+          </template>
+
+          <!-- METADATA: ready to paste into YouTube Studio, in its field order -->
+          <template x-if="step.id === 'metadata' && state.metadata">
+            <div class="pane-section">
+              <strong>YouTube upload <small class="muted">(copy each field as is)</small></strong>
+              <template x-for="f in ytFields()" :key="f.label">
+                <div class="output-preview">
+                  <div class="yt-field-head">
+                    <strong x-text="f.label"></strong>
+                    <small class="muted" :class="f.text.length > f.max ? 'yt-over' : ''"
+                           x-text="`${f.text.length} / ${f.max}`"></small>
+                    <button class="secondary outline copy-btn" @click="copy(f.text, f.label)">Copy</button>
+                  </div>
+                  <pre class="output-text" :class="f.label === 'Description' ? 'yt-desc' : 'small'" x-text="f.text"></pre>
+                </div>
+              </template>
+              <div class="output-preview">
+                <div class="yt-field-head">
+                  <strong>Thumbnail</strong>
+                  <a class="secondary outline copy-btn" role="button" download
+                     :href="`/runs/${runId}/files/thumbnail/thumbnail.jpg?t=${stamp}`">Download</a>
+                </div>
+              </div>
+            </div>
+          </template>
+
+          <!-- Output files -->
+          <template x-if="(state.outputs?.[step.id] || []).length">
+            <div class="pane-section">
+              <strong>Output</strong>
+              <div class="file-list">
+                <template x-for="f in state.outputs[step.id]" :key="f">
+                  <a class="chip chip-ok" target="_blank" :href="`/runs/${runId}/files/${f}`" x-text="f"></a>
+                </template>
+              </div>
+            </div>
+          </template>
+        </div>
+      </div>
+    </template>
+  </section>
+
+  <!-- Docked console -->
+  <footer class="cockpit-console" :class="consoleOpen ? 'is-open' : 'is-collapsed'">
+    <header class="log-head" @click="consoleOpen = !consoleOpen">
+      <span class="log-dot" :class="anyRunning ? 'is-live' : ''"></span>
+      <strong>Console</strong>
+      <span class="log-count" x-show="logLines.length" x-text="logLines.length + ' lines'"></span>
+      <button class="secondary outline log-copy" @click.stop="copyLog()" :disabled="!logLines.length">Copy</button>
+      <button class="secondary outline log-copy" style="margin-left:0" @click.stop="logLines = []" :disabled="!logLines.length">Clear</button>
+      <span class="console-toggle" x-text="consoleOpen ? '▾' : '▴'"></span>
+    </header>
+    <pre class="log" x-ref="log" x-show="consoleOpen"><template x-for="(l, i) in logLines" :key="i"><span class="log-line" :class="logClass(l.text)"><span class="log-ts" x-text="l.ts"></span><span x-text="l.text + '\n'"></span></span></template></pre>
+  </footer>
+</article>
+
+<script>
+const LEADS = {
+  research: 'Builds the lore bible for the game from the sources and reference videos. Shared by every run of the same game.',
+  outline: 'Splits the video into sections sized to the target length.',
+  script: 'Writes the narration section by section; re-running only redoes sections whose input changed.',
+  narration: 'Voices the script (ElevenLabs voices, via J1 or direct).',
+  duration: 'Checks the narration length against the target.',
+  captions: 'Builds the SRT and the Premiere transcript from word timings.',
+  footage: 'Downloads the footage URLs and detects scenes across all videos.',
+  music: 'Builds a music bed matching the narration length.',
+  thumbnail: 'With a reference thumbnail: recreates it for this game, like CutForge. Without one: AI key art with the title and band drawn from the channel template.',
+  metadata: 'Title, description, tags and chapters from real timings.',
+  premiere: 'Exports the Premiere XML timeline.',
+};
+
+function runPage(runId, initialSteps) {
+  return {
+    runId, LEADS,
+    steps: initialSteps, state: {}, brief: {}, dirty: false,
+    openStep: null, consoleOpen: true, logLines: [],
+    chosenArt: null, stamp: Date.now(),
+
+    async init() {
+      const firstPending = this.steps.find(s => s.status === 'pending');
+      const linked = location.hash.slice(1);         // /runs/<id>#metadata opens that step
+      this.openStep = this.steps.some(s => s.id === linked) ? linked
+        : (firstPending ? firstPending.id : 'brief');
+      await this.refresh(true);
+      const es = new EventSource(`/api/runs/${runId}/events`);
+      es.addEventListener('log', e => {
+        this.pushLog(e.data);
+        if (this.logLines.length > 2000) this.logLines.splice(0, 500);
+        this.$nextTick(() => { const el = this.$refs.log; if (el) el.scrollTop = el.scrollHeight; });
+      });
+      es.addEventListener('done', () => { this.stamp = Date.now(); this.refresh(false); });
+      setInterval(() => this.refresh(false), 5000);
+    },
+
+    get doneCount() { return this.steps.filter(s => s.status === 'done').length; },
+    get anyRunning() { return this.steps.some(s => s.status === 'running'); },
+
+    async refresh(loadBrief) {
+      this.state = await (await fetch(`/api/runs/${runId}/state`)).json();
+      this.steps = this.state.steps;
+      if (loadBrief) {
+        const p = this.state.project;
+        this.brief = {game: p.game, format: p.format, target_minutes: p.target_minutes,
+          scope: p.scope, publisher: p.publisher, notes: p.notes, channel_slug: p.channel_slug,
+          reference_urls: p.reference_urls.join('\n'), footage_urls: p.footage_urls.join('\n')};
+      }
+    },
+
+    async saveBrief(notify) {
+      await fetch(`/api/runs/${runId}/brief`, {method: 'POST',
+        headers: {'Content-Type': 'application/json'}, body: JSON.stringify(this.brief)});
+      this.dirty = false;
+      if (notify) this.toast('Brief saved');
+      await this.refresh(false);
+    },
+
+    async run(step, force, extra) {
+      if (this.dirty) await this.saveBrief(false);
+      const body = {force, ...(extra || {})};
+      await fetch(`/api/runs/${runId}/steps/${step.id}`, {method: 'POST',
+        headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body)});
+      step.status = 'running';
+      setTimeout(() => this.refresh(false), 300);
+    },
+
+    pickVariant(step, name) {
+      this.chosenArt = name;
+      this.run(step, true, {pick: name});
+    },
+
+    async removeRef(name) {
+      await fetch(`/api/runs/${runId}/thumbnail-refs/${encodeURIComponent(name)}`, {method: 'DELETE'});
+      this.toast(`Removed ${name}`);
+      this.refresh(false);
+    },
+
+    async upload(kind, ev) {
+      const files = ev.target.files;
+      if (!files.length) return;
+      if (this.dirty) await this.saveBrief(false);
+      const fd = new FormData();
+      for (const f of files) fd.append('files', f);
+      const r = await fetch(`/api/runs/${runId}/upload/${kind}`, {method: 'POST', body: fd});
+      ev.target.value = '';
+      this.toast(r.ok ? `${files.length} file(s) uploaded ✓` : 'Upload failed');
+      this.refresh(false);
+    },
+
+    pushLog(text) {
+      const d = new Date();
+      const ts = [d.getHours(), d.getMinutes(), d.getSeconds()].map(n => String(n).padStart(2, '0')).join(':');
+      this.logLines.push({ts, text});
+    },
+
+    stepClass(step) { return 'status-' + step.status + (step.id === this.openStep ? ' is-open' : ''); },
+    badge(s) { return {done: '✓', running: '…', error: '✕', locked: '🔒', pending: '○', todo: '·'}[s] || '○'; },
+    statusLabel(s) { return {done: 'done', running: 'running', error: 'error', locked: 'locked', pending: 'ready', todo: 'soon'}[s] || s; },
+    logClass(line) {
+      if (/error|exception|traceback/i.test(line)) return 'log-error';
+      if (/\] done\.|✓|saved/i.test(line)) return 'log-ok';
+      if (/\] starting/.test(line)) return 'log-start';
+      return '';
+    },
+
+    // YouTube Studio fields, in its order, with its limits (tags: 500 chars incl. commas).
+    ytFields() {
+      const m = this.state.metadata;
+      return [
+        {label: 'Title', text: m.title, max: 100},
+        {label: 'Description', text: m.description, max: 5000},
+        {label: 'Tags', text: (m.tags || []).join(', '), max: 500},
+      ];
+    },
+    copy(text, label) {
+      navigator.clipboard.writeText(text).then(() => this.toast(`${label} copied`));
+    },
+
+    copyLog() {
+      const text = this.logLines.map(l => `[${l.ts}] ${l.text}`).join('\n');
+      navigator.clipboard.writeText(text).then(() => this.toast('Log copied'));
+    },
+    toast(msg) {
+      const el = document.getElementById('toast-container');
+      const t = document.createElement('div');
+      t.className = 'toast';
+      t.textContent = msg;
+      el.appendChild(t);
+      setTimeout(() => t.classList.add('toast-show'), 10);
+      setTimeout(() => { t.classList.remove('toast-show'); setTimeout(() => t.remove(), 300); }, 2500);
+    },
+  };
+}
+</script>
+{% endblock %}

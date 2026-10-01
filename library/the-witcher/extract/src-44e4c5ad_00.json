@@ -1,0 +1,713 @@
+{
+ "entities": [
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "White Wolf",
+    "Gwynbleidd",
+    "Butcher of Blaviken"
+   ]
+  },
+  {
+   "name": "Vizenna",
+   "kind": "character",
+   "aliases": [
+    "Visenna"
+   ]
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": [
+    "Vzameir"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": [
+    "K Mhan",
+    "K Moran"
+   ]
+  },
+  {
+   "name": "Wolf School",
+   "kind": "faction",
+   "aliases": [
+    "School of the Wolf"
+   ]
+  },
+  {
+   "name": "Trial of the Grasses",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Renfri",
+   "kind": "character",
+   "aliases": [
+    "Renfrey"
+   ]
+  },
+  {
+   "name": "Stregobor",
+   "kind": "character",
+   "aliases": [
+    "Stregabore",
+    "Stragabore"
+   ]
+  },
+  {
+   "name": "Blaviken",
+   "kind": "location",
+   "aliases": [
+    "Blavac",
+    "Blavakin"
+   ]
+  },
+  {
+   "name": "Witcher's Code",
+   "kind": "concept",
+   "aliases": [
+    "Witcher neutrality"
+   ]
+  },
+  {
+   "name": "Signs",
+   "kind": "concept",
+   "aliases": [
+    "Aard",
+    "Igni",
+    "Yrden",
+    "Quen",
+    "Axii"
+   ]
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": [
+    "Julian Alfred Pancratz"
+   ]
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Yennefer"
+   ]
+  },
+  {
+   "name": "Djinn",
+   "kind": "concept",
+   "aliases": [
+    "Jin",
+    "Jyn"
+   ]
+  },
+  {
+   "name": "Ciri",
+   "kind": "character",
+   "aliases": [
+    "Siri",
+    "Cirilla"
+   ]
+  },
+  {
+   "name": "Calanthe",
+   "kind": "character",
+   "aliases": [
+    "Kalanthy",
+    "Lioness of Cintra"
+   ]
+  },
+  {
+   "name": "Duny",
+   "kind": "character",
+   "aliases": [
+    "Urcheon of Erlenwald",
+    "Juny"
+   ]
+  },
+  {
+   "name": "Pavetta",
+   "kind": "character",
+   "aliases": [
+    "Paveta"
+   ]
+  },
+  {
+   "name": "Cintra",
+   "kind": "location",
+   "aliases": [
+    "Cra"
+   ]
+  },
+  {
+   "name": "Law of Surprise",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Queen Meve",
+   "kind": "character",
+   "aliases": [
+    "Me"
+   ]
+  },
+  {
+   "name": "Yaruga River",
+   "kind": "location",
+   "aliases": [
+    "Yuruga River"
+   ]
+  },
+  {
+   "name": "Nilfgaard",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgard"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Geralt of Rivia was born to Vizenna, a sorceress and druid who was a rare woman able to conceive despite practicing magic.",
+   "entities": [
+    "Geralt of Rivia",
+    "Vizenna"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Vizenna abandoned infant Geralt at the gates of Kaer Morhen, giving him to the witchers of the Wolf School.",
+   "entities": [
+    "Vizenna",
+    "Geralt of Rivia",
+    "Kaer Morhen",
+    "Wolf School"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Geralt grew up knowing his mother was alive, which fostered lasting cynicism toward mages and destiny.",
+   "entities": [
+    "Geralt of Rivia",
+    "Vizenna"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 2
+  },
+  {
+   "text": "Vesemir, the Wolf School's master at arms, became Geralt's primary father figure and mentor.",
+   "entities": [
+    "Vesemir",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Geralt's biological father is rumored in the lore to be a warrior named Corin, though this is never confirmed and Geralt does not dwell on it.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Geralt eventually met Vizenna as an adult, and the reunion was cold and distant rather than warm.",
+   "entities": [
+    "Geralt of Rivia",
+    "Vizenna"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Trial of the Grasses is a brutal alchemical process meant to mutate child recruits into witchers, killing most who undergo it.",
+   "entities": [
+    "Trial of the Grasses",
+    "Kaer Morhen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Only about three out of every ten children who undergo the Trial of the Grasses at Kaer Morhen survive to become witchers.",
+   "entities": [
+    "Trial of the Grasses",
+    "Kaer Morhen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Geralt survived the Trial of the Grasses with unusual resilience, leading the mages to subject him to additional experimental mutations.",
+   "entities": [
+    "Geralt of Rivia",
+    "Trial of the Grasses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The extra experimental mutations stripped all pigment from Geralt's body, turning his skin pale and his hair white.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Geralt's white hair and pale skin earned him the nickname Gwynbleidd, meaning White Wolf.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The additional mutations gave Geralt faster reflexes, superior night vision, and an extremely high resistance to toxins compared to standard witchers.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The mutations that created witchers also dampen emotional responses to help them face monsters without fear.",
+   "entities": [
+    "Geralt of Rivia",
+    "Trial of the Grasses"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher trainees were encouraged to adopt surnames so they would appear trustworthy to clients rather than seeming like nameless drifters.",
+   "entities": [
+    "Wolf School",
+    "Vesemir"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "As a young man, Geralt originally wanted to name himself Geralt Roger Eric du Haute-Bellegarde.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Vesemir mocked Geralt's elaborate chosen name and warned it would get him killed or mocked on the road.",
+   "entities": [
+    "Vesemir",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Geralt settled on the surname 'of Rivia' despite having no actual connection to the kingdom of Rivia.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Geralt practiced a Rivian accent to make his invented identity more convincing.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "During the second war with Nilfgaard, Geralt fought at a bridge over the Yaruga River to protect the forces of Queen Meve of Lyria and Rivia.",
+   "entities": [
+    "Geralt of Rivia",
+    "Nilfgaard",
+    "Yaruga River",
+    "Queen Meve"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Queen Meve knighted Geralt for his bravery at the Yaruga River battle, making his invented title 'of Rivia' officially legitimate.",
+   "entities": [
+    "Queen Meve",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "In Blaviken, Geralt was caught between the wizard Stregobor, who believed in a prophecy that girls born during an eclipse become monsters, and Renfri, a cursed princess turned bandit leader Stregobor had long hunted.",
+   "entities": [
+    "Geralt of Rivia",
+    "Stregobor",
+    "Renfri",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Renfri threatened to massacre the market crowd in Blaviken unless Stregobor was forced out of his tower.",
+   "entities": [
+    "Renfri",
+    "Stregobor",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Geralt killed Renfri and her gang in the Blaviken market to prevent a larger massacre of townsfolk.",
+   "entities": [
+    "Geralt of Rivia",
+    "Renfri",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The townsfolk of Blaviken did not know about Renfri's ultimatum and instead saw Geralt as a murderous freak, stoning him and driving him out.",
+   "entities": [
+    "Geralt of Rivia",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Blaviken massacre earned Geralt the lasting reputation and title 'Butcher of Blaviken.'",
+   "entities": [
+    "Geralt of Rivia",
+    "Blaviken"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Blaviken incident made Geralt more reluctant to interfere in human affairs and reinforced his reliance on the Witcher's code as an emotional shield.",
+   "entities": [
+    "Geralt of Rivia",
+    "Witcher's Code"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The Witcher's Code theoretically requires witchers to remain neutral in human wars, politics, and religious conflicts.",
+   "entities": [
+    "Witcher's Code"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher neutrality was originally meant to keep witcher schools from becoming political targets of kings or religious authorities.",
+   "entities": [
+    "Witcher's Code"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "There is no single official written code for witchers; the code is largely an informal professional convention.",
+   "entities": [
+    "Witcher's Code"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Geralt often quotes the line 'If I'm to choose between one evil and another, I'd rather not choose at all,' though he repeatedly fails to remain neutral.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt carries a steel sword for humans and mundane creatures and a silver sword for monsters born of the conjunction of the spheres.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt uses five basic combat Signs: Aard for telekinetic force, Igni for flame, Yrden for magical traps, Quen for a protective shield, and Axii for mind manipulation.",
+   "entities": [
+    "Geralt of Rivia",
+    "Signs"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher signs are a weaker form of magic compared to full sorceress spellcasting, but are effective combat tools.",
+   "entities": [
+    "Signs",
+    "Yennefer of Vengerberg"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt relies on a heightened sensory ability called Witcher's sense to track scents and hear hidden monsters.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers use alchemical oils on blades and decoctions in their blood to temporarily boost combat abilities, though these are highly toxic even to mutated witcher biology.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Under the effects of strong alchemical potions, a witcher's skin pales further, veins darken, and eyes turn black.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt met Dandelion (Julian Alfred Pancratz) at a talent contest in Goulette, where Geralt ended up protecting him from the brothers of a girl Dandelion had seduced.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Dandelion turned Geralt's grim exploits, including the Blaviken massacre, into romanticized ballads that built Geralt's public legend as the White Wolf.",
+   "entities": [
+    "Dandelion",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dandelion provides Geralt with social connections, gossip, and logistical help that Geralt would otherwise lack living on the road.",
+   "entities": [
+    "Dandelion",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dandelion gave Geralt a home base in the city of Novigrad.",
+   "entities": [
+    "Dandelion",
+    "Geralt of Rivia"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt and Yennefer of Vengerberg first met in the town of Rinde while Geralt sought a cure for a magical ailment afflicting Dandelion.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Yennefer was attempting to capture a djinn in Rinde to restore her fertility and increase her magical power.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Djinn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Geralt used his third and final wish granted by the djinn to magically bind his fate to Yennefer's, saving her from the creature's retaliation.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Djinn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The djinn-wish bond between Geralt and Yennefer is later revisited in The Witcher 3, where they attempt to use another djinn to determine if their love is genuine or magically compelled.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Djinn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Yennefer became a spiritual mother figure to Ciri, deepening her bond with Geralt as they both took on parental roles for her.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Ciri",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Geralt attended a feast in Cintra hosted by Queen Calanthe under the false identity 'Lord of Ravik' to observe political negotiations over Pavetta's marriage.",
+   "entities": [
+    "Geralt of Rivia",
+    "Calanthe",
+    "Pavetta",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "A knight named Duny, the Urcheon of Erlenwald, arrived at the Cintra feast and claimed Pavetta's hand through the Law of Surprise, having once saved King Roegner's life.",
+   "entities": [
+    "Duny",
+    "Pavetta",
+    "Law of Surprise",
+    "Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Queen Calanthe intended to have Duny killed to prevent the marriage, but Geralt intervened to protect him.",
+   "entities": [
+    "Calanthe",
+    "Duny",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Geralt used his Witcher signs to help break the curse that kept Duny in a beastial form, restoring his human shape.",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "When offered a reward, Geralt invoked the Law of Surprise on Duny as a joking gesture, claiming 'that which you already have but do not know.'",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny",
+    "Law of Surprise"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "At the moment Geralt invoked the Law of Surprise, Pavetta revealed she was already pregnant, meaning Geralt had unknowingly claimed the unborn Ciri as his destiny.",
+   "entities": [
+    "Geralt of Rivia",
+    "Pavetta",
+    "Ciri",
+    "Law of Surprise"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Geralt spent six years trying to avoid the responsibility of his claim on Ciri, taking distant contracts and refusing to return to Cintra.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Cintra"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Ciri is later revealed to carry the Elder Blood, and Geralt's survival and role are tied to his destined connection to her.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 30
+  }
+ ],
+ "_src": "src-44e4c5ad"
+}

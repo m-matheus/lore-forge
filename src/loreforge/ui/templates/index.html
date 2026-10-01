@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block content %}
+<section x-data="{ creating: false }">
+  <hgroup>
+    <h1>New video</h1>
+    <p>Create a lore run. Each step runs on its own, with live progress.</p>
+  </hgroup>
+
+  <form method="post" action="/runs" @submit="creating = true">
+    <div class="grid">
+      <label>Game
+        <input name="game" placeholder="Bloodborne" required>
+      </label>
+      <label>Channel
+        <select name="channel_slug">
+          {% for c in channels %}<option value="{{ c.slug }}">{{ c.name }}</option>{% endfor %}
+        </select>
+      </label>
+    </div>
+    <div class="grid">
+      <label>Format
+        <select name="format">
+          <option value="history">history: the entire lore</option>
+          <option value="facts">facts: N hours of facts</option>
+          <option value="catalog">catalog: every boss / weapon / ending</option>
+        </select>
+      </label>
+      <label>Target minutes
+        <input name="target_minutes" type="number" value="130" min="105" max="300">
+      </label>
+    </div>
+    <label>Scope
+      <input name="scope" value="the entire game">
+    </label>
+    <button type="submit" :aria-busy="creating" :disabled="creating">Create run</button>
+  </form>
+</section>
+
+<section>
+  <h2>Recent runs</h2>
+  {% if runs %}
+  <div class="runs-list">
+    {% for r in runs %}
+    {% set pct = (r.done * 100 // r.total) if r.total else 0 %}
+    {% set complete = r.total and r.done >= r.total %}
+    <div class="run-card">
+      <a href="/runs/{{ r.run_id }}" class="run-card-link">
+        <div class="run-ring{% if complete %} is-complete{% endif %}" style="--pct: {{ pct }}">
+          <span>{% if complete %}✓{% else %}{{ r.done }}/{{ r.total }}{% endif %}</span>
+        </div>
+        <div class="run-card-main">
+          <strong>{{ r.game }}</strong>
+          <span class="run-title">{{ r.run_id }}</span>
+        </div>
+      </a>
+      <div class="run-card-meta">
+        <span class="run-date">{{ r.minutes }} min</span>
+        <span class="run-fmt">{{ r.format }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div class="empty-state">
+    <span class="empty-icon">📜</span>
+    <p>No runs yet. Start with the form above ↑</p>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,1301 @@
+{
+ "entities": [
+  {
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": [
+    "Dawn Walker",
+    "Dawnwalker"
+   ]
+  },
+  {
+   "name": "Craig",
+   "kind": "character",
+   "aliases": [
+    "Marat"
+   ]
+  },
+  {
+   "name": "Sarah",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kinaz Brenis",
+   "kind": "character",
+   "aliases": [
+    "Keenaz",
+    "Brenis"
+   ]
+  },
+  {
+   "name": "Silas",
+   "kind": "character",
+   "aliases": [
+    "Silus"
+   ]
+  },
+  {
+   "name": "Mevasa",
+   "kind": "character",
+   "aliases": [
+    "Measer",
+    "Maser"
+   ]
+  },
+  {
+   "name": "Aurelius",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Svetana",
+   "kind": "character",
+   "aliases": [
+    "Vetlana"
+   ]
+  },
+  {
+   "name": "Catalin",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Scander",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Veil Sangora",
+   "kind": "location",
+   "aliases": [
+    "Sangora"
+   ]
+  },
+  {
+   "name": "Manumits",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Verkieri",
+   "kind": "faction",
+   "aliases": [
+    "Vrakier",
+    "Vraker",
+    "Viri",
+    "Vrakeri"
+   ]
+  },
+  {
+   "name": "Luca",
+   "kind": "character",
+   "aliases": [
+    "Lca",
+    "La"
+   ]
+  },
+  {
+   "name": "Alen",
+   "kind": "character",
+   "aliases": [
+    "Alene"
+   ]
+  },
+  {
+   "name": "Pieta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Esme",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hila",
+   "kind": "character",
+   "aliases": [
+    "Haley",
+    "Healey"
+   ]
+  },
+  {
+   "name": "Tonis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sanjani",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Tsarina",
+   "kind": "character",
+   "aliases": [
+    "Zarena",
+    "Zarina",
+    "Sarina"
+   ]
+  },
+  {
+   "name": "Baroness Zanthy",
+   "kind": "character",
+   "aliases": [
+    "Zanthy"
+   ]
+  },
+  {
+   "name": "Heraclea",
+   "kind": "character",
+   "aliases": [
+    "Haraciclea"
+   ]
+  },
+  {
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": [
+    "LRA",
+    "Lra",
+    "Lakra"
+   ]
+  },
+  {
+   "name": "Nish",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Isbrand",
+   "kind": "character",
+   "aliases": [
+    "Ebrand"
+   ]
+  },
+  {
+   "name": "Helvia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kalas",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Saint Mihi",
+   "kind": "character",
+   "aliases": [
+    "Mihi"
+   ]
+  },
+  {
+   "name": "Anahora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Uryashi",
+   "kind": "faction",
+   "aliases": [
+    "Yurash",
+    "Urash",
+    "Yurashi"
+   ]
+  },
+  {
+   "name": "Cobalts",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Wrongs",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Chonk",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Ambress",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Bakir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Wisps",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Gargoyles",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Svatra",
+   "kind": "location",
+   "aliases": [
+    "Zvatra",
+    "Zvart"
+   ]
+  },
+  {
+   "name": "Augusti",
+   "kind": "location",
+   "aliases": [
+    "Agasti"
+   ]
+  },
+  {
+   "name": "St. Teotim's church",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "St. Tobias's cemetery",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Golem",
+   "kind": "concept",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The gargoyle creatures are built around a clay vessel containing a human body with amputated limbs, baked as if in an oven.",
+   "entities": [
+    "Gargoyles"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "A manuscript in an unfamiliar language, marked with an occult symbol, was found rolled up inside a gargoyle's mouth.",
+   "entities": [
+    "Gargoyles",
+    "Cohen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "During a gargoyle attack, Sarah's spine was broken and she lost the ability to move her arms and legs.",
+   "entities": [
+    "Sarah",
+    "Gargoyles"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig killed Sarah with a dagger to spare her from being captured alive by Kinaz Brenis's forces.",
+   "entities": [
+    "Craig",
+    "Sarah",
+    "Kinaz Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig told Cohen that if Cohen were ever in Sarah's position, he should be killed rather than allowed to be taken alive by Brenis's forces.",
+   "entities": [
+    "Craig",
+    "Cohen",
+    "Kinaz Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig and Cohen sought out a rabbi named Mevasa, a scholar of ancient books and traditions, to translate the manuscript from the gargoyle's mouth.",
+   "entities": [
+    "Craig",
+    "Cohen",
+    "Mevasa"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Mevasa told Craig and Cohen that a man named Silas could translate the manuscript, but Silas has been dead for roughly 100 years.",
+   "entities": [
+    "Mevasa",
+    "Silas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Mevasa mentioned that a woman recently came to him asking about Silas, claiming to be conducting research for her master.",
+   "entities": [
+    "Mevasa",
+    "Svetana",
+    "Aurelius"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Silas had been a physician before turning to dark magic, reportedly learning to animate inanimate objects and drain life from living beings.",
+   "entities": [
+    "Silas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Silas studied and corrupted ancient teachings including the Cabala, combining sacred texts with unholy rituals.",
+   "entities": [
+    "Silas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The narrator theorizes that the gargoyles' construction, human bodies sealed in fired clay, is inspired by the concept of golems from Jewish folklore.",
+   "entities": [
+    "Gargoyles",
+    "Golem"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Craig and Cohen discovered Silas's former home, which had a hidden cellar leading to ancient ruins where Silas conducted his experiments.",
+   "entities": [
+    "Craig",
+    "Cohen",
+    "Silas"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Cohen found a parchment drawing in Silas's ruins depicting a gargoyle nearly identical to the ones encountered at the warehouse and St. Teotim's church.",
+   "entities": [
+    "Cohen",
+    "Silas",
+    "St. Teotim's church"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The ancient ruins beneath Silas's house connect to catacombs from the Christian era, where Cohen and Craig found fresh decapitated bodies.",
+   "entities": [
+    "Cohen",
+    "Craig"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "A note found on a corpse revealed that an apprentice named Svetana, acting for her master Aurelius, hired mercenaries to retrieve an encoded tome from a tomb beneath St. Tobias's cemetery.",
+   "entities": [
+    "Svetana",
+    "Aurelius",
+    "St. Tobias's cemetery"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The tome sought by Svetana's mercenaries was written in the same unknown language as the manuscript from the gargoyle's mouth and Silas's writings.",
+   "entities": [
+    "Svetana",
+    "Silas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "While exploring the crypt, Craig was attacked and dragged off by a moroni creature living in the tomb, but Cohen saved him.",
+   "entities": [
+    "Craig",
+    "Cohen"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig recognized the name Aurelius as a legendary evil sorcerer in Svartra folklore, said to be able to drive people mad with a glance and to live in a tower south of Augusti.",
+   "entities": [
+    "Craig",
+    "Aurelius",
+    "Augusti"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig revealed his real name to Cohen as Marat, as a sign of trust.",
+   "entities": [
+    "Craig",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Craig (Marat) told Cohen that the Manumits plan to help Catalin, son of the former ruler Scander, overthrow Kinaz Brenis by opening the mountain pass gates from within.",
+   "entities": [
+    "Craig",
+    "Manumits",
+    "Catalin",
+    "Scander",
+    "Kinaz Brenis"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Catalin's father Scander previously ruled Veil Sangora before the Verkieri under Brenis took power.",
+   "entities": [
+    "Catalin",
+    "Scander",
+    "Veil Sangora",
+    "Kinaz Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Cohen is wary of helping Catalin because Scander nearly had Cohen and Luca killed the night the Verkieri seized power.",
+   "entities": [
+    "Cohen",
+    "Catalin",
+    "Scander",
+    "Luca",
+    "Verkieri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Cohen agreed to help the Manumits' plan because it could help him recover his family.",
+   "entities": [
+    "Cohen",
+    "Manumits"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Cohen infiltrated Aurelius's tower to stop him from creating more gargoyles for Brenis, killing Svetana and a garrison of Brenis's soldiers.",
+   "entities": [
+    "Cohen",
+    "Aurelius",
+    "Svetana",
+    "Kinaz Brenis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Inside the tower, Cohen found a translation guide and a spellbook that let him decipher the strange language and use magic, including a spell to weaken gargoyles.",
+   "entities": [
+    "Cohen",
+    "Gargoyles"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "At the top of his tower, Aurelius was seen performing an incantation before a gargoyle, surrounded by images of Anahora, suggesting he draws power from Anahora to animate and control gargoyles.",
+   "entities": [
+    "Aurelius",
+    "Anahora",
+    "Gargoyles"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "The moment Cohen entered Aurelius's hall, he was trapped in a magical nightmare snare shaped from his own memories.",
+   "entities": [
+    "Cohen",
+    "Aurelius"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Cohen's recurring nightmare was built around the drowning death of his younger brother Alen, a tragedy Cohen blamed himself for.",
+   "entities": [
+    "Cohen",
+    "Alen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Years before the main story, Cohen and his brother Alen disobeyed their father Pieta's warning and went onto thinning river ice; Alen fell through and drowned before help could save him.",
+   "entities": [
+    "Cohen",
+    "Alen",
+    "Pieta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Inside the nightmare, Cohen finally accepted that Alen's death was not his fault and promised to forgive himself and remember his brother.",
+   "entities": [
+    "Cohen",
+    "Alen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Cohen escaped the nightmare and woke to find Aurelius preparing to turn him into a gargoyle on a table; Cohen killed Aurelius with a hammer blow.",
+   "entities": [
+    "Cohen",
+    "Aurelius"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Aurelius's records showed that in his most recent batch, only 3 of 11 prisoners successfully became gargoyles.",
+   "entities": [
+    "Aurelius",
+    "Gargoyles"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Aurelius's gargoyle creation process involved keeping captives' higher brain functions active in a mental trap, then gutting them, coating them in clay, firing them, and fitting them with limbs, wings, and blades before animating them in a ritual.",
+   "entities": [
+    "Aurelius",
+    "Gargoyles"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "After defeating Aurelius, Cohen followed a trail of glowing flyer garic mushrooms to a burrow inhabited by a girl named Hila.",
+   "entities": [
+    "Cohen",
+    "Hila"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Hila appears to be a young girl but has actually been kept childlike for 10 years by the magic of the Sanjani, small fae-like beings who live in burrows.",
+   "entities": [
+    "Hila",
+    "Sanjani"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "The Sanjani have a peculiar fascination with collecting human teeth as gifts for their rulers, called Sarinas.",
+   "entities": [
+    "Sanjani",
+    "Tsarina"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hila asked Cohen to find her brother Tonis and offered that her invisible friends could deliver a letter to Cohen's sister Luca in exchange.",
+   "entities": [
+    "Hila",
+    "Tonis",
+    "Cohen",
+    "Luca"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Hila's home village of Augusti was abandoned years ago after its inhabitants died of plague or left.",
+   "entities": [
+    "Hila",
+    "Augusti"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "In Augusti, Cohen found the skeletons of Hila's parents in a house marked with a plague cross.",
+   "entities": [
+    "Hila",
+    "Augusti"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Cohen found Tonis, Hila's brother, now an adult living among charcoal burners, still visiting a wooden palace to light candles for his long-vanished sister.",
+   "entities": [
+    "Tonis",
+    "Hila"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Tonis explained that Hila ran into the forest 10 years earlier while their father was beating their mother, and she never returned.",
+   "entities": [
+    "Tonis",
+    "Hila"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Sanjani found Hila in the forest and brought her to live in their burrow, using magic to keep her a child for 10 years.",
+   "entities": [
+    "Sanjani",
+    "Hila"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Tsarina of the Sanjani refused to let Tonis stay with Hila permanently, allowing him only one visit per month.",
+   "entities": [
+    "Tsarina",
+    "Tonis",
+    "Hila"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "The Tsarina argued that human life for a girl in that era meant hard labor and repeated childbirth, justifying keeping Hila in the burrow.",
+   "entities": [
+    "Tsarina",
+    "Hila"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Cohen convinced the Tsarina to release Hila for a ransom of human teeth rather than waiting years.",
+   "entities": [
+    "Cohen",
+    "Tsarina",
+    "Hila"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "The Sanjani revealed that Cohen became a Dawn Walker instead of an ordinary Verkieri because his blood contained a small amount of silver, weakening the transformation.",
+   "entities": [
+    "Sanjani",
+    "Cohen",
+    "Verkieri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "The Sanjani refused to discuss the entity that initiates the transformation into Verkieri, saying they feared it more than any earthly creature, and that it rules over Anahora.",
+   "entities": [
+    "Sanjani",
+    "Anahora",
+    "Verkieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Cohen paid the ransom in human teeth, the Tsarina agreed to send a letter to Luca telling her Cohen would come for the family soon.",
+   "entities": [
+    "Tsarina",
+    "Luca",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "By this point in the story, two of Brenis's Boyars, Ambress and Bakir, were already dead, leaving only the witch Zanthy.",
+   "entities": [
+    "Kinaz Brenis",
+    "Ambress",
+    "Bakir",
+    "Baroness Zanthy"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "A soldier named Leonard told Cohen that young women were disappearing throughout Baroness Zanthy's lands and that she was responsible.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Leonard gave Cohen a magic lamp that, when placed in the hand of a statue by Zanthy's gate, would remove the impenetrable barrier protecting her castle.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "A previous squad sent by Leonard into Zanthy's castle never returned.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Inside Zanthy's castle, Cohen found a laboratory where the Baroness performed horrific mutilations on abducted girls, removing bones and eyes.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "A dungeon beneath Zanthy's castle contained piles of human remains fed to a monster kept in the cellar.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Zanthy's castle was guarded by leathery blood-cord creatures and monstrous dog-like beasts created from feeding dogs human remains.",
+   "entities": [
+    "Baroness Zanthy"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "In an upper chamber of the castle, Cohen found a masked, mutilated creature named Heraclea, stitched together from the bodies of abducted girls, singing a mournful song.",
+   "entities": [
+    "Heraclea",
+    "Baroness Zanthy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Heraclea is revealed to be Baroness Zanthy's daughter, the reason Zanthy abducted and murdered young women in her territory.",
+   "entities": [
+    "Heraclea",
+    "Baroness Zanthy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Baroness Zanthy offered to help Cohen fight Brenis in exchange for sparing her and Heraclea, but Cohen refused and killed both the Baroness and Heraclea.",
+   "entities": [
+    "Baroness Zanthy",
+    "Heraclea",
+    "Cohen",
+    "Kinaz Brenis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Following reports of a mysterious female Verkieri near Svartra's northeastern wall, Cohen tracked her down and met Lacra, who was also seeking to kill Brenis.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Kinaz Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra revealed that Brenis's greatest weakness is Isbrand, the Verkieri who originally turned him.",
+   "entities": [
+    "Lacra",
+    "Kinaz Brenis",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra held a captive Uryashi named Nish, whose clan elder knew how to find Isbrand.",
+   "entities": [
+    "Lacra",
+    "Nish",
+    "Uryashi",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen convinced Nish to reveal the route to the Uryashi elder by promising to try to save his own family from Brenis, and swore not to harm Nish's people.",
+   "entities": [
+    "Cohen",
+    "Nish",
+    "Uryashi",
+    "Kinaz Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen refused to let Lacra kill Nish after he gave them the information.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Nish"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "At the Uryashi village, Cohen's calm, non-violent conduct under provocation earned the trust of the clan matriarch, who agreed to help.",
+   "entities": [
+    "Cohen",
+    "Uryashi"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "The matriarch explained that Brenis had defeated Isbrand in battle, then forced the Uryashi to imprison him in chains within their caves under threat of destroying the village.",
+   "entities": [
+    "Kinaz Brenis",
+    "Isbrand",
+    "Uryashi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The matriarch warned Lacra never to return to the Uryashi village, threatening to bury her under stones, while declaring Cohen a friend of the Uryashi.",
+   "entities": [
+    "Lacra",
+    "Cohen",
+    "Uryashi"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra and Cohen discovered they are both progeny of Brenis, making Isbrand their shared 'grandfather' figure.",
+   "entities": [
+    "Lacra",
+    "Cohen",
+    "Kinaz Brenis",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "The caves holding Isbrand were infested with cobalts whose cave art depicted an upside-down Verkieri (Isbrand) being worshipped.",
+   "entities": [
+    "Cobalts",
+    "Isbrand"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen and Lacra encountered corrupted, mutated cobalts that had broken from the cobalt hive mind due to exposure to the same corruption that creates Verkieri.",
+   "entities": [
+    "Cobalts",
+    "Verkieri"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra explained that the force which turns humans into Verkieri and Moroni is a form of corruption, not ordinary magic, and it can also affect animals and plants.",
+   "entities": [
+    "Lacra",
+    "Verkieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The cobalt hive mind, called the Hive, referred to the mutated, hive-severed cobalts as 'wrongs,' the strongest of which was named Chonk.",
+   "entities": [
+    "Cobalts",
+    "Wrongs",
+    "Chonk"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "The Hive offered to reveal Isbrand's location if Cohen and Lacra killed the wrongs, including Chonk.",
+   "entities": [
+    "Cobalts",
+    "Wrongs",
+    "Chonk",
+    "Isbrand"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "For two years, corrupted cobalts had been eating Isbrand alive piece by piece while his body continually regenerated, absorbing his corruption.",
+   "entities": [
+    "Cobalts",
+    "Isbrand"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 29
+  },
+  {
+   "text": "Cohen and Lacra extracted Isbrand and moved him to an old watch fort in the mountains, though his body was severely damaged and his mind broken beyond normal recovery.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "To retrieve useful information from Isbrand's shattered mind, Cohen and Lacra had to enter Anahora and follow the remnants of his memories.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand",
+    "Anahora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Within Isbrand's memories, Cohen and Lacra witnessed that Brenis was once a Roman legion commander whose army was defeated in battle, after which he and survivors fled into a place haunted by otherworldly shadows.",
+   "entities": [
+    "Kinaz Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Isbrand confronted the sole-surviving Brenis and offered him a choice: kneel and become a Verkieri, or die; Brenis chose to become a Verkieri.",
+   "entities": [
+    "Isbrand",
+    "Kinaz Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "After his transformation, Brenis returned to his estate, and Isbrand made him kill the guards who refused entry and confront his wife Helvia.",
+   "entities": [
+    "Kinaz Brenis",
+    "Isbrand",
+    "Helvia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Brenis's wife Helvia did not recognize him as her husband and burned herself alive rather than go with him, as Isbrand forced Brenis to watch, severing his ties to his former life.",
+   "entities": [
+    "Helvia",
+    "Kinaz Brenis",
+    "Isbrand"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "In another memory, Isbrand ordered Brenis to tear out Lacra's teeth as punishment for Brenis violating the ancient Verkieri laws, since Lacra was his progeny.",
+   "entities": [
+    "Isbrand",
+    "Kinaz Brenis",
+    "Lacra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Among Verkieri, forcibly removing another vampire's teeth is a ritualized punishment and humiliation.",
+   "entities": [
+    "Verkieri"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Isbrand believed Verkieri should remain hidden and obey ancient restrictions, while Brenis wanted to abandon restraint and openly dominate humanity.",
+   "entities": [
+    "Isbrand",
+    "Kinaz Brenis"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lacra refuses to explain to Cohen why her teeth were torn out or why she was exiled.",
+   "entities": [
+    "Lacra",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "In the ruins beneath Svatra, Cohen and Lacra witnessed the final battle where Isbrand warned Brenis that beings called the Augurs would come for him for violating Verkieri law.",
+   "entities": [
+    "Isbrand",
+    "Kinaz Brenis",
+    "Svatra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Cohen recalled that the dying Mihi in the crypt beneath Zvatra Cathedral had told him to trust the Augurs because they would save him.",
+   "entities": [
+    "Saint Mihi",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Three Boyars, Bakir, Ambress, and Zanthy, came to Brenis's aid, and together they managed to defeat Isbrand in the ruins beneath Svatra.",
+   "entities": [
+    "Bakir",
+    "Ambress",
+    "Baroness Zanthy",
+    "Kinaz Brenis",
+    "Isbrand"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Brenis declared afterward that he had mastered the power seeping from the ruins beneath Svatra, which comes directly from Anahora.",
+   "entities": [
+    "Kinaz Brenis",
+    "Svatra",
+    "Anahora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "After the vision, Isbrand's remaining spirit attacked Cohen and Lacra but was defeated with little difficulty.",
+   "entities": [
+    "Isbrand",
+    "Cohen",
+    "Lacra"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Isbrand repented his failure to kill Brenis earlier and asked Cohen to absorb his essence so his soul would not fall prey to the entity ruling Anahora.",
+   "entities": [
+    "Isbrand",
+    "Cohen",
+    "Anahora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen drove Isbrand's fang into his own heart, absorbing the ancient Verkieri's essence and saving his soul from Anahora.",
+   "entities": [
+    "Cohen",
+    "Isbrand",
+    "Anahora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen and Lacra learned that something beneath Svatra leaks Anahora's dark power into the world, and Brenis intends to seize control of it through a ritual completed at his coronation.",
+   "entities": [
+    "Svatra",
+    "Anahora",
+    "Kinaz Brenis"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Brenis's coronation ritual is set to culminate in the sacrifice of every prisoner in his castle dungeons, including Cohen's family.",
+   "entities": [
+    "Kinaz Brenis",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Cohen and Lacra theorized that the ruins beneath Svatra might connect directly to the castle's underground levels, allowing them to disrupt the ritual and free the prisoners in one operation.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Svatra",
+    "Kinaz Brenis"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra told Cohen that long ago, Saint Mihi fought an ancient Verkieri named Kalas near their current location, and Kalas could thin the veil between reality and Anahora.",
+   "entities": [
+    "Saint Mihi",
+    "Kalas",
+    "Anahora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Lacra hoped that Kalas's old lair might contain something to protect them from Anahora's influence or to turn Brenis's ritual against him.",
+   "entities": [
+    "Lacra",
+    "Kalas",
+    "Anahora",
+    "Kinaz Brenis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Wisps are otherworldly entities in the marshes that are drawn to and guided by strong sincere emotions such as joy, grief, or anger.",
+   "entities": [
+    "Wisps"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "To attract the wisps and find Kalas's battlefield, Cohen and Lacra shared deeply personal memories, including Cohen's account of his brother Alen's death and Lacra's account of being married off as a child in Egypt and suffering years of abuse.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Alen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  }
+ ],
+ "_src": "src-5f491777"
+}

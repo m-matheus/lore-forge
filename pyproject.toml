@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loreforge"
+version = "0.1.0"
+description = "Ultra long-form video game lore for sleep: research, script, narration, footage and a Premiere-ready timeline."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Matheus Moraes" }]
+
+dependencies = [
+    # AI content generation
+    "anthropic>=0.69.0",
+    "openai>=1.30.0",
+    "elevenlabs>=2.0.0",
+    "requests>=2.31",
+    # Footage + reference subtitles
+    "yt-dlp>=2026.8.19",
+    # Scene detection + per-scene metrics
+    "scenedetect>=0.6.4",
+    "opencv-python-headless>=4.9.0",
+    "numpy>=1.26",
+    # Sources
+    "pypdf>=4.0.0",
+    # Config / models
+    "pydantic>=2.6.0",
+    "pydantic-settings>=2.2.0",
+    "python-dotenv>=1.0.0",
+    # Media / images
+    "Pillow>=10.0.0",
+    # Local web UI
+    "fastapi>=0.110.0",
+    "uvicorn>=0.29.0",
+    "jinja2>=3.1.0",
+    "python-multipart>=0.0.9",
+    "sse-starlette>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[project.scripts]
+loreforge = "loreforge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+loreforge = ["ui/templates/**/*", "ui/static/**/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

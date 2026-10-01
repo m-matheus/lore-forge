@@ -1,0 +1,108 @@
+{
+  "name": "Midnight Realm",
+  "slug": "midnight-realm",
+  "language": "en",
+  "tagline": "Video game lore to fall asleep to",
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "voice": {
+    "voice_id": "",
+    "model": null,
+    "stability": 0.55,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 0.95,
+    "winddown_speed": 0.88
+  },
+  "narration": {
+    "chunk_chars": 2500,
+    "paragraph_pause": 0.6,
+    "section_pause": 1.6,
+    "winddown_paragraph_pause": 1.4,
+    "target_lufs": -16.0
+  },
+  "script": {
+    "opening_minutes": 3.0,
+    "winddown_minutes": 5.0,
+    "default_address": "traveler"
+  },
+  "look": {
+    "mode": "premiere",
+    "grade": {
+      "exposure": 0.48,
+      "contrast": 1.15,
+      "contrast_pivot": 0.35,
+      "saturation": 0.42,
+      "highlight_saturation": 0.85,
+      "shadow_tint": [
+        -0.004,
+        0.004,
+        0.018
+      ],
+      "highlight_tint": [
+        0.01,
+        -0.004,
+        -0.012
+      ],
+      "black_lift": 0.008,
+      "white_clip": 0.78
+    },
+    "lut": "assets/look.cube",
+    "overlays": [
+      {
+        "name": "rain",
+        "file": "assets/overlays/rain.mov",
+        "opacity": 0.85
+      },
+      {
+        "name": "film",
+        "file": "assets/overlays/film.mov",
+        "opacity": 1.0
+      }
+    ],
+    "vignette": "assets/vignette.png",
+    "vignette_strength": 0.78,
+    "watermark": {
+      "file": "assets/watermark.png",
+      "width_frac": 0.075,
+      "margin_frac": 0.025,
+      "opacity": 0.55
+    }
+  },
+  "edit": {
+    "intro_seconds": 180,
+    "intro_cut_seconds": 5,
+    "body_cut_seconds": [
+      8,
+      14
+    ],
+    "dissolve_frames": 12,
+    "no_repeat_minutes": 20
+  },
+  "music": {
+    "file": "",
+    "lufs": -30.0,
+    "crossfade": 6.0,
+    "fade_in": 4.0,
+    "fade_out": 12.0
+  },
+  "thumbnail": {
+    "title_font": "assets/fonts/title.ttf",
+    "badge_font": "assets/fonts/title.ttf",
+    "band": "assets/band.png",
+    "title_color": "#EDE6D6",
+    "badge_color": "#E0AA55",
+    "badge_template": "2+ HOUR | {game_upper} LORE | {channel_upper}"
+  },
+  "base_tags": [
+    "sleep documentary",
+    "lore to fall asleep to",
+    "video game lore",
+    "sleep story",
+    "bedtime lore",
+    "midnight realm"
+  ]
+}

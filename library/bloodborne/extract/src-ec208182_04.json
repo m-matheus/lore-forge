@@ -1,0 +1,1173 @@
+{
+ "entities": [
+  {
+   "name": "Iosefka's Clinic",
+   "kind": "location",
+   "aliases": [
+    "Yusfa's clinic"
+   ]
+  },
+  {
+   "name": "Saw Cleaver",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Threaded Cane",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Father Gascoigne",
+   "kind": "boss",
+   "aliases": [
+    "Gascoinne"
+   ]
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Old Hunter Bone",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Third Umbilical Cord",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Simon's Bowblade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Nightmare Frontier",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Hemwick Graveyard",
+   "kind": "location",
+   "aliases": [
+    "Hemock graveyard"
+   ]
+  },
+  {
+   "name": "Hemwick Charnel Lane",
+   "kind": "location",
+   "aliases": [
+    "Hemock Channel Lane"
+   ]
+  },
+  {
+   "name": "Forbidden Woods",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Byrgenwerth Lecture Building",
+   "kind": "location",
+   "aliases": [
+    "lecture building"
+   ]
+  },
+  {
+   "name": "Rom, the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Yahar'gul Grand Cathedral",
+   "kind": "location",
+   "aliases": [
+    "Yahar Ghoul's Grand Cathedral"
+   ]
+  },
+  {
+   "name": "Grand Cathedral",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Unseen Village",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Astral Clocktower",
+   "kind": "location",
+   "aliases": [
+    "Astral Clock Tower"
+   ]
+  },
+  {
+   "name": "Research Hall",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Cainhurst Castle",
+   "kind": "location",
+   "aliases": [
+    "Kanhurst Castle"
+   ]
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Carol Runes",
+   "kind": "concept",
+   "aliases": [
+    "Caryll Runes"
+   ]
+  },
+  {
+   "name": "Communion Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Clawmark Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Insight",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Blood Echoes",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Queen Yharnam",
+   "kind": "boss",
+   "aliases": [
+    "Yarnam, Thumerian Queen"
+   ]
+  },
+  {
+   "name": "Ebrietas, Daughter of the Cosmos",
+   "kind": "boss",
+   "aliases": [
+    "Abritus"
+   ]
+  },
+  {
+   "name": "Bloodletting Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Watchdog of the Old Lords",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Undead Giant",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "The Doll",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Garman"
+   ]
+  },
+  {
+   "name": "Maria",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "From Software",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Dark Souls",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Patches the Spider",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig",
+   "kind": "character",
+   "aliases": [
+    "Ludvik"
+   ]
+  },
+  {
+   "name": "The Choir",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Land of Reeds",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Bloodborne's opening sequence, where a hunter awakens in Iosefka's Clinic before receiving a transfusion of old blood, was designed to establish themes of blood, medicine, and transformation before any exposition appears.",
+   "entities": [
+    "Iosefka's Clinic"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "The opening sequence has been praised by players for efficiently establishing mood, stakes, and core mechanics within minutes without dialogue explanation.",
+   "entities": [
+    "Iosefka's Clinic"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The first combat encounter outside the clinic, against transformed enemies, was calibrated as a low-stakes introduction to core combat mechanics.",
+   "entities": [
+    "Iosefka's Clinic"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "The initial choice between the Saw Cleaver and Threaded Cane starting weapons was designed to introduce players to the game's trick weapon system from the very start.",
+   "entities": [
+    "Saw Cleaver",
+    "Threaded Cane"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne deliberately withholds significant explanatory dialogue in its opening hours, reflecting a broader storytelling philosophy of trust and implication.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The placement of the Father Gascoigne boss fight was designed to give new players a genuinely challenging but fair introduction to significant boss combat.",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "A hunter's first return to the Hunter's Dream, triggered after defeating their first major boss, was designed to introduce the game's hub-based progression system once players have gained confidence.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Early area design in Central Yharnam deliberately withholds shortcuts until players progress far enough, making their unlocking feel earned.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several optional NPC interactions in the game's early hours offer additional context and world-building for thorough players.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's opening hours have been cited by game design analysts as a model for introducing players to a demanding game without excessive handholding.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some of the game's rarest items, including unique runes and consumables, can only be acquired through easily missed specific event sequences.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several rare items were reportedly included as rewards for curious, thorough players rather than for raw combat power, with value coming more from story context than stats.",
+   "entities": [],
+   "category": "item",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Carol runes provide passive stat bonuses and combat modifications, with several rarest runes tied to significant optional bosses and hidden locations.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare consumable items exist in limited quantities per playthrough, forcing players to make permanent decisions about their use.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunter Bone is a rare consumable that grants temporary combat bonuses connected thematically to The Old Hunters expansion.",
+   "entities": [
+    "Old Hunter Bone"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some rare weapon variants require players to defeat specific bosses without using certain consumable items, adding tension between survival and reward collection.",
+   "entities": [],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Third Umbilical Cord is one of the rarest items connected to the game's hidden true ending, requiring deep progression into dangerous optional content to acquire.",
+   "entities": [
+    "Third Umbilical Cord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain unique blood gem stat combinations are unavailable except through specific chalice dungeon configurations.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rare hidden weapons like Simon's Bowblade carry narrative significance connected to specific NPCs and storylines beyond their combat stats.",
+   "entities": [
+    "Simon's Bowblade"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bloodborne community has collaboratively documented and shared knowledge about the game's rarest, most obscure items.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Item descriptions for rarer, hidden objects often contain some of the game's most significant lore revelations.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Many of Bloodborne's item descriptions are widely quoted by fans for their poetic prose style, distinct from typical functional game item text.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A frequently referenced line from item text describes fear as \"the mind killer\" of hunters.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Many item descriptions require players to cross-reference multiple texts scattered across areas to piece together a fuller narrative understanding.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The tone of most item descriptions favors melancholy, restrained prose over dramatic language, consistent with the game's storytelling philosophy of understatement.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Fan-created compilations gathering every item description into a single readable format have circulated widely in the community.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Carol rune descriptions connected to the 'gentle scholar' are praised for their tender, letter-like quality distinct from the game's more clinical item text.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Significant item descriptions, including those for the umbilical cords tied to the hidden true ending, are written with deliberate ambiguity supporting multiple interpretations.",
+   "entities": [
+    "Third Umbilical Cord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Academic essays on video game writing cite Bloodborne's item descriptions as a notable example of conveying substantial narrative weight through minimal language.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nightmare Frontier was designed with deliberately disorienting, non-Euclidean architecture reflecting its status as a space shaped by cosmic dream logic.",
+   "entities": [
+    "Nightmare Frontier"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hemwick Graveyard, connecting Hemwick Charnel Lane to Forbidden Woods, was designed with narrow winding pathways to create a sense of claustrophobia.",
+   "entities": [
+    "Hemwick Graveyard",
+    "Hemwick Charnel Lane",
+    "Forbidden Woods"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Byrgenwerth lecture building features architecture designed to evoke academic study spaces even amid the area's cosmic transformation.",
+   "entities": [
+    "Byrgenwerth Lecture Building"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yahar'gul's Grand Cathedral, distinct from the main Cathedral Ward's Grand Cathedral, was designed with a smaller, claustrophobic interior reinforcing themes of isolation and abandonment.",
+   "entities": [
+    "Yahar'gul Grand Cathedral",
+    "Grand Cathedral"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Unseen Village features environmental storytelling built around implied group ceremony and sacrifice, with kneeling robed figures reinforcing a communal, unsettling atmosphere.",
+   "entities": [
+    "Unseen Village"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Astral Clocktower features overtly celestial, cosmic architectural design distinct from Yharnam's grounded Gothic city aesthetic.",
+   "entities": [
+    "Astral Clocktower"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Research Hall features environmental details evoking a scientific laboratory space layered against the game's Gothic religious aesthetic.",
+   "entities": [
+    "Research Hall"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Cainhurst Castle's frozen, snow-covered exterior uses a color palette distinct from most other locations, visually reinforcing its isolation from Yharnam's blood-soaked history.",
+   "entities": [
+    "Cainhurst Castle"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Fishing Hamlet's architecture evokes small, weathered coastal fishing communities distinct from Yharnam's grand urban Gothic structures.",
+   "entities": [
+    "Fishing Hamlet"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several small, easily missed side areas and dead-end passages were included purely for atmospheric and environmental storytelling, offering no items or enemies.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The overall geography of Yharnam's districts has been extensively reconstructed and diagrammed by community cartographers, since no single in-game map exists.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's core stat system includes vitality, endurance, strength, skill, bloodtinge, and arcane, each supporting distinct playstyles.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodtinge builds emphasize firearm damage and blood-based weaponry, offering a distinct approach from strength or skill melee builds.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Arcane builds require more deliberate planning due to the relative scarcity of arcane-focused equipment compared to physical weapons.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community guides and build calculators have been created to help players optimize stat allocations for preferred combat styles.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Quality builds, balancing strength and skill, are one of the most popular character archetypes for their flexibility across weapon types.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Challenge run communities have developed specialized restrictive builds, including minimal level runs and single-stat focused builds.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's respecialization system requires players to commit firmly to a build for a playthrough, encouraging deliberate planning over casual experimentation.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's streamlined attribute list, compared to other RPGs, has been praised for balancing accessibility with strategic depth.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream's Messenger Shop offers basic consumables and starting equipment using blood echoes as the primary currency.",
+   "entities": [
+    "Hunter's Dream",
+    "Blood Echoes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several specialized merchant NPCs offer unique items unavailable through the standard Hunter's Dream shop, located throughout Yharnam.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's shopping and inventory systems were designed to remain streamlined compared to other RPGs to keep players focused on exploration and combat.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare crafting materials and upgrade items can only be purchased in limited quantities from specific merchants.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Insight functions as an alternate currency for specialized items and services, distinct from the blood echo economy.",
+   "entities": [
+    "Insight",
+    "Blood Echoes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Merchants offer different inventory depending on a hunter's accumulated insight, linking cosmic awareness to access of unusual goods.",
+   "entities": [
+    "Insight"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's shopping interface uses simple, clean menus without elaborate animation, prioritizing efficient movement between gameplay activities.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare or narratively significant items are available for purchase only after specific story milestones, tying purchases to narrative progression.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community resources maintain comprehensive lists cataloging every merchant, their inventory, and the conditions to unlock their goods.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Chalice dungeons include exclusive boss variants of Queen Yharnam and Ebrietas distinct from their main-game counterparts, offering additional narrative fragments.",
+   "entities": [
+    "Chalice Dungeons",
+    "Queen Yharnam",
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bloodletting Beast, a chalice dungeon exclusive boss, was designed as an early, relatively accessible challenge for players beginning the chalice content.",
+   "entities": [
+    "Bloodletting Beast",
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Watchdog of the Old Lords' design evokes ancient primal guardianship, suggesting chalice dungeons were once actively protected by Pthumerian civilization defenders.",
+   "entities": [
+    "Watchdog of the Old Lords"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Undead Giant boss incorporates slow, heavy attack patterns testing patience and positioning, offering different pacing than faster main-story bosses.",
+   "entities": [
+    "Undead Giant"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several chalice dungeon bosses share combat mechanics and animations with main story counterparts but receive entirely reskinned visual presentations.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain chalice dungeon configurations let players refight Ebrietas under different environmental conditions than her main story appearance.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos",
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queen Yharnam, connected to Yharnam's founding mythology, remains one of the most narratively significant encounters in the chalice dungeon content.",
+   "entities": [
+    "Queen Yharnam"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain valuable blood gems and crafting materials are tied specifically to defeating particular chalice dungeon bosses.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Chalice dungeon boss difficulty and mechanical complexity generally increase significantly in the system's deepest layers.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community rankings and discussions of chalice dungeon boss difficulty and design remain an active ongoing topic in the Bloodborne community.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne received numerous game of the year nominations and awards from major gaming publications following its 2015 release.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Retrospective critical rankings years after launch have continued placing Bloodborne near the top of lists surveying the best games of its console generation.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's aggregate critical review scores placed it consistently among the highest rated titles of its console generation.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several game design and narrative awards specifically recognized Bloodborne's environmental storytelling and atmospheric world design.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's musical score received individual recognition and nominations from awards bodies focused on video game music composition.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne has continued to appear on numerous greatest games of all time retrospective lists since its release.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several voice acting performances in Bloodborne received critical praise, particularly the restrained, weary vocal delivery for characters like Gehrman.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's commercial success and critical reception contributed to From Software's growing industry reputation heading into later releases like Elden Ring.",
+   "entities": [
+    "From Software",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Academic and industry retrospectives credit Bloodborne with meaningfully expanding the Soulslike genre beyond what Dark Souls had established.",
+   "entities": [
+    "Dark Souls"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Carol runes are named after hunting tradition concepts, including communion, oath, and clawmark symbolism, each with distinct mechanical and narrative significance.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Communion Rune connects thematically to cosmic themes of connection and shared understanding regarding the Great Ones.",
+   "entities": [
+    "Communion Rune"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain runes are tied to Covenant membership, requiring players to formally join a faction before gaining access to their passive bonuses.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Oath runes connected to covenant traditions offer passive bonuses calibrated to reward each faction's own combat philosophy.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rune combinations allow for meaningful stacking of complementary bonuses, encouraging player experimentation with builds.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Each Carol rune's menu icon incorporates distinct symbolic imagery connected to its thematic and mechanical significance.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare runes require players to complete obscure quest lines or defeat particular optional bosses to unlock.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Clawmark Rune, connected to beast transformation mechanics, offers mechanical incentives for engaging with the game's beast/blood curse themes.",
+   "entities": [
+    "Clawmark Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community guides cataloging every rune's mechanical effects and narrative significance have circulated widely since the game's release.",
+   "entities": [
+    "Carol Runes"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "From Software has never officially confirmed any explicit narrative connection between Bloodborne and the Dark Souls or Elden Ring universes.",
+   "entities": [
+    "From Software",
+    "Dark Souls",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community debates center on whether recurring thematic patterns across From Software's games (cyclical decay, forgotten gods, fragmented history) reflect genuine authorial connection or a consistent creative voice.",
+   "entities": [
+    "From Software"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fan theories propose loose thematic or symbolic connections between Bloodborne and other From Software titles based on shared motifs like Patches the Spider, without confirmed shared timeline.",
+   "entities": [
+    "Patches the Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Community timeline reconstructions attempt to place events like Ludwig's founding of organized hunting and the Choir's escalating cosmic ambitions into coherent chronological sequence.",
+   "entities": [
+    "Ludwig",
+    "The Choir"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's precise chronological relationship to real-world historical periods remains ambiguous despite its clear Victorian-era visual inspiration.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fan researchers have proposed maps attempting to reconstruct the geographic relationship between Yharnam and other referenced but unexplored locations, including the Land of Reeds.",
+   "entities": [
+    "Land of Reeds"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Long-form community video essays and written analyses have been dedicated to reconstructing and debating Yharnam's complete internal chronology.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When a hunter dies, they lose a portion of accumulated insight in addition to blood echoes, creating a dual penalty for death.",
+   "entities": [
+    "Insight",
+    "Blood Echoes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The insight penalty upon death is often overlooked compared to blood echo loss, but thematically suggests death costs a hunter cosmic understanding as well as wealth.",
+   "entities": [
+    "Insight"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's death is accompanied by a slow fade and distinctive musical sting, designed to feel weighty without being overly punishing.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's resurrection mechanic is tied narratively into the Hunter's Dream's cosmic framework, blending gameplay convenience with in-world logic.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several item descriptions hint that the hunter's repeated deaths and resurrections are not painless or consequence-free, suggesting an accumulating physical and psychological toll.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The location where a hunter dies is marked with a recoverable blood echo pool that must be revisited to recover lost currency.",
+   "entities": [
+    "Blood Echoes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Challenge run communities specifically track and celebrate deathless playthroughs of the entire game or significant portions of it.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain optional items and abilities mitigate death's consequences, offering limited insurance against losing blood echoes without removing death's stakes entirely.",
+   "entities": [
+    "Blood Echoes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The mechanical connection between resurrection and cosmic themes of cyclical rebirth adds narrative weight to what could otherwise be a purely functional convenience.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain items a hunter can offer to the Doll trigger unique individually written dialogue responses rather than generic text.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Players have described the Doll's gift-giving exchanges as among the most quietly moving moments in the game, precisely because they are optional and non-dramatic.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain gift items connected to Gehrman's personal history carry particular emotional weight when offered to the Doll, given her narrative connection to Maria.",
+   "entities": [
+    "The Doll",
+    "Gehrman",
+    "Maria"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Doll's dialogue and demeanor gradually evolve across a complete playthrough, representing a subtle character development arc.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fan communities have compiled complete transcripts of every possible Doll interaction and gift-giving dialogue variation.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A specific musical cue accompanies significant Doll interactions, composed to reinforce quiet emotional weight without becoming overly sentimental.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain player choices and interactions can influence the Doll's eventual fate and appearance during the game's climactic final sequences.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Doll's design has been praised by critics for conveying emotional depth through restraint rather than explicit exposition.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community discussions explore the philosophical and ethical implications of the Doll's uncertain status between personhood and constructed vessel.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Despite the Doll's relatively small amount of interactive content, she is one of the most consistently discussed and beloved characters in the Bloodborne community.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# Env / secrets
+.env
+*cookies*.txt
+
+# App output (runs) and heavy media
+output/
+channels/*/assets/overlays/*.mov
+channels/*/assets/overlays/src/
+channels/*/assets/music/*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

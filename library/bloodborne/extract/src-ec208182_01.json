@@ -1,0 +1,1495 @@
+{
+ "entities": [
+  {
+   "name": "Cleric Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Rom the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Martyr Logarius",
+   "kind": "boss",
+   "aliases": [
+    "Logarius"
+   ]
+  },
+  {
+   "name": "Witch of Hemwick",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Shadow of Yharnam",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Bloody Crow of Cainhurst",
+   "kind": "boss",
+   "aliases": [
+    "Rakuyo boss"
+   ]
+  },
+  {
+   "name": "Blood-Starved Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Darkbeast Paarl",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Amygdala",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Micolash",
+   "kind": "boss",
+   "aliases": [
+    "Host of the Nightmare"
+   ]
+  },
+  {
+   "name": "Ebrietas, Daughter of the Cosmos",
+   "kind": "boss",
+   "aliases": [
+    "Ebrietas"
+   ]
+  },
+  {
+   "name": "Wet Nurse",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Celestial Emissary",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Garman",
+    "The First Hunter"
+   ]
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig",
+   "kind": "boss",
+   "aliases": [
+    "Ludwig the Holy Blade",
+    "Ludvig"
+   ]
+  },
+  {
+   "name": "Orphan of Kos",
+   "kind": "boss",
+   "aliases": [
+    "Orphan of Cost"
+   ]
+  },
+  {
+   "name": "Lady Maria of the Astral Clocktower",
+   "kind": "boss",
+   "aliases": [
+    "Lady Maria"
+   ]
+  },
+  {
+   "name": "Living Failures",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Laurence, the First Vicar",
+   "kind": "boss",
+   "aliases": [
+    "Lawrence"
+   ]
+  },
+  {
+   "name": "Plain Doll",
+   "kind": "character",
+   "aliases": [
+    "The Doll"
+   ]
+  },
+  {
+   "name": "Eileen the Crow",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Djura",
+   "kind": "character",
+   "aliases": [
+    "Jura"
+   ]
+  },
+  {
+   "name": "Iron Reaper",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Arianna",
+   "kind": "character",
+   "aliases": [
+    "Ariana"
+   ]
+  },
+  {
+   "name": "Alfred",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Patches the Spider",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Gilbert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Insect-Clawed Woman",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Simon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Valtr",
+   "kind": "character",
+   "aliases": [
+    "Valta",
+    "Master of the League"
+   ]
+  },
+  {
+   "name": "Adella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Bath Messengers",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Provost Willem",
+   "kind": "character",
+   "aliases": [
+    "Provost Villim"
+   ]
+  },
+  {
+   "name": "Yosefka",
+   "kind": "character",
+   "aliases": [
+    "Yosephka"
+   ]
+  },
+  {
+   "name": "Queen Annalise",
+   "kind": "character",
+   "aliases": [
+    "Queen Anelise"
+   ]
+  },
+  {
+   "name": "Kin",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Insight",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Frenzy",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Formless Oedon",
+   "kind": "concept",
+   "aliases": [
+    "Formless Udin"
+   ]
+  },
+  {
+   "name": "Kos",
+   "kind": "concept",
+   "aliases": [
+    "Cost"
+   ]
+  },
+  {
+   "name": "Mergo",
+   "kind": "character",
+   "aliases": [
+    "MGO"
+   ]
+  },
+  {
+   "name": "Nightmare of Mensis",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Umbilical Cords",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Great Ones",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Pthumeru",
+   "kind": "location",
+   "aliases": [
+    "Pthumemeru"
+   ]
+  },
+  {
+   "name": "Pthumerian Queen",
+   "kind": "boss",
+   "aliases": [
+    "Thumrian Queen"
+   ]
+  },
+  {
+   "name": "The Old Hunters",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "The League",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Astral Clocktower",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig's Holy Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Rakuyo",
+   "kind": "weapon",
+   "aliases": [
+    "Ruyo"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Cleric Beast was deliberately placed early in the game to establish the scale and horror of Yharnam's transformed creatures.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Cleric Beast is deliberately oversized compared to the more human-scaled enemies fought before it.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Rom the Vacuous Spider was designed to feel like an alien, incomprehensible presence rather than a conventional boss fight.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Rom the Vacuous Spider's slow, deliberate movement contrasts with the game's typically fast, aggressive combat pacing.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Rom the Vacuous Spider causes the blood moon to rise and permanently alters enemy placement throughout much of the rest of the game.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Martyr Logarius, encountered within Cainhurst Castle, has a move set of sweeping weapon arcs evoking both religious devotion and aristocratic swordsmanship.",
+   "entities": [
+    "Martyr Logarius"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Witch of Hemwick is designed to feel unsettling through subtlety rather than scale or aggression, reflecting Hemwick's association with folk magic and domestic horror.",
+   "entities": [
+    "Witch of Hemwick"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Shadow of Yharnam boss fight involves three simultaneous enemies, testing players' ability to manage multiple threats, a departure from the game's usual single-enemy boss structure.",
+   "entities": [
+    "Shadow of Yharnam"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bloody Crow of Cainhurst is an optional boss designed as a skill test for experienced players, placed off the main path to reward thorough exploration.",
+   "entities": [
+    "Bloody Crow of Cainhurst"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Blood-Starved Beast has a poison-inflicting attack pattern designed to punish players who fight too close and aggressively without positioning awareness.",
+   "entities": [
+    "Blood-Starved Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Darkbeast Paarl, fought in the Forbidden Woods, uses lightning-based attacks that thematically synergize with the swampy, storm-associated environment.",
+   "entities": [
+    "Darkbeast Paarl"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Amygdala has an unusually vertical, spider-like design meant to evoke alien wrongness rather than conventional monstrousness.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Micolash, Host of the Nightmare, was designed as a fleeing, evasive boss rather than a standing fight, reflecting his fractured, elusive mental state.",
+   "entities": [
+    "Micolash"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas, Daughter of the Cosmos blends recognizable anatomical features with alien proportions, making her one of the clearest depictions of an actual Great One.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Wet Nurse's design emphasizes protective, maternal movement patterns, reinforcing its narrative role as a guardian rather than purely hostile threat.",
+   "entities": [
+    "Wet Nurse"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Celestial Emissary's attack patterns emphasize cosmic star-like visual effects, connecting it to the broader cosmic forces of the late game story.",
+   "entities": [
+    "Celestial Emissary"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman's boss fight has a melancholy, restrained combat rhythm distinct from the game's more aggressive standard boss pacing, reflecting his exhaustion and grief.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Moon Presence, the true final boss for most playthroughs, has an ethereal, dancelike movement pattern distinct from every other boss, reinforcing its cosmic rather than biological nature.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig, the Holy Blade has two combat phases, transitioning from a monstrous beast form back into a controlled knightlike style, reflecting his tragic duality.",
+   "entities": [
+    "Ludwig"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Orphan of Kos has one of the game's most aggressive, fast-paced move sets, reflecting its grounding in profound grief and rage.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Lady Maria of the Astral Clocktower's combat style mirrors the player character's move set and animations more closely than almost any other boss, reinforcing her shared hunting tradition.",
+   "entities": [
+    "Lady Maria of the Astral Clocktower"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Living Failures boss encounter features multiple simultaneous enemies evoking tragic failed experimental subjects, tied to the expansion's focus on scientific ambition and its casualties.",
+   "entities": [
+    "Living Failures"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Laurence, the First Vicar connects directly to the founding of the Healing Church, offering a rare direct confrontation with a historically significant figure.",
+   "entities": [
+    "Laurence, the First Vicar"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Each major boss encounter in Bloodborne triggers a unique musical theme rather than reusing generic combat music.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several boss arenas are shaped to funnel player movement in deliberate ways, such as the narrow ledges near Vicar Amelia's cathedral and the tight confines of certain chalice dungeon chambers.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Plain Doll was designed with deliberately restrained, minimal facial animation, reinforcing her uncertain status between person and constructed vessel.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several minor unnamed NPCs throughout Yharnam's streets, like shopkeepers and barricaded residents, are individually voiced rather than sharing reused audio.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain NPCs in Bloodborne can only be encountered once, offering a brief interaction before vanishing permanently, reinforcing the fleeting nature of relationships in the story.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman is voiced with a deliberately weary, understated vocal performance that reinforces his exhaustion through tone rather than dramatic delivery.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Eileen the Crow offers an optional quest line connected to hunting corrupted fellow hunters, reflecting hunters' internal self-policing and moral complexity.",
+   "entities": [
+    "Eileen the Crow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Djura, encountered in Old Yharnam, has dialogue emphasizing genuine grief and reluctance about the violence he continues to participate in.",
+   "entities": [
+    "Djura"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Reaper, a large Old Yharnam enemy protecting the district's ruins, can become an optional summonable ally depending on dialogue and interaction choices with Djura.",
+   "entities": [
+    "Iron Reaper",
+    "Djura"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Arianna has a small personal storyline connected to pregnancy and cosmic transformation, adding a human-scaled thread to the cosmic story.",
+   "entities": [
+    "Arianna"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alfred, a Cainhurst-affiliated NPC, has dialogue emphasizing religious zealotry and vengeance, contrasting with the more measured tone of other NPCs.",
+   "entities": [
+    "Alfred"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Plain Doll's simple, muted clothing was deliberately chosen to keep visual focus on her expressive, carefully animated eyes.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Patches the Spider, a recurring trickster character from other From Software titles, appears in Bloodborne with dialogue adapted to fit its cosmic themes.",
+   "entities": [
+    "Patches the Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bell Maiden and Bell Woman NPCs, tied to the multiplayer summoning systems, are designed with minimal characterization, functioning as mechanical fixtures rather than developed characters.",
+   "entities": [],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gilbert, an NPC in central Yharnam, has one of the game's more tragic personal storylines, tracking his physical transformation across multiple optional interactions.",
+   "entities": [
+    "Gilbert"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Insect-Clawed Woman is one of the game's earliest available merchant NPCs, offering blood vials and basic supplies.",
+   "entities": [
+    "Insect-Clawed Woman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Simon, a hunter NPC tied to a specific hidden weapon, has dialogue connected to Yharnam's themes of faith, sacrifice, and cosmic devotion.",
+   "entities": [
+    "Simon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Valtr, Master of the League, offers dialogue emphasizing organized resistance against the church's extreme cosmic ambitions, representing a distinct hunting tradition.",
+   "entities": [
+    "Valtr"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Adella, encountered in the Cathedral Ward, offers dialogue and an item exchange connected to themes of devotion and longing.",
+   "entities": [
+    "Adella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bath Messengers, ghostly figures tending the hunter's workshop, have a deliberately unsettling doll-like appearance reinforcing the Hunter's Dream's uncanny domesticity.",
+   "entities": [
+    "Bath Messengers",
+    "Hunter's Dream"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Provost Willem, discussed regarding Byrgenwerth's founding, appears directly as an interactable NPC offering rare dialogue from a historically foundational figure.",
+   "entities": [
+    "Provost Willem"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cathedral Ward's kneeling pale blood hunters are classified as passive NPCs rather than active enemies within the game's systems.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yosefka maintains a calm, measured vocal performance even during her most narratively unsettling later appearances.",
+   "entities": [
+    "Yosefka"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several NPC storylines in Bloodborne are designed to be easily missed, requiring precise timing, dialogue choices, and item usage to fully experience.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion introduces new NPCs, including Valtr and additional League members, deepening the hunting culture established in the base game.",
+   "entities": [
+    "Valtr",
+    "The League",
+    "The Old Hunters"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queen Annalise remains almost entirely stationary and enclosed throughout her single significant appearance, reinforcing her status as an imprisoned, waiting figure.",
+   "entities": [
+    "Queen Annalise"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several NPC vendors offer different pricing and item availability depending on the hunter's progression through the story.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Most Bloodborne NPC dialogue favors understatement and implication over dramatic exposition, consistent with the game's broader storytelling philosophy.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Nearly every significant NPC in Bloodborne carries a direct or indirect connection to blood, whether through transformation, hunting, or church affiliation.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Great Ones were designed to resist easy visual categorization, blending recognizable biological features with alien, incomprehensible proportions.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Kos is never directly fought as a conventional boss, remaining a massive, largely passive presence the hunter simply walks past.",
+   "entities": [
+    "Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas, Daughter of the Cosmos incorporates eye and tentacle motifs evoking classic literary cosmic horror imagery while maintaining an original visual identity.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Formless Oedon is associated primarily through environmental hints and an optional covenant rather than any direct boss encounter, remaining one of the story's unresolved cosmic threads.",
+   "entities": [
+    "Formless Oedon"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Insight was designed as both a narrative and mechanical system, altering visible enemy types as the hunter's insight value increases.",
+   "entities": [
+    "Insight"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Frenzy, a status effect tied to cosmic exposure, has a unique escalating visual and audio warning system distinct from other status effects, reinforcing its threat to sanity rather than physical health.",
+   "entities": [
+    "Frenzy"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Celestial enemy types found in late-game areas are explicitly connected to the Great Ones' cosmic threat rather than the localized beast plague.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Moon Presence has a design language distinct from every other Great One, incorporating elegant, balletic movement to reflect its unique role in shaping the hunter's journey.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Umbilical Cord items, connected to the Great Ones' reproductive processes, have a deliberately uncomfortable, organic visual appearance.",
+   "entities": [
+    "Umbilical Cords"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Mergo is never directly shown on screen throughout the game, remaining only an audible presence, reinforcing its significance through absence.",
+   "entities": [
+    "Mergo"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nightmare of Mensis has architecture and environmental design distinct from the rest of the game's Gothic city aesthetic, visually signaling arrival into alien, cosmically shaped territory.",
+   "entities": [
+    "Nightmare of Mensis"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several item descriptions describe the Great Ones as fundamentally indifferent to human concerns, neither malicious nor benevolent.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sound design for Great One encounters frequently incorporates deliberately dissonant, unsettling musical elements distinct from traditional orchestral boss themes.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Wet Nurse's design evokes both protective maternal care and genuine monstrous threat simultaneously.",
+   "entities": [
+    "Wet Nurse"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several Great One-related bosses feature unconventional movement patterns like floating, phasing, and teleporting, distinguishing them from grounded beast enemies.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Kin, an enemy category connected to failed or partial experiments in communion with the Great Ones, reflects the choir's ambitions.",
+   "entities": [
+    "Kin"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Amygdala appears not only as a defeatable boss but also as a recurring background presence visible clinging to distant rooftops throughout later areas.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's cosmic horror philosophy draws heavily from early 20th century literary tradition, emphasizing humanity's insignificance before cosmic forces.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several Great One-related items grant passive insight generation simply through possession, reinforcing that proximity to these entities alters perception.",
+   "entities": [
+    "Insight",
+    "Great Ones"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Enemy visibility tied to insight means some players may progress through the story without ever encountering certain Great One-connected enemies.",
+   "entities": [
+    "Insight"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Orphan of Kos is one of the clearest examples of a Great One-connected being whose motivations remain sympathetically comprehensible despite its alien nature.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several scholars and researchers connected to Byrgenwerth and the Choir are described as having sacrificed humanity and sanity in pursuit of communion with the Great Ones.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cosmic, Great One-related environments frequently incorporate starfields, celestial imagery, and impossible geometric patterns distinguishing them from the game's grounded Gothic architecture.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The relationship between the Great Ones and human reproduction, hinted at through item descriptions and the hidden true ending, was left deliberately ambiguous by the writers.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Nearly every major cosmic revelation in Bloodborne arrives through environmental storytelling and item descriptions rather than direct spoken exposition.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Concept artists for the Great Ones deliberately avoided overtly monstrous or predatory silhouettes, aiming for forms resembling misplaced natural phenomena.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream was designed with a persistently overcast, dusky lighting scheme distinct from the game's other environments, reinforcing its timeless, unchanging status.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream's ambient audio layers subtle woodland sounds like birdsong and rustling leaves, contrasting with Yharnam's industrial and religious soundscapes.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The sky over the Hunter's Dream remains permanently overcast and still, never shifting into clearer, star-filled patterns seen elsewhere.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream workshop layout remains almost entirely static throughout the entire game, one of the only locations that never meaningfully changes.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream includes a modest garden and a simple grave marker to add emotional texture to the hub space.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Plain Doll's dialogue and available interactions gradually expand throughout the game, reflecting her slow narrative development.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain optional gift items given to the Plain Doll trigger small additional dialogue responses.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream includes a small, still lake near its outer boundary, visually echoing the lake near Byrgenwerth.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman's animation in the Hunter's Dream, seated in his wheelchair near the workshop's central lamp, uses minimal movement to reinforce his physical confinement and weariness.",
+   "entities": [
+    "Gehrman",
+    "Hunter's Dream"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The golden light from the workshop's central lamp, used for warping and resting, visually connects to golden lighting motifs associated with grace and cosmic connection.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Optional headstones and memorial details in the Hunter's Dream's garden are widely interpreted as connected to previous hunters who passed through Gehrman's care.",
+   "entities": [
+    "Hunter's Dream",
+    "Gehrman"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream functions as the hunter's primary hub space, a structural choice shared with other From Software titles but given added narrative weight through its cosmic connections.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Music associated with the Hunter's Dream was composed to feel gentle and melancholy rather than tense or foreboding.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bath Messengers who tend the Hunter's Dream workshop are mechanically responsible for storing items the hunter chooses not to carry.",
+   "entities": [
+    "Bath Messengers",
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain specific player actions and item combinations can trigger subtle alterations to the Hunter's Dream's appearance, particularly tied to the hidden true ending.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Plain Doll's eyes were designed with unusually detailed and expressive animation compared to the rest of her character model, as a deliberate focal point.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Some players and lore researchers have noted subtle physical similarities between the Plain Doll's model and Lady Maria's model, suggesting a narrative connection.",
+   "entities": [
+    "Plain Doll",
+    "Lady Maria of the Astral Clocktower"
+   ],
+   "category": "theory",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's attribute allocation system requires permanent investment throughout a playthrough, unlike later From Software titles with reallocatable character building.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream's comforting stillness contrasts with the escalating chaos and violence of the waking city, reinforcing its role as a temporary refuge.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Optional dialogue exchanges with Gehrman gradually reveal more of his backstory and growing exhaustion, rewarding repeated visits.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The transition animation when entering or exiting the Hunter's Dream is a slow, dreamlike fade, reinforcing the space's liminal status.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Multiple hidden or easily missed items exist within the Hunter's Dream, rewarding thorough exploration.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Plain Doll's ultimate fate and true nature remain deliberately unconfirmed even at the end of most standard playthroughs.",
+   "entities": [
+    "Plain Doll"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman's final confrontation with the hunter takes place within the Hunter's Dream itself, bringing the story full circle.",
+   "entities": [
+    "Gehrman",
+    "Hunter's Dream"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The flowers and plants in the Hunter's Dream's garden were chosen to evoke real historical Victorian mourning and memorial garden traditions.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The proportions and layout of the Hunter's Dream workshop closely mirror real historical apothecary and physician workshop designs, connecting to Gehrman's origins as a healer.",
+   "entities": [
+    "Hunter's Dream",
+    "Gehrman"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter's Dream remains even after the story concludes through any of the game's several possible endings, making it one of the most fondly remembered locations in the fan community.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Chalice Dungeons represent an entirely optional layer of content generating procedurally structured underground labyrinths distinct from the handcrafted main story areas.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Chalice Dungeons are accessed using ritual items called chalices, each connected to a particular layer or type of dungeon.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain chalice dungeon configurations are fixed, hand-designed layouts reserved for significant story-relevant content, including areas connected to a Yharnam-founding queen.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The deepest layers of the chalice dungeon system connect narratively to an ancient civilization predating Yharnam's recorded history, which pursued its own relationship with the Great Ones.",
+   "entities": [
+    "Chalice Dungeons",
+    "Pthumeru"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Several unique bosses exist exclusively within the Chalice Dungeon system, encountered nowhere else in the game.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Chalice Dungeon system supports cooperative multiplayer exploration, allowing groups of players to descend through the procedural labyrinths together.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare and powerful blood gems used in weapon customization are found exclusively or primarily within the Chalice Dungeon system.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The architecture of the Chalice Dungeons was designed to feel older and more alien than Yharnam's Gothic cityscape.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Pthumeru, the primary civilization associated with the Chalice Dungeon system, developed sophisticated blood-related rituals and technologies distinct from but related to Byrgenwerth's traditions.",
+   "entities": [
+    "Pthumeru"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Several enemy types found exclusively within the Chalice Dungeons have designs distinct from the rest of the game, suggesting the ancient civilization developed its own variant of beasthood and cosmic corruption.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Pthumerian Queen, a boss connected to the deepest chalice dungeon content, connects directly to Yharnam's founding mythology.",
+   "entities": [
+    "Pthumerian Queen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The ritual language and item flavor text of the Chalice Dungeon system draws heavily on real historical burial ritual vocabulary.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain chalice dungeon layers can only be accessed by combining specific ritual materials in particular configurations, creating a crafting minigame for access.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Chalice Dungeon difficulty generally scales upward the deeper players descend, mirroring the main story's escalating difficulty.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion was designed to deepen and complicate the base game's existing lore rather than introduce a disconnected new storyline.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion introduces the Hunter's Nightmare, a new major area designed to feel like a distorted, nightmarish reflection of Yharnam's Gothic aesthetic.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion's shorter runtime was paced to feel dense and eventful, introducing new locations, weapons, and bosses at a faster rate than the main campaign's opening hours.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig and Lady Maria were designed as among the most mechanically challenging fights in the entire game, reflecting the expansion's focus on rewarding experienced players.",
+   "entities": [
+    "Ludwig",
+    "Lady Maria of the Astral Clocktower",
+    "The Old Hunters"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Fishing Hamlet was designed with a distinct coastal, fog-heavy visual atmosphere distinguishing it from Yharnam's urban Gothic environments.",
+   "entities": [
+    "Fishing Hamlet"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig's Holy Blade and Rakuyo remain among the most popular and frequently used weapons in the game's community even years after the expansion's release.",
+   "entities": [
+    "Ludwig's Holy Blade",
+    "Rakuyo"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion's narrative timeline is framed as occurring in the past relative to the base game's main story.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Provost Willem plays a more direct and significant role in the Old Hunters expansion story than in the base game.",
+   "entities": [
+    "Provost Willem",
+    "The Old Hunters"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion introduces a new hunting organization called the League, expanding the game's web of competing hunting traditions.",
+   "entities": [
+    "The League",
+    "The Old Hunters"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several environmental storytelling details in the Old Hunters expansion directly connect to and recontextualize base game locations and events.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Astral Clocktower, home to Lady Maria's boss encounter, features architecture and visual design evoking cosmic celestial themes.",
+   "entities": [
+    "Astral Clocktower",
+    "Lady Maria of the Astral Clocktower"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

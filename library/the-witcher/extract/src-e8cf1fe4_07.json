@@ -1,0 +1,1369 @@
+{
+ "entities": [
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt",
+    "the Witcher"
+   ]
+  },
+  {
+   "name": "Duny/Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "Duny",
+    "Emhyr var Emreis",
+    "Urcheon of Erlenwald",
+    "Deithwen Addan yn Carn aep Morvudd",
+    "White Flame Dancing on the Graves of His Enemies"
+   ]
+  },
+  {
+   "name": "Pavetta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Queen Calanthe",
+   "kind": "character",
+   "aliases": [
+    "Lioness of Cintra",
+    "Calanthe"
+   ]
+  },
+  {
+   "name": "Cirilla Fiona Elen Riannon",
+   "kind": "character",
+   "aliases": [
+    "Ciri",
+    "Cirilla",
+    "Falka",
+    "Zireael",
+    "Lady of Time and Space"
+   ]
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Yennefer"
+   ]
+  },
+  {
+   "name": "Istredd",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Yarpen Zigrin",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Crinfrid Reapers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "King Foltest",
+   "kind": "character",
+   "aliases": [
+    "Foltest"
+   ]
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": [
+    "Julian Alfred Pankratz"
+   ]
+  },
+  {
+   "name": "Hallbjorn",
+   "kind": "character",
+   "aliases": [
+    "Hallbjorn son of Guthlaf"
+   ]
+  },
+  {
+   "name": "Eist Tuirseach",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Adalja",
+   "kind": "character",
+   "aliases": [
+    "old Adalja"
+   ]
+  },
+  {
+   "name": "Sedna Abyss",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Ard Skellig"
+   ]
+  },
+  {
+   "name": "Vilgefortz of Roggeveen",
+   "kind": "character",
+   "aliases": [
+    "Vilgefortz",
+    "Yilgefortz"
+   ]
+  },
+  {
+   "name": "Ithlinne Aegli aep Aevenien",
+   "kind": "character",
+   "aliases": [
+    "Ithlinne"
+   ]
+  },
+  {
+   "name": "Aen Seidhe",
+   "kind": "faction",
+   "aliases": [
+    "Blood of Elves"
+   ]
+  },
+  {
+   "name": "Lara Dorren aep Shiadhal",
+   "kind": "character",
+   "aliases": [
+    "Lara Dorren"
+   ]
+  },
+  {
+   "name": "Cregennan of Lod",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Avallac'h",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Aen Saevherne",
+   "kind": "faction",
+   "aliases": [
+    "Knowing Ones",
+    "Sages"
+   ]
+  },
+  {
+   "name": "Brokilon Forest",
+   "kind": "location",
+   "aliases": [
+    "Brokilon"
+   ]
+  },
+  {
+   "name": "Triss Merigold",
+   "kind": "character",
+   "aliases": [
+    "Triss"
+   ]
+  },
+  {
+   "name": "Milva",
+   "kind": "character",
+   "aliases": [
+    "Mary Barring"
+   ]
+  },
+  {
+   "name": "Zoltan Chivay",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Emiel Regis Rohellec Terzieff-Godefroy",
+   "kind": "character",
+   "aliases": [
+    "Regis"
+   ]
+  },
+  {
+   "name": "Cahir Mawr Dyffryn aep Ceallach",
+   "kind": "character",
+   "aliases": [
+    "Cahir"
+   ]
+  },
+  {
+   "name": "Angouleme",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Toussaint",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Anna Henrietta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fringilla Vigo",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": [
+    "the Lodge"
+   ]
+  },
+  {
+   "name": "Dijkstra",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Scoia'tael",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Redania",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Nilfgaard",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgaardian Empire"
+   ]
+  },
+  {
+   "name": "Thanedd Coup",
+   "kind": "event",
+   "aliases": [
+    "summit of mages"
+   ]
+  },
+  {
+   "name": "Tor Lara",
+   "kind": "location",
+   "aliases": [
+    "Lara's Teleport",
+    "Benavent's Portal"
+   ]
+  },
+  {
+   "name": "Tor Zireael",
+   "kind": "location",
+   "aliases": [
+    "Tower of the Swallow"
+   ]
+  },
+  {
+   "name": "Korath Desert",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Border Rats",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Leo Bonhart",
+   "kind": "character",
+   "aliases": [
+    "Bonhart"
+   ]
+  },
+  {
+   "name": "Stefan Skellen",
+   "kind": "character",
+   "aliases": [
+    "Tawny Owl"
+   ]
+  },
+  {
+   "name": "Vysogota of Corvo",
+   "kind": "character",
+   "aliases": [
+    "Vysogota"
+   ]
+  },
+  {
+   "name": "Aen Elle",
+   "kind": "faction",
+   "aliases": [
+    "Alder Folk"
+   ]
+  },
+  {
+   "name": "Eredin Breacc Glas",
+   "kind": "character",
+   "aliases": [
+    "Eredin"
+   ]
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Mother Nenneke",
+   "kind": "character",
+   "aliases": [
+    "Nenneke"
+   ]
+  },
+  {
+   "name": "Melitele's Temple",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Aretuza",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Isle of Thanedd",
+   "kind": "location",
+   "aliases": [
+    "Thanedd Island"
+   ]
+  },
+  {
+   "name": "First Nilfgaard War",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Cintra Massacre",
+   "kind": "history",
+   "aliases": [
+    "Slaughter of Cintra"
+   ]
+  },
+  {
+   "name": "Peace of Sodden",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Yaruga River",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Stygga Citadel",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Claremont Arena",
+   "kind": "location",
+   "aliases": [
+    "Claremont"
+   ]
+  },
+  {
+   "name": "Sodden Hill",
+   "kind": "history",
+   "aliases": [
+    "Battle of Sodden Hill"
+   ]
+  },
+  {
+   "name": "White Frost",
+   "kind": "world",
+   "aliases": [
+    "Tedd Deireadh",
+    "Time of the Sword and Axe"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Geralt of Rivia recognized that a hedgehog-like beast called the Urcheon was actually a cursed man, not a true monster, and prevented it from being killed.",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Urcheon of Erlenwald was revealed to be a duke from the south named Duny.",
+   "entities": [
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Queen Calanthe eventually agreed to give her daughter Pavetta as Duny's bride, which lifted his curse.",
+   "entities": [
+    "Queen Calanthe",
+    "Pavetta",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Duny offered to give Geralt of Rivia anything he desired out of gratitude for lifting his curse.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Geralt of Rivia invoked the Law of Surprise, demanding 'that which Duny already had, though he did not know it.'",
+   "entities": [
+    "Geralt of Rivia",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Unknown to Duny at the time, his new bride Pavetta was already pregnant, meaning Geralt of Rivia's Law of Surprise claim secured him rights to the unborn child, the future Cirilla of Cintra.",
+   "entities": [
+    "Geralt of Rivia",
+    "Pavetta",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After the events in Cintra, Geralt of Rivia left and continued wandering the world for about ten years before fate intervened again.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Geralt of Rivia gained great fame for lifting the curse on King Foltest's daughter, who had been transformed into a striga terrorizing Vizima.",
+   "entities": [
+    "Geralt of Rivia",
+    "King Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Geralt of Rivia and Dandelion met Yarpen Zigrin and his gang of dragon hunters, the Crinfrid Reapers, and Geralt refused to let them kill a dragon.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion",
+    "Yarpen Zigrin",
+    "Crinfrid Reapers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Yennefer had feelings for a fellow mage named Istredd and could not choose between him and Geralt of Rivia, leading her to repeatedly leave and return to Geralt over the years.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Istredd",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Hallbjorn, a Skellige seaman, recounted that Pavetta and her husband Duny died in a mysterious storm-related maritime accident, which the islanders blamed on the Geas Muire, the Curse of the Sea.",
+   "entities": [
+    "Hallbjorn",
+    "Pavetta",
+    "Duny/Emhyr var Emreis",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "According to Hallbjorn's account, storms over Skellige were long believed to occur whenever the royal blood of Cintra was spilled, including after the deaths of Adalja and Calanthe.",
+   "entities": [
+    "Hallbjorn",
+    "Adalja",
+    "Queen Calanthe",
+    "Skellige"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sedna Abyss is a feared location near Skellige where ships have vanished without a trace.",
+   "entities": [
+    "Sedna Abyss"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ten years after the feast in Cintra, Geralt of Rivia visited Calanthe once to formally disavow his rights to Pavetta's child under the Law of Surprise, not wanting to expose the child to witcher training or take them from their family.",
+   "entities": [
+    "Geralt of Rivia",
+    "Queen Calanthe",
+    "Pavetta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Unbeknownst to Geralt of Rivia, Pavetta's child was a girl, and he only learned this years later when he rescued the child from a monster in Brokilon Forest.",
+   "entities": [
+    "Geralt of Rivia",
+    "Pavetta",
+    "Cirilla Fiona Elen Riannon",
+    "Brokilon Forest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ciri survived exposure to the memory-depleting Water of Brokilon while in the dryads' forest.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Brokilon Forest"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "After rescuing Ciri, Geralt of Rivia chose not to take her with him, instead sending her back to Calanthe to be raised under the care of the druid Ermion.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon",
+    "Queen Calanthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Shortly after Geralt of Rivia returned Ciri to Cintra, the First Nilfgaard War broke out.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "First Nilfgaard War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "During the Cintra Massacre, Queen Calanthe died and it was widely believed her granddaughter Ciri had also perished.",
+   "entities": [
+    "Queen Calanthe",
+    "Cirilla Fiona Elen Riannon",
+    "Cintra Massacre"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Ciri actually survived the Cintra Massacre and found shelter first with druids, then with a peasant family in Riverdell.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Cintra Massacre"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Geralt of Rivia found Ciri again by chance after saving the life of a farmer who turned out to be sheltering her in Riverdell.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "After reuniting with Ciri, Geralt of Rivia took her to the isolated witcher fortress Kaer Morhen to hide her from Nilfgaard and other schemers.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Ciri trained in swordplay at Kaer Morhen under Geralt of Rivia, Vesemir, and the other witchers for roughly a year and a half.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Geralt of Rivia",
+    "Vesemir",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Ciri's true father is Emhyr var Emreis, the emperor of Nilfgaard, a fact kept secret from nearly everyone including Geralt of Rivia for a long time.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Duny/Emhyr var Emreis",
+    "Geralt of Rivia"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt of Rivia and his fellow witchers decided Ciri needed a more well-rounded education, so she was sent to Melitele's Temple in Ellander under Mother Nenneke.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Geralt of Rivia",
+    "Melitele's Temple",
+    "Mother Nenneke"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Ciri was discovered to be a source, a person with dormant magical talents and prophetic abilities.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Ciri studied history, geography, Elder Speech, and runic calligraphy at Melitele's Temple for over a year under Mother Nenneke.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Mother Nenneke"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Yennefer was asked by Geralt of Rivia to guide Ciri's magical instruction, and their initially cold relationship warmed over time.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Ciri was meant to continue her education at Aretuza, the sorceress academy on the Isle of Thanedd, after her year at Ellander.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Aretuza",
+    "Isle of Thanedd"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "The emperor of Nilfgaard, Emhyr var Emreis, is also known as Deithwen Addan yn Carn aep Morvudd, the White Flame Dancing on the Graves of His Enemies.",
+   "entities": [
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Duny, the Urcheon of Erlenwald whose curse Geralt of Rivia lifted, was in fact Emhyr var Emreis, heir to the Nilfgaardian throne.",
+   "entities": [
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As a young teenager, Emhyr var Emreis was cursed into a half-man, half-hedgehog form by mages working for the man who usurped and murdered his father, the rightful emperor.",
+   "entities": [
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Emhyr var Emreis fled to Cintra seeking a cure for his curse, as prophecy suggested he might find one there.",
+   "entities": [
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Calanthe never fully trusted her son-in-law Duny/Emhyr var Emreis.",
+   "entities": [
+    "Queen Calanthe",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Duny/Emhyr var Emreis plotted with the Cintran army to retake the imperial Nilfgaardian throne while married to Pavetta.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Pavetta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "A mysterious mage helped Emhyr var Emreis fake his family's death in a staged shipwreck in order to secretly teleport them to Nilfgaard during an uprising meant to place him on the throne.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Pavetta",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Ciri did not board the ship during the faked shipwreck, likely because Pavetta, herself a powerful source, saw through Emhyr's plan and protected her daughter.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Pavetta",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 11
+  },
+  {
+   "text": "During a violent argument when Emhyr var Emreis realized Ciri was not aboard, Pavetta fell overboard and died; the mage then teleported the ship to Nilfgaardian land too late to save her.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Pavetta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Once he secured the Nilfgaardian throne, Emhyr var Emreis declared war on Cintra partly to recover control over his daughter Ciri.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Before her death, Calanthe managed to get Ciri out of Cintra's capital, causing Emhyr var Emreis to lose track of his daughter a second time.",
+   "entities": [
+    "Queen Calanthe",
+    "Cirilla Fiona Elen Riannon",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The mage who had been secretly collaborating with Emhyr var Emreis for years, and who told him of Ithlinne's prophecy, was later revealed to be Vilgefortz of Roggeveen.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Vilgefortz of Roggeveen",
+    "Ithlinne Aegli aep Aevenien"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vilgefortz of Roggeveen was a renowned hero of the Battle of Sodden Hill, a member of the Chapter of Mages, and a decorated veteran of the First Nilfgaard War before his treason was revealed.",
+   "entities": [
+    "Vilgefortz of Roggeveen",
+    "Sodden Hill",
+    "First Nilfgaard War"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Emhyr var Emreis promised Vilgefortz of Roggeveen control over new provinces carved from the conquered Northern Realms in exchange for his help finding Ciri.",
+   "entities": [
+    "Duny/Emhyr var Emreis",
+    "Vilgefortz of Roggeveen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Vilgefortz of Roggeveen secretly planned to betray Emhyr var Emreis and use Ciri to gain power over time and space.",
+   "entities": [
+    "Vilgefortz of Roggeveen",
+    "Cirilla Fiona Elen Riannon",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The prophecy of Ithlinne Aegli aep Aevenien foretold the Time of the Sword and Axe, the White Frost, and the Final Age (Tedd Deireadh), stating the world would perish in ice and be reborn through the Elder Blood.",
+   "entities": [
+    "Ithlinne Aegli aep Aevenien",
+    "White Frost"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ithlinne's prophecy stated that first the earth would flow with the blood of the Aen Seidhe, the Blood of Elves.",
+   "entities": [
+    "Ithlinne Aegli aep Aevenien",
+    "Aen Seidhe"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The kings of the North wanted to prevent Ciri from marrying Emperor Emhyr var Emreis, which would have legitimized his claim to Cintra's throne.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The Peace of Sodden between the North and Nilfgaard was fragile, with both sides waiting for an opportunity to attack the other.",
+   "entities": [
+    "Peace of Sodden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Geralt of Rivia learned from Northern intelligence about the search for Ciri and decided placing her at Aretuza under Yennefer's care would be safer due to the academy's strong defenses.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon",
+    "Aretuza",
+    "Yennefer of Vengerberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "A summit of mages on the Isle of Thanedd, meant to unite magic users, ended in an attempted coup and civil war among mages, known as the Thanedd Coup.",
+   "entities": [
+    "Isle of Thanedd",
+    "Thanedd Coup"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "During the Thanedd Coup, Scoia'tael guerrillas fought for the empire's faction while Redanian special forces sided with the other faction.",
+   "entities": [
+    "Thanedd Coup",
+    "Scoia'tael",
+    "Redania"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "During the Thanedd Coup, Geralt of Rivia killed several elves and a traitorous mage, and broke the leg of Redanian spymaster Dijkstra.",
+   "entities": [
+    "Geralt of Rivia",
+    "Thanedd Coup",
+    "Dijkstra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "During the Thanedd Coup, Vilgefortz of Roggeveen revealed his true traitorous allegiance and brutally defeated Geralt of Rivia in single combat using a magical steel club.",
+   "entities": [
+    "Vilgefortz of Roggeveen",
+    "Geralt of Rivia",
+    "Thanedd Coup"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "After being crushed by Vilgefortz of Roggeveen, Geralt of Rivia was rescued by Triss Merigold, who teleported him to Brokilon Forest to recover under the dryads' magic.",
+   "entities": [
+    "Geralt of Rivia",
+    "Triss Merigold",
+    "Brokilon Forest",
+    "Vilgefortz of Roggeveen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "After the Thanedd Coup, Yennefer disappeared and was branded a traitor and Vilgefortz's co-conspirator by her fellow sorceresses.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Thanedd Coup",
+    "Vilgefortz of Roggeveen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Following the Thanedd Coup, Nilfgaardian troops crossed the Yaruga river and began defeating the Northern allies, gradually seizing their lands.",
+   "entities": [
+    "Nilfgaard",
+    "Yaruga River"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Geralt of Rivia set out from Brokilon to search for Ciri, initially planning to travel to Nilfgaard itself.",
+   "entities": [
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon",
+    "Brokilon Forest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Geralt of Rivia's search party included Dandelion, Milva, Zoltan Chivay, Emiel Regis Rohellec Terzieff-Godefroy, and Cahir Mawr Dyffryn aep Ceallach.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion",
+    "Milva",
+    "Zoltan Chivay",
+    "Emiel Regis Rohellec Terzieff-Godefroy",
+    "Cahir Mawr Dyffryn aep Ceallach"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Cahir Mawr Dyffryn aep Ceallach was a young Nilfgaardian originally sent by Emperor Emhyr var Emreis to find Ciri, but he abandoned his mission to help Geralt's group instead.",
+   "entities": [
+    "Cahir Mawr Dyffryn aep Ceallach",
+    "Duny/Emhyr var Emreis",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Geralt of Rivia's party traveled through Brugge, Sodden, Riverdell, and Angren while searching for Ciri, seeking guidance from druids in Angren.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Zoltan Chivay and his band of dwarves parted from Geralt of Rivia's group to return to their homeland of Mahakam.",
+   "entities": [
+    "Zoltan Chivay",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Angouleme, a teenage adventuress, joined Geralt of Rivia's group after they crossed the Yaruga into Nilfgaardian-annexed territory.",
+   "entities": [
+    "Angouleme",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Geralt of Rivia met the elf Avallac'h, who revealed the secrets of Ciri's ancestry to him.",
+   "entities": [
+    "Geralt of Rivia",
+    "Avallac'h",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Through her mother Pavetta, grandmother Calanthe, and ancestor Riannon, Ciri is a direct descendant of the elven Sage Lara Dorren aep Shiadhal.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Pavetta",
+    "Queen Calanthe",
+    "Lara Dorren aep Shiadhal"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lara Dorren aep Shiadhal was an elven sorceress and member of the Aen Saevherne, the Knowing Ones or Sages.",
+   "entities": [
+    "Lara Dorren aep Shiadhal",
+    "Aen Saevherne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Lara Dorren aep Shiadhal carried an unusually strong line of Hen Ichaer (Elder Blood) and was destined to marry a chosen elf and bear a child able to control the Gates of Time to save the elves from the White Frost.",
+   "entities": [
+    "Lara Dorren aep Shiadhal",
+    "White Frost"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Lara Dorren rebelled against her destiny and instead bound her life to a human mage, Cregennan of Lod, bearing his child.",
+   "entities": [
+    "Lara Dorren aep Shiadhal",
+    "Cregennan of Lod"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Both Lara Dorren and Cregennan of Lod died soon after their child's birth—he killed by elves, she from cold and exhaustion while fleeing pursuers—but their child survived and began the bloodline leading to Cirilla Fiona Elen Riannon.",
+   "entities": [
+    "Lara Dorren aep Shiadhal",
+    "Cregennan of Lod",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Ithlinne, the elven seer who made the White Frost prophecy, was known to elves as Zireael, the Swallow, a harbinger of rebirth after the White Frost.",
+   "entities": [
+    "Ithlinne Aegli aep Aevenien",
+    "White Frost"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Avallac'h warned Geralt of Rivia that his search for Ciri was misguided, insisting she did not need protection and that interference with her fate would bring horrendous consequences.",
+   "entities": [
+    "Avallac'h",
+    "Geralt of Rivia",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Geralt of Rivia's group lost Ciri's trail near the autonomous duchy of Toussaint, ruled by Duchess Anna Henrietta, and decided to rest there.",
+   "entities": [
+    "Geralt of Rivia",
+    "Toussaint",
+    "Anna Henrietta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "In Toussaint, Geralt of Rivia became close with Fringilla Vigo, a Nilfgaardian sorceress and relative of Anna Henrietta.",
+   "entities": [
+    "Geralt of Rivia",
+    "Fringilla Vigo",
+    "Anna Henrietta"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Fringilla Vigo seduced Geralt of Rivia to spy on him, acting on behalf of the secret Lodge of Sorceresses rather than Emperor Emhyr var Emreis.",
+   "entities": [
+    "Fringilla Vigo",
+    "Geralt of Rivia",
+    "Lodge of Sorceresses",
+    "Duny/Emhyr var Emreis"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Lodge of Sorceresses was founded after the Thanedd Coup by powerful female mages who sought revenge on Vilgefortz and wanted to find and educate Ciri, then marry her to a Koviri duke to place a sorceress-aligned ruler on the throne.",
+   "entities": [
+    "Lodge of Sorceresses",
+    "Thanedd Coup",
+    "Vilgefortz of Roggeveen",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "While hunting a monster in Toussaint, Geralt of Rivia overheard information revealing Vilgefortz of Roggeveen's hiding place, prompting him to resume the search for Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Toussaint",
+    "Vilgefortz of Roggeveen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Tor Lara, also called Benavent's Portal, is an ancient, unpredictable magical teleport located at the top of Gull Tower on the Isle of Thanedd, with unknown destination and operating principles.",
+   "entities": [
+    "Tor Lara",
+    "Isle of Thanedd"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "While fleeing Vilgefortz during the Thanedd Coup, Ciri stepped into the Tor Lara portal and was transported to the edge of the Korath Desert near the Nilfgaardian Empire's eastern border.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Vilgefortz of Roggeveen",
+    "Thanedd Coup",
+    "Tor Lara",
+    "Korath Desert"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "After nearly dying in the Korath Desert and narrowly avoiding Nilfgaardian capture, Ciri was rescued by an outlaw band called the Border Rats.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Korath Desert",
+    "Border Rats"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Ciri traveled with the Border Rats for several months under the assumed name Falka, earning their respect as a fighter.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Border Rats"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "The bounty hunter Leo Bonhart slaughtered the Border Rats but spared Ciri, recognizing her identity as Falka and intending to collect the bounty on her head.",
+   "entities": [
+    "Leo Bonhart",
+    "Border Rats",
+    "Cirilla Fiona Elen Riannon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Leo Bonhart forced Ciri to fight as a gladiator in the arena at Claremont for his own amusement.",
+   "entities": [
+    "Leo Bonhart",
+    "Cirilla Fiona Elen Riannon",
+    "Claremont Arena"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Leo Bonhart planned to hand Ciri over to Vilgefortz of Roggeveen and his ally Stefan Skellen, known as the Tawny Owl, but Ciri escaped, sustaining a wound that left a scar on her face.",
+   "entities": [
+    "Leo Bonhart",
+    "Cirilla Fiona Elen Riannon",
+    "Vilgefortz of Roggeveen",
+    "Stefan Skellen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "After escaping Bonhart, Ciri found shelter with the hermit Vysogota of Corvo, a former Oxenfurt Academy professor exiled for his controversial philosophical writings.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Vysogota of Corvo"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Vysogota of Corvo told Ciri about the Tower of the Swallow, Tor Zireael, which housed a teleport magically linked to Tor Lara on Thanedd.",
+   "entities": [
+    "Vysogota of Corvo",
+    "Cirilla Fiona Elen Riannon",
+    "Tor Zireael",
+    "Tor Lara"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "At Tor Zireael, Ciri's inherited Elder Blood awakened, granting her mastery over space and time and making her the Lady of Time and Space.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Tor Zireael"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "When Ciri stepped into the portal at Tor Zireael hoping to reach Thanedd, she instead arrived in the world of the Aen Elle.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Tor Zireael",
+    "Aen Elle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "In the world of the Aen Elle, Ciri became a pawn in a political conflict between the Sage Avallac'h and Eredin Breacc Glas, leader of the Wild Hunt.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Avallac'h",
+    "Eredin Breacc Glas",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "The Aen Elle believed they were owed a debt from Lara Dorren's betrayal of Ithlinne's prophecy, and wanted Ciri to bear a child with power over the Gate of the Worlds.",
+   "entities": [
+    "Aen Elle",
+    "Lara Dorren aep Shiadhal",
+    "Cirilla Fiona Elen Riannon",
+    "Ithlinne Aegli aep Aevenien"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "Ciri fled the Aen Elle world using her growing ability to move between worlds, evading Eredin Breacc Glas and his Wild Hunt riders.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Eredin Breacc Glas",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "After fleeing the Aen Elle, Ciri became lost across unknown times and places before finally arriving at the gates of Stygga Citadel, where Vilgefortz of Roggeveen was hiding.",
+   "entities": [
+    "Cirilla Fiona Elen Riannon",
+    "Stygga Citadel",
+    "Vilgefortz of Roggeveen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

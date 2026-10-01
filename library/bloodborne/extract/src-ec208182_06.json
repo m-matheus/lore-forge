@@ -1,0 +1,428 @@
+{
+ "entities": [
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": [
+    "Choir",
+    "the Church"
+   ]
+  },
+  {
+   "name": "Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Yarnham",
+    "Yannam"
+   ]
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Bloodborne",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Hiataka Miyazaki"
+   ]
+  },
+  {
+   "name": "Demon's Souls",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Dark Souls",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "In Bloodborne's visual design, the color gold is generally used to signal cosmic significance.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "In Bloodborne's visual design, deep red is consistently used to reinforce the game's central theme of blood.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Characters and creatures affiliated with the Healing Church are visually associated with a pale, near-white coloring that reinforces their thematic distance from ordinary humanity.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's art team used recurring symbolic shapes, including spirals, umbilical curves, and radiating starbursts, throughout the game's visual design to reinforce its cosmic themes.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's environmental design uses negative space and shadow to guide player attention and reinforce atmosphere without explicit lighting cues or interface markers.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several weapon and armor icons in Bloodborne's menu interface contain subtle symbolic details beyond their literal representation.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The visual treatment of eyes throughout Bloodborne, whether literal enemy anatomy or architectural symbolism, reinforces the thematic connection between cosmic sight, insight, and perception.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Dedicated fan analyses have catalogued and interpreted Bloodborne's recurring visual motifs, connecting specific symbols and colors to broader thematic and narrative significance.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Art students and design educators have used Bloodborne as a case study example of cohesive visual world-building in interactive media.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Beyond the main story bosses, Bloodborne contains optional superboss-tier encounters in both the base game and its expansion content.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some players intentionally seek out Bloodborne's optional superboss content only after finishing the main story once, treating it as a voluntary return rather than unfinished business.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's optional endgame superboss encounters were calibrated with considerably higher difficulty than the game's required story bosses.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's optional superbosses are often placed behind easily missed pathways or require specific item combinations to access.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The community actively debates which of Bloodborne's optional endgame encounters is the single most difficult challenge in the game.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some of Bloodborne's most demanding optional superbosses are found within certain Chalice Dungeon configurations.",
+   "entities": [
+    "Bloodborne",
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The community has developed specialized endgame builds and equipment loadouts optimized for tackling Bloodborne's most demanding optional encounters.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Bloodborne's optional superbosses grants unique weapons, armor pieces, and blood gems unavailable through any other means.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The name 'Bloodborne' was chosen relatively late in development, according to retrospective interviews with the creative team.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The title 'Bloodborne' was chosen to evoke both the game's literal blood-based mechanics and a broader sense of something ancient being carried forward through blood across generations.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's original marketing campaign deliberately emphasized its atmospheric gothic horror tone over purely mechanical gameplay footage.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Early marketing trailers for Bloodborne withheld extensive plot or lore explanation, consistent with the game's overall storytelling restraint.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's logo design used Gothic typography against a blood red backdrop to immediately communicate the game's visual and thematic identity.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Promotional events and press previews before Bloodborne's release emphasized hands-on combat demonstrations, letting early audiences experience its aggressive combat philosophy before formal reviews were published.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's original announcement generated excitement due to director Hidetaka Miyazaki's established reputation from Demon's Souls and Dark Souls.",
+   "entities": [
+    "Bloodborne",
+    "Hidetaka Miyazaki",
+    "Demon's Souls",
+    "Dark Souls"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Limited collector's editions of Bloodborne were released alongside launch, including physical merchandise and art books.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's marketing materials consistently emphasized themes of blood, transformation, and cosmic mystery without spoiling specific narrative details.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Retrospective interviews with Bloodborne's development team have revealed how certain ideas and systems evolved considerably between initial pitch and final release.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Item descriptions and environmental details throughout Bloodborne hint at ordinary daily life in Yharnam before the plague's worst outbreaks, including market stalls, modest homes, and family trades.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Small shrines and personal altars scattered throughout Yharnam's residential district suggest ordinary Yharnamites maintained private devotional practices alongside their formal relationship with the Healing Church.",
+   "entities": [
+    "Yharnam",
+    "Healing Church"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Bloodborne's environmental design includes small trade-specific buildings such as tanneries, bakeries, and apothecaries, suggesting Yharnam had a diverse working economy before its recent blood-focused prosperity.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Several item descriptions in Bloodborne reference ordinary Yharnamite customs and traditions unrelated to blood ministration.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Children's toys and belongings are occasionally found scattered throughout certain residential areas of Yharnam, adding a quiet human layer of tragedy to the city's catastrophe.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Several NPCs in Bloodborne reference specific ordinary pre-plague memories and relationships, offering glimpses of Yharnam before the crisis.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Dedicated fan projects have focused on cataloging and imagining Yharnam's pre-plague ordinary life based on scattered environmental and textual clues.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne continues to attract new players every year, many discovering it after its original release through retrospective content, word of mouth, or curiosity about its reputation.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's patient, restrained storytelling approach has become increasingly distinctive as the broader gaming industry has moved toward more explicit, heavily guided narrative delivery.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Critics and players credit Bloodborne with demonstrating that atmospheric restraint and narrative ambiguity can coexist with demanding, mechanically rich combat design, influencing subsequent developers.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's final piece of text encountered by most players, regardless of which ending they reach, is deliberately brief and understated, offering closure without fully resolving every question.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Some longtime players describe fondness for simply standing still within the Hunter's Dream, listening to the wind and to Gehrman's quiet breathing, treating it as a place worth lingering in rather than just a menu.",
+   "entities": [
+    "Hunter's Dream",
+    "Gehrman"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The rhythm of Bloodborne's rain sound effects was achieved through layered overlapping audio samples rather than a single looping track, so it never sounds mechanically identical.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

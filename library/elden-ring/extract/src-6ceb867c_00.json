@@ -1,0 +1,1100 @@
+{
+ "entities": [
+  {
+   "name": "The Crucible",
+   "kind": "concept",
+   "aliases": [
+    "Crucible"
+   ]
+  },
+  {
+   "name": "Erdtree",
+   "kind": "location",
+   "aliases": [
+    "Erd Tree",
+    "the tree"
+   ]
+  },
+  {
+   "name": "Great Tree",
+   "kind": "location",
+   "aliases": [
+    "the old great tree"
+   ]
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Elden Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Two Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Marika the Eternal",
+   "kind": "character",
+   "aliases": [
+    "Marika",
+    "Queen Marika"
+   ]
+  },
+  {
+   "name": "Radagon",
+   "kind": "character",
+   "aliases": [
+    "Radagon of the Golden Order"
+   ]
+  },
+  {
+   "name": "Godfrey",
+   "kind": "character",
+   "aliases": [
+    "Hoarah Loux",
+    "First Elden Lord"
+   ]
+  },
+  {
+   "name": "Serosh, the Beast Regent",
+   "kind": "item",
+   "aliases": [
+    "Serosh"
+   ]
+  },
+  {
+   "name": "Maliketh",
+   "kind": "character",
+   "aliases": [
+    "Malikth"
+   ]
+  },
+  {
+   "name": "Dragon Lord Placidusax",
+   "kind": "boss",
+   "aliases": [
+    "Placidusax"
+   ]
+  },
+  {
+   "name": "Fortissax",
+   "kind": "boss",
+   "aliases": [
+    "Fortisax"
+   ]
+  },
+  {
+   "name": "Godwyn the Golden",
+   "kind": "character",
+   "aliases": [
+    "Godwin the Golden",
+    "Godwyn"
+   ]
+  },
+  {
+   "name": "Morgott, the Omen King",
+   "kind": "character",
+   "aliases": [
+    "Morgot"
+   ]
+  },
+  {
+   "name": "Mohg, Lord of Blood",
+   "kind": "character",
+   "aliases": [
+    "Moog"
+   ]
+  },
+  {
+   "name": "Fire Giants",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": [
+    "people of the eternal cities"
+   ]
+  },
+  {
+   "name": "Misbegotten",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Omens",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Crucible Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Renala, Queen of the Full Moon",
+   "kind": "character",
+   "aliases": [
+    "Renala",
+    "Rennala"
+   ]
+  },
+  {
+   "name": "Radahn",
+   "kind": "character",
+   "aliases": [
+    "Radan"
+   ]
+  },
+  {
+   "name": "Rykard, Lord of Blasphemy",
+   "kind": "character",
+   "aliases": [
+    "Reichard"
+   ]
+  },
+  {
+   "name": "Ranni the Witch",
+   "kind": "character",
+   "aliases": [
+    "Ranni"
+   ]
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": [
+    "Mckela",
+    "Mikuela"
+   ]
+  },
+  {
+   "name": "Malenia, Blade of Miquella",
+   "kind": "character",
+   "aliases": [
+    "Melenia",
+    "Mellinia"
+   ]
+  },
+  {
+   "name": "Godrick the Grafted",
+   "kind": "character",
+   "aliases": [
+    "Godric the Grafted"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Rya Lucaria Academy",
+   "kind": "location",
+   "aliases": [
+    "Raya Lucaria"
+   ]
+  },
+  {
+   "name": "Carian Royal Family",
+   "kind": "faction",
+   "aliases": [
+    "Kerrion royal family"
+   ]
+  },
+  {
+   "name": "Volcano Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Haligtree",
+   "kind": "location",
+   "aliases": [
+    "Hoc tree"
+   ]
+  },
+  {
+   "name": "Night of the Black Knives",
+   "kind": "event",
+   "aliases": [
+    "night of black knives",
+    "night of wintry fog"
+   ]
+  },
+  {
+   "name": "Black Knife Assassins",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Tarnished",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lands Between",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Badlands",
+   "kind": "location",
+   "aliases": [
+    "bad lands"
+   ]
+  },
+  {
+   "name": "Stormveil Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Storm Lord",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Rune of Death",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Mountaintops of the Giants",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Anor Ilim",
+   "kind": "location",
+   "aliases": [
+    "Anir Ilim"
+   ]
+  },
+  {
+   "name": "Prince of Death",
+   "kind": "boss",
+   "aliases": [
+    "Godwyn's corrupted remains"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Crucible was a primordial convergence of all living things, described in item descriptions as the source from which all life in the Lands Between originally came.",
+   "entities": [
+    "The Crucible"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "In the age of the Crucible, life was not divided into species or hierarchies but existed in chaotic communion, with traits like tails, wings, and carapaces expressing freely.",
+   "entities": [
+    "The Crucible"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Crucible-referencing incantations let the caster temporarily manifest animalistic traits such as tails, wings, or armored carapaces, echoing the primordial blending of life.",
+   "entities": [
+    "The Crucible"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "An older tree called the Great Tree existed at the center of the Crucible age, predating the current Erdtree, referenced in items like the Root Resin and the Crucible Knight armor set.",
+   "entities": [
+    "Great Tree",
+    "The Crucible"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "The Crucible Knights are ancient warriors who served under Godfrey but whose design and incantations point to a time before the Golden Order existed.",
+   "entities": [
+    "Crucible Knights",
+    "Godfrey"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "Ancient dragons existed before the Golden Order and may have had their own prior cosmic order and god predating the Greater Will.",
+   "entities": [
+    "Dragon Lord Placidusax"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "Dragon Lord Placidusax is a multi-headed ancient dragon who once served as an Elden Lord of a previous age under a god that vanished when the Greater Will arrived.",
+   "entities": [
+    "Dragon Lord Placidusax"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Placidusax is found in a pocket of stopped time within crumbling Farum Azula, waiting eternally for a god that will never return.",
+   "entities": [
+    "Dragon Lord Placidusax"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The Golden Order reached an accommodation with some ancient dragons rather than conquering all of them outright, as evidenced by dragon communion rituals involving consuming dragon hearts.",
+   "entities": [
+    "Golden Order"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The dragon Fortissax formed a genuine bond of friendship with the demigod Godwyn the Golden.",
+   "entities": [
+    "Fortissax",
+    "Godwyn the Golden"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After Godwyn the Golden was murdered on the Night of the Black Knives, Fortissax descended underground to fight the spreading death blight and protect Godwyn's remains, a battle it still fights eternally and has never won.",
+   "entities": [
+    "Fortissax",
+    "Godwyn the Golden",
+    "Night of the Black Knives"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Fire Giants were one-eyed beings who worshipped a primitive fire god predating the Golden Order and tended a red flame of ruin capable of burning the Erdtree.",
+   "entities": [
+    "Fire Giants"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The Fire Giants lived at the Mountaintops of the Giants, a frozen region at the world's highest point.",
+   "entities": [
+    "Fire Giants",
+    "Mountaintops of the Giants"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Marika directed Godfrey to wage war against the Fire Giants because their flame of ruin threatened the Erdtree.",
+   "entities": [
+    "Marika the Eternal",
+    "Godfrey",
+    "Fire Giants"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "The Nox, also called the people of the eternal cities, were builders and scholars who constructed underground metropolises lit by artificial stars.",
+   "entities": [
+    "Nox"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Nox were punished for a rebellion against the Greater Will, their cities forced underground as a form of exile.",
+   "entities": [
+    "Nox",
+    "Greater Will"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "The Misbegotten were strong, winged beings who were later enslaved under the Golden Order.",
+   "entities": [
+    "Misbegotten",
+    "Golden Order"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Omens were beings born bearing physical traits of the old Crucible, such as horns, which the Golden Order later declared signs of corruption.",
+   "entities": [
+    "Omens",
+    "Golden Order",
+    "The Crucible"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "A distant cosmic presence called the Greater Will sent a daughter, Marika, and a golden being called the Elden Beast toward the Lands Between.",
+   "entities": [
+    "Greater Will",
+    "Marika the Eternal",
+    "Elden Beast"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Elden Beast's essence became the Elden Ring, a cosmic entity that was never forged but existed as a living expression of cosmic law.",
+   "entities": [
+    "Elden Beast",
+    "Elden Ring"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The current Erdtree grew around the Elden Ring, absorbing and subsuming the older Great Tree that existed before it.",
+   "entities": [
+    "Erdtree",
+    "Great Tree",
+    "Elden Ring"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "An incantation description states that everything was originally in opposition to the tree, but through countless victories in war it became the embodiment of order.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Marika was originally a Newman (Numen), a rare people noted for unusual constitutions, coming from outside the Lands Between according to the character creation lore.",
+   "entities": [
+    "Marika the Eternal"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The Two Fingers are disembodied hands of the Greater Will that communicate through a sign language understood only by trained finger readers, and they select mortal Empyrean candidates for godhood.",
+   "entities": [
+    "Two Fingers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Marika was chosen as an Empyrean candidate by the Two Fingers and became a god at the Gate of Divinity in Anor Ilim.",
+   "entities": [
+    "Marika the Eternal",
+    "Two Fingers",
+    "Anor Ilim"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Miquella later attempted to use the same Gate of Divinity at Anor Ilim to claim his own godhood, as depicted in the Shadow of the Erdtree expansion.",
+   "entities": [
+    "Miquella",
+    "Anor Ilim"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Marika's first consort in the ritual of godhood was a warrior named Hoarah Loux, who would become known as Godfrey, the first Elden Lord.",
+   "entities": [
+    "Marika the Eternal",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Marika constructed the Golden Order, a system of divine law and metaphysics based on the runes composing the Elden Ring.",
+   "entities": [
+    "Marika the Eternal",
+    "Golden Order",
+    "Elden Ring"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Marika removed the Rune of Death from the Elden Ring and sealed it inside her shadowbound beast, Maliketh.",
+   "entities": [
+    "Marika the Eternal",
+    "Rune of Death",
+    "Maliketh",
+    "Elden Ring"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Under the Golden Order, ordinary people did not truly die; their spirits returned to the Erdtree through underground catacombs to be sustained or sent back.",
+   "entities": [
+    "Golden Order",
+    "Erdtree"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Demigods and lords under the Golden Order could be killed in battle but could not permanently die, due to the removal of the Rune of Death.",
+   "entities": [
+    "Golden Order",
+    "Rune of Death"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Murals from the Golden Order's early era, called the Age of Plenty, depict the Erdtree standing straight and tall, unlike its leaning posture in the game's present.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Marika and Radagon are revealed to be the same divine being sharing one body, a twist revealed through the penultimate boss encounter of the game.",
+   "entities": [
+    "Marika the Eternal",
+    "Radagon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Radagon previously married Renala, Queen of the Full Moon, after defeating her sorcerers in battle and proposing peace through union.",
+   "entities": [
+    "Radagon",
+    "Renala, Queen of the Full Moon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Radagon and Renala had three children together: Radahn, Rykard, and Ranni.",
+   "entities": [
+    "Radagon",
+    "Renala, Queen of the Full Moon",
+    "Radahn",
+    "Rykard, Lord of Blasphemy",
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Marika later summoned Radagon back to the Erdtree capital to become her second Elden Lord consort, ending his marriage to Renala.",
+   "entities": [
+    "Marika the Eternal",
+    "Radagon",
+    "Renala, Queen of the Full Moon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Because Marika and Radagon are the same being, Renala was in effect abandoned by the very god she had helped ascend, though she does not consciously realize this.",
+   "entities": [
+    "Renala, Queen of the Full Moon",
+    "Marika the Eternal",
+    "Radagon"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "At Raya Lucaria Academy, Renala clutches an amber egg she believes contains her beloved Radagon, refusing to accept his departure.",
+   "entities": [
+    "Renala, Queen of the Full Moon",
+    "Rya Lucaria Academy",
+    "Radagon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Because Marika and Radagon are a single god, their children Miquella and Malenia were described in-game as born of a single god and were cursed from birth.",
+   "entities": [
+    "Marika the Eternal",
+    "Radagon",
+    "Miquella",
+    "Malenia, Blade of Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Miquella was cursed with eternal youth, forever trapped in a child's body.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Malenia was born harboring the Scarlet Rot, a corruption that eventually consumed her eye, arm, and leg.",
+   "entities": [
+    "Malenia, Blade of Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "It is implied Marika came to understand that the Greater Will was indifferent rather than benevolent, and that the Golden Order's gift of immortality was actually a means of recycling souls to feed the Erdtree.",
+   "entities": [
+    "Marika the Eternal",
+    "Greater Will",
+    "Golden Order"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 50
+  },
+  {
+   "text": "Marika's shattering of the Elden Ring is portrayed as a deliberate act by a god who no longer believed in the system she built, not an accident or madness.",
+   "entities": [
+    "Marika the Eternal",
+    "Elden Ring"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 60
+  },
+  {
+   "text": "Hoarah Loux was a chieftain from the Badlands, an extraordinarily powerful warrior consumed by a lust for battle.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Marika chose Hoarah Loux as her consort because he was the best warrior in the world, needed to conquer resisting peoples for the Golden Order.",
+   "entities": [
+    "Marika the Eternal",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Hoarah Loux took on the golden lion spirit Serosh, the Beast Regent, which lived on his shoulders and suppressed his violent nature, allowing him to become Godfrey, the first Elden Lord.",
+   "entities": [
+    "Godfrey",
+    "Serosh, the Beast Regent"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Godfrey fought and made peace with some ancient dragons, and defeated the Storm Lord in single combat, an event still echoed in Stormveil Castle's architecture.",
+   "entities": [
+    "Godfrey",
+    "Storm Lord",
+    "Stormveil Castle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Godfrey led the campaign against the Fire Giants, the defining war of the early Golden Order, which nearly annihilated the giants entirely.",
+   "entities": [
+    "Godfrey",
+    "Fire Giants"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "One Fire Giant was deliberately spared and chained at the Mountaintops of the Giants to keep a forge flame burning for future use in opening the Erdtree.",
+   "entities": [
+    "Fire Giants",
+    "Mountaintops of the Giants"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Godfrey's eldest son with Marika was Godwyn the Golden, a widely beloved figure noted for his nobility and warmth.",
+   "entities": [
+    "Godfrey",
+    "Marika the Eternal",
+    "Godwyn the Golden"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Godfrey also fathered twin omen sons, Morgott and Mohg, who were hidden in the sewers beneath Leyndell because their crucible-like deformities were considered shameful.",
+   "entities": [
+    "Godfrey",
+    "Marika the Eternal",
+    "Morgott, the Omen King",
+    "Mohg, Lord of Blood"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Morgott eventually escaped confinement and dedicated his life to protecting Leyndell, the city that had reviled him.",
+   "entities": [
+    "Morgott, the Omen King"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Mohg escaped his confinement but turned toward worship of an outer god called the Formless Mother, building a hidden palace of blood devotion around a wound in the earth.",
+   "entities": [
+    "Mohg, Lord of Blood",
+    "Formless Mother"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "After the Fire Giant war ended and no enemies remained, Godfrey's spirit declined without purpose, so Marika stripped him of his grace, making him the first Tarnished.",
+   "entities": [
+    "Godfrey",
+    "Marika the Eternal",
+    "Tarnished"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Godfrey's armies and kinfolk were also stripped of grace and exiled across the Sea of Fog to the Badlands, told to fight and die there.",
+   "entities": [
+    "Godfrey",
+    "Badlands",
+    "Tarnished"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Marika promised the exiled Tarnished that after death she would eventually return their grace and give them a chance to return and serve as Elden Lord.",
+   "entities": [
+    "Marika the Eternal",
+    "Tarnished"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Grace can call to Tarnished descendants generations later even if they have no direct memory of the original promise, drawing them back to the Lands Between.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 98
+  },
+  {
+   "text": "Tarnished who die can be revived repeatedly by the grace that resurrects them, allowing effectively unlimited deaths and returns.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After being exiled, Godfrey reverted to being Hoarah Loux, wandering and fighting for the pure pleasure of combat while waiting for Marika's promise to be fulfilled.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Near the end of the game, Hoarah Loux tears the spirit Serosh from his shoulders, killing his restrainer and becoming his unrestrained primal self again mid-battle.",
+   "entities": [
+    "Godfrey",
+    "Serosh, the Beast Regent"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Godwyn the Golden was the firstborn son of Godfrey and Marika, noted for his nobility, and formed a close friendship with the dragon Fortissax.",
+   "entities": [
+    "Godwyn the Golden",
+    "Godfrey",
+    "Marika the Eternal",
+    "Fortissax"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Radagon's previous marriage to Renala, Queen of the Full Moon of the Carian royal family, was a political alliance between the Golden Order and the Carian sorcerers.",
+   "entities": [
+    "Radagon",
+    "Renala, Queen of the Full Moon",
+    "Carian Royal Family",
+    "Golden Order"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Radahn is a massive lion-armored general who studied gravitational magic in Caelid so he could continue riding his horse Leonard without crushing it under his weight.",
+   "entities": [
+    "Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Radahn used gravity magic to halt the movement of the stars, locking the constellations in place to prevent an unwanted destiny.",
+   "entities": [
+    "Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Rykard became the Lord of Blasphemy, merging with a great serpent god and turning Volcano Manor into a haven for rebels and assassins who reject the Greater Will's authority.",
+   "entities": [
+    "Rykard, Lord of Blasphemy",
+    "Volcano Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Ranni the Witch renounced her flesh and transferred her soul into a porcelain doll, setting in motion a plan that began on the Night of the Black Knives.",
+   "entities": [
+    "Ranni the Witch",
+    "Night of the Black Knives"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Miquella envisioned a world without discrimination that would welcome those rejected by the Golden Order, including albinaurics, the misbegotten, and omens.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Miquella developed a theology of 'unalloyed gold,' a form of divine power independent of the Greater Will, and used it to grow the Haligtree as a sanctuary.",
+   "entities": [
+    "Miquella",
+    "Haligtree",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Miquella gave Malenia a needle made of unalloyed gold that suppressed her Scarlet Rot, though he could not cure it.",
+   "entities": [
+    "Miquella",
+    "Malenia, Blade of Miquella"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Miquella possesses a supernatural charm that compels affection from others, including demigods, which he has used deliberately to further his goals.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Malenia serves as Miquella's sworn protector and champion, and is said to have never lost a battle except her final one.",
+   "entities": [
+    "Malenia, Blade of Miquella",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Godrick the Grafted was a weak descendant of Godfrey's line who surgically attached the limbs of conquered warriors to his own body to compensate for his inadequacy.",
+   "entities": [
+    "Godrick the Grafted",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The opening narration states that on a night of wintry fog, the Rune of Death was stolen and the demigods began to fall, starting with Godwyn the Golden.",
+   "entities": [
+    "Night of the Black Knives",
+    "Rune of Death",
+    "Godwyn the Golden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ranni the Witch stole a fragment of the Rune of Death from Maliketh and used it to forge the godslaying Black Knives.",
+   "entities": [
+    "Ranni the Witch",
+    "Rune of Death",
+    "Maliketh",
+    "Black Knife Assassins"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Black Knife Assassins were an elite group of Numen women with mysterious ties to Marika, armed with death-imbued knives and wearing near-invisible cloaked armor.",
+   "entities": [
+    "Black Knife Assassins",
+    "Marika the Eternal"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "On the Night of the Black Knives, assassins killed Godwyn the Golden and carved a death curse mark meant to fully erase both body and soul.",
+   "entities": [
+    "Black Knife Assassins",
+    "Godwyn the Golden",
+    "Night of the Black Knives"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "At the exact moment Godwyn died, Ranni took her own life at the top of a tower, which split the death curse mark into two half-circles instead of one complete circle.",
+   "entities": [
+    "Ranni the Witch",
+    "Godwyn the Golden",
+    "Night of the Black Knives"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Because the death curse mark was split, Godwyn's soul died but his body remained alive, corrupting and spreading underground as a growth known as the Prince of Death.",
+   "entities": [
+    "Godwyn the Golden",
+    "Prince of Death"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Ranni's body died on the Night of the Black Knives, but she had already transferred her soul into a doll modeled after a mentor she loved, allowing her consciousness to survive and continue scheming.",
+   "entities": [
+    "Ranni the Witch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 21
+  }
+ ],
+ "_src": "src-6ceb867c"
+}

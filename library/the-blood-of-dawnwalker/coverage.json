@@ -1,0 +1,28 @@
+{
+  "facts": 350,
+  "needed": 260,
+  "usable": 345,
+  "by_category": {
+    "world": 19,
+    "history": 125,
+    "faction": 9,
+    "character": 86,
+    "location": 9,
+    "item": 19,
+    "weapon": 4,
+    "boss": 18,
+    "enemy": 11,
+    "ending": 14,
+    "mechanic": 26,
+    "secret": 3,
+    "theme": 7
+  },
+  "by_status": {
+    "canon": 343,
+    "theory": 5,
+    "inferred": 2
+  },
+  "warnings": [
+    "Only reference-video transcripts were used. Their claims are unverified; add wiki/notes to sources/ to anchor canon."
+  ]
+}

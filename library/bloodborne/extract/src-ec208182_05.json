@@ -1,0 +1,1007 @@
+{
+ "entities": [
+  {
+   "name": "The Doll",
+   "kind": "character",
+   "aliases": [
+    "Doll"
+   ]
+  },
+  {
+   "name": "Weapon Switch Cancelling",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Visceral Attack",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Health Regain Mechanic",
+   "kind": "concept",
+   "aliases": [
+    "Rally"
+   ]
+  },
+  {
+   "name": "Forbidden Woods",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Cainhurst Castle",
+   "kind": "location",
+   "aliases": [
+    "Canhurst Castle"
+   ]
+  },
+  {
+   "name": "Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Yarnam",
+    "Yanam"
+   ]
+  },
+  {
+   "name": "Hunter",
+   "kind": "character",
+   "aliases": [
+    "our hunter",
+    "player character"
+   ]
+  },
+  {
+   "name": "Arianna",
+   "kind": "character",
+   "aliases": [
+    "Ariana"
+   ]
+  },
+  {
+   "name": "Adella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Eileen the Crow",
+   "kind": "character",
+   "aliases": [
+    "Eileen"
+   ]
+  },
+  {
+   "name": "Iron Reaper Djura",
+   "kind": "character",
+   "aliases": [
+    "Djura",
+    "Jura"
+   ]
+  },
+  {
+   "name": "Gilbert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Beast Blood Pellet",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Beast Cutter",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig",
+   "kind": "character",
+   "aliases": [
+    "Ludvig"
+   ]
+  },
+  {
+   "name": "Frenzy",
+   "kind": "mechanic",
+   "aliases": []
+  },
+  {
+   "name": "Hunter Blunderbuss",
+   "kind": "weapon",
+   "aliases": [
+    "Hunter Blunder Bus"
+   ]
+  },
+  {
+   "name": "Hunter Pistol",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Repeating Pistol",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Quicksilver Bullets",
+   "kind": "item",
+   "aliases": [
+    "Quicks bullets"
+   ]
+  },
+  {
+   "name": "Blood Tinge",
+   "kind": "mechanic",
+   "aliases": []
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman"
+   ]
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nightmare of Mensis",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Orphan of Kos",
+   "kind": "boss",
+   "aliases": [
+    "Orphan of Cost"
+   ]
+  },
+  {
+   "name": "Ludwig, the Holy Blade",
+   "kind": "boss",
+   "aliases": [
+    "Ludvig the Holy Blade"
+   ]
+  },
+  {
+   "name": "Lady Maria of the Astral Clocktower",
+   "kind": "boss",
+   "aliases": [
+    "Lady Maria"
+   ]
+  },
+  {
+   "name": "Cleric Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Vicar Amelia",
+   "kind": "boss",
+   "aliases": [
+    "Vicer Amelia"
+   ]
+  },
+  {
+   "name": "Rom, the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom the vacuous spider"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "location",
+   "aliases": [
+    "Bergenworth"
+   ]
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Great Ones",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Choir",
+   "kind": "faction",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Doll's design is often praised by critics and players for conveying emotional depth through restraint rather than explicit exposition.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community discussions have explored philosophical questions about whether the Doll is a genuine person or merely a constructed vessel.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Despite having relatively little interactive content, the Doll remains one of the most discussed and beloved characters in the Bloodborne community.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Weapon switch cancelling is a technique where players rapidly transform their trick weapon to interrupt fixed attack animations, enabling more flexible combat.",
+   "entities": [
+    "Weapon Switch Cancelling"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The precise timing window for firearm parries has been extensively studied by competitive and challenge run communities.",
+   "entities": [
+    "Hunter Pistol"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Advanced players use positioning techniques to bait specific enemy attacks into more predictable, punishable patterns.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The visceral attack mechanic allows devastating critical damage against staggered enemies, rewarding players who chain parries, backstabs, and charged attacks together.",
+   "entities": [
+    "Visceral Attack"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The health regain (rally) mechanic has been extensively analyzed by competitive players seeking to optimize aggressive risk-reward play.",
+   "entities": [
+    "Health Regain Mechanic"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Challenge run communities have developed technique combinations that can defeat bosses in mere seconds through optimized execution.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's combat depth has remained resistant to being fully solved, with players still discovering new techniques years after release.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne features distinct weather and lighting variations across areas, including foggy coastal settings and clear starfield skies in cosmic-adjacent locations.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The sound of rainfall changes subtly depending on the surface it falls on, such as cobblestone, wooden awnings, or glass windows.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Candlelight in the game's interiors was deliberately calibrated to provide small recurring moments of visual comfort amid a tense atmosphere.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Environmental artists have described weather and lighting as functioning like an additional character shaping mood and pacing throughout the game.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The transition from Yharnam's rain-soaked streets to the Forbidden Woods' misty atmosphere was designed to reinforce a shift from structured city environments to wilder, disorienting rural spaces.",
+   "entities": [
+    "Yharnam",
+    "Forbidden Woods"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Environmental lighting choices were calibrated to guide player attention toward items, pathways, or narrative details without explicit visual markers.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The lighting in Cainhurst Castle's frozen interior evokes a cold, sterile beauty distinct from the warmer, chaotic lighting of Yharnam's ordinary cityscape.",
+   "entities": [
+    "Cainhurst Castle",
+    "Yharnam"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The persistent fog in the game's later, more cosmically significant areas visually reinforces the theme of obscured, gradually revealed cosmic truth.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Small environmental audio details like distant thunder, creaking structures, and beast howls reinforce a persistent sense of unseen danger.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's color grading was carefully calibrated by the technical art team for visual coherence across shifting moods and atmospheres.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's user interface was designed with a minimalist aesthetic that keeps health, stamina, and combat information visible without cluttering the screen.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Interface designers carefully tuned how quickly health bars deplete visually versus how the underlying value changes, to keep it readable without distracting from combat.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's inventory and equipment menus use aged paper textures and gothic typography consistent with the Victorian aesthetic.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Quick swap item slots let players access items mid-combat without navigating cumbersome menus.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's map system deliberately withholds a traditional overhead navigation display, encouraging players to build spatial familiarity through direct exploration.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's custom-designed fonts and iconography reinforce its Gothic Victorian atmosphere rather than following generic interface conventions.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The leveling-up animation performed through the Doll was deliberately paced to feel weighty and significant rather than instantaneous.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's control scheme requires mastering simultaneous inputs for movement, attacking, weapon transformation, and firearms, rewarding skill development over time.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "NPC quest lines, including Arianna's and Adella's, feature multiple possible outcomes depending on player choices.",
+   "entities": [
+    "Arianna",
+    "Adella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "NPC quest line outcomes rarely divide into simple good and bad endings, more often presenting bittersweet mixes of relief and sorrow.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Eileen the Crow's questline can conclude in several different ways depending on how much the player helps her.",
+   "entities": [
+    "Eileen the Crow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several NPC quest lines have strict, easily missed time windows that permanently lock players out of that character's full content if missed.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Completing Djura's questline can unlock the Iron Reaper cooperative summon, directly tying narrative outcome to new gameplay content.",
+   "entities": [
+    "Iron Reaper Djura"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gilbert's questline is a tragic example where player intervention cannot prevent his continued decline and transformation.",
+   "entities": [
+    "Gilbert"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Completing NPC quest lines can reward players with unique items, equipment, or changes to how later story events unfold.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some NPC quest lines intersect and overlap with each other in ways that aren't immediately obvious.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Beast Blood Pellets temporarily grant increased physical power at the cost of defense, mechanically embodying the tension between strength and corruption.",
+   "entities": [
+    "Beast Blood Pellet"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain weapons, including the Beast Cutter, synergize with the hunter's temporary beast transformation from Beast Blood Pellets.",
+   "entities": [
+    "Beast Cutter",
+    "Beast Blood Pellet"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Using Beast Blood Pellets visually transforms the hunter with reddened eyes and a more aggressive combat stance.",
+   "entities": [
+    "Beast Blood Pellet",
+    "Hunter"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some optional builds emphasize maximizing beast transformation uptime as a distinct playstyle archetype.",
+   "entities": [
+    "Beast Blood Pellet"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Item descriptions discuss the Beast Blood Pellet's origin and use among extreme hunting traditions, adding narrative context to the consumable.",
+   "entities": [
+    "Beast Blood Pellet"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Beasthood-focused builds were balanced to remain viable compared to conventional playstyles.",
+   "entities": [
+    "Beast Blood Pellet"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's optional beast transformation thematically connects to the tragic pattern of hunters succumbing to the affliction they fight, as seen with figures like Ludwig.",
+   "entities": [
+    "Beast Blood Pellet",
+    "Ludwig"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's horror design favors dread, atmosphere, and gradual cosmic revelation over jump scares.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sound designers used silence itself as a horror tool, withholding music or ambient noise so sudden sounds land with more impact.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's horror often relies on scale disorientation, using enemies and structures that feel subtly, uncomfortably larger than they should be.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several enemy designs evoke uncanny valley discomfort by blending human features with subtly incorrect proportions or movements.",
+   "entities": [],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The frenzy mechanic represents one of the clearest expressions of psychological rather than purely physical horror in the game.",
+   "entities": [
+    "Frenzy"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Scattered, quietly abandoned domestic details in the environment generate horror through implication and absence rather than explicit depiction.",
+   "entities": [],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's pacing alternates between tense exploration and quieter, contemplative moments to reinforce psychological tension through variation.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Academic essays have examined Bloodborne's cosmic horror as an example of translating weird fiction techniques into an interactive medium.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's horror shifts from grounded fears of disease and violence toward existential anxieties about humanity's insignificance in the universe as the story progresses.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter Blunderbuss was designed with a wider damage spread compared to the more precise Hunter Pistol.",
+   "entities": [
+    "Hunter Blunderbuss",
+    "Hunter Pistol"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several rare and unique firearms tied to specific NPCs and quest lines offer unconventional mechanical effects distinct from standard firearms.",
+   "entities": [],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Repeating Pistol offers sustained ranged damage output at the cost of the precise single-shot parry timing of standard firearms.",
+   "entities": [
+    "Repeating Pistol"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Blood Tinge focused character builds emphasize firearm damage output as a distinct ranged-combat playstyle.",
+   "entities": [
+    "Blood Tinge"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Firearms consume Quicksilver Bullets as ammunition, requiring resource management alongside healing items and stamina.",
+   "entities": [
+    "Quicksilver Bullets"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Each firearm has distinct sound design crafted to provide satisfying audio feedback for hits and parries.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain optional bosses have attack patterns specifically suited to punishment through precisely timed firearm parries.",
+   "entities": [],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The climactic revelation about the Moon Presence's true nature and its relationship to the Hunter's Dream recontextualizes many earlier gameplay systems and narrative details.",
+   "entities": [
+    "Moon Presence",
+    "Hunter's Dream",
+    "Gehrman"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Narrative designers described balancing retroactive recontextualization as one of the hardest aspects of the game's writing, needing to plant clues without giving away the twist.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Players report that details from earlier hours of the game gain new significance upon reaching the climactic revelations.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The final act's pacing, involving the Nightmare of Mensis, was structured to escalate cosmic revelation gradually rather than all at once.",
+   "entities": [
+    "Nightmare of Mensis"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The relationship between the hunter's arc and Gehrman's longer, more exhausted journey was designed to create a sense of narrative continuity and cyclical repetition.",
+   "entities": [
+    "Hunter",
+    "Gehrman"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game offers multiple distinct endings, reinforcing the theme that no single definitive answer resolves its questions about cosmic ambition and human limitation.",
+   "entities": [],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The game's most significant cosmic revelations are placed relatively late in a lengthy playthrough, after players have accumulated context and emotional investment.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Long-running community polls tracking boss difficulty rankings show consistent results at the top and bottom of the list over multiple years.",
+   "entities": [],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Orphan of Kos is frequently ranked among the most difficult bosses not just in Bloodborne but across FromSoftware's entire catalog.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig, the Holy Blade is regarded as one of the game's most mechanically demanding encounters due to its distinct two-phase structure.",
+   "entities": [
+    "Ludwig, the Holy Blade"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Lady Maria is consistently ranked among players' favorite boss encounters, praised for her elegant, mirror-like moveset.",
+   "entities": [
+    "Lady Maria of the Astral Clocktower"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Cleric Beast and Vicar Amelia are generally regarded as more accessible early bosses designed to build player confidence.",
+   "entities": [
+    "Cleric Beast",
+    "Vicar Amelia"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Rom, the Vacuous Spider is frequently cited as one of the game's comparatively easier significant bosses due to slow, predictable attack patterns.",
+   "entities": [
+    "Rom, the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several Chalice Dungeon exclusive bosses are noted by players as offering some of the game's most demanding optional challenges.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Community members most frequently cite attack speed, punishment severity, and telegraph clarity when ranking boss difficulty.",
+   "entities": [],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's boss roster is broadly considered one of the strongest and most memorable in FromSoftware's body of work.",
+   "entities": [],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Stained glass windows in the game's chapels and cathedrals use real historical ecclesiastical compositional techniques like radiating light and symmetrical framing.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Character titles like vicar, clergyman, and saint borrow directly from real ecclesiastical vocabulary.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's churches and chapels closely mirror real historical Gothic cathedral architecture.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some item descriptions use religious language like blessing, communion, and sacrament to describe fundamentally scientific or medical processes.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Recurring imagery of kneeling, prayerful figures, from ordinary churchgoers to Pale Blood hunters, connects devotion, waiting, and unfulfilled hope throughout the story.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Vicar Amelia is depicted mid-prayer immediately before or during her transformation into a monstrous beast form.",
+   "entities": [
+    "Vicar Amelia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The concept of communion with the Great Ones deliberately echoes and subverts traditional religious concepts of divine communion and transcendence.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Academic essays note that Bloodborne uses Christian imagery to explore universal themes of faith and institutional power rather than critique any specific real religion.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The game presents religious devotion as sincere and well-intentioned even while depicting institutional corruption and catastrophic consequences.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's silence as a protagonist was a deliberate design choice to let players project their own interpretation onto the character.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Narrative theorists cite Bloodborne's silent protagonist design as an example of how absence can function as a storytelling tool.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The silent protagonist places Bloodborne within a broader FromSoftware tradition of similarly designed player characters.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Small mechanical and animation choices, like gestures and combat vocalizations, provide subtle character expression despite the hunter's silence.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "NPCs address the hunter directly in dialogue, letting players infer context about the character's implied actions without any spoken response.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Character customization alongside the silent protagonist design reinforces the hunter's dual role as narrative character and customizable player vessel.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's ending sequences remain entirely wordless from the hunter's perspective, consistent with the silent protagonist approach.",
+   "entities": [
+    "Hunter"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Bloodborne uses consistent color associations, with gold generally signaling cosmic significance and deep red reinforcing the game's preoccupation with blood.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Choir-affiliated characters and creatures are associated with pale, near-white coloring that visually reinforces their distance from ordinary humanity.",
+   "entities": [
+    "Choir"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Recurring symbolic shapes like spirals, umbilical curves, and radiating starbursts were chosen by the art team to reinforce the game's cosmic themes.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's use of negative space and shadow in environmental design was calibrated to guide player attention without explicit lighting cues or interface markers.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

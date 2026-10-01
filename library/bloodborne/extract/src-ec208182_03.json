@@ -1,0 +1,920 @@
+{
+ "entities": [
+  {
+   "name": "Bloodborne",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "From Software",
+   "kind": "faction",
+   "aliases": [
+    "FromSoftware"
+   ]
+  },
+  {
+   "name": "Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "Dark Souls",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Demon's Souls",
+   "kind": "event",
+   "aliases": [
+    "Demon Souls"
+   ]
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "event",
+   "aliases": [
+    "Elder Ring"
+   ]
+  },
+  {
+   "name": "Sekiro",
+   "kind": "event",
+   "aliases": [
+    "Seiro"
+   ]
+  },
+  {
+   "name": "The Old Hunters",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Patches the Spider",
+   "kind": "character",
+   "aliases": [
+    "Patches"
+   ]
+  },
+  {
+   "name": "Eileen the Crow",
+   "kind": "character",
+   "aliases": [
+    "Eileen"
+   ]
+  },
+  {
+   "name": "Rom, the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Winter Lanterns",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "The Choir",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Mensis",
+   "kind": "location",
+   "aliases": [
+    "Nightmare of Mensis"
+   ]
+  },
+  {
+   "name": "Snatchers",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Bloodletting Beasts",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Blood Moon",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Yannam",
+    "Yarnham"
+   ]
+  },
+  {
+   "name": "Iosefka's Clinic",
+   "kind": "location",
+   "aliases": [
+    "Yusfa's Clinic"
+   ]
+  },
+  {
+   "name": "Saw Cleaver",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Threaded Cane",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "New Game Plus",
+   "kind": "concept",
+   "aliases": [
+    "NG+"
+   ]
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Bloodborne was developed by From Software, the same Japanese studio behind the Dark Souls series and later Elden Ring.",
+   "entities": [
+    "Bloodborne",
+    "From Software",
+    "Dark Souls",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne represented a deliberate stylistic departure from From Software's earlier medieval fantasy aesthetic toward gothic horror.",
+   "entities": [
+    "Bloodborne",
+    "From Software"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Development interviews describe the early pitch for Bloodborne as centering on beasts and hunters rather than knights and dragons.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's development involved close collaboration between narrative, environmental art, and combat design teams from an early stage.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne director Hidetaka Miyazaki had already established a strong industry reputation through Demon's Souls and the original Dark Souls before directing Bloodborne.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Demon's Souls",
+    "Dark Souls",
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne was released as a PlayStation console exclusive, unlike several other From Software titles released across multiple platforms.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's original release date fell within the first quarter of 2015.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's development drew inspiration from Gothic literature, cosmic horror fiction, and historical research into Victorian era architecture, fashion, and medicine.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's faster, more aggressive combat philosophy compared to earlier Souls titles was a deliberate design decision to encourage proactive offense over cautious defense.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne received widespread critical acclaim for its atmosphere, combat design, and narrative ambition.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion was released several months after Bloodborne's original 2015 launch.",
+   "entities": [
+    "The Old Hunters",
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's commercial performance was strong enough to make it one of the defining exclusive titles of its console generation.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several developers who worked on Bloodborne later contributed to Elden Ring, carrying forward design philosophies refined during Bloodborne's development.",
+   "entities": [
+    "Bloodborne",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's engine and technical framework were built to take advantage of its console generation's hardware to support detailed environments and dense enemy encounters.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne has been the subject of numerous academic and critical essays examining its narrative structure and thematic content.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain weapon designs and boss encounter philosophies in Bloodborne reflect broader Japanese game design traditions despite its Victorian European aesthetic.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "As of the video's recording, Bloodborne has never received a full sequel.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's fan community has maintained active discussion forums, wikis, and theory-crafting spaces continuously since its release.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some community reading groups have organized to collectively work through every item description in Bloodborne over weeks or months, treating the text as literature.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community theories about the true nature of the Great Ones, the meaning of the game's hidden true ending, and the fates of Laurence and the Doll remain actively debated years after release.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Academic conferences and gaming studies publications have featured presentations examining Bloodborne's narrative techniques and environmental storytelling.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Independent musicians and orchestras have performed live arrangements of the Bloodborne soundtrack at gaming concert events.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's brand of cosmic horror storytelling has influenced numerous other independent and mainstream game developers.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's item description text has been praised by critics and academics as unusually literary writing for the video game medium.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community fan translations and comparisons between regional localizations have helped clarify ambiguous or contested lore details in Bloodborne.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne has an active dedicated speedrunning community with continuously refined routes and strategies.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne speedrunning categories include minimum-requirement runs to reach any ending and full completion runs collecting every item and defeating every boss.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's interconnected shortcut-based level design supports creative speedrunning routes that bypass linear progression.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some players have completed Bloodborne using only the starting Saw Cleaver weapon for the entire playthrough as a challenge run.",
+   "entities": [
+    "Bloodborne",
+    "Saw Cleaver"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Challenge runs completing Bloodborne without leveling up any character attributes are a respected community achievement.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Blindfolded playthroughs relying entirely on audio cues represent an extreme Bloodborne challenge run format.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's Chalice Dungeon system has its own speedrunning and challenge community focused on optimizing procedurally generated dungeon layouts.",
+   "entities": [
+    "Bloodborne",
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Patches the Spider is a recurring character appearing across multiple From Software titles, connecting Bloodborne to the studio's broader catalog.",
+   "entities": [
+    "Patches the Spider",
+    "From Software"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some fans have documented subtle, unexplained whispers and ambient sounds layered beneath certain area soundscapes in Bloodborne.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some Bloodborne item descriptions contain subtle textual callbacks to concepts and phrasing found in the Dark Souls series.",
+   "entities": [
+    "Bloodborne",
+    "Dark Souls"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain hidden messages and notes in Bloodborne's environment reference real historical quotes and literary passages.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some optional character creation presets in Bloodborne have been connected by fans to specific named characters, though the game never confirms this.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare item combinations and usage sequences in Bloodborne trigger small optional narrative or mechanical outcomes many players never encounter.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Data miners have discovered hidden or unused assets in Bloodborne's game files, fueling speculation about cut content.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain optional NPCs and items in Bloodborne reward players who revisit previously explored areas after story progression.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam is populated by numerous minor recurring enemy types, including dogs, crows, and rats, all affected by blood corruption.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Beast-possessed dogs in Bloodborne were designed with fast, unpredictable movement to punish complacent players.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Giant crows appearing in elevated areas of Bloodborne connect thematically to Eileen the Crow's hunting tradition.",
+   "entities": [
+    "Eileen the Crow"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Corpse-eating rats in Bloodborne are small but deal disproportionately high damage relative to their size.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sheep-like transformed creatures in Bloodborne's rural and religious locations connect thematically to Christian shepherd and flock imagery.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Several enemy types in Bloodborne telegraph attacks through sound cues rather than purely visual cues.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Snatchers are unsettling humanoid enemies found in the Nightmare of Mensis, designed with grasping, unpredictable movement to evoke anxiety about capture.",
+   "entities": [
+    "Snatchers",
+    "Mensis"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Spiderlike enemies found throughout Yharnam and the Chalice Dungeons connect thematically to Rom, the Vacuous Spider.",
+   "entities": [
+    "Rom, the Vacuous Spider",
+    "Chalice Dungeons"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Beast-possessed pigs in Bloodborne's outdoor and forest locations have surprisingly aggressive charging attacks.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Winter Lanterns are unsettling floating enemies found in late-game locations, connecting narratively to the Choir's cosmic research in Mensis.",
+   "entities": [
+    "Winter Lanterns",
+    "The Choir",
+    "Mensis"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Several minor enemy variants in Bloodborne share core animation skeletons and attack patterns while receiving distinct visual redesigns.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodletting Beasts in Bloodborne function as both environmental storytelling and combat encounters, rewarding players with valuable Blood Echoes.",
+   "entities": [
+    "Bloodletting Beasts"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Small environmental hazards like explosive barrels and unstable structures in Bloodborne reward players who exploit their surroundings tactically.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne has inspired official licensed merchandise including statues, apparel, and collectible figures.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several tabletop and card game adaptations connected to Bloodborne's world have been released.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Official Bloodborne soundtrack releases have been made available across multiple physical and digital formats.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Art books and behind-the-scenes design publications exploring Bloodborne's visual development process have been released.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne shares subtle crossover references with other From Software games including Dark Souls and Elden Ring.",
+   "entities": [
+    "Bloodborne",
+    "Dark Souls",
+    "Elden Ring"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne removes traditional shields as a primary defensive option, unlike the Dark Souls series, pushing players toward aggressive offense.",
+   "entities": [
+    "Bloodborne",
+    "Dark Souls"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's health regain mechanic lets players recover recently lost health by dealing damage shortly after being struck.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Compared to Elden Ring's larger open world, Bloodborne maintains a more linear, interconnected level design closer to Dark Souls and Demon's Souls.",
+   "entities": [
+    "Bloodborne",
+    "Elden Ring",
+    "Dark Souls",
+    "Demon's Souls"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's trick weapon system and aggressive health regain mechanic influenced later From Software titles including Sekiro.",
+   "entities": [
+    "Bloodborne",
+    "Sekiro"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Elden Ring's open-world nonlinear structure, Bloodborne maintains a more sequential progression through story areas and bosses.",
+   "entities": [
+    "Bloodborne",
+    "Elden Ring"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's single expansion, The Old Hunters, was smaller in scope than later From Software DLC like Elden Ring's Shadow of the Erdtree.",
+   "entities": [
+    "Bloodborne",
+    "The Old Hunters",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne offers no traditional difficulty setting options, presenting one calibrated challenge for all players.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's difficulty philosophy emphasizes learnable, consistent enemy patterns over random or unfair challenge.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's cooperative summoning system provides an alternative path for players struggling with difficult encounters alone.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's checkpoint system uses lamps scattered throughout the world, functioning similarly to bonfires in earlier From Software titles.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Blood Moon is triggered by defeating Rom, the Vacuous Spider, causing a permanent visible shift in Yharnam's night sky.",
+   "entities": [
+    "Blood Moon",
+    "Rom, the Vacuous Spider",
+    "Yharnam"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "After the Blood Moon rises, enemy placement and behavior throughout much of the remaining game change, with enemies becoming more aggressive and numerous.",
+   "entities": [
+    "Blood Moon"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The Blood Moon is depicted as a massive deep red moon dominating Yharnam's night sky.",
+   "entities": [
+    "Blood Moon",
+    "Yharnam"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "New Game Plus in Bloodborne lets players begin a new playthrough while retaining equipment and progression, with increased enemy difficulty and rewards.",
+   "entities": [
+    "New Game Plus",
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne supports multiple sequential New Game Plus cycles for extreme long-term challenge.",
+   "entities": [
+    "New Game Plus",
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain optional bosses and encounters in Bloodborne become accessible only after the Blood Moon rises.",
+   "entities": [
+    "Blood Moon"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Bloodborne includes a gesture and pose system allowing the hunter to perform emotive animations from bows to ceremonial poses.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some gestures in Bloodborne are tied thematically to specific covenants and NPCs, reflecting a player's faction alignments.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's character creation menu allows granular facial customization beyond what is typical for a combat-focused action game.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's character models feature detailed hair strands and fabric textures on hunter clothing, prioritized for close-up visual presentation.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's opening sequence has the hunter awaken in Iosefka's Clinic before receiving their first transfusion of old blood.",
+   "entities": [
+    "Bloodborne",
+    "Iosefka's Clinic"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Bloodborne's opening sequence establishes the game's central themes of blood, medicine, and transformation without traditional exposition or tutorial text.",
+   "entities": [
+    "Bloodborne"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Bloodborne's first playable combat encounter, against transformed enemies outside the clinic, was calibrated as a low-stakes introduction to core combat mechanics.",
+   "entities": [
+    "Bloodborne",
+    "Iosefka's Clinic"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The hunter's initial choice between the Saw Cleaver and Threaded Cane starting weapons was designed to introduce the game's trick weapon philosophy from the outset.",
+   "entities": [
+    "Saw Cleaver",
+    "Threaded Cane"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 1
+  }
+ ],
+ "_src": "src-ec208182"
+}

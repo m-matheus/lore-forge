@@ -1,0 +1,26 @@
+{
+  "facts": 578,
+  "needed": 260,
+  "usable": 539,
+  "by_category": {
+    "world": 36,
+    "history": 88,
+    "faction": 32,
+    "character": 278,
+    "location": 11,
+    "item": 28,
+    "weapon": 6,
+    "boss": 15,
+    "ending": 23,
+    "mechanic": 17,
+    "production": 4,
+    "secret": 4,
+    "theme": 36
+  },
+  "by_status": {
+    "canon": 512,
+    "inferred": 27,
+    "theory": 39
+  },
+  "warnings": []
+}

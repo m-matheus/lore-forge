@@ -1,0 +1,1155 @@
+{
+ "entities": [
+  {
+   "name": "Prophet Lebioda",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cult of Lebioda",
+   "kind": "faction",
+   "aliases": [
+    "Cult of the Prophet Lebioda"
+   ]
+  },
+  {
+   "name": "Good Book",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Eternal Fire",
+   "kind": "faction",
+   "aliases": [
+    "Cult of the Eternal Fire"
+   ]
+  },
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Ladies of the Wood",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Necrophages",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Ghoul",
+   "kind": "enemy",
+   "aliases": [
+    "Ghouls"
+   ]
+  },
+  {
+   "name": "Alghoul",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Graveir",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Cemetaur",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Rotfiend",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Greater Rotfiend",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Drowner",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Drowned Dead",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Water Hag",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Grave Hag",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Vampires",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Higher Vampires",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Alp",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Mula",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Katakan",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Bruxa",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Nekurat",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Lesser Vampires",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Fleder",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Ekimmara",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Garkain",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Wraith",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Noonwraith",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Nightwraith",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Griffin",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Archgriffin",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Harpy",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Cockatrice",
+   "kind": "enemy",
+   "aliases": [
+    "Scoffin"
+   ]
+  },
+  {
+   "name": "Werewolf",
+   "kind": "enemy",
+   "aliases": [
+    "Lycanthrope"
+   ]
+  },
+  {
+   "name": "Botchling",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Lubberkin",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Striga",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Addario Bach",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Conjunction of the Spheres",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Silvester Bugardio",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Falco",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Prophet Lebioda's cult flourished about one hundred fifty years before the present day, during his own lifetime.",
+   "entities": [
+    "Prophet Lebioda",
+    "Cult of Lebioda"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Prophet Lebioda was originally a simple shepherd who preached sermons and told parables about life, gods, and men.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Prophet Lebioda gathered a large group of followers who tried to live according to his teachings.",
+   "entities": [
+    "Prophet Lebioda",
+    "Cult of Lebioda"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Prophet Lebioda died in old age after being set on fire and devoured by a dragon he was trying to exorcise.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The exorcism Prophet Lebioda attempted was meant to stop a dragon from preying on sheep belonging to Kaedweni villagers.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Prophet Lebioda's death was declared a martyrdom, and his recovered bones were placed in a sarcophagus in Novigrad.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "On certain festivities, Prophet Lebioda's bones are taken from his sarcophagus so the pious can kiss them.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Though the original cult around Prophet Lebioda largely died out after his death, his teachings were preserved in a text called the Good Book, a collection of parables and anecdotes.",
+   "entities": [
+    "Prophet Lebioda",
+    "Good Book"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Worship of Prophet Lebioda's teachings has spread across nearly all of Redania, gradually displacing the older cult of Kreve.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Order of the Flaming Rose is a militant arm associated with the spread of Lebiodan faith, known for hostility toward nonhumans and magic.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The cult of the Eternal Fire began as a local religion limited to Novigrad and its surrounding area.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "About a century before the present, the Eternal Fire was a stern but relatively tolerant faith.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Eternal Fire priests taught that the sacred flame symbolized progress, light dispelling darkness, and hope for the future.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Early Eternal Fire doctrine tolerated other faiths except for blasphemy against the Eternal Fire or attempts to undermine its authority.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Those declared blasphemers or sorcerers who harmed others were burned at the stake by a special temple guard under early Eternal Fire rule.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "As the Eternal Fire's influence grew, its hierarch, elected by a college, became the de facto ruler of Novigrad.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Eternal Fire's temple guard evolved into an unchecked state security force with no secular oversight.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Under the Eternal Fire's growing power, false accusations, show trials, executions, and property confiscation became common.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Fear of black magic under the Eternal Fire evolved into hatred of all sorcery, nonhumans, and sorcerers, culminating in witch hunts that killed hundreds of innocents.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The Order of the Flaming Rose eventually became an extremist group devoted to racial persecution and witch hunts, turning against the humans and nonhumans it once swore to protect.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "An Eternal Fire priest's sermon condemned women as sinful and demanded they be beaten, dressed modestly, and denied finery to curb supposed promiscuity.",
+   "entities": [
+    "Eternal Fire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "New religious movements on the Continent increasingly claim exclusive possession of truth, branding other faiths as sinful apostasy.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Many new religious movements focus more on enforcing intolerant commandments than on offering spiritual support to their followers.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In remote regions, older faiths persist, such as the cult of the Ladies of the Wood in Velen, whose shrines are scattered through forests and villages there.",
+   "entities": [
+    "Ladies of the Wood"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Necrophages include ghouls, foglets, rotfiends, and drowners, among other corpse-eating creatures.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite their name, most necrophages actively hunt live prey, including humans, rather than only eating carrion.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some necrophage species bury or store their victims, letting them decay for days or weeks before eating them.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A common but false belief holds that necrophages are humans degenerated by generations of cannibalism.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Necrophages are actually post-Conjunction beings that arrived in the world due to the Conjunction of the Spheres.",
+   "entities": [
+    "Necrophages",
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Because necrophages have no natural ecological niche, killing them does not disrupt the balance of nature, so druids do not object to witchers exterminating them.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wounds from necrophages carry high risk of tetanus infection and cadaverine contamination.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Necrophages that feed on plague victims can become disease carriers even though they are themselves immune to regular illnesses.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Many necrophages share traits like hairlessness, thin veiny skin, and atrophied sexual organs, suggesting a common post-Conjunction origin.",
+   "entities": [
+    "Necrophages"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ghouls form the main body of necrophages and include larger dangerous breeds like alghouls, graveirs, and cemetaurs.",
+   "entities": [
+    "Ghoul",
+    "Alghoul",
+    "Graveir",
+    "Cemetaur"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ghouls have a stooped posture, hypertrophied forelimbs, clawed hands adapted for digging, and strong jaws for cracking bones to eat marrow.",
+   "entities": [
+    "Ghoul"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rotfiends and greater rotfiends were once thought to be deformed ghouls but were later classified as a separate necrophage species.",
+   "entities": [
+    "Rotfiend",
+    "Greater Rotfiend"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rotfiends stand upright with human-like limb proportions but have underdeveloped jaws and prefer eating corpses several months old.",
+   "entities": [
+    "Rotfiend"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rotfiends rely mainly on smell to find victims since their heads are bloated and nearly eyeless.",
+   "entities": [
+    "Rotfiend"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Drowners live in both natural and artificial bodies of water, from rivers and lakes to sewers.",
+   "entities": [
+    "Drowner"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Popular belief holds that drowners are the risen corpses of drowned men, but they are actually post-Conjunction creatures.",
+   "entities": [
+    "Drowner",
+    "Conjunction of the Spheres"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Drowners and the drowned dead are strong swimmers who sense water vibrations and see well in low light.",
+   "entities": [
+    "Drowner",
+    "Drowned Dead"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Drowners prefer ambush attacks, dragging victims underwater and strangling them with clawed hands.",
+   "entities": [
+    "Drowner"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A folk tale describes a starving hamlet resorting to cannibalism during a harsh winter, eventually giving rise to a tribe that haunts graveyards and battlefields seeking human flesh.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Water hags live in wetlands, swamps, and bogs, building hovels of wood, mud, and reed or lairing in dug-out hollows.",
+   "entities": [
+    "Water Hag"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Water hags have withered, slime-covered bodies, seaweed-like hair, crooked teeth, and werewolf-sized claws, and they throw balls of mud in combat.",
+   "entities": [
+    "Water Hag"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to folklore, water hags are naiads who fell in love with mortal men, lost their eternal youth, and slowly aged into hags.",
+   "entities": [
+    "Water Hag"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Grave hags resemble tall, wizened old women with oversized heads, bulging eyes, and long clawed arms.",
+   "entities": [
+    "Grave Hag"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Grave hags dig up graves for skulls and bones to decorate their lairs or wear as amulets, leading to the mistaken belief they are female ghouls.",
+   "entities": [
+    "Grave Hag"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike typical necrophages, grave hags actively hunt or lure victims, skin them, then cook and eat them like human dishes.",
+   "entities": [
+    "Grave Hag"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vampires are not undead but beings that arrived in the world during the Conjunction of the Spheres.",
+   "entities": [
+    "Vampires",
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Contrary to myth, sunlight is not lethal to most vampires, their bite does not create new vampires, and they are not repelled by garlic or holy water.",
+   "entities": [
+    "Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vampires are traditionally split into higher vampires and lesser vampires, a widely used but technically imprecise classification.",
+   "entities": [
+    "Vampires",
+    "Higher Vampires",
+    "Lesser Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Species like alps, mulas, katakans, bruxae, and nekurats are often grouped as higher vampires despite not being true higher vampires.",
+   "entities": [
+    "Alp",
+    "Mula",
+    "Katakan",
+    "Bruxa",
+    "Nekurat",
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "These lesser 'higher vampires' are resistant to sunlight, can disguise themselves as humans, and some can transform or use telepathy.",
+   "entities": [
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "True higher vampires are an extremely powerful separate breed who nearly perfectly mimic humans, lacking shadows and mirror reflections as their only tell.",
+   "entities": [
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "One higher vampire encountered did not trigger a reaction from a witcher medallion.",
+   "entities": [
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "True higher vampires can turn into giant bats, become invisible, and mesmerize or put victims to sleep with their gaze.",
+   "entities": [
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "True higher vampires are immune to sunlight, fire, and silver, and can regenerate even from beheading, dismemberment, or incineration, though it may take decades.",
+   "entities": [
+    "Higher Vampires"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The term 'lesser vampires' commonly refers to fleders, ekimmaras, and garkains.",
+   "entities": [
+    "Lesser Vampires",
+    "Fleder",
+    "Ekimmara",
+    "Garkain"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fleders and ekimmaras are not native to the Northern Kingdoms but have expanded their range north across the Yaruga over the past couple decades.",
+   "entities": [
+    "Fleder",
+    "Ekimmara"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lesser vampires are more primitive and instinct-driven than higher vampires, vulnerable to sunlight, and hunt only at night.",
+   "entities": [
+    "Lesser Vampires"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fleders will drink blood from and eat the flesh of sick victims and scavenge fresh corpses, behavior other vampire species avoid.",
+   "entities": [
+    "Fleder"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fleders hibernate in crypts and abandoned buildings during winter, emerging to hunt on the first warm spring nights.",
+   "entities": [
+    "Fleder"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vesemir reportedly said holy symbols are useless against vampires, at most insulting their religious feelings if they have any.",
+   "entities": [
+    "Vesemir",
+    "Vampires"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A wooden stake through the heart can harm a vampire due to their resilience, but a silver sword is the preferred weapon for witchers.",
+   "entities": [
+    "Vampires"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Most ghost stories arise from misidentified natural sounds, but genuine spiritual manifestations do occur as traumatic echoes of violent deaths.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wraiths are vengeful ghosts of people who died violently or suddenly due to injustice, betrayal, or murder.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Murderers, oath breakers, and kinslayers can also become wraiths after death, not only their victims.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ghosts of madmen or cruel people often become violent wraiths immediately, while others take time to transform.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wraiths formed from murder victims may initially seek help from the living for revenge or restitution before fading away, unless powerful emotions bind them to the world.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "One theory holds that a wraith's grotesque form reflects growing madness distorting both its inner and outer self over decades or centuries.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Folk belief holds that noonwraiths and nightwraiths are the ghosts of women who died violently before or after their weddings.",
+   "entities": [
+    "Noonwraith",
+    "Nightwraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A wraith ritual to prevent a restless dead from rising involves drinking moonshine, wrapping a thornapple rod around the corpse's neck, driving nails through its heart, and filling its mouth with poppy seeds before reburial.",
+   "entities": [
+    "Wraith"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Noonwraiths appear on bright, warm days as tanned girls or hags in white robes, sometimes wearing wedding wreaths, preying on field workers and children.",
+   "entities": [
+    "Noonwraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nightwraiths are active at night, especially during a full moon, ambushing late travelers or sneaking into homes to attack sleepers.",
+   "entities": [
+    "Nightwraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Both noonwraiths and nightwraiths drain life from victims while swirling around them in a mockery of a wedding dance.",
+   "entities": [
+    "Noonwraith",
+    "Nightwraith"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hybrids are monsters combining traits of two or more creatures, with debated origins either from the Conjunction of the Spheres or predating it.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Griffins resemble a cross between a large cat and a predatory bird, nesting on inaccessible mountain peaks and preying on large hoofed mammals.",
+   "entities": [
+    "Griffin"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Griffins are highly territorial and will attack travelers, merchant caravans, and shepherds who encroach on their territory.",
+   "entities": [
+    "Griffin"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The archgriffin is a rare, extremely aggressive griffin subspecies capable of spitting acid balls that cause severe burns.",
+   "entities": [
+    "Archgriffin"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Harpies have the bodies of old women combined with bird wings, talons, and beaks, and they build colonies on inaccessible cliffs.",
+   "entities": [
+    "Harpy"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Harpies are omnivorous, generally attack smaller prey by diving from above, but can gang up on larger prey including armed humans.",
+   "entities": [
+    "Harpy"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The cockatrice, also called the scoffin, is a rare ornithosaur combining traits of birds and reptiles, supposedly hatched from an egg laid by a rooster and incubated by snakes.",
+   "entities": [
+    "Cockatrice"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Contrary to superstition, a cockatrice's gaze cannot kill or petrify; its real threats are its beak and sharp tail used in ambush or combat.",
+   "entities": [
+    "Cockatrice"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Curses require a human caster with sufficiently concentrated will and strong emotion, similar in mechanism to prayer, though the final effect is delayed and rarely matches the literal words spoken.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Creatures called 'the Damned' result from curses, including strigas and botchlings, as well as humans cursed through contact with an original victim, such as werewolves.",
+   "entities": [
+    "Striga",
+    "Botchling",
+    "Werewolf"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are sometimes hired to lift curses on such creatures rather than simply kill them, depending on the circumstances.",
+   "entities": [
+    "Striga",
+    "Botchling",
+    "Werewolf"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Werewolves are terianthropes, humans able to transform into wolf or half-wolf hybrid form, usually during a full moon.",
+   "entities": [
+    "Werewolf"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some lycanthropes retain control and avoid people while transformed, while most either embrace bloodlust or black out during transformation.",
+   "entities": [
+    "Werewolf"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A competing theory suggests lycanthropy may be hereditary rather than purely a curse, since some werewolves are born with the trait and can fully control transformation.",
+   "entities": [
+    "Werewolf"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Werewolves born with hereditary lycanthropy are nearly impossible to cure unless they cooperate willingly.",
+   "entities": [
+    "Werewolf"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Botchlings are created when an unwanted child dies and is not properly buried; they are about one and a half feet tall.",
+   "entities": [
+    "Botchling"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A botchling hides under beds and drains vitality from pregnant women, causing fever and weakness before attacking directly and killing mother and unborn child.",
+   "entities": [
+    "Botchling"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When threatened, a botchling can transform into a deformed crawling humanoid to attack with bites and claws.",
+   "entities": [
+    "Botchling"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Giving a botchling a proper burial lifts its curse and turns it into a protective household spirit called a lubberkin.",
+   "entities": [
+    "Botchling",
+    "Lubberkin"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A striga is created from a curse placed on a pregnant woman, causing her child to become a monster instead of surviving as human.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A striga rises from its grave years after death to prowl near its burial ground, and despite being small and hunched, it is supernaturally fast and strong.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Strigas prefer eating internal organs, especially liver and heart, and are more aggressive during the full moon.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lifting a striga's curse requires waiting at its burial site through the night until the third rooster crow at dawn catches it outside its coffin, returning it to human form.",
+   "entities": [
+    "Striga"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Draconids are a numerous monster order including at least half a dozen true dragon species plus lesser draconids, long native to the Continent's ecosystem.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

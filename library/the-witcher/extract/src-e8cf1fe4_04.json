@@ -1,0 +1,1045 @@
+{
+ "entities": [
+  {
+   "name": "Conclave",
+   "kind": "faction",
+   "aliases": [
+    "Conclave of Mages"
+   ]
+  },
+  {
+   "name": "Brotherhood of Sorcerers",
+   "kind": "faction",
+   "aliases": [
+    "Brotherhood"
+   ]
+  },
+  {
+   "name": "Supreme Council of Sorcerers",
+   "kind": "faction",
+   "aliases": [
+    "Supreme Council"
+   ]
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": [
+    "Lodge"
+   ]
+  },
+  {
+   "name": "Aretuza",
+   "kind": "location",
+   "aliases": [
+    "Aretuza Academy"
+   ]
+  },
+  {
+   "name": "Ban Ard",
+   "kind": "location",
+   "aliases": [
+    "Ban Ard Academy"
+   ]
+  },
+  {
+   "name": "Loxia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Thanedd Island",
+   "kind": "location",
+   "aliases": [
+    "Ihanedd Island"
+   ]
+  },
+  {
+   "name": "Mirthe",
+   "kind": "location",
+   "aliases": [
+    "Mirt"
+   ]
+  },
+  {
+   "name": "Loc Muinne",
+   "kind": "location",
+   "aliases": [
+    "Loe Muinne"
+   ]
+  },
+  {
+   "name": "Est Haemlet",
+   "kind": "location",
+   "aliases": [
+    "Est Haem let"
+   ]
+  },
+  {
+   "name": "Hindarsfjall",
+   "kind": "location",
+   "aliases": [
+    "Isle of Hindarsfjall"
+   ]
+  },
+  {
+   "name": "Ellander",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Rivia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Triss Merigold",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Jenny of Vengerberg"
+   ]
+  },
+  {
+   "name": "Tissaia de Vries",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Geoffrey Monck",
+   "kind": "character",
+   "aliases": [
+    "Archmaster Geoffrey Monck"
+   ]
+  },
+  {
+   "name": "Hen Gedymdeith",
+   "kind": "character",
+   "aliases": [
+    "Gerhart of Aelle"
+   ]
+  },
+  {
+   "name": "Agnes of Glanville",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Master Radmir of Tor Carnedd",
+   "kind": "character",
+   "aliases": [
+    "Radmir of Tor Carnedd"
+   ]
+  },
+  {
+   "name": "Falka",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Raffard the White",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Marshall Raupenneck of Tretogor",
+   "kind": "character",
+   "aliases": [
+    "Raupenneck"
+   ]
+  },
+  {
+   "name": "Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "Emperor of Nilfgaard"
+   ]
+  },
+  {
+   "name": "Philippa Eilhart",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Keira Metz",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Radcliffe of Oxenfurt",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sabrina Glevissig",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vilgefortz of Roggeveen",
+   "kind": "character",
+   "aliases": [
+    "Vilgefortz"
+   ]
+  },
+  {
+   "name": "Artaud Terranova",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fercart of Cidaris",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sile de Tansarville",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Margarita Laux-Antille",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Francesca Findabair",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ida Emean aep Sivney",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Assire var Anahid",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fringilla Vigo",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cirilla of Cintra",
+   "kind": "character",
+   "aliases": [
+    "Ciri"
+   ]
+  },
+  {
+   "name": "Nenneke",
+   "kind": "character",
+   "aliases": [
+    "Mother Nenneke"
+   ]
+  },
+  {
+   "name": "Prophet Lebioda",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Melitele",
+   "kind": "faction",
+   "aliases": [
+    "cult of Melitele",
+    "Allmother"
+   ]
+  },
+  {
+   "name": "Kreve",
+   "kind": "faction",
+   "aliases": [
+    "cult of Kreve"
+   ]
+  },
+  {
+   "name": "Freya",
+   "kind": "faction",
+   "aliases": [
+    "Modron Freya",
+    "goddess Freya"
+   ]
+  },
+  {
+   "name": "Druids",
+   "kind": "faction",
+   "aliases": [
+    "druidism"
+   ]
+  },
+  {
+   "name": "Aen Saevherne",
+   "kind": "faction",
+   "aliases": [
+    "elven sages"
+   ]
+  },
+  {
+   "name": "Svalblod",
+   "kind": "faction",
+   "aliases": [
+    "cult of Svalblod"
+   ]
+  },
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Thanedd Coup",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Second Battle of Sodden",
+   "kind": "event",
+   "aliases": [
+    "Battle of Sodden"
+   ]
+  },
+  {
+   "name": "Novigrad Union",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Falka's Rebellion",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Merigold's Ravaging Hailstorm",
+   "kind": "item",
+   "aliases": [
+    "Ravaging Hailstorm"
+   ]
+  },
+  {
+   "name": "Alzur's Thunder",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Magic megascope",
+   "kind": "item",
+   "aliases": [
+    "megascope"
+   ]
+  },
+  {
+   "name": "Brisingamen",
+   "kind": "item",
+   "aliases": [
+    "necklace of foresight"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Classical magical taxonomies typically divide spells into categories such as psychokinetic spells, illusions, divination, transformations, and creation magic, with creation magic considered the pinnacle of sorcery.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Necromancy and demonology (also called goetia) are forbidden fields of magic under the edicts of the Conclave.",
+   "entities": [
+    "Conclave"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before restrictions were imposed, unrestricted practice of necromancy and demonology led to the deaths of hundreds of sorcerers and bystanders over time.",
+   "entities": [],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The ban on necromancy applies only to practical use, not to theoretical or academic study of the subject.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Conclave can grant special dispensation allowing study of necromancy in some cases with sufficiently positive applications.",
+   "entities": [
+    "Conclave"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some sorcerers retain basic theoretical knowledge and rudimentary necromantic skills, such as acquiring simple information from the recently deceased.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Goetia (demonology) involves summoning creatures from other dimensions, often to bargain for information or services.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Summoning a demon does not require great skill, only access to the correct magical formulae, making goetia tempting for novice sorcerers.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Because summoned beings are extremely dangerous, unskilled goetists attempting summoning usually die as a result.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The spell known as Merigold's Ravaging Hailstorm was informally named after Triss Merigold, who created it by accident in the year 1268 while trying to cast Alzur's Thunder during the pogrom in Rivia.",
+   "entities": [
+    "Triss Merigold",
+    "Merigold's Ravaging Hailstorm",
+    "Alzur's Thunder",
+    "Rivia"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Ravaging Hailstorm spell ended the massacre and riots in Rivia in 1268 but has never been officially recognized or reproduced.",
+   "entities": [
+    "Merigold's Ravaging Hailstorm",
+    "Rivia"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "An investigating commission concluded Triss Merigold's mouth injuries during the Rivia riots caused her to unintentionally distort Alzur's original spell formula, creating the Ravaging Hailstorm.",
+   "entities": [
+    "Triss Merigold",
+    "Merigold's Ravaging Hailstorm"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "An alternate theory holds that the Ravaging Hailstorm resulted from Triss Merigold casting in cooperation with Yennefer of Vengerberg, but this was rejected due to lack of evidence Yennefer was in Rivia.",
+   "entities": [
+    "Triss Merigold",
+    "Yennefer of Vengerberg",
+    "Merigold's Ravaging Hailstorm"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": 60
+  },
+  {
+   "text": "Sorcerers who summon otherworldly creatures without authorization face prohibitions and punishments under Conclave law.",
+   "entities": [
+    "Conclave"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The sorcerers' first training seat was the city of Mirthe, known today as Mirt in Redania.",
+   "entities": [
+    "Mirthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Agnes of Glanville, trained at Mirthe, was the first woman to become a sorceress.",
+   "entities": [
+    "Agnes of Glanville",
+    "Mirthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The school at Mirthe was destroyed during Falka's Rebellion, when the city was burned and its inhabitants massacred.",
+   "entities": [
+    "Mirthe",
+    "Falka's Rebellion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Master Radmir of Tor Carnedd, one of the founders of the magical tradition, was skinned alive on Falka's orders during Falka's Rebellion.",
+   "entities": [
+    "Master Radmir of Tor Carnedd",
+    "Falka",
+    "Falka's Rebellion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Aen Saevherne are a separate caste of elven sages who reportedly possess knowledge of magic as well as understanding of other worlds, time, and space.",
+   "entities": [
+    "Aen Saevherne"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gerhart of Aelle was raised by elves and grew up to become the renowned sorcerer known as Hen Gedymdeith.",
+   "entities": [
+    "Hen Gedymdeith"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Archmaster Geoffrey Monck negotiated an agreement at Loc Muinne allowing young sorcerers to learn from elven mages, possibly including the Aen Saevherne.",
+   "entities": [
+    "Geoffrey Monck",
+    "Loc Muinne",
+    "Aen Saevherne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The agreement allowing human-elf magical education was destroyed when Marshall Raupenneck's army massacred the elven population of Est Haemlet and Loc Muinne, sparking another war.",
+   "entities": [
+    "Marshall Raupenneck of Tretogor",
+    "Est Haemlet",
+    "Loc Muinne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Aretuza, located in the palace on the island of Thanedd off Temeria's shores, is the school where young female adepts are trained as sorceresses.",
+   "entities": [
+    "Aretuza",
+    "Thanedd Island"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Only sorceresses and trainees are allowed on Thanedd itself; visitors and petitioners are restricted to the palace of Loxia guarding the bridge to Gors Velen.",
+   "entities": [
+    "Loxia",
+    "Thanedd Island"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A dwimveandra is a sorceress who, after finishing education at Aretuza, travels and trains under various sorcerers instead of taking a single mistress.",
+   "entities": [
+    "Aretuza"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After several years as a traveling dwimveandra, a sorceress may take an exam to earn the title of Mistress of Magic.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ban Ard in Kaedwen is the male equivalent academy to Aretuza, though considered less prestigious and better known for its heavy cavalry banner than academic achievement.",
+   "entities": [
+    "Ban Ard"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yennefer of Vengerberg was formerly named Jenny and was admitted to Aretuza's first class after testing confirmed her magical talent.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Aretuza"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Yennefer of Vengerberg came from an abusive family; her father abused her physically and psychically, and her mother failed to support her.",
+   "entities": [
+    "Yennefer of Vengerberg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Yennefer of Vengerberg suffered from a deformed spinal column and scapula (being a hunchback) and is a quarter elvish, with a half-elf mother.",
+   "entities": [
+    "Yennefer of Vengerberg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Yennefer of Vengerberg attempted suicide as a result of childhood trauma and abuse.",
+   "entities": [
+    "Yennefer of Vengerberg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Archmistress Tissaia de Vries personally recommended Yennefer of Vengerberg and highly praised her despite her troubled background.",
+   "entities": [
+    "Tissaia de Vries",
+    "Yennefer of Vengerberg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Yennefer of Vengerberg's physical deformities and tendon trauma were corrected using higher magic during her first year at Aretuza.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Aretuza"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Novigrad Union was an agreement between sorcerers, priests, and crowned rulers establishing the separation of magic and state for many ages.",
+   "entities": [
+    "Novigrad Union"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Raffard the White famously arranged peace between kings during the Six Years' War and refused an offered crown, later becoming a royal advisor.",
+   "entities": [
+    "Raffard the White"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "The formation of the first Conclave led to a brief civil war in which those who resisted the new hierarchy, including Raffard the White, were eliminated.",
+   "entities": [
+    "Conclave",
+    "Raffard the White"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "The balance of power between sorcerers and rulers shifted after the Second Battle of Sodden during the First Nilfgaard War, when sorcerers' sacrifice helped win the battle.",
+   "entities": [
+    "Second Battle of Sodden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "After Sodden, sorcerers gained influence with kings, some beginning to act as advisors and gain political power.",
+   "entities": [
+    "Second Battle of Sodden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 51
+  },
+  {
+   "text": "The Thanedd Coup occurred on the first of July during the Year of the Great War at Garstang Palace on Thanedd Island.",
+   "entities": [
+    "Thanedd Coup",
+    "Thanedd Island"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Roughly two hundred practitioners of magic gathered at the Thanedd summit, including members of the Conclave and Supreme Council of Sorcerers.",
+   "entities": [
+    "Thanedd Coup",
+    "Conclave",
+    "Supreme Council of Sorcerers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Sorcerers loyal to the Northern Kingdoms at Thanedd included Philippa Eilhart of Redania, Triss Merigold and Keira Metz of Temeria, Radcliffe of Oxenfurt, and Sabrina Glevissig of Kaedwen.",
+   "entities": [
+    "Philippa Eilhart",
+    "Triss Merigold",
+    "Keira Metz",
+    "Radcliffe of Oxenfurt",
+    "Sabrina Glevissig",
+    "Thanedd Coup"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Loyalist sorcerers attempted to arrest traitors Vilgefortz of Roggeveen, Artaud Terranova, and Fercart of Cidaris with help from the Redanian Secret Service.",
+   "entities": [
+    "Vilgefortz of Roggeveen",
+    "Artaud Terranova",
+    "Fercart of Cidaris",
+    "Thanedd Coup"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Tissaia de Vries liquidated the barrier spell preventing magic use at Thanedd, allowing conspirators to summon help and triggering an all-out battle.",
+   "entities": [
+    "Tissaia de Vries",
+    "Thanedd Coup"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The traitors at Thanedd were preparing their own coup with help from a hidden unit of Scoia'tael in Garstang's cellars, and sought to capture Cirilla of Cintra.",
+   "entities": [
+    "Thanedd Coup",
+    "Cirilla of Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The Thanedd Coup resulted in a massacre killing many sorcerers, with only a handful of traitors escaping, permanently damaging sorcerers' reputation in the North.",
+   "entities": [
+    "Thanedd Coup"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "After the Thanedd Coup, the Conclave and Supreme Council of Sorcerers were dissolved, and even loyal sorcerers lost their rulers' trust.",
+   "entities": [
+    "Thanedd Coup",
+    "Conclave",
+    "Supreme Council of Sorcerers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "The Lodge of Sorceresses was a secret organization founded after the fall of the Conclave and Supreme Council, meant to preserve and guide magic's future.",
+   "entities": [
+    "Lodge of Sorceresses",
+    "Conclave",
+    "Supreme Council of Sorcerers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 72
+  },
+  {
+   "text": "The Lodge of Sorceresses played an instrumental role in negotiating the Peace of Cintra, ending the Second Nilfgaard War.",
+   "entities": [
+    "Lodge of Sorceresses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "The Lodge of Sorceresses was later accused of involvement in the Assassinations of Kings, including the deaths of Demavend of Aedirn and Foltest of Temeria, leading to purges and a temporary ban.",
+   "entities": [
+    "Lodge of Sorceresses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Known members of the Lodge of Sorceresses included Philippa Eilhart, Sile de Tansarville, Sabrina Glevissig, Triss Merigold, Keira Metz, Margarita Laux-Antille, Yennefer of Vengerberg, the elves Francesca Findabair and Ida Emean aep Sivney, and Nilfgaardian sorceresses Assire var Anahid and Fringilla Vigo.",
+   "entities": [
+    "Lodge of Sorceresses",
+    "Philippa Eilhart",
+    "Sile de Tansarville",
+    "Sabrina Glevissig",
+    "Triss Merigold",
+    "Keira Metz",
+    "Margarita Laux-Antille",
+    "Yennefer of Vengerberg",
+    "Francesca Findabair",
+    "Ida Emean aep Sivney",
+    "Assire var Anahid",
+    "Fringilla Vigo"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Emhyr var Emreis, Emperor of Nilfgaard, expected obedience and results from sorcerers serving the Empire, threatening punishment for disobedience or failure.",
+   "entities": [
+    "Emhyr var Emreis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some prominent sorcerers criticize the field of magic as having reached a deadlock, citing lack of ethics, veneration of outdated theories, and excessive political interest among practitioners.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The magic megascope is an artifact allowing mages to communicate at great distance or spy on people and places, replacing crystal balls as the primary communication tool.",
+   "entities": [
+    "Magic megascope"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The alraunum decoction is known for granting longevity.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The cult of the Great Sun is the primary religion worshiped in the Nilfgaardian Empire.",
+   "entities": [],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ancient forgotten cults include Coram Agh Tera, Veyopatis, and the mysterious Water Lords.",
+   "entities": [],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tissaia de Vries theorized that prayer allows priests to enter a trance or self-hypnosis, letting them subconsciously channel the Power similar to how sorcerers cast spells.",
+   "entities": [
+    "Tissaia de Vries"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Yennefer of Vengerberg's experiences at the Temple of Freya on Hindarsfjall somewhat shook her skepticism about the existence of gods.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Freya",
+    "Hindarsfjall"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The cult of Melitele is an ancient religion combining prehuman beliefs about goddesses of harvest, fertility, and love into worship of the Allmother.",
+   "entities": [
+    "Melitele"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melitele is worshiped in three forms: the maiden, the mother, and the crone.",
+   "entities": [
+    "Melitele"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A major center of the cult of Melitele is a temple-cloister complex near Ellander in Temeria, administered by the priestess Nenneke.",
+   "entities": [
+    "Melitele",
+    "Ellander",
+    "Nenneke"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Melitele temple school in Ellander teaches reading, writing, arithmetic, philosophy, ethics, history, and healing to children and youths.",
+   "entities": [
+    "Melitele",
+    "Ellander"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The cult of Kreve is popular in Kaedwen, Redania, and Woefield, and its priests are known for political involvement and moralizing.",
+   "entities": [
+    "Kreve"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Druids do not worship a specific deity but proclaim the divinity of nature itself and emphasize maintaining natural balance.",
+   "entities": [
+    "Druids"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Druid communities are organized into local circles, each led by a chief druid called a hierophant, or a flaminika if the position is held by a woman.",
+   "entities": [
+    "Druids"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Druids are known for defending endangered species and maintaining good relations with local populations, giving them significant social influence.",
+   "entities": [
+    "Druids"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The goddess Freya is worshiped chiefly in the Skellige Isles, where she is called modron (mother) and is patron of hearth, love, fertility, and harvest.",
+   "entities": [
+    "Freya"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freya is also patron of prophetesses and seers, symbolized by the necklace Brisingamen, the cat, and the falcon.",
+   "entities": [
+    "Freya",
+    "Brisingamen"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Skellige Islanders also worship various sea gods and practice an ancestor 'cult of heroes' alongside a local branch of druidism.",
+   "entities": [],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Svalblod cult practiced bloody rites that led to its marginalization and near-total banishment from the Skellige Isles.",
+   "entities": [
+    "Svalblod"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Prophet Lebioda was a simple shepherd who lived about a century and a half before the present, preaching sermons and gathering many followers.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Prophet Lebioda died being burned and devoured by a dragon he was attempting to exorcise.",
+   "entities": [
+    "Prophet Lebioda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "The cult of Lebioda spread through Redania, gradually displacing the cult of Kreve, and gained a militant arm.",
+   "entities": [
+    "Prophet Lebioda",
+    "Kreve"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The Order of the Flaming Rose was originally founded on the ideal of defending the innocent and downtrodden.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

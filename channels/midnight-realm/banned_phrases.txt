@@ -1,0 +1,63 @@
+# One per line, matched case-insensitively as whole words/phrases.
+# Lines starting with "re:" are regular expressions. "#" starts a comment.
+
+# --- Filler the reference channel leans on ---
+specifically designed
+specifically crafted
+meticulously
+masterfully
+masterclass
+serves as a testament
+a testament to
+stands as a testament
+it's worth noting
+it is worth noting
+interestingly enough
+notably
+needless to say
+at the end of the day
+
+# --- Generic AI prose ---
+tapestry
+delve
+delves
+delving
+intricate
+intricately
+nuanced
+multifaceted
+realm of
+in the realm
+navigate the complexities
+a stark reminder
+serves as a reminder
+a poignant reminder
+paints a picture
+weaves a tale
+rich lore
+rich tapestry
+embark on a journey
+journey through
+hauntingly beautiful
+unravel the mysteries
+shrouded in mystery
+little did they know
+in conclusion
+to sum up
+all in all
+let's dive in
+dive deeper
+without further ado
+game-changer
+iconic
+epic
+re:\bnot (just|only|merely) (a|an)\b[^.]{0,60}\bbut\b   # "not just X, but Y"
+re:\b(truly|deeply|incredibly|profoundly) (unique|fascinating|haunting|tragic)\b
+re:\bperhaps (most|more) (importantly|interestingly)\b
+
+# --- Wakes the listener up ---
+re:!
+shocking
+insane
+mind-blowing
+you won't believe

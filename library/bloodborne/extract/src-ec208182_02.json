@@ -1,0 +1,1182 @@
+{
+ "entities": [
+  {
+   "name": "Ludvig's Holy Blade",
+   "kind": "weapon",
+   "aliases": [
+    "Holy Moonlight Sword"
+   ]
+  },
+  {
+   "name": "Rakuyo",
+   "kind": "weapon",
+   "aliases": [
+    "Ruyo"
+   ]
+  },
+  {
+   "name": "The Old Hunters",
+   "kind": "event",
+   "aliases": [
+    "expansion"
+   ]
+  },
+  {
+   "name": "Provost Willem",
+   "kind": "character",
+   "aliases": [
+    "Villim"
+   ]
+  },
+  {
+   "name": "The League",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Valtr",
+   "kind": "character",
+   "aliases": [
+    "Valter",
+    "Valta"
+   ]
+  },
+  {
+   "name": "Astral Clock Tower",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lady Maria",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig",
+   "kind": "boss",
+   "aliases": [
+    "Ludvig"
+   ]
+  },
+  {
+   "name": "Orphan of Kos",
+   "kind": "boss",
+   "aliases": [
+    "the orphan"
+   ]
+  },
+  {
+   "name": "Laurence",
+   "kind": "character",
+   "aliases": [
+    "Lawrence"
+   ]
+  },
+  {
+   "name": "Chalice Dungeons",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Umbilical Cords",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Garman",
+    "Gman"
+   ]
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Executioners",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Alfred",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cainhurst",
+   "kind": "location",
+   "aliases": [
+    "Canhurst",
+    "Kanhurst"
+   ]
+  },
+  {
+   "name": "Vile Blood Covenant",
+   "kind": "faction",
+   "aliases": [
+    "Set of Val Blood"
+   ]
+  },
+  {
+   "name": "Queen Annalise",
+   "kind": "character",
+   "aliases": [
+    "Anelise"
+   ]
+  },
+  {
+   "name": "Cathedral Ward Fisherman Covenant",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Yharnam Hunter Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Yharnam's Finest Set",
+   "kind": "item",
+   "aliases": [
+    "Arnam's finest set"
+   ]
+  },
+  {
+   "name": "Old Hunter Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Choir Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Charred Hunter Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Executioner Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "The Doll",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Hidotaka Miyazaki"
+   ]
+  },
+  {
+   "name": "From Software",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Demon's Souls",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Dark Souls",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "event",
+   "aliases": [
+    "Elder Ring"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Ludwig's Holy Blade and the Rakuyo, both introduced in The Old Hunters expansion, remain among the most popular weapons in Bloodborne's player community.",
+   "entities": [
+    "Ludvig's Holy Blade",
+    "Rakuyo",
+    "The Old Hunters"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion's story takes place in the past relative to the base game's main story.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Provost Willem, who founded Byrgenwerth, plays a larger and more direct role in The Old Hunters expansion than in the base game.",
+   "entities": [
+    "Provost Willem",
+    "The Old Hunters"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion introduces a hunting organization called the League, connected to the character Valtr.",
+   "entities": [
+    "The League",
+    "Valtr",
+    "The Old Hunters"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Environmental storytelling details in The Old Hunters expansion connect to and recontextualize locations and events from the base game.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Astral Clock Tower, where Lady Maria's boss fight occurs, features architecture with cosmic and celestial visual themes, contrasting with the expansion's otherwise coastal fishing hamlet setting.",
+   "entities": [
+    "Astral Clock Tower",
+    "Lady Maria"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lady Maria's weapon, the Rakuyo, is a dual blade trick weapon inspired by traditional Japanese sword pairing conventions, distinguishing it from the base game's mostly European-inspired weapons.",
+   "entities": [
+    "Rakuyo",
+    "Lady Maria"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion received notably positive critical and commercial reception, particularly for its boss design and narrative depth.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion added new consumable and utility items, including new firearms and throwables, expanding hunters' tactical options.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion's difficulty was calibrated assuming players already had significant experience and progression from the base game.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig's tragic transformation and eventual redemption arc is widely praised as one of the emotional high points of The Old Hunters expansion.",
+   "entities": [
+    "Ludwig",
+    "The Old Hunters"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Orphan of Kos, encountered in the Fishing Hamlet, is widely regarded as one of the most difficult and emotionally resonant boss encounters in Bloodborne.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Story revelations in The Old Hunters expansion, especially those about Laurence's uncertain final fate, recontextualize events and locations from the base game.",
+   "entities": [
+    "Laurence",
+    "The Old Hunters"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunters expansion added new chalice dungeon content, including additional layers, materials, and unique encounters.",
+   "entities": [
+    "The Old Hunters",
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Music composed for The Old Hunters expansion's boss encounters, especially Ludwig's and Lady Maria's themes, is frequently ranked among the strongest in the game's soundtrack.",
+   "entities": [
+    "The Old Hunters",
+    "Ludwig",
+    "Lady Maria"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono null": null
+  },
+  {
+   "text": "The Old Hunters expansion withholds full context and explanation until late in the experience, consistent with the base game's storytelling philosophy.",
+   "entities": [
+    "The Old Hunters"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Lore researchers widely believe small textual ambiguities in Bloodborne's item descriptions were deliberately included to encourage ongoing community discussion.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's narrative structure avoids traditional cutscene-heavy exposition, favoring environmental storytelling, item descriptions, and optional NPC dialogue.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several statues and architectural details throughout Yharnam are arranged in poses that visually foreshadow specific late-game boss reveals.",
+   "entities": [],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's numerology occasionally uses recurring symbolic numbers tied to covenant requirements and item thresholds, though developers have never confirmed the significance of every instance.",
+   "entities": [],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Several optional NPC dialogue exchanges in Bloodborne change depending on the order in which players visit NPCs or complete story beats.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's hidden true ending requires players to collect and correctly use a specific number of Umbilical Cord items, a requirement the community took time to fully document.",
+   "entities": [
+    "Umbilical Cords"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several enemy placements in Bloodborne are designed to teach players caution through failure rather than explicit warning, consistent with From Software's broader design philosophy.",
+   "entities": [
+    "From Software"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Item description translations across regional languages sometimes shift nuances present in the original Japanese text, a detail closely studied by lore researchers.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's hidden or easily missed areas reward players with unique items and narrative content found nowhere else.",
+   "entities": [],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's death and resurrection mechanics are tied narratively to the Hunter's Dream, weaving gameplay mechanics and narrative themes together.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Recurring visual motifs like spirals, eyes, and umbilical shapes appear across unrelated locations and items in Bloodborne, reinforcing subtle thematic connections.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's covenant system, including the Executioners and the League, lets players align with in-world factions with distinct narrative implications and gameplay bonuses.",
+   "entities": [
+    "Executioners",
+    "The League"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some boss weapons in Bloodborne can only be acquired by choosing not to use a specific consumable item during that boss's defeat.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's difficulty balance is designed so nearly every enemy attack pattern follows learnable rules rather than random damage.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare NPCs in Bloodborne are placed to reward players who explore slowly and thoroughly.",
+   "entities": [],
+   "category": "secret",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Small optional environmental details, like furniture or personal belongings, offer glimpses into ordinary Yharnamite domestic life separate from the game's cosmic storylines.",
+   "entities": [],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's chalice dungeon system uses deliberately archaic, ritualistic terminology in its menus and item descriptions to suggest ancient tradition.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain beast enemy variants have subtle visual differences depending on which district of Yharnam they appear in, suggesting the beast plague manifested differently across communities.",
+   "entities": [],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's approach of requiring active investigation rather than passive story reception is one of its most praised design aspects.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's Gothic Victorian aesthetic draws from real historical European architecture, particularly from England and Eastern Europe in the 19th century.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Developers reportedly consulted period photographs and architectural surveys of real 19th century industrial cities to understand how cities grow organically, rather than copying a single real location.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The juxtaposition of grand cathedral architecture against cramped residential streets, a real feature of industrializing European cities, informs Yharnam's visual contrast between institutional grandeur and poverty.",
+   "entities": [],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's cosmic horror themes draw from early 20th century weird fiction literature, emphasizing humanity's insignificance before incomprehensible forces.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Real historical anxieties about blood transfusion, a dangerous and poorly understood 19th century medical practice, inform Bloodborne's blood ministration narrative device.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's setting evokes real historical plague outbreaks and the social breakdown and institutional failure that often accompanied them.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Weapon designs like whip swords and cane swords in Bloodborne were inspired by real historical concealed weapons used by wealthy and aristocratic Europeans.",
+   "entities": [],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's architecture and costume design research drew from real fashion and building styles from the transition between Gothic and industrial eras.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Historical plague doctor imagery, including hoods, beaked masks, and heavy coats, informs several hunter and church-affiliated character designs in Bloodborne.",
+   "entities": [],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's theme of institutional religion's complicated relationship with compassion and corruption reflects historical patterns found in real religious institutions.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Real historical asylums and their troubling treatment practices informed Bloodborne's environments and item descriptions connected to madness, frenzy, and confinement.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's emphasis on aristocratic bloodline and inherited privilege, tied to Cainhurst and the Vile Blood tradition, reflects real historical European aristocratic obsessions with genealogy.",
+   "entities": [
+    "Cainhurst",
+    "Vile Blood Covenant"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Real historical medical instruments like surgical saws and bleeding equipment served as direct visual references for many Bloodborne weapon designs.",
+   "entities": [],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's fragmented, nonlinear narrative structure draws stylistic inspiration from Gothic and weird fiction traditions favoring implication over exposition.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Real historical fears about rabies and diseases causing violent animalistic behavior likely influenced the conceptual framing of Yharnam's beast plague.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's sound design, including church bells and choir-like vocals, draws on real religious musical tradition to reinforce the connection between violence and worship.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Retrospectives have noted Bloodborne's unusually thorough historical aesthetic research compared to other fantasy or horror games of its era.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Real historical fears about contagion and quarantine, including isolating sick community members, echo in Bloodborne's depiction of Old Yharnam's burning and the panic over the beast plague.",
+   "entities": [],
+   "category": "history",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's blend of reverence and unease toward Victorian source material reflects a nuanced engagement with history rather than simple aesthetic borrowing.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne features three distinct possible endings tied to Gehrman, the Moon Presence, and the true nature of the Hunter's Dream.",
+   "entities": [
+    "Gehrman",
+    "Moon Presence",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The writers behind Bloodborne's endings deliberately avoided making any single ending clearly superior, wanting players to feel the weight of choice.",
+   "entities": [],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The most common ending for first-time players involves defeating the Moon Presence and inheriting its cosmic role, often reached without players realizing alternate endings exist.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Bloodborne's hidden true ending, requiring gathered Umbilical Cords consumed at the right moment, was deliberately designed as an obscure secret to encourage community collaboration.",
+   "entities": [
+    "Umbilical Cords"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Choosing to accept death at Gehrman's hands during the climactic confrontation offers a more melancholy, contemplative ending distinct from the combat-focused alternatives.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Each of Bloodborne's three endings has a distinct final cutscene and musical cue.",
+   "entities": [],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The coronation-style visual language in some Bloodborne endings reflects a broader stylistic tendency shared with Elden Ring's similarly structured conclusions.",
+   "entities": [
+    "Elden Ring"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Reaching any of Bloodborne's endings does not require completing all available content, leaving much of the game's lore optional.",
+   "entities": [],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's New Game Plus system lets players carry progression into a new, harder playthrough to explore different choices and endings.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's endings collectively avoid presenting any single conclusion as unambiguously heroic or triumphant.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's ending sequences are visually and narratively restrained, avoiding extended aftermath or explicit consequence, consistent with the game's broader style of implication.",
+   "entities": [],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's covenant system layers optional narrative meaning onto the game's multiplayer summoning and invasion mechanics.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cathedral Ward Fisherman Covenant offers cooperative multiplayer assistance within Yharnham's city streets, reinforcing communal hunting themes.",
+   "entities": [
+    "Cathedral Ward Fisherman Covenant"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The League Covenant, connected to Valtr and introduced in The Old Hunters expansion, offers access to specific chalice dungeon content and unique rewards.",
+   "entities": [
+    "The League",
+    "Valtr",
+    "The Old Hunters"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executioners covenant, connected to Alfred and Cainhurst's history, lets players hunt other players who joined the Vile Blood covenant, reflecting the church's conflict with Cainhurst's blood tradition.",
+   "entities": [
+    "Executioners",
+    "Alfred",
+    "Cainhurst",
+    "Vile Blood Covenant"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Vile Blood Covenant, connected to Queen Annalise and the Frozen Court, lets hunters align with Cainhurst's tradition for unique rewards.",
+   "entities": [
+    "Vile Blood Covenant",
+    "Queen Annalise",
+    "Cainhurst"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Chalice dungeon-focused covenant options were balanced to encourage repeated cooperative play in the procedurally generated underground content.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's bell-ringing summoning mechanic requires host and summoned players to be at a similar narrative point in their playthroughs to keep cooperative encounters coherent.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Invasions in Bloodborne feature distinct audio and visual cues warning the host player of an impending intrusion.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's chalice dungeons allow larger cooperative groups than the main story areas typically support.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some covenant-specific items and rewards in Bloodborne are permanently missable if a player doesn't join the relevant faction during their playthrough.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's multiplayer balance avoids strict skill or equipment-based matchmaking, relying instead on a broader progression-based system.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain covenant rewards in Bloodborne are tied to accumulating faction-specific currencies, such as Insight or Blood Echoes.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Summoned cooperative hunters in Bloodborne retain their own character customization, making every cooperative encounter visually unique.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's multiplayer was designed to remain fully optional, allowing solo players to complete the story and reach any ending without engaging online systems.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain areas in Bloodborne are specifically designed as multiplayer arenas or contested zones where invasions and cooperative encounters are especially likely.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's chalice dungeon system lets players share specific dungeon configurations using unique identifying codes for coordinated community exploration.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some challenging optional bosses, including certain chalice dungeon exclusives, were balanced with cooperative multiplayer assistance in mind.",
+   "entities": [
+    "Chalice Dungeons"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A successful cooperative summon in Bloodborne is marked by a soft golden light and gentle chime, echoing the game's grace and cosmic connection visual language.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's armor system has relatively modest defensive stat differences between sets, emphasizing positioning and skill over equipment optimization.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Yharnam Hunter Set, one of the earliest available armor options, was designed to establish the game's core aesthetic identity with a deep hood and heavy coat.",
+   "entities": [
+    "Yharnam Hunter Set"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cainhurst armor set was designed with an elegant, formal silhouette distinct from the practical designs used elsewhere in the game.",
+   "entities": [
+    "Cainhurst"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Yharnam's Finest set, associated with church-affiliated hunters, features a longer coat and armored plating to convey institutional discipline.",
+   "entities": [
+    "Yharnam's Finest Set"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several armor sets in Bloodborne are acquired only through completing specific NPC questlines or defeating optional bosses.",
+   "entities": [],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Old Hunter Set, connected to Ludwig's storyline, features heavier plating reflecting an older, more established hunting tradition predating the base game's equipment.",
+   "entities": [
+    "Old Hunter Set",
+    "Ludwig"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Choir Set, connected to the church's secretive cosmic research division, has pale, priestly coloring distinct from other church armor.",
+   "entities": [
+    "Choir Set"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Charred Hunter Set has an unfinished patchwork appearance and requires a particularly obscure and challenging acquisition method.",
+   "entities": [
+    "Charred Hunter Set"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Armor pieces in Bloodborne can be mixed and matched between different sets, allowing unique visual combinations.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executioner Set incorporates heavy religious iconography, reinforcing the Cainhurst-hunting faction's self-conception as righteous, divinely sanctioned forces.",
+   "entities": [
+    "Executioner Set",
+    "Cainhurst"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain rare armor sets, including those connected to Cainhurst's inner circle, remain visually distinct even at a distance, helping identify a character's faction affiliation.",
+   "entities": [
+    "Cainhurst"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's armor weight and movement speed trade-offs were calibrated to be more forgiving than in some other From Software titles, emphasizing fast, aggressive mobility.",
+   "entities": [
+    "From Software"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Some armor sets feature asymmetrical details, like a single reinforced shoulder or unevenly worn boot, suggesting hunters personally modified their gear.",
+   "entities": [],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Doll's clothing was created with a design language distinct from any wearable hunter armor, reinforcing her status as something other than an ordinary hunter.",
+   "entities": [
+    "The Doll"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several armor sets in Bloodborne have color variant options for additional customization without needing separate equipment.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's character creation system offers more detailed physical customization options than many players expect from a combat-focused game.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain armor sets provide specific resistance bonuses against status effects, such as frenzy resistance.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Set of Vile Blood armor, tied to Cainhurst's tradition, has dark, rich coloring and ornate detailing distinct from muted church-affiliated equipment.",
+   "entities": [
+    "Vile Blood Covenant",
+    "Cainhurst"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's musical score was composed by a team of several credited composers working collaboratively, resulting in a varied yet thematically consistent soundtrack.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's boss themes generally incorporate choral vocal elements, reinforcing the connection between violence and religious worship.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Musical themes associated with Ludwig and Lady Maria from The Old Hunters expansion are frequently cited as among the finest pieces in any From Software game.",
+   "entities": [
+    "Ludwig",
+    "Lady Maria",
+    "The Old Hunters"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's ambient sound design during exploration deliberately minimizes background music, relying on environmental audio like rain, distant bells, and creaking wood.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Boss music in Bloodborne typically begins the moment a fog gate is entered, creating an immediate atmospheric shift.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several tracks connected to the Great Ones and cosmic horror encounters use deliberately dissonant or unconventional musical structures.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's main menu theme was composed to establish the game's melancholy gothic atmosphere before gameplay begins.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sound design for trick weapon transformations and parries was crafted to give players clear, satisfying audio feedback for successful execution.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hunter combat vocalizations were recorded separately for male and female character voice options.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Distinctive enemy growls or shrieks are designed to be recognizable even before the enemy becomes visible, allowing players to anticipate threats by sound alone.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's sound mixing ensures critical gameplay audio cues remain audible even during chaotic multi-enemy combat.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Music associated with the Hunter's Dream was composed with a gentler, more melancholy character to reinforce its role as a refuge.",
+   "entities": [
+    "Hunter's Dream"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fans and musicians have created their own arrangements and covers of Bloodborne's musical themes, reflecting its lasting cultural impact.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Professional vocal ensembles were brought in to perform choir recordings for several of Bloodborne's significant boss themes.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's sound design philosophy, emphasizing restraint during exploration and dramatic composition during key moments, has influenced other developers' approach to horror sound design.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne was developed by From Software, the Japanese studio behind Dark Souls and later Elden Ring, marking a stylistic departure from medieval fantasy toward gothic horror.",
+   "entities": [
+    "From Software",
+    "Dark Souls",
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The early conceptual pitch for Bloodborne centered on beasts and hunters rather than knights and dragons, later layered with cosmic horror and gothic historical detail.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's development involved close collaboration between narrative, environmental art, and combat design teams from an early stage.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bloodborne's director, Hidetaka Miyazaki, had already established a reputation through Demon's Souls and the original Dark Souls before directing Bloodborne's gothic horror direction.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Demon's Souls",
+    "Dark Souls"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

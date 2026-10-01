@@ -1,0 +1,953 @@
+{
+ "entities": [
+  {
+   "name": "Freyja",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Radahn",
+   "kind": "character",
+   "aliases": [
+    "Starscourge Radahn"
+   ]
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sir Ansbach",
+   "kind": "character",
+   "aliases": [
+    "Ansbach"
+   ]
+  },
+  {
+   "name": "Hornsent",
+   "kind": "character",
+   "aliases": [
+    "Hornsent race"
+   ]
+  },
+  {
+   "name": "Messmer the Impaler",
+   "kind": "character",
+   "aliases": [
+    "Messmer"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "Queen Marika"
+   ]
+  },
+  {
+   "name": "Igon",
+   "kind": "character",
+   "aliases": [
+    "broken drake warrior"
+   ]
+  },
+  {
+   "name": "Bayle",
+   "kind": "boss",
+   "aliases": [
+    "dread dragon Bayle"
+   ]
+  },
+  {
+   "name": "Igon's Harpoon",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Igon's Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Igon's Furled Finger",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Igon's Greatbow",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Dragon Communion Priestess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Moore",
+   "kind": "character",
+   "aliases": [
+    "Sir Moore"
+   ]
+  },
+  {
+   "name": "Forager Brood",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Thiollier",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Needle Knight Leda",
+   "kind": "character",
+   "aliases": [
+    "Lady Leda",
+    "Leda"
+   ]
+  },
+  {
+   "name": "Dryleaf Dane",
+   "kind": "character",
+   "aliases": [
+    "Father Dane",
+    "Dane"
+   ]
+  },
+  {
+   "name": "St. Trina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hornsent Grandam",
+   "kind": "character",
+   "aliases": [
+    "Grandam"
+   ]
+  },
+  {
+   "name": "Count Ymir",
+   "kind": "character",
+   "aliases": [
+    "Ymir"
+   ]
+  },
+  {
+   "name": "Jolán",
+   "kind": "character",
+   "aliases": [
+    "Jolan"
+   ]
+  },
+  {
+   "name": "Fire Knight Queelign",
+   "kind": "character",
+   "aliases": [
+    "Queelign"
+   ]
+  },
+  {
+   "name": "Queelign's Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Divine Beast Dancing Lion",
+   "kind": "boss",
+   "aliases": [
+    "Dancing Lion"
+   ]
+  },
+  {
+   "name": "Belurat Tower Settlement",
+   "kind": "location",
+   "aliases": [
+    "Belurat"
+   ]
+  },
+  {
+   "name": "Dragonlord Placidusax",
+   "kind": "boss",
+   "aliases": [
+    "Placidusax"
+   ]
+  },
+  {
+   "name": "Cathedral of Manus Metyr",
+   "kind": "location",
+   "aliases": [
+    "Manus Metyr Cathedral"
+   ]
+  },
+  {
+   "name": "Stone Coffin Fissure",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Garden of Deep Purple",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Dryleaf Sect",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Golden Lion Shield",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Realm of Shadow",
+   "kind": "location",
+   "aliases": [
+    "Land of Shadow"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Freyja bears a scar from a scarlet rot wound that was healed by Miquella's touch, and she now views it as a guiding compass.",
+   "entities": [
+    "Freyja",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja wields a Greatsword decorated with a mane, symbolizing her connection to Radahn and her strength as a warrior.",
+   "entities": [
+    "Freyja",
+    "Radahn"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja carries the Golden Lion Shield, a symbol awarded to only the most valorous knights of Radahn's personal guard.",
+   "entities": [
+    "Freyja",
+    "Golden Lion Shield",
+    "Radahn"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja was once deeply loyal to Radahn, having fought alongside him in past battles.",
+   "entities": [
+    "Freyja",
+    "Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After being healed by Miquella, Freyja's loyalty shifted toward Miquella's cause.",
+   "entities": [
+    "Freyja",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja urges the Tarnished to follow the footprints of Miquella, the path she herself now walks.",
+   "entities": [
+    "Freyja",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja feels a duty to understand and honor the vow Miquella made with Radahn.",
+   "entities": [
+    "Freyja",
+    "Miquella",
+    "Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja reflects on the complexity of potentially fighting alongside or against former allies like Sir Ansbach.",
+   "entities": [
+    "Freyja",
+    "Sir Ansbach"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hornsent is both an individual character and the name of a race originating from the Realm of Shadow.",
+   "entities": [
+    "Hornsent",
+    "Realm of Shadow"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hornsent character is found with Freyja at the Three-Path Cross in Gravesite Plain.",
+   "entities": [
+    "Hornsent",
+    "Freyja"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hornsent people were purged by Messmer the Impaler.",
+   "entities": [
+    "Hornsent",
+    "Messmer the Impaler"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent holds a deep grudge against the Erdtree, viewing it as an enemy of his people.",
+   "entities": [
+    "Hornsent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent views Marika as a betrayer of his people.",
+   "entities": [
+    "Hornsent",
+    "Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite his hatred, Hornsent follows an oath to Miquella and offers assistance to the player.",
+   "entities": [
+    "Hornsent",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent provides maps marking crosses tied to his people's suffering as the player aligns with Miquella.",
+   "entities": [
+    "Hornsent",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent refuses to accept alms or gifts out of pride, but rewards the player with maps and guidance if aided.",
+   "entities": [
+    "Hornsent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Messmer's death, Hornsent expresses satisfaction but states his thirst for vengeance extends to Marika and the entire Erdtree.",
+   "entities": [
+    "Hornsent",
+    "Messmer the Impaler",
+    "Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon is a broken drake warrior consumed by pain and a burning need for revenge against the dread dragon Bayle.",
+   "entities": [
+    "Igon",
+    "Bayle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon created his own weapon, Igon's Harpoon, a great arrow adorned with sharp gravel stone pieces designed to be deadly against dragons.",
+   "entities": [
+    "Igon",
+    "Igon's Harpoon"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon's armor set, Igon's Set, is mismatched and tattered, reflecting his past as a battlefield scavenger.",
+   "entities": [
+    "Igon",
+    "Igon's Set"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon once sought honor through Dragon Communion, shown by the design of his armor pieces.",
+   "entities": [
+    "Igon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon's Furled Finger is a gnarled, discolored finger item that can be used to summon Igon to battle.",
+   "entities": [
+    "Igon",
+    "Igon's Furled Finger"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon's soul clings to the mountain where his battle with Bayle took place, and he asks the player to climb the peak to face the dragon.",
+   "entities": [
+    "Igon",
+    "Bayle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Igon's Greatbow is crafted from dragon bones bound with rope and scarred by claws, enhancing the power of his harpoons.",
+   "entities": [
+    "Igon",
+    "Igon's Greatbow"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When the player defeats the Jagged Peak Drake, Igon reflects on the warrior he once was before asking the player to continue his fight against Bayle.",
+   "entities": [
+    "Igon",
+    "Bayle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dragon Communion Priestess compares Igon's ambition and hunger to Bayle's fiery spirit and relentless drive.",
+   "entities": [
+    "Dragon Communion Priestess",
+    "Igon",
+    "Bayle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Bayle is defeated, Igon's spirit is freed and finally able to rest, his revenge realized.",
+   "entities": [
+    "Igon",
+    "Bayle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Moore is a gentle giant, a follower of Miquella, and a member of the Forager Brood, a group dedicated to finding crafting materials and recipes across the Land of Shadow.",
+   "entities": [
+    "Moore",
+    "Miquella",
+    "Forager Brood"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Moore can first be encountered at the Main Gate Cross Site of Grace near Belurat Tower Settlement, accompanied by Sir Ansbach.",
+   "entities": [
+    "Moore",
+    "Sir Ansbach",
+    "Belurat Tower Settlement"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When the Great Rune breaks, Moore is visibly affected but continues clinging to his devotion to Miquella.",
+   "entities": [
+    "Moore",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Moore provides Thiollier with Black Syrup after being asked to find it.",
+   "entities": [
+    "Moore",
+    "Thiollier"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If a member of the forager brood is killed or harmed, Moore reacts with grief and anger, calling it an unforgivable tragedy.",
+   "entities": [
+    "Moore",
+    "Forager Brood"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the final boss is defeated, Moore laments the loss of his brood and the absence of allies including Lady Leda, Father Dane, Sir Ansbach, Freyja, Thiollier, and the Hornsent.",
+   "entities": [
+    "Moore",
+    "Needle Knight Leda",
+    "Dryleaf Dane",
+    "Sir Ansbach",
+    "Freyja",
+    "Thiollier",
+    "Hornsent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Needle Knight Leda is the leader of Miquella's band of followers in the Realm of Shadow.",
+   "entities": [
+    "Needle Knight Leda",
+    "Miquella",
+    "Realm of Shadow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leda is found at the Highroad Cross Site of Grace near Hornsent.",
+   "entities": [
+    "Needle Knight Leda",
+    "Hornsent"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leda urges the player to touch the withered arm, a portal to the Realm of Shadow where Miquella resides.",
+   "entities": [
+    "Needle Knight Leda",
+    "Miquella",
+    "Realm of Shadow"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leda references Dane, a silent monk who has served Miquella longer than she has, describing him as reserved but a formidable warrior.",
+   "entities": [
+    "Needle Knight Leda",
+    "Dryleaf Dane",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leda hints at a tumultuous past between the Hornsent and the tower folk, resulting from ancient conflicts instigated by Queen Marika's commands.",
+   "entities": [
+    "Needle Knight Leda",
+    "Hornsent",
+    "Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Great Rune breaks, Leda grows suspicious of her fellow followers and proposes eliminating the Hornsent, fearing his vengeance could threaten Miquella's cause.",
+   "entities": [
+    "Needle Knight Leda",
+    "Hornsent",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leda identifies Sir Ansbach, a former commander of the Pureblood Knights, as a potential danger due to his past involvement with Miquella's blood blade.",
+   "entities": [
+    "Needle Knight Leda",
+    "Sir Ansbach",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating Sir Ansbach, Leda reflects on the weight of her actions but accepts them as the price for ensuring Miquella's continued favor.",
+   "entities": [
+    "Needle Knight Leda",
+    "Sir Ansbach",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thiollier is a non-combatant Tarnished character skilled in crafting poison rather than fighting, found at the Pillar Path Cross Site of Grace.",
+   "entities": [
+    "Thiollier"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thiollier serves Miquella and mentions Lady Leda when first met, acknowledging shared devotion to the same deity.",
+   "entities": [
+    "Thiollier",
+    "Miquella",
+    "Needle Knight Leda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Great Rune breaks, Thiollier becomes haunted by memories of St. Trina, the goddess of slumber, and longs for her poison to grant him eternal sleep.",
+   "entities": [
+    "Thiollier",
+    "St. Trina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thiollier travels to find St. Trina's resting place in the southern part of the world, becoming increasingly obsessive and erratic.",
+   "entities": [
+    "Thiollier",
+    "St. Trina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thiollier warns the player not to follow his example, as St. Trina's poison would plunge them into eternal slumber.",
+   "entities": [
+    "Thiollier",
+    "St. Trina"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Thiollier eventually becomes hostile, accusing the player of lying if they try to speak for St. Trina, leading to a final confrontation.",
+   "entities": [
+    "Thiollier",
+    "St. Trina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent Grandam belongs to the ancient Hornsent race that once thrived in Belurat Tower Settlement and was connected to the Divine Beast Dancing Lion.",
+   "entities": [
+    "Hornsent Grandam",
+    "Belurat Tower Settlement",
+    "Divine Beast Dancing Lion"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent Grandam's people were decimated by Messmer the Impaler and his forces.",
+   "entities": [
+    "Hornsent Grandam",
+    "Messmer the Impaler"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hornsent Grandam greets the Tarnished with suspicion, accusing them of complicity in Messmer's atrocities.",
+   "entities": [
+    "Hornsent Grandam",
+    "Messmer the Impaler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryleaf Dane is a master of unarmed martial combat, a devoted follower of Miquella, and a sworn ally of Leda.",
+   "entities": [
+    "Dryleaf Dane",
+    "Miquella",
+    "Needle Knight Leda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryleaf Dane's fighting style, Dane's Footwork, emphasizes powerful and precise kicks developed through training under a waterfall.",
+   "entities": [
+    "Dryleaf Dane"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryleaf Dane leaves a Monk's Missive inviting challengers to test their worth against him in the eastern lands.",
+   "entities": [
+    "Dryleaf Dane"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Count Ymir is the High Priest of Manus Metyr Cathedral and a vendor for glintstone sorceries.",
+   "entities": [
+    "Count Ymir",
+    "Cathedral of Manus Metyr"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Count Ymir shares philosophical musings about the Greater Will, the Erdtree, and the world's flaws.",
+   "entities": [
+    "Count Ymir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Count Ymir gifts the player the Hole-Laden Necklace and a Ruins Map early in his questline.",
+   "entities": [
+    "Count Ymir"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Count Ymir's companion Jolán can be summoned during specific encounters once her questline advances.",
+   "entities": [
+    "Count Ymir",
+    "Jolán"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Count Ymir reveals disillusionment with the Erdtree and Marika, lamenting the world's inherent flaws and humanity's inability to find redemption.",
+   "entities": [
+    "Count Ymir",
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dragon Communion Priestess is a surviving Ancient Dragon and worshipper of Dragonlord Placidusax.",
+   "entities": [
+    "Dragon Communion Priestess",
+    "Dragonlord Placidusax"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dragon Communion Priestess provides lore about Bayle and Placidusax, revealing the former dominion and decline of the Ancient Dragons.",
+   "entities": [
+    "Dragon Communion Priestess",
+    "Bayle",
+    "Dragonlord Placidusax"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jolán is a loyal warrior serving Count Ymir, found standing on a pillar beside him in the Cathedral of Manus Metyr.",
+   "entities": [
+    "Jolán",
+    "Count Ymir",
+    "Cathedral of Manus Metyr"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jolán warns the player that crossing Count Ymir will bring regret, though she shows respect if the player earns his trust.",
+   "entities": [
+    "Jolán",
+    "Count Ymir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jolán calls Count Ymir a guiding star in the dark sky and believes him to be the only true light in the night.",
+   "entities": [
+    "Jolán",
+    "Count Ymir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the player betrays or harms Count Ymir, Jolán will fight to protect his will.",
+   "entities": [
+    "Jolán",
+    "Count Ymir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fire Knight Queelign is a knight loyal to Queen Marika, introduced in the Shadow of the Erdtree expansion.",
+   "entities": [
+    "Fire Knight Queelign",
+    "Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fire Knight Queelign is first encountered as an NPC invader in Belurat Tower Settlement and the Church of Crusade.",
+   "entities": [
+    "Fire Knight Queelign",
+    "Belurat Tower Settlement"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queelign's Greatsword was remade by Queelign in the shape of the lance once wielded by his liege, symbolizing his desire to become a second Impaler.",
+   "entities": [
+    "Fire Knight Queelign",
+    "Queelign's Greatsword",
+    "Messmer the Impaler"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queelign's spirit can be summoned using the Fire Knight Queelign item, an ashen remains, causing him to attack immediately with his fiery greatsword.",
+   "entities": [
+    "Fire Knight Queelign"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "St. Trina is located in the deepest part of Stone Coffin Fissure, within the Garden of Deep Purple.",
+   "entities": [
+    "St. Trina",
+    "Stone Coffin Fissure",
+    "Garden of Deep Purple"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "St. Trina was referenced in the base game through item descriptions such as St. Trina's Torch, hinting at her connection to Miquella.",
+   "entities": [
+    "St. Trina",
+    "Miquella"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "St. Trina expresses concern that Miquella's ascension to godhood would be a curse rather than a blessing, trapping him beyond saving.",
+   "entities": [
+    "St. Trina",
+    "Miquella"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "St. Trina urges the player to kill Miquella to grant him forgiveness for the tragedy his divinity would bring.",
+   "entities": [
+    "St. Trina",
+    "Miquella"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ccafd6db"
+}

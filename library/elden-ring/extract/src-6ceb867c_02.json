@@ -1,0 +1,793 @@
+{
+ "entities": [
+  {
+   "name": "Tarnished",
+   "kind": "character",
+   "aliases": [
+    "Player Character"
+   ]
+  },
+  {
+   "name": "Melina",
+   "kind": "character",
+   "aliases": [
+    "Molina"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "Ma"
+   ]
+  },
+  {
+   "name": "Radagon",
+   "kind": "character",
+   "aliases": [
+    "Ratigan"
+   ]
+  },
+  {
+   "name": "Elden Beast",
+   "kind": "boss",
+   "aliases": [
+    "Elder Beast"
+   ]
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Two Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Godfrey",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Brother Corhyn",
+   "kind": "character",
+   "aliases": [
+    "Brother Corin"
+   ]
+  },
+  {
+   "name": "Goldmask",
+   "kind": "character",
+   "aliases": [
+    "Gold Mask"
+   ]
+  },
+  {
+   "name": "Fia",
+   "kind": "character",
+   "aliases": [
+    "Deathbed Companion"
+   ]
+  },
+  {
+   "name": "Death Prince",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Godwyn",
+   "kind": "character",
+   "aliases": [
+    "Godwin"
+   ]
+  },
+  {
+   "name": "Dung Eater",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Three Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Ranni",
+   "kind": "character",
+   "aliases": [
+    "Riy",
+    "Ry"
+   ]
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": [
+    "Mikuela",
+    "Mckela"
+   ]
+  },
+  {
+   "name": "Malenia",
+   "kind": "character",
+   "aliases": [
+    "Melenia"
+   ]
+  },
+  {
+   "name": "Leyndell",
+   "kind": "location",
+   "aliases": [
+    "Lendell",
+    "Lindell"
+   ]
+  },
+  {
+   "name": "Academy of Raya Lucaria",
+   "kind": "location",
+   "aliases": [
+    "Rya Lucaria"
+   ]
+  },
+  {
+   "name": "Mountaintops of the Giants",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Limgrave",
+   "kind": "location",
+   "aliases": [
+    "Limbgrave"
+   ]
+  },
+  {
+   "name": "Sites of Grace",
+   "kind": "concept",
+   "aliases": [
+    "sights of grace"
+   ]
+  },
+  {
+   "name": "Age of Fracture",
+   "kind": "event",
+   "aliases": [
+    "first ending"
+   ]
+  },
+  {
+   "name": "Age of Order",
+   "kind": "event",
+   "aliases": [
+    "second ending"
+   ]
+  },
+  {
+   "name": "Age of Duskyn",
+   "kind": "event",
+   "aliases": [
+    "Age of Duskorn",
+    "third ending"
+   ]
+  },
+  {
+   "name": "Blessing of Despair",
+   "kind": "event",
+   "aliases": [
+    "fourth ending"
+   ]
+  },
+  {
+   "name": "Lord of Frenzied Flame",
+   "kind": "event",
+   "aliases": [
+    "fifth ending"
+   ]
+  },
+  {
+   "name": "Age of Stars",
+   "kind": "event",
+   "aliases": [
+    "sixth ending"
+   ]
+  },
+  {
+   "name": "Erdtree",
+   "kind": "location",
+   "aliases": [
+    "the tree",
+    "urn tree",
+    "earth tree"
+   ]
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "concept",
+   "aliases": [
+    "Elder Ring"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Tarnished is a being who once possessed the grace of the Erdtree, lost it, died, and endured a strange persistence that being Tarnished grants.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Tarnished receives a call in the form of a golden guiding thread of grace that leads toward the Erdtree, promising the chance to restore the Elden Ring and become Elden Lord.",
+   "entities": [
+    "Tarnished",
+    "Erdtree",
+    "Elden Ring"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Lands Between is not a world waiting to be saved but one already broken in ways a single Tarnished cannot simply fix by fighting to the top.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The ruins of Limgrave suggest a civilization that was once whole.",
+   "entities": [
+    "Limgrave"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Academy of Raya Lucaria represents a tradition of magical scholarship that persisted stubbornly even as the world fell apart.",
+   "entities": [
+    "Academy of Raya Lucaria"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Mountaintops of the Giants reflect a genocide carried out in the name of order.",
+   "entities": [
+    "Mountaintops of the Giants"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Many demigods the Tarnished fights became monstrous not from birth but because the world, their great runes, or prolonged grief shaped them that way.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Melina walks beside the Tarnished as a guide, tending the Sites of Grace that serve as checkpoints across the world.",
+   "entities": [
+    "Melina",
+    "Sites of Grace"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina offers the Tarnished fragments of information and a kindness that seems genuine despite being largely unexplained.",
+   "entities": [
+    "Melina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina has a personal goal that is only understood at the end of the story: to sacrifice herself as kindling to burn open the Erdtree so the Tarnished can enter it.",
+   "entities": [
+    "Melina",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Melina describes herself as someone born at the foot of the Erdtree who was given a purpose by her mother, implied to be Marika.",
+   "entities": [
+    "Melina",
+    "Marika",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina may be a child of Marika existing outside conventional demigod lineages, or a soul given form by the Erdtree, or a deliberate contingency created by Marika.",
+   "entities": [
+    "Melina",
+    "Marika"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Melina has no grace of her own and no permanent vessel, appearing only through temporary forms she chooses.",
+   "entities": [
+    "Melina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Melina appears at Sites of Grace as though existing at the margins of the world rather than at its center.",
+   "entities": [
+    "Melina",
+    "Sites of Grace"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Melina is characterized as the first genuinely kind presence the Tarnished encounters in the Lands Between.",
+   "entities": [
+    "Melina",
+    "Tarnished"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "At the Forge of the Giants, Melina burns herself to open the Erdtree, stating she does not know what she will become but does not regret the choice.",
+   "entities": [
+    "Melina",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "After Melina's sacrifice, the base game does not fully resolve what happens to her, leaving it ambiguous whether she is gone or transformed.",
+   "entities": [
+    "Melina"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "If the Tarnished has accepted the Frenzied Flame, Melina does not sacrifice herself and instead becomes a figure sworn to deliver the Tarnished's destined death.",
+   "entities": [
+    "Melina",
+    "Tarnished"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Tarnished's journey leads through demigods, ruins, underground cities, and frozen mountaintops before reaching Leyndell, the royal capital.",
+   "entities": [
+    "Tarnished",
+    "Leyndell"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "The Tarnished consumes Great Runes taken from fallen demigods over the course of the journey.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Inside the Erdtree, the Tarnished confronts Radagon, described as Marika's other, devoted half who tried to repair what Marika broke.",
+   "entities": [
+    "Radagon",
+    "Marika",
+    "Erdtree"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "When Radagon falls in battle, he transforms into Marika and then into the Elden Beast, the living embodiment of the Greater Will's Order.",
+   "entities": [
+    "Radagon",
+    "Marika",
+    "Elden Beast",
+    "Greater Will"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "The Elden Beast is fought as a creature of golden starlight within a void of absolute darkness.",
+   "entities": [
+    "Elden Beast"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "After the Elden Beast falls, the Elden Ring lies shattered and Marika appears fractured and silent, awaiting the Tarnished's choice of ending.",
+   "entities": [
+    "Marika",
+    "Elden Ring"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "The Age of Fracture ending has the Tarnished mend the Elden Ring without additional power or intention, becoming Elden Lord while the Golden Order and Greater Will's structure continue as before.",
+   "entities": [
+    "Age of Fracture",
+    "Tarnished",
+    "Elden Ring",
+    "Greater Will"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Age of Order ending requires completing the questlines of Brother Corhyn and Goldmask.",
+   "entities": [
+    "Age of Order",
+    "Brother Corhyn",
+    "Goldmask"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Goldmask's revelation is that the flaws of the Golden Order come from the fact that gods are as flawed as the mortals they govern.",
+   "entities": [
+    "Goldmask"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Goldmask's mending rune creates a transcendental Golden Order meant to rise above the corruption of individual divine personalities.",
+   "entities": [
+    "Goldmask",
+    "Age of Order"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Age of Duskyn ending comes from completing the questline of Fia, the Deathbed Companion, who holds Tarnished in her embrace to share in their life force.",
+   "entities": [
+    "Age of Duskyn",
+    "Fia",
+    "Tarnished"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Fia is devoted to the cause of those who live wrongfully in death.",
+   "entities": [
+    "Fia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Godwyn's incomplete death produced an entity called the Death Prince, combining Godwyn's lingering flesh presence with the rune of death.",
+   "entities": [
+    "Godwyn",
+    "Death Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia's mending rune restores natural death to the world, allowing those who live in death to finally rest and ending the Erdtree's cycle of capturing and recycling souls.",
+   "entities": [
+    "Fia",
+    "Age of Duskyn",
+    "Erdtree"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Blessing of Despair ending comes from the Dung Eater's questline.",
+   "entities": [
+    "Blessing of Despair",
+    "Dung Eater"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Dung Eater has committed atrocities against both the dead and the living and wants to spread his personal curse to all beings in the Lands Between so everyone is equally defiled.",
+   "entities": [
+    "Dung Eater"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Blessing of Despair ending is considered the darkest of the Elden Lord endings, reflecting a nihilistic worldview given power over reality.",
+   "entities": [
+    "Blessing of Despair",
+    "Dung Eater"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 100
+  },
+  {
+   "text": "The Lord of the Frenzied Flame ending requires descending beneath Leyndell's sewers to find the Three Fingers and allow them to grant the Frenzied Flame.",
+   "entities": [
+    "Lord of Frenzied Flame",
+    "Leyndell",
+    "Three Fingers"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Accepting the Frenzied Flame locks the Tarnished into becoming the Lord of Chaos, the instrument of the Frenzied Flame's apocalyptic vision to burn the Erdtree and everything else to ash.",
+   "entities": [
+    "Lord of Frenzied Flame",
+    "Tarnished",
+    "Erdtree"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Frenzied Flame ending, Melina watches the destruction and vows to deliver the Tarnished's destined death.",
+   "entities": [
+    "Melina",
+    "Lord of Frenzied Flame",
+    "Tarnished"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Age of Stars ending belongs to Ranni and requires completing her questline, becoming her champion and lord, and retrieving her ring.",
+   "entities": [
+    "Age of Stars",
+    "Ranni"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Age of Stars ending, after the Elden Beast falls, Ranni's summon sign appears offering the Tarnished a choice instead of Marika's fractured form.",
+   "entities": [
+    "Age of Stars",
+    "Ranni",
+    "Elden Beast",
+    "Marika"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "When summoned, Ranni appears in her true form as an enormous, radiant, divine being who replaces Marika in the world's structure, with the Dark Moon becoming the new guiding light.",
+   "entities": [
+    "Ranni",
+    "Marika"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Ranni tells the Tarnished she will give birth to a new and fleeting world and calls the Tarnished her consort, and together they leave the Lands Between on a thousand-year voyage into the stars.",
+   "entities": [
+    "Ranni",
+    "Tarnished"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Age of Stars ending, the world below begins its first night without the golden light that has governed it since before living memory.",
+   "entities": [
+    "Age of Stars"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 100
+  },
+  {
+   "text": "All six Elden Ring endings involve continuing something—a cycle, a new order, a destruction, or a departure—rather than providing a clean, final resolution.",
+   "entities": [
+    "Age of Fracture",
+    "Age of Order",
+    "Age of Duskyn",
+    "Blessing of Despair",
+    "Lord of Frenzied Flame",
+    "Age of Stars"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Elden Ring sold over 25 million copies.",
+   "entities": [
+    "Elden Ring"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elden Ring's narrative explores themes of inherited systems and structures that claim authority based on an origin story the player never witnessed.",
+   "entities": [
+    "Elden Ring"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Erdtree is characterized as a parasitic structure whose golden light hides the fact that the Greater Will is distant and alien.",
+   "entities": [
+    "Erdtree",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The immortality offered by the Erdtree's cycle comes at the cost of souls being returned to feed the Greater Will's cosmic system.",
+   "entities": [
+    "Erdtree",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "None of the alternative powers challenging the Golden Order—Ranni's cold moon, Miquella's compassion, Goldmask's order, or the Frenzied Flame's destruction—are presented as clearly better solutions.",
+   "entities": [
+    "Ranni",
+    "Miquella",
+    "Goldmask",
+    "Lord of Frenzied Flame"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Miquella's compassion was genuine, but his methods were controlling and manipulative in ways his good intentions do not fully excuse.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Godfrey served the Golden Order with absolute commitment and was exiled for having run out of wars to fight.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Malenia gave everything for her brother's cause and is depicted as still waiting for him to return.",
+   "entities": [
+    "Malenia",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Ranni died in the flesh in order to preserve the freedom of her soul.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Fia held dying Tarnished in her arms out of compassion because she believed someone needed to.",
+   "entities": [
+    "Fia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Goldmask sat in silence at the edge of a great ruin, working out the nature of the universe without writing anything down, believing the right person would understand without words.",
+   "entities": [
+    "Goldmask"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sites of Grace are depicted narratively as fragments of the Erdtree's fading grace and the world's memory of what it was meant to be.",
+   "entities": [
+    "Sites of Grace",
+    "Erdtree"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Each Site of Grace points in a direction suggesting where the player should go next, but players can choose to ignore this guidance and explore elsewhere.",
+   "entities": [
+    "Sites of Grace"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some of the most important discoveries in the Lands Between, such as underground cities, hidden questlines, and optional bosses, are not indicated by the Sites of Grace guidance.",
+   "entities": [
+    "Sites of Grace"
+   ],
+   "category": "secret",
+   "status": "inferred",
+   "chrono": null
+  }
+ ],
+ "_src": "src-6ceb867c"
+}

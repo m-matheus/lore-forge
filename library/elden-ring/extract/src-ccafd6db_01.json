@@ -1,0 +1,2589 @@
+{
+ "entities": [
+  {
+   "name": "Latenna",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lobo",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sir Gideon Ofnir",
+   "kind": "character",
+   "aliases": [
+    "Gideon"
+   ]
+  },
+  {
+   "name": "Phillia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Haligtree Secret Medallion",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Apostate Derelict",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ensha of the Royal Remains",
+   "kind": "character",
+   "aliases": [
+    "Ensha"
+   ]
+  },
+  {
+   "name": "Soulless King",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Royal Remains Set",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Clinging Bone",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Roundtable Hold",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Tanith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rykard",
+   "kind": "character",
+   "aliases": [
+    "Praetor Rykard",
+    "Lord Rykard",
+    "Rykard, Lord of Blasphemy"
+   ]
+  },
+  {
+   "name": "Rya",
+   "kind": "character",
+   "aliases": [
+    "Zorayas"
+   ]
+  },
+  {
+   "name": "God-Devouring Serpent",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Tonic of Forgetfulness",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Volcano Manor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Bernahl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Melina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Forge of the Giants",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Daedicar",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Patches",
+   "kind": "character",
+   "aliases": [
+    "Patches the Untethered"
+   ]
+  },
+  {
+   "name": "Dancer's Castanets",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Diallos",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Juno Hoslow",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "House Hoslow",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Jar-Bairn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Jarburg",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Iron Fist Alexander",
+   "kind": "character",
+   "aliases": [
+    "Alexander"
+   ]
+  },
+  {
+   "name": "Living Jar Shards",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Ironjar Aromatic",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blackguard Big Boggart",
+   "kind": "character",
+   "aliases": [
+    "Boggart"
+   ]
+  },
+  {
+   "name": "Dung Eater",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Seedbed Curse",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Mending Rune of the Fell Curse",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Enia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Two Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vyke",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Queen Marika",
+   "kind": "character",
+   "aliases": [
+    "Marika, the Eternal",
+    "Marika"
+   ]
+  },
+  {
+   "name": "Maliketh",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rune of Death",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Godfrey",
+   "kind": "character",
+   "aliases": [
+    "Hoarah Loux"
+   ]
+  },
+  {
+   "name": "Godwyn the Golden",
+   "kind": "character",
+   "aliases": [
+    "Godwyn"
+   ]
+  },
+  {
+   "name": "Morgott",
+   "kind": "character",
+   "aliases": [
+    "Morgott, the Omen King",
+    "Margit"
+   ]
+  },
+  {
+   "name": "Mohg",
+   "kind": "character",
+   "aliases": [
+    "Mohg, Lord of Blood"
+   ]
+  },
+  {
+   "name": "Storm Lord",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fire Giants",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "One-Eyed God",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Academy of Raya Lucaria",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Carian royal family",
+   "kind": "faction",
+   "aliases": [
+    "Carian Royal Family"
+   ]
+  },
+  {
+   "name": "Dragons",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Godskin Apostles",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Gloam-Eyed Queen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Radagon of the Golden Order",
+   "kind": "character",
+   "aliases": [
+    "Radagon"
+   ]
+  },
+  {
+   "name": "Rennala",
+   "kind": "character",
+   "aliases": [
+    "Rennala, Queen of the Full Moon"
+   ]
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Malenia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Night of the Black Knives",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Black Knife Assassins",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Elden Ring (artifact)",
+   "kind": "item",
+   "aliases": [
+    "Elden Ring"
+   ]
+  },
+  {
+   "name": "Sword of Milos",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Giant's Red Braid",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Church of Vows",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Celestial Dew",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Glintstone Kris",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Moon Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Amber Egg",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Radahn",
+   "kind": "character",
+   "aliases": [
+    "General Radahn"
+   ]
+  },
+  {
+   "name": "Ranni",
+   "kind": "character",
+   "aliases": [
+    "Ranni the Witch",
+    "Lunar Princess Ranni"
+   ]
+  },
+  {
+   "name": "Beast Regent Serosh",
+   "kind": "character",
+   "aliases": [
+    "Serosh"
+   ]
+  },
+  {
+   "name": "Long March",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Second Liurnian War",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Dark Moon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cuckoo Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Caria Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Grand Library",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Subterranean Shunning-Grounds",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Stormveil Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Leyndell",
+   "kind": "location",
+   "aliases": [
+    "Royal Capital"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Mohgwyn's Sacred Spear",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Mohgwyn Palace",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mohgwyn Dynasty",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Bloody Finger Okina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "War Surgeons",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Haligtree",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Carian Royal Family (faction listing)",
+   "kind": "faction",
+   "aliases": [
+    "Carian Royal Family"
+   ]
+  },
+  {
+   "name": "Those Who Live in Death",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Fia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Brother Corhyn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "D, Hunter of the Dead",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "D's Twin Brother",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Goldmask",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kenneth Haight",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Serpent-Hunter",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Gelmir Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Mt. Gelmir",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Taker's Cameo",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blasphemous Claw",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Frenzied Flame",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Three Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Hyetta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Shabriri",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Nomadic Merchants",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Hewg the Blacksmith",
+   "kind": "character",
+   "aliases": [
+    "Hewg"
+   ]
+  },
+  {
+   "name": "Nokron the Eternal City",
+   "kind": "location",
+   "aliases": [
+    "Nokron"
+   ]
+  },
+  {
+   "name": "Realm of Shadow",
+   "kind": "location",
+   "aliases": [
+    "Land of Shadow"
+   ]
+  },
+  {
+   "name": "Scadutree",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Messmer",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hornsent",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "St. Trina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Thiollier",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Needle Knight Leda",
+   "kind": "character",
+   "aliases": [
+    "Leda"
+   ]
+  },
+  {
+   "name": "Redmane Freyja",
+   "kind": "character",
+   "aliases": [
+    "Freyja"
+   ]
+  },
+  {
+   "name": "Sir Ansbach",
+   "kind": "character",
+   "aliases": [
+    "Ansbach"
+   ]
+  },
+  {
+   "name": "Abyssal Serpent",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Pureblood Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Furious Blade of Ansbach",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Obsidian Lamina",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Golden Lion Shield",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Varre",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "White Mask",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Preceptor Seluvis",
+   "kind": "character",
+   "aliases": [
+    "Seluvis"
+   ]
+  },
+  {
+   "name": "War Counsellor Iji",
+   "kind": "character",
+   "aliases": [
+    "Iji"
+   ]
+  },
+  {
+   "name": "Blaidd",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Latenna is a first-generation Albinauric and one of many wolf-riding Albinauric archers.",
+   "entities": [
+    "Latenna"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Latenna was interrogated by an agent of Sir Gideon Ofnir, or possibly Gideon himself, about the second half of the Haligtree Secret Medallion, which led to the death of her wolf Lobo.",
+   "entities": [
+    "Latenna",
+    "Sir Gideon Ofnir",
+    "Lobo",
+    "Haligtree Secret Medallion"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If approached with the right half of the Haligtree Secret Medallion, Latenna asks the Tarnished to take her to Apostate Derelict in exchange for revealing the location of the left half.",
+   "entities": [
+    "Latenna",
+    "Haligtree Secret Medallion",
+    "Apostate Derelict"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At Apostate Derelict, Latenna transfers a birthing droplet to a large Albinauric named Phillia, said to be connected to creating new life for the Albinaurics.",
+   "entities": [
+    "Latenna",
+    "Phillia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ensha of the Royal Remains is Sir Gideon Ofnir's silent right-hand man.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Sir Gideon Ofnir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ensha's armor, the Royal Remains Set, and his weapon, the Clinging Bone, suggest he is the reanimated remains of a king known as the Soulless King.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Royal Remains Set",
+    "Clinging Bone",
+    "Soulless King"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is speculated from Gideon's dialogue that Ensha was tasked with finding both halves of the Haligtree Secret Medallion and attacks the Tarnished at the Roundtable Hold to take whichever half they have found.",
+   "entities": [
+    "Ensha of the Royal Remains",
+    "Haligtree Secret Medallion",
+    "Roundtable Hold"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Tanith is consort to Lord Rykard and the adoptive mother of Rya.",
+   "entities": [
+    "Tanith",
+    "Rykard",
+    "Rya"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tanith worked as a dancer in an unnamed foreign land until she caught Rykard's eye and became his consort.",
+   "entities": [
+    "Tanith",
+    "Rykard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tanith stayed by Rykard's side even after he swore himself to blasphemy and merged with the God-Devouring Serpent, even when his men turned against him and even when she was offered the Tonic of Forgetfulness as an escape.",
+   "entities": [
+    "Tanith",
+    "Rykard",
+    "God-Devouring Serpent",
+    "Tonic of Forgetfulness"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tanith is now the Lady of the Volcano Manor, recruiting Tarnished willing to rise against the Greater Will and become recusants.",
+   "entities": [
+    "Tanith",
+    "Volcano Manor",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Recusants who prove themselves worthy at Volcano Manor are granted an audience with Rykard, where they are devoured and become part of the Volcano Manor family.",
+   "entities": [
+    "Rykard",
+    "Volcano Manor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bernahl is an Ash of War teacher the Tarnished can first meet in Stormhill.",
+   "entities": [
+    "Bernahl"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bernahl was said to be a Tarnished worthy of becoming Elden Lord, following his destined path without doubt, until his maiden threw herself into 'the fire'.",
+   "entities": [
+    "Bernahl"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some theorize Bernahl's maiden succumbed to the frenzied flame, while others theorize she was thrown into the Forge of the Giants as fuel to burn the Erdtree, similar to Melina.",
+   "entities": [
+    "Bernahl",
+    "Forge of the Giants",
+    "Melina"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Tarnished can later find Bernahl as a recusant at Volcano Manor.",
+   "entities": [
+    "Bernahl",
+    "Volcano Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Rykard is defeated, Bernahl denounces the Greater Will and vows to fell them on behalf of his brother.",
+   "entities": [
+    "Bernahl",
+    "Rykard",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rya's real name is Zorayas, and she is a Man-Serpent disguised as a human working as the scout for Volcano Manor.",
+   "entities": [
+    "Rya",
+    "Volcano Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Only the Tarnished and Rya's adoptive mother Tanith know of Rya's true serpent form.",
+   "entities": [
+    "Rya",
+    "Tanith"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tanith told Rya that she was born by the grace of a great king, but Rya later becomes suspicious of Volcano Manor's secrets and confronts Tanith.",
+   "entities": [
+    "Rya",
+    "Tanith"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A talisman left behind at the end of Rya's questline suggests her true mother was Daedicar, a woman said to have birthed multiple grotesque children through countless acts of adultery.",
+   "entities": [
+    "Rya",
+    "Daedicar"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Patches the Untethered is a bandit who tricks unsuspecting people into death traps and entrapment schemes.",
+   "entities": [
+    "Patches"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If spared, Patches sells the Tarnished various goods presumably looted from the corpses of those he successfully tricked.",
+   "entities": [
+    "Patches"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Patches mentions his band of bandits is made up of foot soldiers and survivors of defeated armies left to fend for themselves.",
+   "entities": [
+    "Patches"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Patches' Emporium can be accessed upon reaching Volcano Manor.",
+   "entities": [
+    "Patches",
+    "Volcano Manor"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Patches has taken a liking to Tanith and risks himself to obtain the Dancer's Castanets, hoping to restore her mind after Rykard's defeat.",
+   "entities": [
+    "Patches",
+    "Tanith",
+    "Dancer's Castanets",
+    "Rykard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Diallos is the youngest son of House Hoslow and lives in the shadow of his elder brother, Juno Hoslow.",
+   "entities": [
+    "Diallos",
+    "House Hoslow",
+    "Juno Hoslow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Juno, a formidable fighter, Diallos is timid, which does not fit his family's bloodshed-focused motto.",
+   "entities": [
+    "Diallos",
+    "Juno Hoslow",
+    "House Hoslow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite their differences, Diallos and Juno care deeply for each other, with Juno doting on Diallos and Diallos looking up to him.",
+   "entities": [
+    "Diallos",
+    "Juno Hoslow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Diallos hopes to become a champion like his brother but grows disillusioned and seeks a different purpose.",
+   "entities": [
+    "Diallos"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jar-Bairn is a young jar living in Jarburg, a secret village of peaceful Living Jars.",
+   "entities": [
+    "Jar-Bairn",
+    "Jarburg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jar-Bairn is one of the few Living Jars capable of speaking to the Tarnished and is a warrior jar like his uncle Alexander.",
+   "entities": [
+    "Jar-Bairn",
+    "Iron Fist Alexander"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jar-Bairn can be found talking in his sleep about reuniting with Alexander, poachers destroying the Living Pots at Jarburg, or Diallos taking care of him.",
+   "entities": [
+    "Jar-Bairn",
+    "Iron Fist Alexander",
+    "Jarburg",
+    "Diallos"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Living Jar Shards contain traces of magical power and fetch high prices, making Living Jars a target for poachers.",
+   "entities": [
+    "Living Jar Shards"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ironjar Aromatic is a forbidden defense-boosting consumable made from Living Jar Shards by Depraved Perfumers.",
+   "entities": [
+    "Ironjar Aromatic",
+    "Living Jar Shards"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Iron Fist Alexander is an older Living Jar who left Jarburg to seek great battle and hone his skills.",
+   "entities": [
+    "Iron Fist Alexander",
+    "Jarburg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Warrior jars like Alexander are Living Jars filled with the remains of warriors, destined to leave home and journey alone to become great champions.",
+   "entities": [
+    "Iron Fist Alexander"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is implied that warrior jars absorb the essence and martial prowess of the fallen warriors they consume.",
+   "entities": [
+    "Iron Fist Alexander"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Blackguard Big Boggart is a Tarnished and former criminal selling boiled prawns and crabs, first at the Boilprawn Shack and later outside the royal capital.",
+   "entities": [
+    "Blackguard Big Boggart",
+    "Leyndell"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Boggart may have previously been convicted of thievery, having stolen Rya's necklace.",
+   "entities": [
+    "Blackguard Big Boggart",
+    "Rya"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Boggart used to be cellmates with Dung Eater, witnessing him defile a friend's body with the Seedbed Curse, the most harrowing experience of Boggart's life.",
+   "entities": [
+    "Blackguard Big Boggart",
+    "Dung Eater",
+    "Seedbed Curse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dung Eater is a Tarnished who bears the heart of an Omen, as suggested by his armor.",
+   "entities": [
+    "Dung Eater"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Even before returning to the Lands Between, Dung Eater was a merciless killer who defiled his victims' corpses with Seedbed Curses, cursing their souls to never return to the Erdtree.",
+   "entities": [
+    "Dung Eater",
+    "Seedbed Curse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dung Eater's ultimate goal is to defile and curse everyone in the Lands Between and all future generations by gestating the Mending Rune of the Fell Curse.",
+   "entities": [
+    "Dung Eater",
+    "Mending Rune of the Fell Curse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Enia is a Finger Reader Crone the Tarnished encounters at the Roundtable Hold, interpreting the wisdom of the Greater Will through the Two Fingers.",
+   "entities": [
+    "Enia",
+    "Roundtable Hold",
+    "Greater Will",
+    "Two Fingers"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike other finger readers who become frantic after losing their Two Fingers, Enia remains calm.",
+   "entities": [
+    "Enia",
+    "Two Fingers"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite being an agent of the Greater Will, Enia supports the Tarnished burning down the Erdtree once her Two Fingers stop communicating with her.",
+   "entities": [
+    "Enia",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Enia claims that before the Tarnished, another person had gathered two Great Runes.",
+   "entities": [
+    "Enia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is speculated that the person who gathered two Great Runes before the Tarnished was either Bernahl, whose armor suggests he was worthy of becoming Lord, or Vyke, said to be the closest anyone came to becoming Elden Lord before turning to the Frenzied Flame.",
+   "entities": [
+    "Bernahl",
+    "Vyke",
+    "Frenzied Flame"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Queen Marika is a Numen chosen and brought from her homeland to the Lands Between by the Greater Will to serve as their vassal.",
+   "entities": [
+    "Queen Marika",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "As an Empyrean, Queen Marika was given Maliketh as a Shadow and half-brother, to whom she entrusted the Rune of Death when the Golden Order was established.",
+   "entities": [
+    "Queen Marika",
+    "Maliketh",
+    "Rune of Death",
+    "Golden Order"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Queen Marika's first consort was Godfrey, with whom she had three children: Godwyn the Golden and the Omen twins Morgott and Mohg.",
+   "entities": [
+    "Queen Marika",
+    "Godfrey",
+    "Godwyn the Golden",
+    "Morgott",
+    "Mohg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "On behalf of the Greater Will, Marika and her followers waged wars to spread the Golden Order's influence, most notably against the Storm Lord, the fire giants and their god the One-Eyed God, and the Academy of Raya Lucaria and Carian royal family.",
+   "entities": [
+    "Queen Marika",
+    "Greater Will",
+    "Storm Lord",
+    "Fire Giants",
+    "One-Eyed God",
+    "Academy of Raya Lucaria",
+    "Carian royal family"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "It is unclear which side instigated the wars against the Dragons and against the Godskin Apostles and their god, the Gloam-Eyed Queen.",
+   "entities": [
+    "Dragons",
+    "Godskin Apostles",
+    "Gloam-Eyed Queen"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 14
+  },
+  {
+   "text": "Though the war against the Giants ended in the Golden Order's favor, Marika realized she could not extinguish the flame of ruin at the Forge of the Giants strong enough to burn the Erdtree, so she cursed the last surviving Fire Giant to guard it forever.",
+   "entities": [
+    "Queen Marika",
+    "Forge of the Giants"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "After the final war, Marika stripped Godfrey and his warriors of the Erdtree's grace, turning them into Tarnished, and exiled them from the Lands Between.",
+   "entities": [
+    "Queen Marika",
+    "Godfrey"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Marika then took Radagon as her second consort, and together they had the twins Miquella and Malenia.",
+   "entities": [
+    "Queen Marika",
+    "Radagon of the Golden Order",
+    "Miquella",
+    "Malenia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Marika began to harbor doubts about the Greater Will and the Golden Order, and is speculated to have had a hand in the Night of the Black Knives due to rumored connections with the Black Knife Assassins.",
+   "entities": [
+    "Queen Marika",
+    "Greater Will",
+    "Golden Order",
+    "Night of the Black Knives",
+    "Black Knife Assassins"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 50
+  },
+  {
+   "text": "Marika's final act of rebellion against the Greater Will was shattering the Elden Ring, which resulted in her imprisonment within the Erdtree and triggered the war between the demigods known as the Shattering.",
+   "entities": [
+    "Queen Marika",
+    "Elden Ring (artifact)",
+    "Greater Will"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Radagon is characterized by flowing red hair and is Queen Marika's second chosen consort and a great warrior.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "There is speculation Radagon may be a smaller-sized Fire Giant, based on descriptions of the Sword of Milos and Giant's Red Braid.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Sword of Milos",
+    "Giant's Red Braid"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Another theory holds that Radagon was cursed with red hair by the Fire Giants as a result of the Golden Order's war against them.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Fire Giants"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Radagon reportedly hated the red tint of his hair.",
+   "entities": [
+    "Radagon of the Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Marika tasked Radagon with leading the Erdtree's armies in the war against Liurnia of the Lakes.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Sword monuments in Liurnia suggest there were two Liurnian Wars, and it was after the second that Radagon and Rennala fell in love.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Rennala"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 16
+  },
+  {
+   "text": "Radagon sought absolution at the Church of Vows using Celestial Dew, and he and Rennala were married there, uniting Leyndell and the Academy of Raya Lucaria.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Rennala",
+    "Church of Vows",
+    "Celestial Dew",
+    "Leyndell",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "The Glintstone Kris symbolizes the unity between the Capital of Leyndell and the Academy of Raya Lucaria.",
+   "entities": [
+    "Glintstone Kris",
+    "Leyndell",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As tradition dictates, Rennala bestowed a Moon Greatsword upon her spouse Radagon.",
+   "entities": [
+    "Rennala",
+    "Radagon of the Golden Order",
+    "Moon Greatsword"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Radagon and Rennala had three children together: General Radahn, Praetor Rykard, and Lunar Princess Ranni.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Rennala",
+    "Radahn",
+    "Rykard",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Radagon gifted Rennala an Amber Egg and left her to rejoin Marika's side when Godfrey and his fellow Tarnished were exiled.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Rennala",
+    "Amber Egg",
+    "Godfrey"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "After returning to Marika, Radagon reforged his Moon Greatsword into the Golden Order Greatsword.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Moon Greatsword",
+    "Golden Order Greatsword"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "It is speculated that Golden Order Incantations require both Faith and Intelligence because Radagon learned sorceries as Rennala's consort and incantations as Marika's consort.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Rennala",
+    "Queen Marika"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A statue in the Royal Capital reveals that Marika and Radagon are one and the same being.",
+   "entities": [
+    "Queen Marika",
+    "Radagon of the Golden Order",
+    "Leyndell"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is unclear whether Marika and Radagon were always one being, whether Radagon is a fragment of Marika, or whether they became one after becoming consorts, as Melina's dialogue suggests.",
+   "entities": [
+    "Queen Marika",
+    "Radagon of the Golden Order",
+    "Melina"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Despite being the same person, Marika and Radagon held different wills; when Marika shattered the Elden Ring, Radagon used the same hammer to try to repair it.",
+   "entities": [
+    "Queen Marika",
+    "Radagon of the Golden Order",
+    "Elden Ring (artifact)"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Godfrey, originally known as Hoarah Loux, was the first consort to Queen Marika and the first Elden Lord.",
+   "entities": [
+    "Godfrey",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Godfrey and Marika had three children together: Godwyn the Golden and the Omen twins Morgott and Mohg.",
+   "entities": [
+    "Godfrey",
+    "Queen Marika",
+    "Godwyn the Golden",
+    "Morgott",
+    "Mohg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "As chieftain of the badlands, Hoarah Loux was a fierce warrior with strong bloodlust before being selected as Marika's consort.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Upon becoming consort, Godfrey took Beast Regent Serosh upon his back to quell his bloodlust and become more fit to be a Lord.",
+   "entities": [
+    "Godfrey",
+    "Beast Regent Serosh"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Godfrey led wars to further the Golden Order's influence, including against the Giants, and faced the Storm Lord alone.",
+   "entities": [
+    "Godfrey",
+    "Golden Order",
+    "Storm Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "During Godfrey's reign, gladiatorial combat in colosseums across the Lands Between was common as rituals honoring the Erdtree, a practice that ended when Radagon became Marika's consort.",
+   "entities": [
+    "Godfrey",
+    "Radagon of the Golden Order"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "After Godfrey won his final campaign with no worthy opponents remaining, Marika stripped him and countless others of the Erdtree's blessing, turning them into Tarnished and exiling them in the Long March.",
+   "entities": [
+    "Godfrey",
+    "Long March"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Godfrey's axe was broken in battle during the Long March, and after the journey he reverted to being a simple warrior while still carrying Serosh on his back.",
+   "entities": [
+    "Godfrey",
+    "Long March",
+    "Beast Regent Serosh"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Rennala was a young astrologer who, after a chance encounter with the Full Moon, learned its magic and became one of the most powerful glintstone sorcerers.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Rennala's mastery of lunar magic allowed her to become head of the Academy of Raya Lucaria and its Glintstone Knights, and to establish the Carian family as royalty.",
+   "entities": [
+    "Rennala",
+    "Academy of Raya Lucaria",
+    "Carian royal family"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "During the Second Liurnian War, Rennala met and fought Radagon, one of the Erdtree's champions, and they fell in love and reconciled at the Church of Vows.",
+   "entities": [
+    "Rennala",
+    "Radagon of the Golden Order",
+    "Second Liurnian War",
+    "Church of Vows"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "One night, Rennala took her daughter Ranni out stargazing as she had done in her own childhood, which led to Ranni meeting her own moon, the Dark Moon.",
+   "entities": [
+    "Rennala",
+    "Ranni",
+    "Dark Moon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "When Godfrey was exiled and Radagon returned to Marika's side, Rennala was devastated and grew weak, losing her charm over the Academy.",
+   "entities": [
+    "Rennala",
+    "Godfrey",
+    "Radagon of the Golden Order",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "The Academy's scholars rebelled against the Carian royal family, with the Cuckoo Knights attacking Caria Manor and locking Rennala in the Grand Library.",
+   "entities": [
+    "Cuckoo Knights",
+    "Caria Manor",
+    "Rennala",
+    "Carian royal family",
+    "Grand Library"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Tarnished finds Rennala in the Grand Library cradling the Amber Egg given to her by Radagon as a parting gift.",
+   "entities": [
+    "Rennala",
+    "Grand Library",
+    "Amber Egg",
+    "Radagon of the Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Morgott is one of the two Omen twins born of Queen Marika and Godfrey.",
+   "entities": [
+    "Morgott",
+    "Queen Marika",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Before the Erdtree, the horns of an Omen signified divinity, but after the Golden Order's establishment, Omens were seen as cursed beings without grace, having their horns cut off and being enslaved.",
+   "entities": [
+    "Morgott",
+    "Golden Order"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Royal-blooded Omens were hidden from the world and shackled in the Subterranean Shunning-Grounds beneath Leyndell.",
+   "entities": [
+    "Morgott",
+    "Mohg",
+    "Subterranean Shunning-Grounds",
+    "Leyndell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Despite being shunned, Morgott still loved the Golden Order.",
+   "entities": [
+    "Morgott",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the Shattering, when Leyndell was leaderless, Morgott secretly ruled the capital as the Unveiled Monarch, knowing it wouldn't accept an Omen as leader.",
+   "entities": [
+    "Morgott",
+    "Leyndell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "During the Second Defense of Leyndell, Morgott successfully defended the capital and the Erdtree from invading demigods.",
+   "entities": [
+    "Morgott",
+    "Leyndell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Morgott's dialogue suggests he attempted to claim the throne of Elden Lord but was warded off by the Erdtree.",
+   "entities": [
+    "Morgott"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The Tarnished first encounters Morgott under the pseudonym Margit, blocking their path to challenge Godrick at Stormveil Castle.",
+   "entities": [
+    "Morgott",
+    "Stormveil Castle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Mohg is a son of Queen Marika and Godfrey, and unlike his twin Morgott, fully embraced his accursed Omen nature.",
+   "entities": [
+    "Mohg",
+    "Queen Marika",
+    "Godfrey",
+    "Morgott"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Mohg was shackled in the Subterranean Shunning-Grounds like his brother.",
+   "entities": [
+    "Mohg",
+    "Subterranean Shunning-Grounds"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "While imprisoned, Mohg encountered the Formless Mother, an outer god similar to the Greater Will, which ignited his accursed omen blood and granted him bloodflame incantations.",
+   "entities": [
+    "Mohg",
+    "Formless Mother",
+    "Greater Will"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Mohg used his weapon, Mohgwyn's Sacred Spear, to further communicate with the Formless Mother.",
+   "entities": [
+    "Mohg",
+    "Mohgwyn's Sacred Spear",
+    "Formless Mother"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mohg eventually escaped the Subterranean Shunning-Grounds and established Mohgwyn Palace in a secluded part of the Siofra River.",
+   "entities": [
+    "Mohg",
+    "Mohgwyn Palace"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Mohg recruited followers for the Mohgwyn Dynasty, offering deals to some like Bloody Finger Okina and kidnapping others like the War Surgeons.",
+   "entities": [
+    "Mohg",
+    "Mohgwyn Dynasty",
+    "Bloody Finger Okina",
+    "War Surgeons"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Because Mohg is not an Empyrean, he cannot ascend to godhood himself, so he hoped to raise Empyrean Miquella to full godhood and become his consort to claim the title of monarch.",
+   "entities": [
+    "Mohg",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Mohg stole the slumbering Miquella from within the Haligtree and tried to rouse him using his accursed blood, but Miquella never woke despite Mohg's offerings and shared bedchambers.",
+   "entities": [
+    "Mohg",
+    "Miquella",
+    "Haligtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Volcano Manor houses a group of Recusant Tarnished led by Praetor Rykard, seeking to rebel against the Erdtree.",
+   "entities": [
+    "Volcano Manor",
+    "Rykard"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before being granted an audience with Rykard and joining the family, newly recruited Tarnished must invade fellow Tarnished to prove their resolve.",
+   "entities": [
+    "Volcano Manor",
+    "Rykard"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Volcano Manor's notable members include Bernahl, Tanith, Patches, Praetor Rykard, and Rya.",
+   "entities": [
+    "Volcano Manor",
+    "Bernahl",
+    "Tanith",
+    "Patches",
+    "Rykard",
+    "Rya"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Mohgwyn Dynasty is led by Mohg, Lord of Blood, and like Volcano Manor its members invade other Tarnished and renounce the Greater Will, but bloodshed is their sole motive.",
+   "entities": [
+    "Mohgwyn Dynasty",
+    "Mohg",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The beginnings of the Mohgwyn Dynasty can be found at Mohgwyn Palace, and its notable members include Mohg, White Mask Varre.",
+   "entities": [
+    "Mohgwyn Dynasty",
+    "Mohgwyn Palace",
+    "Mohg",
+    "White Mask",
+    "Varre"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Carian Royal Family faction's remaining members are Rennala, Ranni, and their trusted advisors after the Academy's scholars rebelled.",
+   "entities": [
+    "Carian royal family",
+    "Rennala",
+    "Ranni"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Serving the Carian royal family now means serving Ranni in her mission to usurp the Two Fingers and Greater Will, rebelling against her fate as an Empyrean.",
+   "entities": [
+    "Carian royal family",
+    "Ranni",
+    "Two Fingers",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Notable members of the Carian Royal Family faction include Blaidd, Preceptor Seluvis, Ranni the Witch, Rennala, and War Counsellor Iji.",
+   "entities": [
+    "Carian royal family",
+    "Blaidd",
+    "Preceptor Seluvis",
+    "Ranni",
+    "Rennala",
+    "War Counsellor Iji"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Those Who Live in Death refers to the numerous undead in the Lands Between, whose existence defies the Golden Order and leads to their persecution.",
+   "entities": [
+    "Those Who Live in Death",
+    "Golden Order"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Members sympathetic to Those Who Live in Death await the rise of their Lord, Godwyn, Prince of Death, the first of the dead demigods.",
+   "entities": [
+    "Those Who Live in Death",
+    "Godwyn the Golden"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia is a notable member associated with Those Who Live in Death.",
+   "entities": [
+    "Fia",
+    "Those Who Live in Death"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Golden Order, established by Queen Marika when brought to the Lands Between by the Greater Will, is the most dominant faction in the land.",
+   "entities": [
+    "Golden Order",
+    "Queen Marika",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After the Shattering and the Greater Will's departure, some Golden Order followers began questioning the Order's infallibility.",
+   "entities": [
+    "Golden Order",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Notable Golden Order members include Brother Corhyn, D Hunter of the Dead, D's Twin Brother, Goldmask, Kenneth Haight, Radagon, and Queen Marika.",
+   "entities": [
+    "Golden Order",
+    "Brother Corhyn",
+    "D, Hunter of the Dead",
+    "D's Twin Brother",
+    "Goldmask",
+    "Kenneth Haight",
+    "Radagon of the Golden Order",
+    "Queen Marika"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rykard, Lord of Blasphemy, is a ruthless justiciar who presides over Mt. Gelmir and Volcano Manor, and is the son of Rennala and Radagon.",
+   "entities": [
+    "Rykard",
+    "Mt. Gelmir",
+    "Volcano Manor",
+    "Rennala",
+    "Radagon of the Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Rykard was served by the Gelmir Knights, and the lava sorceries usable by the Tarnished were created by him, some derived from old Mt. Gelmir hexes.",
+   "entities": [
+    "Rykard",
+    "Gelmir Knights",
+    "Mt. Gelmir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rykard met Tanith in a foreign land and brought her back to the Lands Between to be his consort.",
+   "entities": [
+    "Rykard",
+    "Tanith"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Rykard had a hand in the Night of the Black Knives, though to an unclear extent.",
+   "entities": [
+    "Rykard",
+    "Night of the Black Knives"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 50
+  },
+  {
+   "text": "The Blasphemous Claw, a gift from his sister Ranni, allows Rykard to challenge Maliketh as a last resort.",
+   "entities": [
+    "Rykard",
+    "Blasphemous Claw",
+    "Ranni",
+    "Maliketh"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Taker's Cameo item description implies Rykard believed Marika and her Order ruled by force, prompting him to swear himself to blasphemy and seek to overthrow them.",
+   "entities": [
+    "Rykard",
+    "Taker's Cameo",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The ancient people of Mt. Gelmir worshipped a powerful serpent god, offering it sacrifices.",
+   "entities": [
+    "Mt. Gelmir",
+    "God-Devouring Serpent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Rykard encountered the God-Devouring Serpent and offered himself and his Great Rune as sacrifices to gain immortality, allowing him to grow and devour people and gods for eternity.",
+   "entities": [
+    "Rykard",
+    "God-Devouring Serpent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Rykard's fall into greed and gluttony caused most of his followers to turn against him, with Tanith remaining a notable exception.",
+   "entities": [
+    "Rykard",
+    "Tanith"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Former Gelmir Knights sought out the great spear Serpent-Hunter, designed to kill the immortal God-Devouring Serpent, to stop Rykard, but were unsuccessful, as evidenced by corpses found holding the weapon in his boss room.",
+   "entities": [
+    "Gelmir Knights",
+    "Serpent-Hunter",
+    "Rykard",
+    "God-Devouring Serpent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Volcano Manor recusants who prove themselves are devoured by Rykard himself, becoming part of his family.",
+   "entities": [
+    "Volcano Manor",
+    "Rykard"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Frenzied Flame is a covert faction led by the Three Fingers, who serve an unknown Outer God that rejects the Greater Will and blames it for the world's problems.",
+   "entities": [
+    "Frenzied Flame",
+    "Three Fingers",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Frenzied Flame followers await a Lord of Chaos who will burn the world down to end its troubles.",
+   "entities": [
+    "Frenzied Flame"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Notable Frenzied Flame members include Hyetta, Nomadic Merchants, the Three Fingers, and Shabriri.",
+   "entities": [
+    "Frenzied Flame",
+    "Hyetta",
+    "Nomadic Merchants",
+    "Three Fingers",
+    "Shabriri"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Community lore theories debate whether the Lands Between's timeline is linear or cyclical, with multiple Erdtrees possibly rising after prior ages ruled by Giants, Dragons, or Tarnished.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "One theory suggests the Elden Ring might be a symbolic measure of power, an artifact controlled by the Elden Lord, or a form assumed by the Elden Beast to fulfill the Greater Will's goals.",
+   "entities": [
+    "Elden Ring (artifact)",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "One theory suggests Marika shattered the Elden Ring to drive Godfrey out of the Lands Between and initiate the Long March of the Tarnished.",
+   "entities": [
+    "Queen Marika",
+    "Elden Ring (artifact)",
+    "Godfrey",
+    "Long March"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fan theories debate whether Marika is a fixed entity vested with godhood by the Greater Will, or a specific being who arrived from the lands of the Numen in a manner similar to the Tarnished's recall.",
+   "entities": [
+    "Queen Marika",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some theorize that Radagon and Marika's relationship mirrors the duality of Miquella and St. Trina, both being two aspects of one being.",
+   "entities": [
+    "Radagon of the Golden Order",
+    "Queen Marika",
+    "Miquella",
+    "St. Trina"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fan theory suggests the Erdtree may simply be the Greater Will's method of diverting the souls of the dead to harvest life-force and dominate death itself through the Golden Order.",
+   "entities": [
+    "Golden Order",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "FromSoftware has stated that Elden Ring is an independent title with its own storyline, though some fans theorize it may connect to the Dark Souls series as a prequel.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A community theory suggests the Nox may have initiated the Night of the Black Knives as a plot possibly connected to Ranni, though her exact role (mastermind or ritual performer) is debated.",
+   "entities": [
+    "Night of the Black Knives",
+    "Ranni"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fan theories propose that the puppets found in the hidden basement behind Caria Manor, including a Nox, an Omenkiller, Dolores the Sleeping Arrow, Finger Maiden Therolina, a Jarwright, and a hidden Sellen puppet, may all belong to Seluvis.",
+   "entities": [
+    "Caria Manor",
+    "Preceptor Seluvis"
+   ],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Theories suggest the Omenkiller puppet may have been meant to frame Gideon Ofnir for the slaughter in the Albinauric village, disillusioning Nephali.",
+   "entities": [
+    "Sir Gideon Ofnir"
+   ],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Hewg the Blacksmith was assigned by Queen Marika to forge a weapon capable of slaying God but was unable to complete it in time, as stated in his dialogue.",
+   "entities": [
+    "Hewg the Blacksmith",
+    "Queen Marika"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Nokron the Eternal City is theorized to have succeeded in creating the god-slaying weapon Marika sought, but was accused of treason and destroyed, its remnants banished underground.",
+   "entities": [
+    "Nokron the Eternal City"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 42
+  },
+  {
+   "text": "A theory suggests Marika created Melina and gave her the mission to burn down the Erdtree, and Melina wandered the Lands Between searching for her purpose.",
+   "entities": [
+    "Queen Marika",
+    "Melina"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 63
+  },
+  {
+   "text": "One theory holds that Marika did not shatter the Elden Ring purely out of rage over Godwyn's death, but that his death partially restored her sanity enough to break the Ring in an attempt to find the strongest champion to become Elden Lord or free her from suffering.",
+   "entities": [
+    "Queen Marika",
+    "Elden Ring (artifact)",
+    "Godwyn the Golden"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 60
+  },
+  {
+   "text": "The theory continues that the resulting war of the demigods ended without a clear winner, as Radahn and Malenia proved equal in strength.",
+   "entities": [
+    "Radahn",
+    "Malenia"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 65
+  },
+  {
+   "text": "The theory further suggests Marika used her last shimmer of grace to invite even Tarnished to compete for the Great Runes and become Elden Lord, granting them revival upon death, while Radagon tries to hinder this plan using the Erdtree's roots.",
+   "entities": [
+    "Queen Marika",
+    "Radagon of the Golden Order"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 70
+  },
+  {
+   "text": "The Shadow of the Erdtree DLC takes players to the Realm of Shadow, a dark, death-filled counterpart of the Lands Between hidden beneath a shrouded cloud south of the Erdtree.",
+   "entities": [
+    "Realm of Shadow"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Realm of Shadow features the Scadutree, a shadowy counterpart to the Erdtree.",
+   "entities": [
+    "Realm of Shadow",
+    "Scadutree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The DLC's story centers on the ambitions of Miquella, Messmer, and St. Trina, and explores the history of the Hornsent faction.",
+   "entities": [
+    "Miquella",
+    "Messmer",
+    "St. Trina",
+    "Hornsent"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miquella, cursed with eternal youth, seeks to achieve godhood by completing a ritual involving capturing Radahn's soul and placing it into Mohg's body.",
+   "entities": [
+    "Miquella",
+    "Radahn",
+    "Mohg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Miquella's connection to St. Trina, revealed in the DLC, shows they are two manifestations of the same being, echoing the duality of Radagon and Marika.",
+   "entities": [
+    "Miquella",
+    "St. Trina",
+    "Radagon of the Golden Order",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Throughout the Land of Shadow, players find crosses symbolizing pieces of Miquella's being that he sheds in preparation for rebirth.",
+   "entities": [
+    "Miquella",
+    "Realm of Shadow"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Messmer, son of Marika and brother to Miquella and Malenia, is cursed with the Abyssal Serpent inside him.",
+   "entities": [
+    "Messmer",
+    "Queen Marika",
+    "Miquella",
+    "Malenia",
+    "Abyssal Serpent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Messmer was tasked with purging the tower-dwelling Hornsent, who are known as Omens in the Lands Between and represent an older religion predating Marika's rule.",
+   "entities": [
+    "Messmer",
+    "Hornsent",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Despite being abandoned by Marika, Messmer continues his mission and becomes a dominant figure in the Realm of Shadow.",
+   "entities": [
+    "Messmer",
+    "Queen Marika",
+    "Realm of Shadow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Key NPCs met in the Realm of Shadow include Needle Knight Leda, a loyal follower of Miquella; Redmane Freyja, a former Radahn warrior; a Hornsent representative; and Sir Ansbach, a former servant of Mohg.",
+   "entities": [
+    "Needle Knight Leda",
+    "Miquella",
+    "Redmane Freyja",
+    "Radahn",
+    "Hornsent",
+    "Sir Ansbach",
+    "Mohg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Early in the DLC it is revealed these characters were united under Miquella's charm, and when he breaks a rune arc to free them, the group becomes divided and uncertain, revealing his manipulative side.",
+   "entities": [
+    "Miquella",
+    "Needle Knight Leda",
+    "Redmane Freyja",
+    "Hornsent",
+    "Sir Ansbach"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "St. Trina, an enigmatic figure barely mentioned in the base game, is explored further through interactions with her and her follower Thiollier, revealing her connection to Miquella.",
+   "entities": [
+    "St. Trina",
+    "Thiollier",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Land of Shadow is a dark realm obscured by the Erdtree where the goddess Marika first set foot.",
+   "entities": [
+    "Realm of Shadow",
+    "Queen Marika"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Realm of Shadow is divided into ten distinct areas: Gravesite Plain, Scadu Altus, Rauh Base, Ancient Ruins of Rauh, Cerulean Coast, Charo's Hidden Grave, Jagged Peak, Abyssal Woods, Finger Ruins of Rhia, and Scaduview.",
+   "entities": [
+    "Realm of Shadow"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sir Ansbach is a former servant of Mohg who now follows Miquella in the Realm of Shadow.",
+   "entities": [
+    "Sir Ansbach",
+    "Mohg",
+    "Miquella",
+    "Realm of Shadow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Ansbach was once part of the Pureblood Knights, though the crest on his armor has nearly faded over time.",
+   "entities": [
+    "Sir Ansbach",
+    "Pureblood Knights"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite knowing his loyalty to Mohg is neither logical nor just, Ansbach still holds onto his oath, reflecting an inner struggle.",
+   "entities": [
+    "Sir Ansbach",
+    "Mohg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ansbach's attire slightly boosts abilities related to blood magic and dynastic skills.",
+   "entities": [
+    "Sir Ansbach"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In battle, Ansbach uses the Furious Blade of Ansbach, an incantation summoning a bloodflame blade that he lunges with to strike enemies, becoming stronger when charged.",
+   "entities": [
+    "Sir Ansbach",
+    "Furious Blade of Ansbach"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ansbach also wields the Obsidian Lamina, a slender scythe relying on skill rather than tricks.",
+   "entities": [
+    "Sir Ansbach",
+    "Obsidian Lamina"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Redmane Freyja is a former loyalist of General Radahn who has since become a devoted follower of Miquella.",
+   "entities": [
+    "Redmane Freyja",
+    "Radahn",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Freyja's armor bears a black woolen mantle and golden markings symbolizing her past rank in Radahn's forces.",
+   "entities": [
+    "Redmane Freyja",
+    "Radahn"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja's helmet bears a scar from a scarlet rot wound, later healed by Miquella's touch, leaving a permanent scar she now views as her guiding compass.",
+   "entities": [
+    "Redmane Freyja",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Freyja wields a Greatsword decorated with a mane, reflecting her connection to Radahn, and carries the Golden Lion Shield, a symbol of Radahn's personal guard awarded to only his most valorous knights.",
+   "entities": [
+    "Redmane Freyja",
+    "Radahn",
+    "Golden Lion Shield"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Freyja recalls fighting alongside Radahn and expresses readiness to fight again when first meeting the Tarnished, while urging them to follow Miquella's footprints.",
+   "entities": [
+    "Redmane Freyja",
+    "Radahn",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Freyja describes how Miquella healed her scarlet rot and gave her new purpose, expressing a duty to understand and honor the vow Miquella made with Radahn.",
+   "entities": [
+    "Redmane Freyja",
+    "Miquella",
+    "Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 92
+  }
+ ],
+ "_src": "src-ccafd6db"
+}

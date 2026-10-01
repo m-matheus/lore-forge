@@ -1,0 +1,913 @@
+{
+ "entities": [
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt",
+    "White Wolf"
+   ]
+  },
+  {
+   "name": "Ciri",
+   "kind": "character",
+   "aliases": [
+    "Siri",
+    "Cirilla",
+    "lion cub",
+    "child of destiny",
+    "ashen-haired girl"
+   ]
+  },
+  {
+   "name": "Baron (Bloody Baron)",
+   "kind": "character",
+   "aliases": [
+    "Velen Baron"
+   ]
+  },
+  {
+   "name": "Novigrad",
+   "kind": "location",
+   "aliases": [
+    "Novagrad",
+    "the free city"
+   ]
+  },
+  {
+   "name": "Church of the Eternal Fire",
+   "kind": "faction",
+   "aliases": [
+    "Eternal Fire"
+   ]
+  },
+  {
+   "name": "Caleb Menge",
+   "kind": "character",
+   "aliases": [
+    "Caleb Manger"
+   ]
+  },
+  {
+   "name": "Temple Guard",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": [
+    "the bard"
+   ]
+  },
+  {
+   "name": "Sigi Reuven",
+   "kind": "character",
+   "aliases": [
+    "Sigiri Ruven"
+   ]
+  },
+  {
+   "name": "Sigismund Dijkstra",
+   "kind": "character",
+   "aliases": [
+    "Sigis Mundikstra",
+    "Digstra"
+   ]
+  },
+  {
+   "name": "King of Beggars",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Avallac'h",
+   "kind": "character",
+   "aliases": [
+    "Avalar"
+   ]
+  },
+  {
+   "name": "Triss Merigold",
+   "kind": "character",
+   "aliases": [
+    "Tris Marold",
+    "Tris"
+   ]
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Yennefer"
+   ]
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Skeleiger Isles",
+    "Skeleiga"
+   ]
+  },
+  {
+   "name": "Crach an Craite",
+   "kind": "character",
+   "aliases": [
+    "Kra and Crate",
+    "Kraker",
+    "Krak and Crate"
+   ]
+  },
+  {
+   "name": "King Bran",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hjalmar",
+   "kind": "character",
+   "aliases": [
+    "Halmar",
+    "Yalmar"
+   ]
+  },
+  {
+   "name": "Cerys",
+   "kind": "character",
+   "aliases": [
+    "Cheris",
+    "Saras"
+   ]
+  },
+  {
+   "name": "Ard Skellig",
+   "kind": "location",
+   "aliases": [
+    "Adeleig",
+    "Undvik"
+   ]
+  },
+  {
+   "name": "Uma",
+   "kind": "character",
+   "aliases": [
+    "ugly baby"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": [
+    "K Moran",
+    "K Morren",
+    "K Mhan",
+    "Kaer Morren"
+   ]
+  },
+  {
+   "name": "Isle of Mists",
+   "kind": "location",
+   "aliases": [
+    "aisle of mists"
+   ]
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Eredin Bréacc Glas",
+   "kind": "boss",
+   "aliases": [
+    "Eridan",
+    "Erid",
+    "Erodin"
+   ]
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": [
+    "Vzameir"
+   ]
+  },
+  {
+   "name": "Imlerith",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "White Frost",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Sunstone",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": [
+    "Lodge"
+   ]
+  },
+  {
+   "name": "Calanthe",
+   "kind": "character",
+   "aliases": [
+    "Kalanthy"
+   ]
+  },
+  {
+   "name": "Corvo Bianco",
+   "kind": "location",
+   "aliases": [
+    "Corvo Biano"
+   ]
+  },
+  {
+   "name": "Toussaint",
+   "kind": "location",
+   "aliases": [
+    "Tusan"
+   ]
+  },
+  {
+   "name": "White Orchard",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lambert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Eskel",
+   "kind": "character",
+   "aliases": [
+    "Escll"
+   ]
+  },
+  {
+   "name": "Letho",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Roach",
+   "kind": "character",
+   "aliases": [
+    "Rosh"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Bloody Baron's storyline, regardless of its ending, ends with him confronting the ruin of his own life.",
+   "entities": [
+    "Baron (Bloody Baron)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Baron's tale functions as a warning to Geralt about how personal failings can destroy a father-daughter bond.",
+   "entities": [
+    "Geralt of Rivia",
+    "Baron (Bloody Baron)"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Geralt's time in Velen prepares him emotionally for his eventual reunion with Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 60
+  },
+  {
+   "text": "Novigrad was once known as a free city and a center of trade and intellectual life before falling under religious persecution.",
+   "entities": [
+    "Novigrad"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "The Church of the Eternal Fire, led by Caleb Menge and the Temple Guard, carried out violent persecution of mages and nonhumans in Novigrad.",
+   "entities": [
+    "Church of the Eternal Fire",
+    "Caleb Menge",
+    "Temple Guard",
+    "Novigrad"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Suspected mages and nonhumans were burned publicly in Novigrad's Hierarch Square.",
+   "entities": [
+    "Novigrad",
+    "Church of the Eternal Fire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Geralt travels to Novigrad searching for Dandelion, the last person known to have seen Ciri in the city.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion",
+    "Ciri",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Novigrad's underworld was controlled by four crime lords: Sigi Reuven, Sigismund Dijkstra, and the King of Beggars among them.",
+   "entities": [
+    "Sigi Reuven",
+    "Sigismund Dijkstra",
+    "King of Beggars",
+    "Novigrad"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Geralt performs tasks for the Novigrad crime lords while searching for information about Dandelion and Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Sigi Reuven",
+    "Sigismund Dijkstra",
+    "King of Beggars"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Geralt discovers that Dandelion and Ciri had attempted to rob Dijkstra's vault to fund a way to break a curse affecting Avallac'h.",
+   "entities": [
+    "Dandelion",
+    "Ciri",
+    "Sigismund Dijkstra",
+    "Avallac'h"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Geralt helps Triss Merigold organize a mass escape of mages and alchemists through Novigrad's sewers.",
+   "entities": [
+    "Geralt of Rivia",
+    "Triss Merigold",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "As a mutant, Geralt becomes a target of the anti-mage, anti-nonhuman bigotry sweeping Novigrad.",
+   "entities": [
+    "Geralt of Rivia",
+    "Novigrad"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Geralt rescues Dandelion after a series of dangerous schemes, including staging a play and a prison break.",
+   "entities": [
+    "Geralt of Rivia",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Dandelion tells Geralt that Ciri escaped the Temple Guard in Novigrad by teleporting away, going into hiding once more.",
+   "entities": [
+    "Dandelion",
+    "Ciri",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "After Novigrad, Geralt heads to the Skellige Isles, believing it to be one of the few places the Eternal Fire's influence has not reached.",
+   "entities": [
+    "Geralt of Rivia",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "In Skellige, Geralt reunites with his old friend Crach an Craite, who had looked after Ciri during her childhood summers.",
+   "entities": [
+    "Geralt of Rivia",
+    "Crach an Craite",
+    "Ciri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Skellige is undergoing a succession crisis following the death of King Bran.",
+   "entities": [
+    "Skellige",
+    "King Bran"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Geralt helps Crach an Craite's children, Hjalmar and Cerys, in their quests connected to the succession crisis.",
+   "entities": [
+    "Geralt of Rivia",
+    "Hjalmar",
+    "Cerys",
+    "Crach an Craite"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Geralt investigates the site of a massive magical explosion on the island of Ard Skellig, caused by a battle between Ciri, Avallac'h, and the Wild Hunt.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ard Skellig",
+    "Ciri",
+    "Avallac'h",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Geralt and Yennefer use the Mask of Uroboros to witness magical echoes of the past on Ard Skellig.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Ard Skellig"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "The vision reveals that Ciri's elder blood power leveled entire forests during the confrontation with the Wild Hunt.",
+   "entities": [
+    "Ciri",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "The Wild Hunt's spectral riders attack the village of Undvik, leaving it in ruins and its people haunted.",
+   "entities": [
+    "Wild Hunt",
+    "Ard Skellig"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Geralt becomes involved in choosing Skellige's next ruler, deciding between Hjalmar and Cerys.",
+   "entities": [
+    "Geralt of Rivia",
+    "Hjalmar",
+    "Cerys"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "The people of Skellige, especially Crach an Craite, consider Ciri family and offer help without political motive, unlike the Emperor of Nilfgaard.",
+   "entities": [
+    "Crach an Craite",
+    "Ciri",
+    "Skellige"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Skellige is portrayed as the only place where Ciri is seen as a person rather than a prophecy.",
+   "entities": [
+    "Skellige",
+    "Ciri"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Geralt discovers a creature called Uma, found on Skellige's shores after the magical explosion, who carries a curse masking his true identity.",
+   "entities": [
+    "Uma",
+    "Skellige"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Geralt realizes Uma is the key to finding Ciri and travels to Kaer Morhen to attempt to break the curse.",
+   "entities": [
+    "Geralt of Rivia",
+    "Uma",
+    "Ciri",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Lifting Uma's curse reveals that the creature is actually the elven sage Avallac'h.",
+   "entities": [
+    "Uma",
+    "Avallac'h"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Following this revelation, Geralt sails to the Isle of Mists to find Ciri.",
+   "entities": [
+    "Geralt of Rivia",
+    "Isle of Mists",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "On the Isle of Mists, Geralt finds Ciri in a catatonic state, her soul seemingly lost after her last interdimensional jump.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Isle of Mists"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Ciri is revived through the residual magic of the Wisp/Will-o'-the-Wisp, waking to see Geralt.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "After being found, Ciri describes the Wild Hunt as a constant, physical pressure that pursued her across every world she visited.",
+   "entities": [
+    "Ciri",
+    "Wild Hunt"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Ciri's relationship with Geralt shifts from ward and mentor to equal partners preparing to face the Wild Hunt together.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 71
+  },
+  {
+   "text": "Geralt and Ciri leave the Isle of Mists together to return to the continent and confront the Wild Hunt.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Isle of Mists",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 72
+  },
+  {
+   "text": "Geralt and Ciri travel to Kaer Morhen to prepare for a final stand against the Wild Hunt.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "Kaer Morhen",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "At Kaer Morhen, Geralt gathers allies including Yennefer, Triss Merigold, fellow Witchers Eskel and Lambert, and friends Roach and Letho.",
+   "entities": [
+    "Geralt of Rivia",
+    "Yennefer of Vengerberg",
+    "Triss Merigold",
+    "Eskel",
+    "Lambert",
+    "Roach",
+    "Letho",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "The defenders at Kaer Morhen prepare potions and magical traps ahead of the Wild Hunt's assault.",
+   "entities": [
+    "Kaer Morhen",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "The Battle of Kaer Morhen is fought against the Wild Hunt, who arrive amid a magical frost storm with spectral ships.",
+   "entities": [
+    "Kaer Morhen",
+    "Wild Hunt"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "During the Battle of Kaer Morhen, Vesemir sacrifices his life protecting Ciri from Eredin's general Imlerith.",
+   "entities": [
+    "Vesemir",
+    "Ciri",
+    "Imlerith",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Vesemir's death triggers an uncontrolled eruption of Ciri's elder blood power, forcing the Wild Hunt to retreat.",
+   "entities": [
+    "Vesemir",
+    "Ciri",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Geralt considers Vesemir's death the loss of his true father figure and the end of the era of the old Witchers.",
+   "entities": [
+    "Geralt of Rivia",
+    "Vesemir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Vesemir's body is cremated on a pyre near Kaer Morhen after the battle.",
+   "entities": [
+    "Vesemir",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 75
+  },
+  {
+   "text": "After Vesemir's death, Ciri resolves to end Eredin's pursuit for good, displaying a hardened resolve reminiscent of her grandmother Calanthe.",
+   "entities": [
+    "Ciri",
+    "Eredin Bréacc Glas",
+    "Calanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 75
+  },
+  {
+   "text": "Following the battle, Geralt's coalition retrieves the Sunstone and allies with the Lodge of Sorceresses to lure Eredin into a trap.",
+   "entities": [
+    "Geralt of Rivia",
+    "Sunstone",
+    "Lodge of Sorceresses",
+    "Eredin Bréacc Glas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 76
+  },
+  {
+   "text": "The final battle against the Wild Hunt takes place on the shores of Undvik in the Skellige Isles.",
+   "entities": [
+    "Wild Hunt",
+    "Skellige"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "Geralt leads a coalition of Skellige warriors, Nilfgaardian soldiers, and the Lodge of Sorceresses to draw out the Wild Hunt using the Sunstone.",
+   "entities": [
+    "Geralt of Rivia",
+    "Skellige",
+    "Sunstone",
+    "Wild Hunt",
+    "Lodge of Sorceresses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "Geralt duels Eredin Bréacc Glas, king of the Wild Hunt, aboard a dying ship during the battle.",
+   "entities": [
+    "Geralt of Rivia",
+    "Eredin Bréacc Glas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "Eredin fights with cold precision and world-jumping abilities, while Geralt fights with desperation using every sign and oil available to him.",
+   "entities": [
+    "Eredin Bréacc Glas",
+    "Geralt of Rivia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "As Geralt kills him, Eredin reveals with his final words that Avallac'h has taken Ciri and deceived them both.",
+   "entities": [
+    "Eredin Bréacc Glas",
+    "Avallac'h",
+    "Ciri",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "Geralt finds Avallac'h at the center of a magical storm and learns he is not a traitor but a facilitator of Ciri's plan.",
+   "entities": [
+    "Geralt of Rivia",
+    "Avallac'h"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Ciri chooses to enter the White Frost herself to use her elder blood power to stop the encroaching entropy of the multiverse.",
+   "entities": [
+    "Ciri",
+    "White Frost"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Geralt is forced to let Ciri face the White Frost alone, trusting she is strong enough to survive without him.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri",
+    "White Frost"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Ciri's victory over the White Frost destroys the Wild Hunt and saves the continent from being frozen.",
+   "entities": [
+    "Ciri",
+    "White Frost",
+    "Wild Hunt"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Geralt of Rivia's story concludes with one of three possible fates for Ciri, depending on the player's choices.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "In the Witcher ending, Ciri fakes her death to escape her destiny and Geralt gives her a custom silver sword at an inn in White Orchard, welcoming her as a fellow Witcher.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia",
+    "White Orchard"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 81
+  },
+  {
+   "text": "In the Empress ending, Ciri decides to travel to Nilfgaard and take the throne as the Emperor's successor to bring peace to the continent, parting from Geralt at White Orchard.",
+   "entities": [
+    "Ciri",
+    "White Orchard"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 81
+  },
+  {
+   "text": "In the death ending, Ciri fails to return from the White Frost if Geralt did not provide her enough emotional support and autonomy, leaving Geralt broken.",
+   "entities": [
+    "Ciri",
+    "Geralt of Rivia",
+    "White Frost"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 81
+  },
+  {
+   "text": "In the death ending, Geralt returns to Velen to hunt the last remaining crone and recover Ciri's lost medallion, ultimately dying in the swamp.",
+   "entities": [
+    "Geralt of Rivia",
+    "Ciri"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 82
+  },
+  {
+   "text": "After the main story, Geralt may retire to the vineyard of Corvo Bianco in Toussaint, finding peace with either Yennefer or Triss.",
+   "entities": [
+    "Geralt of Rivia",
+    "Corvo Bianco",
+    "Toussaint",
+    "Yennefer of Vengerberg",
+    "Triss Merigold"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90
+  }
+ ],
+ "_src": "src-44e4c5ad"
+}

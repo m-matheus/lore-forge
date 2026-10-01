@@ -1,0 +1,1697 @@
+{
+ "entities": [
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": [
+    "Flaming Rose"
+   ]
+  },
+  {
+   "name": "Tir Tochair",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Elskerdeg Pass",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Fiery Mountains",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Zerrikania",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Haakland",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Korath Desert",
+   "kind": "location",
+   "aliases": [
+    "Frying Pan"
+   ]
+  },
+  {
+   "name": "Kestrel Mountains",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Novigrad",
+   "kind": "location",
+   "aliases": [
+    "Free City of Novigrad"
+   ]
+  },
+  {
+   "name": "Pont Vanis",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kovir and Poviss",
+   "kind": "location",
+   "aliases": [
+    "Kovir"
+   ]
+  },
+  {
+   "name": "Radovid I",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Radovid III",
+   "kind": "character",
+   "aliases": [
+    "the Red",
+    "the Bold"
+   ]
+  },
+  {
+   "name": "Gedovius",
+   "kind": "character",
+   "aliases": [
+    "King of Kovir"
+   ]
+  },
+  {
+   "name": "Benda of Kaedwen",
+   "kind": "character",
+   "aliases": [
+    "Benda"
+   ]
+  },
+  {
+   "name": "Hengfors League",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Niedamir",
+   "kind": "character",
+   "aliases": [
+    "King Niedamir of Caingorn"
+   ]
+  },
+  {
+   "name": "Redania",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kaedwen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Temeria",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Aedirn",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nilfgaardian Empire",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgaard"
+   ]
+  },
+  {
+   "name": "King Sambuk",
+   "kind": "character",
+   "aliases": [
+    "Sambuk"
+   ]
+  },
+  {
+   "name": "Jamurlak",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Abrad",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ban Ard",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ard Carraigh",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Vizima",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "King Foltest",
+   "kind": "character",
+   "aliases": [
+    "Foltest"
+   ]
+  },
+  {
+   "name": "Gors Velen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Aretuza",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Vengerberg",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "King Demavend",
+   "kind": "character",
+   "aliases": [
+    "Demavend"
+   ]
+  },
+  {
+   "name": "Valley of the Flowers",
+   "kind": "location",
+   "aliases": [
+    "Dol Blathanna"
+   ]
+  },
+  {
+   "name": "Vestibor the Proud",
+   "kind": "character",
+   "aliases": [
+    "Vestibor"
+   ]
+  },
+  {
+   "name": "Cyrus Engelkind Hemmelfart",
+   "kind": "character",
+   "aliases": [
+    "Hemmelfart"
+   ]
+  },
+  {
+   "name": "Kingdom of Lyria and Rivia",
+   "kind": "location",
+   "aliases": [
+    "Lyria"
+   ]
+  },
+  {
+   "name": "Queen Meve",
+   "kind": "character",
+   "aliases": [
+    "the White Queen",
+    "the Virile Widow"
+   ]
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Skellige Archipelago",
+    "Skellige Islands"
+   ]
+  },
+  {
+   "name": "King Eist Tuirseach",
+   "kind": "character",
+   "aliases": [
+    "Eist Tuirseach"
+   ]
+  },
+  {
+   "name": "King Bran",
+   "kind": "character",
+   "aliases": [
+    "Bran"
+   ]
+  },
+  {
+   "name": "Crach an Craite",
+   "kind": "character",
+   "aliases": [
+    "Jarl Crach an Craite"
+   ]
+  },
+  {
+   "name": "Kingdom of Cintra",
+   "kind": "location",
+   "aliases": [
+    "Cintra"
+   ]
+  },
+  {
+   "name": "Kingdom of Sodden",
+   "kind": "location",
+   "aliases": [
+    "Sodden"
+   ]
+  },
+  {
+   "name": "King Ekkehard",
+   "kind": "character",
+   "aliases": [
+    "Ekkehard"
+   ]
+  },
+  {
+   "name": "Cidaris",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "King Ethain",
+   "kind": "character",
+   "aliases": [
+    "Ethain"
+   ]
+  },
+  {
+   "name": "Verden",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Brugge",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kerack",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "King Viraxas",
+   "kind": "character",
+   "aliases": [
+    "Viraxas"
+   ]
+  },
+  {
+   "name": "King Venzlav",
+   "kind": "character",
+   "aliases": [
+    "Venzlav"
+   ]
+  },
+  {
+   "name": "Prince Kistrin",
+   "kind": "character",
+   "aliases": [
+    "King Kistrin"
+   ]
+  },
+  {
+   "name": "Nilfgaard (city)",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "Deithwen Addan yn Carn aep Morvudd",
+    "White Flame Dancing on the Barrows of His Enemies"
+   ]
+  },
+  {
+   "name": "Impera Brigade",
+   "kind": "faction",
+   "aliases": [
+    "Impera"
+   ]
+  },
+  {
+   "name": "Mahakam",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Brouver Hoog",
+   "kind": "character",
+   "aliases": [
+    "Brouver Hoog"
+   ]
+  },
+  {
+   "name": "Mahakam Volunteer Detachment",
+   "kind": "faction",
+   "aliases": [
+    "Mahakam Volunteers"
+   ]
+  },
+  {
+   "name": "Aen Seidhe",
+   "kind": "faction",
+   "aliases": [
+    "Aen Seidhe elves"
+   ]
+  },
+  {
+   "name": "Aen Elle",
+   "kind": "faction",
+   "aliases": [
+    "People of the Alders"
+   ]
+  },
+  {
+   "name": "Auberon Muircetach",
+   "kind": "character",
+   "aliases": [
+    "King of the Alders"
+   ]
+  },
+  {
+   "name": "Tir nd Lia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Enid an Gleanna",
+   "kind": "character",
+   "aliases": [
+    "Francesca Findabair",
+    "Daisy of the Valley"
+   ]
+  },
+  {
+   "name": "Filavandrel aen Fidhail",
+   "kind": "character",
+   "aliases": [
+    "Filavandrel of the World's End"
+   ]
+  },
+  {
+   "name": "Brokilon",
+   "kind": "location",
+   "aliases": [
+    "Brokilon Forest"
+   ]
+  },
+  {
+   "name": "Lady Eithne",
+   "kind": "character",
+   "aliases": [
+    "the Silver-Eyed"
+   ]
+  },
+  {
+   "name": "Dryads",
+   "kind": "faction",
+   "aliases": [
+    "eerie wives"
+   ]
+  },
+  {
+   "name": "Dwarves",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Gnomes",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Scoia'tael",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Battle of Brenna",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Second Nilfgaard War",
+   "kind": "history",
+   "aliases": [
+    "Second Northern War"
+   ]
+  },
+  {
+   "name": "First Nordling War",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": [
+    "Julian Alfred Pankratz"
+   ]
+  },
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Order of the Flaming Rose received grants of land near Roggeveen in exchange for serving as an armored enforcement arm of the king.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tir Tochair is the southernmost mountain range forming the eastern boundary of the known world and also forms the eastern frontier of the Nilfgaardian Empire.",
+   "entities": [
+    "Tir Tochair",
+    "Nilfgaardian Empire"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Tir Tochair is one of the few remaining enclaves inhabited by gnomes.",
+   "entities": [
+    "Tir Tochair"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "East of Tir Tochair lies the Korath Desert, also called the Frying Pan by those living on its edge.",
+   "entities": [
+    "Korath Desert",
+    "Tir Tochair"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Legends claim the sands of the Korath Desert cover the necropolises and catacombs of a long-forgotten, extinct civilization.",
+   "entities": [
+    "Korath Desert"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Beyond the Fiery Mountains and Elskerdeg Pass lie the distant lands of Zerrikania and Haakland.",
+   "entities": [
+    "Fiery Mountains",
+    "Elskerdeg Pass",
+    "Zerrikania",
+    "Haakland"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The area around Elskerdeg Pass is dangerous, home to beasts, wraiths, and tribes hostile to humans.",
+   "entities": [
+    "Elskerdeg Pass"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A diary found near a plundered caravan at Elskerdeg Pass describes discovering evidence of a cannibalistic feast at an abandoned encampment.",
+   "entities": [
+    "Elskerdeg Pass"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trolls build bridges even in untamed areas like the Kestrel Mountains, hoping to extort tolls from travelers.",
+   "entities": [
+    "Kestrel Mountains"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The growth of manufacturing, trade, and seafaring directly led to the rise of great port cities such as Novigrad and Pont Vanis.",
+   "entities": [
+    "Novigrad",
+    "Pont Vanis"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "South of Nilfgaard, rumored lands include Ofir, Zanguebar, Hannu, and Barsa, reached via a marine trade route, though their existence is uncertain.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The land of Barsa is rumored to have a custom requiring all girls to guard their virginity until marriage.",
+   "entities": [],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Northern Kingdoms are a shifting collection of larger and smaller realms that annex neighbors' lands or fragment during civil wars.",
+   "entities": [
+    "Redania",
+    "Kaedwen",
+    "Temeria",
+    "Aedirn"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kovir and Poviss are rich lands on the Gulf of Praxeda, with vassal duchies of Talgar, Velhad, and Narok.",
+   "entities": [
+    "Kovir and Poviss"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kovir was once a remote province of Redania until King Radovid I gave it to his hated brother to keep him away, freeing him from vassal obligations.",
+   "entities": [
+    "Kovir and Poviss",
+    "Radovid I",
+    "Redania"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Four generations after Radovid I's gift, Kovir's mountains were found to contain vast deposits of gold, silver, copper, platinum, iron, and the rare ferroaurum and dimeritium ores.",
+   "entities": [
+    "Kovir and Poviss"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Radovid III, called 'the Red,' great-grandson of Radovid I, tried to renegotiate Kovir's independence and marched north with Kaedweni help after King Gedovius of Kovir refused his demands.",
+   "entities": [
+    "Radovid III",
+    "Gedovius",
+    "Kovir and Poviss",
+    "Benda of Kaedwen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "The combined Redanian-Kaedweni invasion of Kovir failed because Kovir used its wealth to hire top mercenary armies to defend its borders.",
+   "entities": [
+    "Radovid III",
+    "Kovir and Poviss",
+    "Kaedwen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Since defeating the Redanian-Kaedweni invasion, Kovir has remained neutral and unassaulted, profiting from peaceful trade.",
+   "entities": [
+    "Kovir and Poviss"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 29
+  },
+  {
+   "text": "The principalities of Creyden, Malleore, Caingorn, and Woefield once formed the East March of Kovir and Poviss before gaining independence during a secession and coup.",
+   "entities": [
+    "Hengfors League",
+    "Kovir and Poviss"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "After two centuries of internal war, King Niedamir of Caingorn united the small principalities into the Hengfors League, named after his capital.",
+   "entities": [
+    "Niedamir",
+    "Hengfors League"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The four largest, most ambitious Northern Kingdoms are Redania, Kaedwen, Temeria, and Aedirn.",
+   "entities": [
+    "Redania",
+    "Kaedwen",
+    "Temeria",
+    "Aedirn"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Redania is located between the Buina and Pontar Rivers.",
+   "entities": [
+    "Redania"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Redania's dynasty traces its roots to the First Landing in the Yaruga delta and was founded by the semi-legendary King Sambuk.",
+   "entities": [
+    "Redania",
+    "King Sambuk"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Redania's capital is Tretogor, though its cultural pride is Oxenfurt and its famous university.",
+   "entities": [
+    "Redania"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Redania's Royal Corps army fought in both wars against Nilfgaard.",
+   "entities": [
+    "Redania",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Redania holds sovereignty over the Arc Coast, the Nimnar Valley, and Gelibol.",
+   "entities": [
+    "Redania"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The realm of Jamurlak was reportedly once subject to Redanian rule, formerly ruled by the cruel and lecherous King Abrad, who has since died.",
+   "entities": [
+    "Jamurlak",
+    "Abrad",
+    "Redania"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kaedwen is the youngest of the Northern Kingdoms, taking its final form two centuries ago during the second war against the elves.",
+   "entities": [
+    "Kaedwen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Kaedwen's people harbor lasting disdain for elves due to their war history, and the feeling is mutual.",
+   "entities": [
+    "Kaedwen",
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kaedwen has frequently clashed with neighboring realms, especially Aedirn.",
+   "entities": [
+    "Kaedwen",
+    "Aedirn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kaedwen's capital is Ard Carraigh, but its most famous city is Ban Ard, home to a sorcerers' school.",
+   "entities": [
+    "Kaedwen",
+    "Ard Carraigh",
+    "Ban Ard"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite a reputation as backward due to conflict and forested terrain, the Kaedweni are known as hospitable and friendly, aiding travelers freely.",
+   "entities": [
+    "Kaedwen"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Temeria's northern border is the Pontar River, bordering Cidaris to the west and Kaedwen, Aedirn, and Lyria to the east via the Mahakam Massif.",
+   "entities": [
+    "Temeria",
+    "Cidaris",
+    "Kaedwen",
+    "Aedirn",
+    "Lyria"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Temeria's history dates back to the First Landing, similar to Redania.",
+   "entities": [
+    "Temeria",
+    "Redania"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Temerian kings hold court at Vizima, located on a lake shore.",
+   "entities": [
+    "Temeria",
+    "Vizima"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Temeria's other important cities include Maribor, fortified Mayena, and the port city of Gors Velen, near the Aretuza sorceresses' school.",
+   "entities": [
+    "Temeria",
+    "Gors Velen",
+    "Aretuza"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "King Foltest of Temeria, before his assassination, held titles including Duke of Sodden, Sovereign of Pontar and Mahakam, and Senior Protector of Ellander, Brugge, Riverdell, and Angren.",
+   "entities": [
+    "King Foltest",
+    "Temeria"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Aedirn developed later than its western neighbors but prospered faster than Kaedwen, due to fertile lands and mineral wealth.",
+   "entities": [
+    "Aedirn",
+    "Kaedwen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Aedirn's cities Gulet and Eysenlaan are metallurgy centers, while Aldersberg and the capital Vengerberg house textile workshops, dyeworks, and distilleries.",
+   "entities": [
+    "Aedirn",
+    "Vengerberg"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Aedirn suffered greatly from war with Kaedwen and the Second Nilfgaard War, during which the empire looted and dismantled production centers.",
+   "entities": [
+    "Aedirn",
+    "Kaedwen",
+    "Nilfgaardian Empire",
+    "Second Nilfgaard War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Peace accords after the war forced Aedirn to cede the Valley of the Flowers to the elves.",
+   "entities": [
+    "Aedirn",
+    "Valley of the Flowers",
+    "Aen Seidhe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "After King Demavend's death, Aedirn suffered social disturbances, peasant revolts, renewed conflict with Kaedwen, and a growing separatist movement in the Pontar Valley.",
+   "entities": [
+    "King Demavend",
+    "Aedirn",
+    "Kaedwen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "During the indolent rule of Vestibor the Proud, Redania lost the fertile Buina and Nimnar valleys to a coalition of northern principalities.",
+   "entities": [
+    "Vestibor the Proud",
+    "Redania"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "During the Seven Years' War, Temeria conquered Novigrad, then Redania's capital, forcing Redania to relocate its capital to Tretogor.",
+   "entities": [
+    "Temeria",
+    "Redania",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Radovid III (called 'the Bold' or 'the Red'), grandson of Vestibor, won back Redania's lost lands and settled the feud with Temeria, resulting in Novigrad becoming a Free City.",
+   "entities": [
+    "Radovid III",
+    "Redania",
+    "Temeria",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Novigrad's Eternal Fire cult has recently grown considerably in influence and real power among the city's faithful.",
+   "entities": [
+    "Novigrad"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Novigrad's hierarch Cyrus Engelkind Hemmelfart is an old, slothful man known for racism but not particularly active in persecuting nonhumans.",
+   "entities": [
+    "Cyrus Engelkind Hemmelfart",
+    "Novigrad"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Novigrad's new steward of state security reportedly had his predecessor burned at the stake after a public trial.",
+   "entities": [
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Novigrad is the greatest port on the Great Sea, home to more than a dozen major merchant companies, four water mills, a mint, eight banks, nineteen pawnshops, nearly forty inns, a dozen brothels, and nearly two dozen temples mostly dedicated to the Eternal Fire.",
+   "entities": [
+    "Novigrad"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Kingdom of Lyria and Rivia has long been Aedirn's staunchest ally, forming a defensive bulwark against Nilfgaard along the Yaruga River.",
+   "entities": [
+    "Kingdom of Lyria and Rivia",
+    "Aedirn",
+    "Nilfgaardian Empire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lyria contains the Dol Angra region, one of only two locations suitable for mass crossings of the Yaruga River, defended by the fortresses of Spalla and Scalla.",
+   "entities": [
+    "Kingdom of Lyria and Rivia"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queen Meve rules Lyria and Rivia and became known as a strong, resourceful leader during the recent war with Nilfgaard, earning comparisons to Calanthe.",
+   "entities": [
+    "Queen Meve",
+    "Kingdom of Lyria and Rivia",
+    "Nilfgaardian Empire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Queen Meve personally organized a guerrilla resistance movement against Nilfgaardian occupation using knights, peasants, and bandits.",
+   "entities": [
+    "Queen Meve"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Skellige Archipelago is one of the earliest lands settled by humans, its people known as skilled sailors, merchants, and pirates who speak a native dialect based on Elder Speech.",
+   "entities": [
+    "Skellige"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Skellige Islanders are predominantly freemen with rights nearly equal to their ruling jarls, unlike mainland Northern societies.",
+   "entities": [
+    "Skellige"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Each Skellige isle is ruled by a jarl belonging to one of six powerful clans, with an overall king chosen from a major clan during traditional moots.",
+   "entities": [
+    "Skellige"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sodden was a former kingdom straddling the Yaruga River; after the First Nordling War and King Ekkehard's death it was divided into Lower Sodden (joining Temeria) and Upper Sodden (joining the Nilfgaardian Province of Cintra).",
+   "entities": [
+    "Kingdom of Sodden",
+    "King Ekkehard",
+    "Temeria",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After the Second Nordling War, the Peace of Cintra incorporated Upper Sodden into the Kingdom of Temeria.",
+   "entities": [
+    "Kingdom of Sodden",
+    "Temeria"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Skellige Islands are longtime allies of Cintra through marriage; King Eist Tuirseach of Cintra was brother of Skellige's King Bran and uncle of Jarl Crach an Craite.",
+   "entities": [
+    "Skellige",
+    "Kingdom of Cintra",
+    "King Eist Tuirseach",
+    "King Bran",
+    "Crach an Craite"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After King Eist's death in the Battle of the Marnadal Dale, the Skellige islanders swore vengeance on the Nilfgaardians and became their implacable enemies.",
+   "entities": [
+    "King Eist Tuirseach",
+    "Skellige",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Cidaris owes its wealth to marine trade, fishing, pearl hunting, amber mining, and famous vineyards.",
+   "entities": [
+    "Cidaris"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sea Bazaar of Cidaris hosts goods from around the world, and its shipyards launch several hundred ships per year.",
+   "entities": [
+    "Cidaris"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "King Ethain of Cidaris is considered an enlightened, just, non-interfering ruler; Cidaris supported the Northern coalition's fleet in the last war against Nilfgaard.",
+   "entities": [
+    "King Ethain",
+    "Cidaris",
+    "Nilfgaardian Empire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Verden, Brugge, and Kerack lie in the shadow of Brokilon Forest, home to hostile dryads.",
+   "entities": [
+    "Verden",
+    "Brugge",
+    "Kerack",
+    "Brokilon"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The small Kingdom of Kerack contains little besides the port city of Kerack; its King Viraxas descends from a pirate who declared himself ruler a few generations ago.",
+   "entities": [
+    "Kerack",
+    "King Viraxas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Kerack is known for corruption, its only notable feature being the inn Natura Rerum.",
+   "entities": [
+    "Kerack"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Verden was once a vassal of Cintra, now occupied by the Nilfgaardian Empire, and holds a strategic position at the mouth of the Yaruga with the fortresses of Nastrog, Rozrog, and Bodrog.",
+   "entities": [
+    "Verden",
+    "Kingdom of Cintra",
+    "Nilfgaardian Empire"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the last war against Nilfgaard, Verden betrayed the Northern coalition, paying homage to the empire and attacking Brugge.",
+   "entities": [
+    "Verden",
+    "Nilfgaardian Empire",
+    "Brugge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Prince Kistrin led a successful rebellion against his treacherous father, returning Verden to the Northern coalition, though Verden remains viewed with suspicion.",
+   "entities": [
+    "Prince Kistrin",
+    "Verden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "King Venzlav of Brugge was a vassal of Cintra but turned to Temeria for protection after Cintra's fall, paying homage to his cousin King Foltest.",
+   "entities": [
+    "King Venzlav",
+    "Brugge",
+    "Kingdom of Cintra",
+    "Temeria",
+    "King Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 83
+  },
+  {
+   "text": "Despite being small and poor, Brugge's people fought valiantly against Nilfgaard, including at the Battle of Brenna.",
+   "entities": [
+    "Brugge",
+    "Nilfgaardian Empire",
+    "Battle of Brenna"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Nilfgaardian Empire lies south of the Yaruga River and has expanded by conquering weaker neighbors over centuries.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nilfgaardian Empire was likely founded by the people of the city of Nilfgaard on the Alba River, which serves as the empire's capital.",
+   "entities": [
+    "Nilfgaardian Empire",
+    "Nilfgaard (city)"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nilfgaardian Empire has subjugated Ymlac, Vicovaro, Rowan, Etolia, Gemmera, Maecht, Ebbing, Geso, Mettina, and Nazair over its history.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the recent Northern Wars, the Nilfgaardian Empire added Cintra, the Duchy of Attre, and temporarily Upper Sodden and Verden to its possessions.",
+   "entities": [
+    "Nilfgaardian Empire",
+    "Kingdom of Cintra",
+    "Verden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Lands conquered by the Nilfgaardian Empire become imperial provinces ruled by appointed governors, while monarchs who willingly submit may retain their titles.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Within the empire, the name 'Nilfgaardian' technically refers only to inhabitants of the original Nilfgaard region, though outsiders use it for all imperial subjects.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Emperor Emhyr var Emreis rules Nilfgaard as an absolute sovereign, though a ceremonial senate exists.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Nilfgaardian Empire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Emhyr var Emreis's full Elder Speech title, Deithwen Addan yn Carn aep Morvudd, means 'White Flame Dancing on the Barrows of His Enemies.'",
+   "entities": [
+    "Emhyr var Emreis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Emhyr var Emreis commands vast professional armies, internal garrison troops, a secret police, and the fanatical personal guard known as the Impera Brigade.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Impera Brigade"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A significant hidden opposition to Emhyr var Emreis's rule exists within the Nilfgaardian Empire.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Nilfgaardian Empire"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Human dominion over the known world was achieved over a few centuries by forcing other races to acknowledge human supremacy or retreat/perish.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Primitive races like ogres, trolls, and half-legendary giants sometimes build settlements in wild, unpopulated regions.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dwarves originated in ancient times, even preceding the Conjunction of the Spheres.",
+   "entities": [
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Dwarves are known for being dependable, honorable, but also grumbling and possessive of their kin and gold, ranking behind only dragons and men in greed.",
+   "entities": [
+    "Dwarves"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dwarves fiercely guard their women, who are considered unattractive by human standards, believing others desire to seduce them.",
+   "entities": [
+    "Dwarves"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The dwarven ancestral homeland is the mountainous region of Mahakam, though many dwarves live in human cities working as craftsmen, bankers, merchants, bodyguards, or mercenaries.",
+   "entities": [
+    "Dwarves",
+    "Mahakam"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike elves, dwarves have pragmatically assimilated many human customs, reducing tension between the races, though prejudice and pogroms against dwarves still occur.",
+   "entities": [
+    "Dwarves"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Conservative dwarves and Scoia'tael sympathizers view dwarves who work for humans as traitors.",
+   "entities": [
+    "Dwarves",
+    "Scoia'tael"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gnomes are shorter than dwarves, less strong, but more agile and equally resistant to hardship, known for their long pointy noses.",
+   "entities": [
+    "Gnomes"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gnomes excel at metallurgy, armoring, jewelry-making, and goldsmithing but rarely trade outside their native lands due to fear of human envy and pogroms.",
+   "entities": [
+    "Gnomes"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the Northern Wars, the dwarves of Mahakam remained officially neutral but tended to support the Northern Kingdoms, providing arms and forming a volunteer regiment.",
+   "entities": [
+    "Mahakam",
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Mahakam's dwarven elder, Brouver Hoog, is known for his strict adherence to tradition and controversial decrees, and spoke against dwarves joining Scoia'tael units.",
+   "entities": [
+    "Brouver Hoog",
+    "Mahakam",
+    "Scoia'tael"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mahakam lies between Temeria to the west and Aedirn/Lyria to the east, and is famous for producing the best steel and finest weapons in the world.",
+   "entities": [
+    "Mahakam",
+    "Temeria",
+    "Aedirn",
+    "Lyria"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Although Temerian kings are titular lords of Mahakam, the region is largely autonomous, governed by a chosen dwarven elder.",
+   "entities": [
+    "Mahakam",
+    "Temeria"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Mahakam Volunteer Detachment fought valiantly in the Northern Wars, notably helping halt the elite Nilfgaardian Ard Feainn cavalry division at the Battle of Brenna while encircled.",
+   "entities": [
+    "Mahakam Volunteer Detachment",
+    "Battle of Brenna",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Mahakam Volunteer Detachment also fought at the battles of Mayena and Maribor, but its contributions are often omitted by historians who credit only allied kingdom armies.",
+   "entities": [
+    "Mahakam Volunteer Detachment"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Mahakam Volunteer Detachment's last recognized honor was a victory parade in Novigrad.",
+   "entities": [
+    "Mahakam Volunteer Detachment",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Elves call themselves Aen Seidhe, meaning 'People of the Hills' in their own language.",
+   "entities": [
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elves are tall, slim, with elongated symmetrical faces, large eyes, and slightly pointed ear conchae, and lack canine teeth (despite eating meat).",
+   "entities": [
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elves are extremely long-lived, with lifespans lasting hundreds or even thousands of years, but can only reproduce while young.",
+   "entities": [
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elves and humans can crossbreed to produce fertile half-elf offspring, who often face discrimination in human society.",
+   "entities": [
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elves have lost most of their ancient lands to humans over centuries of conflict, only recently regaining an independent realm, Dol Blathanna, after the Northern Wars.",
+   "entities": [
+    "Aen Seidhe",
+    "Valley of the Flowers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "Dol Blathanna (Valley of the Flowers) is ruled by the elven sorceress Enid an Gleanna, known as Francesca Findabair among humans and considered the most beautiful woman in the world.",
+   "entities": [
+    "Enid an Gleanna",
+    "Valley of the Flowers"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Francesca Findabair's chief advisor is Filavandrel aen Fidhail of the Silver Towers, leader of the Free Elves of the Blue Mountains, also known as Filavandrel of the World's End.",
+   "entities": [
+    "Filavandrel aen Fidhail",
+    "Enid an Gleanna"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dol Blathanna was once part of Aedirn, seized from elven hands two centuries prior, and was returned to the elves as part of the peace accords after the second Nilfgaard war.",
+   "entities": [
+    "Valley of the Flowers",
+    "Aedirn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "The peace treaty creating Dol Blathanna also required Nilfgaard to hand over about three dozen elven officers accused of war crimes to the Northern kings, causing many elves to feel betrayed by Emhyr.",
+   "entities": [
+    "Valley of the Flowers",
+    "Nilfgaardian Empire",
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 89
+  },
+  {
+   "text": "Elven Scoia'tael units fought and died on the side of the empire, buying the establishment of Dol Blathanna with hundreds of elven lives.",
+   "entities": [
+    "Scoia'tael",
+    "Valley of the Flowers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "Elven legend speaks of another elf tribe, the Aen Elle ('People of the Alders'), whose paths diverged from the Aen Seidhe after the Conjunction of the Spheres opened many worlds.",
+   "entities": [
+    "Aen Elle",
+    "Aen Seidhe"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": 0
+  },
+  {
+   "text": "The Aen Elle were supposedly led by Auberon Muircetach, known as the King of the Alders, who ruled from the city of Tir nd Lia.",
+   "entities": [
+    "Auberon Muircetach",
+    "Aen Elle",
+    "Tir nd Lia"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "An anonymous account describes being abducted by the Wild Hunt one autumn night and taken to another world, enduring what felt like endless servitude before escaping back to find years had passed at home.",
+   "entities": [
+    "Wild Hunt"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brokilon Forest is the last dryad enclave, ruled by Lady Eithne, known as the Silver-Eyed, famed for her wisdom and hostility toward humans.",
+   "entities": [
+    "Brokilon",
+    "Lady Eithne",
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dandelion once crossed into Brokilon to bring urgent news to his friend Geralt, who was being healed there after being gravely wounded; he survived by charming the dryads with his musical Art.",
+   "entities": [
+    "Dandelion",
+    "Brokilon",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Dryads, also called 'eerie wives,' once inhabited nearly all forests but now survive only in Brokilon Forest.",
+   "entities": [
+    "Dryads",
+    "Brokilon"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The entire dryad race consists exclusively of females, with young dryads born from unions between dryads and elves, or rarely humans.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Due to hostile relations with humans, dryads have taken to kidnapping human girls and giving them the Water of Brokilon, which erases their memories so they can be raised as dryads.",
+   "entities": [
+    "Dryads",
+    "Brokilon"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some humans reportedly leave sick children (with smallpox, diphtheria, or scarlet fever) at Brokilon's edge hoping to spread disease among dryads, but dryads seem immune and may even heal such children into new recruits.",
+   "entities": [
+    "Dryads",
+    "Brokilon"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads deeply revere their forest and build their homes from living trees they can shape at will, and are also formidable archers.",
+   "entities": [
+    "Dryads",
+    "Brokilon"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Zerrikania is inhabited by warlike clans reportedly led by women, including Free Warriors—tattooed female mercenaries who fight with curved sabers called saberras.",
+   "entities": [
+    "Zerrikania"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Haakland lies northeast of Zerrikania and its people are rumored to be the world's finest horsemen, learning to ride before they can walk.",
+   "entities": [
+    "Haakland",
+    "Zerrikania"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "An apocryphal version of Ithlinne's prophecy may refer to the people of Haakland as a storm from the East that will burn, slaughter, and feast on the ruins of its enemies.",
+   "entities": [
+    "Haakland"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

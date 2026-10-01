@@ -1,0 +1,1246 @@
+{
+ "entities": [
+  {
+   "name": "Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Yarnham",
+    "Yarnam",
+    "Yannam"
+   ]
+  },
+  {
+   "name": "Central Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Central Yarnham"
+   ]
+  },
+  {
+   "name": "Old Yharnam",
+   "kind": "location",
+   "aliases": [
+    "Old Yanum",
+    "Old Janum"
+   ]
+  },
+  {
+   "name": "Cathedral Ward",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Hemwick Charnel Lane",
+   "kind": "location",
+   "aliases": [
+    "Hemikch Charal Lane",
+    "Hemwick"
+   ]
+  },
+  {
+   "name": "Forbidden Woods",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Yahar'gul",
+   "kind": "location",
+   "aliases": [
+    "Yahar Ghoul",
+    "the unseen village"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "location",
+   "aliases": [
+    "Began birth"
+   ]
+  },
+  {
+   "name": "Lake near Byrgenwerth",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Iosefka's Clinic",
+   "kind": "location",
+   "aliases": [
+    "Yusfka's clinic"
+   ]
+  },
+  {
+   "name": "Kanhurst",
+   "kind": "location",
+   "aliases": [
+    "Cainhurst",
+    "Canehurst"
+   ]
+  },
+  {
+   "name": "Nightmare of Mensis",
+   "kind": "location",
+   "aliases": [
+    "Nightmare of Menes"
+   ]
+  },
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": [
+    "the church"
+   ]
+  },
+  {
+   "name": "The Choir",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vicar Amelia",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Father Gascoigne",
+   "kind": "boss",
+   "aliases": [
+    "Father Gascoinne"
+   ]
+  },
+  {
+   "name": "Cleric Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Rom the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Martyr Logarius",
+   "kind": "boss",
+   "aliases": [
+    "Martr Legarius"
+   ]
+  },
+  {
+   "name": "Witch of Hemwick",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Bloodletting Beasts",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Blood-starved Hunters",
+   "kind": "enemy",
+   "aliases": [
+    "bloodrunk hunters"
+   ]
+  },
+  {
+   "name": "Eileen the Crow",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ludwig",
+   "kind": "character",
+   "aliases": [
+    "Ludvig",
+    "Ludvik"
+   ]
+  },
+  {
+   "name": "Ludwig's Holy Blade",
+   "kind": "weapon",
+   "aliases": [
+    "Ludvig's holy blade"
+   ]
+  },
+  {
+   "name": "Saw Cleaver",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Hunter Pistol",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Threaded Cane",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Kirkhammer",
+   "kind": "weapon",
+   "aliases": [
+    "Kirk Hammer"
+   ]
+  },
+  {
+   "name": "Chikage",
+   "kind": "weapon",
+   "aliases": [
+    "Shikag"
+   ]
+  },
+  {
+   "name": "Beast Cutter",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Hunter Blunderbuss",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Evelyn",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Rakuyo",
+   "kind": "weapon",
+   "aliases": [
+    "Rakuo"
+   ]
+  },
+  {
+   "name": "Holy Moonlight Sword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Whirligig Saw",
+   "kind": "weapon",
+   "aliases": [
+    "whale gig saw"
+   ]
+  },
+  {
+   "name": "Boom Hammer",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Simon's Bowblade",
+   "kind": "weapon",
+   "aliases": [
+    "Simon's bow blade"
+   ]
+  },
+  {
+   "name": "Tonitrus",
+   "kind": "weapon",
+   "aliases": [
+    "Tenitus"
+   ]
+  },
+  {
+   "name": "Hunter Axe",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Choir Bell",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blood Vial",
+   "kind": "item",
+   "aliases": [
+    "blood file",
+    "glass file"
+   ]
+  },
+  {
+   "name": "Blood Echoes",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blood Gems",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blood Stone Shards",
+   "kind": "item",
+   "aliases": [
+    "twin blood stone shards"
+   ]
+  },
+  {
+   "name": "Hunter Badges",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Music Box",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Pale Blood",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Blood Ministration",
+   "kind": "concept",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Yharnam's level design emphasizes vertical movement, with climbing, descending, and looking up or down more important than walking across flat ground.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's architecture draws heavily on real Gothic and Victorian design, including gabled rooftops, ornate ironwork, narrow streets, and cathedral structures.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Central Yharnam is designed as an interconnected loop with shortcuts and locked doors that open back toward earlier areas as the player progresses.",
+   "entities": [
+    "Central Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Central Yharnam features ordinary townsfolk armed with pitchforks, torches, and blunderbusses, some still human and hostile, others already transforming into beasts.",
+   "entities": [
+    "Central Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The constant rain in Yharnam reinforces the game's atmosphere of decay and grief and is considered one of the most effective ambient sound choices in the game.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Many Yharnam buildings show small domestic details like hanging laundry, burning candles, and set dinner tables, suggesting ordinary life interrupted by the plague outbreak.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Old Yharnam, a poorer district, was deliberately set ablaze by the Healing Church during an earlier outbreak, and its burnt remains can still be explored.",
+   "entities": [
+    "Old Yharnam",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Cathedral Ward is designed to be visible from many vantage points across the city, keeping the church's presence looming in the background of other locations.",
+   "entities": [
+    "Cathedral Ward"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hemwick Charnel Lane is associated with witches and folk magic traditions, distinct from the Healing Church's institutional approach to blood and cosmic power.",
+   "entities": [
+    "Hemwick Charnel Lane",
+    "Healing Church"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Forbidden Woods connects Yharnam's urban districts to older, wilder rural traditions, with a labyrinthine layout designed to evoke being lost in the woods at night.",
+   "entities": [
+    "Forbidden Woods"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yahar'gul, the unseen village, is deliberately hidden from casual exploration and reached only through specific triggers, reinforcing its role as a place Yharnam tried to forget.",
+   "entities": [
+    "Yahar'gul"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's color palette shifts from muted blues and grays in early areas to vivid reds and golds in later, more cosmically significant locations, reflecting the hunter's deepening exposure to cosmic truths.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Byrgenwerth sits at a noticeably higher elevation than most of the city, physically reinforcing its symbolic role as the origin point of the story's events.",
+   "entities": [
+    "Byrgenwerth"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The lake near Byrgenwerth, home to Rom the Vacuous Spider, has an unusually still, mirror-like surface designed to suggest a boundary between the world and something reflected from elsewhere.",
+   "entities": [
+    "Lake near Byrgenwerth",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Iosefka's Clinic changes in appearance and content multiple times depending on when the player returns to it during the story.",
+   "entities": [
+    "Iosefka's Clinic"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's map appears sprawling during play but is built from a relatively compact number of core areas connected by shortcuts, elevators, and locked doors.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several Yharnam districts, such as Hemwick and Cainhurst, are named after real or real-sounding English place names, giving each district a distinct cultural flavor.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The moon is almost always visible in Yharnam's night sky, appearing unusually large and close, a detail that grows more significant as the story's cosmic implications deepen.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Despite the game's nighttime setting, a small number of locations and story beats are explicitly tied to dawn or daylight, making daylight a rare and meaningful event.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's boss fog gates use a swirling blood-red visual effect, distinct from the orange or white fog typically used in other From Software titles.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Parts of the Forbidden Woods and the Nightmare of Mensis break from the city's Gothic architecture, introducing alien, organic, or cosmic textures shaped by the Great Ones.",
+   "entities": [
+    "Forbidden Woods",
+    "Nightmare of Mensis"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's sound design relies heavily on silence, with music largely absent during exploration and reserved almost entirely for boss encounters.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several of Yharnam's grandest structures, including the cathedral, subtly incorporate spider-like and eye-like motifs into their stonework, tied to themes of cosmic sight.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Certain doorways, statues, and structures in Yharnam are subtly oversized compared to human proportions, suggesting the city was built partly according to non-human standards.",
+   "entities": [
+    "Yharnam"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The first boss encounter against Father Gascoigne takes place in a graveyard, establishing a link between violence, mourning, and religious authority early in the game.",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The Healing Church's symbol incorporates eye imagery, reinforcing the institution's obsession with perception and cosmic sight even in ordinary iconography.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Church Hunter uniforms feature restrained, formal tailoring distinct from the ragged clothing of transformed citizens, reinforcing the church's self-image as civilized.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Healing Church's ordinary administrative spaces, like waiting rooms and record halls, were furnished with the same period-appropriate detail as its grand cathedral interiors.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Blood Ministration, the church's core healing practice, is depicted as having genuinely and effectively treated ordinary illness before its darker consequences emerged.",
+   "entities": [
+    "Blood Ministration",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The glass vials used to store and drink healing blood were designed to evoke real historical Victorian medical equipment.",
+   "entities": [
+    "Blood Vial"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several Church Hunter enemies carry saw-bladed weapons resembling real surgical tools, reinforcing the church's overlap between healing, medicine, and violence.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Choir is associated with pale, translucent skin and elongated, unnaturally graceful proportions, suggesting bodies altered by prolonged exposure to old blood.",
+   "entities": [
+    "The Choir"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yharnam's grand cathedral includes enormous statues of robed, faceless figures that visually foreshadow some of the game's most cosmically significant late-game bosses.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "A blue-white color scheme on many Church Hunter outfits signals affiliation with the Healing Church's institutional forces, distinct from the reds and browns of ordinary beast-plagued citizens.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Church Hunters occasionally quote religious sentiment during combat, suggesting they sincerely believed they were carrying out righteous work.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cathedral Ward's central healing chamber contains rows of identical kneeling hunters awaiting a transfusion of pale blood that never arrives, emphasizing how many people the church failed.",
+   "entities": [
+    "Cathedral Ward",
+    "Pale Blood"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pale Blood, the substance the hunter's quest initially centers around, is never explicitly defined in the game's dialogue and remains deliberately ambiguous.",
+   "entities": [
+    "Pale Blood"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several high-ranking church figures, including Vicar Amelia, retain visible traces of their former religious garments even after transforming into monstrous beast forms.",
+   "entities": [
+    "Vicar Amelia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Choir's hidden laboratory facilities contain medical and surgical equipment more advanced and unsettling than the church's public clinics, exposing the gap between public image and private research.",
+   "entities": [
+    "The Choir"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Bloodletting Beasts are chained creatures kept for ongoing blood extraction, their design emphasizing restraint like chains and muzzles to reflect Yharnam's industrial blood supply chain.",
+   "entities": [
+    "Bloodletting Beasts"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Church-related item descriptions frequently use religious vocabulary like blessing, communion, and sacrament, blurring the line between medical treatment and religious ritual.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several church-affiliated NPCs express confusion or distress about the institution's apparent decline, showing awareness of its corruption was not universal within the church.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cleric Beasts, common church-related enemies, retain fragments of religious clothing fused into their monstrous anatomy, showing traces of their former devoted identity.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Healing Church's iconography recurringly includes umbilical cord and embryonic shapes, foreshadowing the game's later revelations about birth and the Great Ones.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Real Victorian-era medical instruments served as direct visual references for the church's surgical and blood-related equipment.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cathedral Ward's central plaza was designed to feel oversized relative to the hunter's character model, reinforcing the church's institutional power and scale.",
+   "entities": [
+    "Cathedral Ward"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Multiple church-related boss encounters take place in spaces explicitly connected to worship or healing, such as cathedrals, clinics, and chapels.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Many church-related item descriptions are written to remain morally ambiguous, describing practices and consequences without condemning the church outright.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some minor church NPCs offer small blessings or moments of kindness to the hunter, complicating a purely negative reading of the institution.",
+   "entities": [
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Blood Echoes currency icon closely mirrors the shape and color of the blood vials the hunter drinks, tying the healing item and currency together visually.",
+   "entities": [
+    "Blood Echoes",
+    "Blood Vial"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's default starting equipment, the Saw Cleaver and Hunter Pistol, was chosen to represent a balanced, versatile kit suitable for varied play styles.",
+   "entities": [
+    "Saw Cleaver",
+    "Hunter Pistol"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hunter attire generally features deep hoods, high collars, and heavy coats, borrowing from real plague doctor costuming and Gothic literary tradition.",
+   "entities": [],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The default starting hunter outfit was kept relatively plain compared to later armor sets, so player characters remain visually distinct in crowded combat.",
+   "entities": [],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hunters throughout Yharnam use a wide variety of trick weapons, firearms, and specialized tools, reflecting a combat culture built on adaptability rather than standardized equipment.",
+   "entities": [],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Firearm parrying was a deliberate design choice meant to make hunting both offensive and defensive, encouraging aggressive play.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Cooperative hunter NPCs the player can summon were designed with distinct combat styles and audio cues, giving each a recognizable personality without dialogue.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Blood-starved Hunters illustrate hunting's occupational hazard: combat training remains intact even as humanity deteriorates.",
+   "entities": [
+    "Blood-starved Hunters"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hunter Badges are collectible items that grant access to progressively advanced equipment and training, reinforcing hunting as a structured hierarchical profession.",
+   "entities": [
+    "Hunter Badges"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The bell sound used to summon cooperative hunters was designed to evoke church bells, reinforcing the connection between hunting and religious ritual.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Eileen the Crow occupies a specialized hunting role distinct from ordinary church-affiliated hunting, showing hunting had fractured into multiple traditions.",
+   "entities": [
+    "Eileen the Crow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Eileen the Crow hunts other hunters who have succumbed to corruption, a melancholy profession reflecting how far hunting's original protective purpose had drifted.",
+   "entities": [
+    "Eileen the Crow"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Character creation allows extensive physical customization of the hunter but withholds dialogue options beyond small vocal combat cues, keeping the hunter's interior perspective silent.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hunter tools range from simple thrown weapons to complex ritualistic items connected to summoning and cosmic manipulation, reflecting hunting's entanglement with cosmic forces.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's healing animation of drinking a blood vial mid-combat was kept brief to avoid disrupting the game's fast-paced combat rhythm.",
+   "entities": [
+    "Blood Vial"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several hunter garments provide passive resistance connected to their narrative origin, such as the Cainhurst set offering resistance tied to Cainhurst's blood traditions.",
+   "entities": [
+    "Kanhurst"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The hunting profession has its own internal culture and etiquette referenced through item descriptions, including traditions of addressing, challenging, and dueling one another.",
+   "entities": [],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig's Holy Blade was designed with an elongated transforming form evoking both religious ceremonial swords and monstrous proportions, mirroring Ludwig's own tragic transformation.",
+   "entities": [
+    "Ludwig's Holy Blade",
+    "Ludwig"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Several hunter weapons are explicitly tied to specific lineages or traditions, such as the church, Cainhurst, or the Old Hunters, showing hunting was a patchwork of competing traditions.",
+   "entities": [],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's difficulty and enemy density increase deeper into any given area, reinforcing hunting as a gradual escalating descent into cosmically significant territory.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hunter workshops, where the player upgrades weapons and accesses crafting tools, are designed with warm lamplight and wooden furnishings, distinct from the church's clinical spaces.",
+   "entities": [],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hunter-related item descriptions reference the concept of a hunter's prey, framing beast slaying as a formalized, ritualistic profession.",
+   "entities": [],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Choir Bell summons hostile invading hunters rather than cooperative allies, a corrupted variant of the game's summoning mechanics showing cooperative traditions could be twisted for predatory purposes.",
+   "entities": [
+    "Choir Bell"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hunter marks, small tattoo-like symbols on some hunter character models, are generally interpreted as ritualistic markers of formal induction, though the game never explicitly explains them.",
+   "entities": [],
+   "category": "theory",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The hunter's ability to die and return repeatedly is tied into the narrative logic of the hunter's dream, making player death a meaningful in-world phenomenon.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several hunters throughout Yharnam's history, including Ludwig and Gehrman, eventually succumbed to the very forces they fought against, establishing a recurring pattern of hunting's risks.",
+   "entities": [
+    "Ludwig"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The trick weapon mechanic, allowing weapons to transform between two forms mid-combat, was one of Bloodborne's earliest and most significant design innovations.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Saw Cleaver transforms between a compact single-handed form and an extended serrated form, reflecting both surgical medicine and improvised butchery.",
+   "entities": [
+    "Saw Cleaver"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Threaded Cane transforms into a flexible whip-like weapon, offering a distinctly different combat rhythm from the Saw Cleaver.",
+   "entities": [
+    "Threaded Cane"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several trick weapons were inspired by real historical whip swords and cane swords that existed in 19th century Europe.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Kirkhammer combines a smaller sword form with a massive stone hammer form, offering contrast between fast strikes and slow devastating blows.",
+   "entities": [
+    "Kirkhammer"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig's Holy Blade transforms from a standard sword into an enormous elongated greatsword, echoing the proportions of the beast Ludwig became.",
+   "entities": [
+    "Ludwig's Holy Blade",
+    "Ludwig"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Chikage allows players to intentionally corrupt the blade with blood for increased damage, reinforcing the game's theme of power at self-inflicted cost.",
+   "entities": [
+    "Chikage"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several trick weapons' transformation attacks can function as offensive maneuvers mid-combat, letting skilled players weave transformation into combos.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Beast Cutter transforms into a two-handed dual-blade configuration and is specifically designed to punish players who transform into beasthood via Beast Blood Pellets.",
+   "entities": [
+    "Beast Cutter"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Firearms like the Hunter Pistol and Hunter Blunderbuss were balanced primarily as parrying and stagger tools rather than significant damage sources.",
+   "entities": [
+    "Hunter Pistol",
+    "Hunter Blunderbuss"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Evelyn hand cannon was designed with unusually high damage output at the cost of significant stamina consumption, offering a firearms-focused build path.",
+   "entities": [
+    "Evelyn"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Rakuyo and Holy Moonlight Sword are late-game and DLC weapons tied mechanically and narratively to specific late-game locations and characters.",
+   "entities": [
+    "Rakuyo",
+    "Holy Moonlight Sword"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Whirligig Saw functions as a spinning mechanical blade associated with a particular boss encounter's combat style.",
+   "entities": [
+    "Whirligig Saw"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Weapon Blood Gems allow players to socket stat bonuses and damage types into individual weapons, reinforcing blood as a source of power and risk.",
+   "entities": [
+    "Blood Gems"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The weapon upgrade system uses Blood Stone Shards and Twin Blood Stone Shards, described in-game as fragments connected to ancient cosmically significant blood sources predating Yharnam's recent history.",
+   "entities": [
+    "Blood Stone Shards"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trick weapons feature attack animations choreographed to emphasize different weight and momentum between their two forms, requiring players to adjust combat rhythm.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Boom Hammer incorporates an explosive mechanism directly into its melee attacks, an unusual design even among Bloodborne's varied weapons.",
+   "entities": [
+    "Boom Hammer"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rare hidden weapons like Simon's Bowblade require completing specific, easily missed sequences of events to acquire, rewarding thorough exploration.",
+   "entities": [
+    "Simon's Bowblade"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The parry mechanic, using precisely timed gunshots to stagger enemies for devastating visceral attacks, was designed to require genuine skill and pattern recognition.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Weapon reach and hitbox design were carefully calibrated so similarly categorized weapons still offer distinct tactical considerations.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Tonitrus, an electrically charged hammer, includes a charging mechanic that boosts damage output at the cost of the player's own health.",
+   "entities": [
+    "Tonitrus"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Several weapons draw specific visual and thematic inspiration from real surgical and medical instruments, reinforcing the Victorian medical horror aesthetic.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Hunter Axe transforms into an elongated polearm form and was designed as an accessible introduction to the trick weapon mechanic for new players.",
+   "entities": [
+    "Hunter Axe"
+   ],
+   "category": "weapon",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Weapon durability was deliberately kept forgiving compared to earlier From Software titles, keeping players focused on combat rather than maintenance.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game's weapon roster was designed to encourage build diversity, with many weapons offering genuinely viable alternative play styles.",
+   "entities": [],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Father Gascoigne's fight was designed to teach new players core combat lessons like aggression, positioning, and pattern recognition, using a former ordinary sympathetic hunter as the enemy.",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "A Music Box item can be used during the Father Gascoigne fight to temporarily calm his monstrous instincts, referencing his daughter's gift.",
+   "entities": [
+    "Father Gascoigne",
+    "Music Box"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Vicar Amelia transforms mid-fight from a kneeling, prayerful figure into a massive beast, with the animation emphasizing the violent, involuntary nature of the beast plague.",
+   "entities": [
+    "Vicar Amelia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cleric Beast boss encounter is placed early in the game to establish the scale and horror of Yharnam's larger transformed creatures.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "Rom the Vacuous Spider is designed to feel like an alien, incomprehensible presence, with slow, deliberate movement contrasting the game's typically aggressive combat pacing.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Rom the Vacuous Spider triggers a permanent world state change, causing a blood moon to rise and altering enemy placement for much of the rest of the game.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Martyr Logarius, found in Cainhurst Castle, has a moveset emphasizing sweeping weapon arcs meant to evoke both religious devotion and aristocratic swordsmanship.",
+   "entities": [
+    "Martyr Logarius",
+    "Kanhurst"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Witch of Hemwick is designed to feel unsettling through subtlety rather than scale or aggression, reflecting Hemwick's association with folk magic and domestic horror.",
+   "entities": [
+    "Witch of Hemwick"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ec208182"
+}

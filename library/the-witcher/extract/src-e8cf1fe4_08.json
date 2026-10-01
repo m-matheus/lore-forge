@@ -1,0 +1,1484 @@
+{
+ "entities": [
+  {
+   "name": "Ciri",
+   "kind": "character",
+   "aliases": [
+    "Cirilla",
+    "Cirilla Fiona Elen Riannon"
+   ]
+  },
+  {
+   "name": "Eredin",
+   "kind": "character",
+   "aliases": [
+    "Eredin Breacc Glas"
+   ]
+  },
+  {
+   "name": "Avallac'h",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Aen Elle",
+   "kind": "faction",
+   "aliases": [
+    "Alder Folk"
+   ]
+  },
+  {
+   "name": "Wild Hunt",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Lara Dorren",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ithlinne",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vilgefortz",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Stygga Citadel",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Geralt",
+   "kind": "character",
+   "aliases": [
+    "Geralt of Rivia",
+    "White Wolf",
+    "Gwynbleidd"
+   ]
+  },
+  {
+   "name": "Yennefer",
+   "kind": "character",
+   "aliases": [
+    "Yennefer of Vengerberg"
+   ]
+  },
+  {
+   "name": "Milva",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cahir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Regis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Angouleme",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "White Flame Dancing on the Graves of His Enemies"
+   ]
+  },
+  {
+   "name": "Stefan Skellen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rivia Pogrom",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Nadia Esposita",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Triss Merigold",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Boethius of Lyria",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Emmerich Gottshalk",
+   "kind": "character",
+   "aliases": [
+    "Professor Emmerich Gottshalk"
+   ]
+  },
+  {
+   "name": "Casper Dubhen",
+   "kind": "character",
+   "aliases": [
+    "Master Casper Dubhen"
+   ]
+  },
+  {
+   "name": "Letho of Gulet",
+   "kind": "character",
+   "aliases": [
+    "Letho"
+   ]
+  },
+  {
+   "name": "School of the Viper",
+   "kind": "faction",
+   "aliases": [
+    "Viper School"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Azar Javed",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Professor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Jacques de Aldersberg",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Salamandra",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vizima",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Foltest",
+   "kind": "character",
+   "aliases": [
+    "King Foltest"
+   ]
+  },
+  {
+   "name": "Scoia'tael",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Demavend",
+   "kind": "character",
+   "aliases": [
+    "King Demavend of Aedirn"
+   ]
+  },
+  {
+   "name": "Henselt",
+   "kind": "character",
+   "aliases": [
+    "King Henselt of Kaedwen"
+   ]
+  },
+  {
+   "name": "Saskia",
+   "kind": "character",
+   "aliases": [
+    "Virgin of Aedirn"
+   ]
+  },
+  {
+   "name": "Loc Muinne",
+   "kind": "location",
+   "aliases": [
+    "Loe Muinne"
+   ]
+  },
+  {
+   "name": "Sile de Tansarville",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Nilfgaard",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgaardian Empire"
+   ]
+  },
+  {
+   "name": "Dandelion",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Zoltan Chivay",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Bloody Baron",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Crones",
+   "kind": "enemy",
+   "aliases": [
+    "The Crones"
+   ]
+  },
+  {
+   "name": "White Orchard",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Isle of Mists",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Naglfar",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Imlerith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ge'els",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Skellige Islands"
+   ]
+  },
+  {
+   "name": "White Frost",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Church of the Eternal Fire",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Novigrad",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Velen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Flotsam",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Willoughby",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Isle of Avalon",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Vincent Meiss",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Ciri escaped the Aen Elle world by using her growing ability to travel between worlds.",
+   "entities": [
+    "Ciri",
+    "Aen Elle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Eredin gathered the Wild Hunt to chase Ciri after she fled, but failed to catch her.",
+   "entities": [
+    "Eredin",
+    "Ciri",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "After escaping Eredin, Ciri became lost, wandering through unknown times and places.",
+   "entities": [
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Ciri entered a portal in the Tower of the Swallow hoping to reach Thanedd, but instead arrived in the world of the Aen Elle.",
+   "entities": [
+    "Ciri",
+    "Aen Elle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Aen Elle are also known as the Alder Folk.",
+   "entities": [
+    "Aen Elle"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the Aen Elle world, Ciri became a pawn in a political conflict between the sage Avallac'h and Eredin Breacc Glas, leader of the Wild Hunt.",
+   "entities": [
+    "Ciri",
+    "Avallac'h",
+    "Eredin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "The Aen Elle claimed a debt on Ciri's blood, believing her ancestor Lara Dorren owed them for betraying Ithlinne's prophecy.",
+   "entities": [
+    "Aen Elle",
+    "Lara Dorren",
+    "Ithlinne",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "To return home from the Aen Elle world, Ciri would have needed to give their leader a child with power over the Gate of the Worlds.",
+   "entities": [
+    "Ciri",
+    "Eredin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Avallac'h claimed his goal in using the Gate of the Worlds was to save the Aen Seidhe elves and humans from the White Frost.",
+   "entities": [
+    "Avallac'h",
+    "White Frost"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Eredin's true motives for controlling the Gate of the Worlds were suspected to be conquest of other worlds rather than salvation.",
+   "entities": [
+    "Eredin"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Aen Elle had once before mastered the Gate of the Worlds and used it to conquer another world.",
+   "entities": [
+    "Aen Elle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After wandering lost, Ciri ended up at the gates of Stygga Citadel, where Vilgefortz was hiding.",
+   "entities": [
+    "Ciri",
+    "Stygga Citadel",
+    "Vilgefortz"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "When Ciri confronted Vilgefortz at Stygga Citadel, Geralt and his companions arrived to aid her, and Yennefer escaped captivity to join them.",
+   "entities": [
+    "Ciri",
+    "Vilgefortz",
+    "Geralt",
+    "Yennefer",
+    "Stygga Citadel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Yennefer had not participated in the coup at Thanedd, contrary to rumor; she had instead been searching for Ciri and was captured by treacherous former allies.",
+   "entities": [
+    "Yennefer",
+    "Ciri"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The Battle of Stygga Citadel ended with Vilgefortz's defeat and death at Geralt's hands.",
+   "entities": [
+    "Vilgefortz",
+    "Geralt",
+    "Stygga Citadel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Milva, Cahir, Regis, and Angouleme died during the Battle of Stygga Citadel.",
+   "entities": [
+    "Milva",
+    "Cahir",
+    "Regis",
+    "Angouleme",
+    "Stygga Citadel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "After the Battle of Stygga Citadel, Emperor Emhyr var Emreis arrived with imperial soldiers, having learned of Vilgefortz's treachery and his collusion with Stefan Skellen.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Vilgefortz",
+    "Stefan Skellen",
+    "Stygga Citadel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Emperor Emhyr var Emreis unexpectedly showed mercy and let Geralt, Yennefer, and Ciri leave unharmed after looking at his daughter Ciri's face.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Ciri",
+    "Geralt",
+    "Yennefer"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "The Rivia Pogrom occurred on 25 September 1268.",
+   "entities": [
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The Rivia Pogrom was sparked when a dwarven stallholder insulted noblewoman and war orphan Nadia Esposita.",
+   "entities": [
+    "Rivia Pogrom",
+    "Nadia Esposita"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The initial brawl from the insult to Nadia Esposita escalated into a riot that spread into the Elm district of Rivia.",
+   "entities": [
+    "Rivia Pogrom",
+    "Nadia Esposita"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Professor Emmerich Gottshalk recorded that 184 people died in the hour before Triss Merigold intervened in the Rivia Pogrom, half of them women and children.",
+   "entities": [
+    "Emmerich Gottshalk",
+    "Triss Merigold",
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Boethius of Lyria argued the Rivia Pogrom was a planned provocation, with weapons smuggled in and distributed to human rioters directed at nonhuman districts.",
+   "entities": [
+    "Boethius of Lyria",
+    "Rivia Pogrom"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Master Casper Dubhen argued the Rivia Pogrom resulted from common human traits like ignorance and xenophobia rather than conspiracy.",
+   "entities": [
+    "Casper Dubhen",
+    "Rivia Pogrom"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Rivia Pogrom killed almost two hundred people, mostly nonhumans.",
+   "entities": [
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "During the Rivia Pogrom, Geralt was mortally wounded by a man he had just spared, who stabbed him with a pitchfork while Geralt tried to stop the mob.",
+   "entities": [
+    "Geralt",
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Yennefer tried to save the dying Geralt with magic during the Rivia Pogrom, nearly killing herself from exhaustion.",
+   "entities": [
+    "Yennefer",
+    "Geralt",
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Ciri saved Geralt and Yennefer by transporting them outside of time and space during the Rivia Pogrom, then vanished from the world herself.",
+   "entities": [
+    "Ciri",
+    "Geralt",
+    "Yennefer",
+    "Rivia Pogrom"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Several years after the Rivia Pogrom, Geralt reappeared near Kaer Morhen, alive but with partial amnesia.",
+   "entities": [
+    "Geralt",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "After the Rivia Pogrom, the Wild Hunt led by Eredin continued searching for Ciri.",
+   "entities": [
+    "Wild Hunt",
+    "Eredin",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Geralt and Yennefer took refuge on the Isle of Avalon, which Ciri had prepared for them.",
+   "entities": [
+    "Geralt",
+    "Yennefer",
+    "Isle of Avalon",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "The Wild Hunt kidnapped Yennefer to try to lure Ciri out of hiding.",
+   "entities": [
+    "Wild Hunt",
+    "Yennefer",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Geralt pursued the Wild Hunt across many worlds while searching for Yennefer.",
+   "entities": [
+    "Geralt",
+    "Wild Hunt",
+    "Yennefer"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Geralt saved the life of witcher Letho of Gulet during a battle with a monster, earning help from three witchers of the School of the Viper.",
+   "entities": [
+    "Geralt",
+    "Letho of Gulet",
+    "School of the Viper"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Geralt offered himself in exchange for Yennefer's freedom, and Eredin took him prisoner instead.",
+   "entities": [
+    "Geralt",
+    "Yennefer",
+    "Eredin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Ciri devised a plan to rescue Geralt from the Wild Hunt, allowing him to escape back to his world, though he lost his memory in the process.",
+   "entities": [
+    "Ciri",
+    "Geralt",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Geralt found shelter at Kaer Morhen with his Wolf School companions, but Triss Merigold's magic could not restore his lost memory.",
+   "entities": [
+    "Geralt",
+    "Kaer Morhen",
+    "Triss Merigold"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Azar Javed, a renegade mage, and an assassin known as the Professor led a surprise attack on Kaer Morhen.",
+   "entities": [
+    "Azar Javed",
+    "The Professor",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 51
+  },
+  {
+   "text": "The attackers on Kaer Morhen stole secrets of witcher mutations from the keep's laboratory.",
+   "entities": [
+    "Kaer Morhen",
+    "Azar Javed"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 51
+  },
+  {
+   "text": "A witcher died defending Kaer Morhen during the attack by Azar Javed and the Professor.",
+   "entities": [
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 51
+  },
+  {
+   "text": "Geralt traveled to Vizima, capital of Temeria, seeking King Foltest, who was absent from the city.",
+   "entities": [
+    "Geralt",
+    "Vizima",
+    "Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "During Foltest's absence, Jacques de Aldersberg, grandmaster of the Order of the Flaming Rose, increased persecution of nonhumans in Vizima.",
+   "entities": [
+    "Jacques de Aldersberg",
+    "Order of the Flaming Rose",
+    "Vizima"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "Increased persecution of nonhumans in Vizima drove elves and dwarves to join local Scoia'tael bands.",
+   "entities": [
+    "Scoia'tael",
+    "Vizima"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "Fisstech is a white powder drug widely used across the Continent, described by City Guard captain Vincent Meiss of Vizima.",
+   "entities": [
+    "Vincent Meiss",
+    "Vizima"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt discovered that the Salamandra, a criminal syndicate dealing in fisstech, extortion, and contract killings, was behind the Kaer Morhen attack.",
+   "entities": [
+    "Salamandra",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 53
+  },
+  {
+   "text": "Geralt destroyed the Salamandra's fisstech labs and killed its members, working up to the leadership.",
+   "entities": [
+    "Geralt",
+    "Salamandra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 53
+  },
+  {
+   "text": "Geralt killed the Professor in revenge for the witcher slain at Kaer Morhen.",
+   "entities": [
+    "Geralt",
+    "The Professor",
+    "Kaer Morhen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Geralt confronted and eventually killed Azar Javed, who revealed Jacques de Aldersberg as the mastermind behind the plot.",
+   "entities": [
+    "Geralt",
+    "Azar Javed",
+    "Jacques de Aldersberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Jacques de Aldersberg was breeding mutants using stolen witcher secrets to suppress the nonhuman riots he had incited.",
+   "entities": [
+    "Jacques de Aldersberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Jacques de Aldersberg was revealed to be a source, a person born with innate magical power.",
+   "entities": [
+    "Jacques de Aldersberg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Jacques de Aldersberg trapped Geralt in a magical illusion depicting the frozen world after the apocalyptic White Frost.",
+   "entities": [
+    "Jacques de Aldersberg",
+    "Geralt",
+    "White Frost"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Jacques de Aldersberg's ultimate goal was to breed a new race of supermen able to survive the White Frost prophesied by Ithlinne.",
+   "entities": [
+    "Jacques de Aldersberg",
+    "White Frost",
+    "Ithlinne"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt refused Jacques de Aldersberg's offer to join him and killed him with a witcher's blade.",
+   "entities": [
+    "Geralt",
+    "Jacques de Aldersberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "After Jacques de Aldersberg's death, an assassin who turned out to be a mutated witcher attempted to kill King Foltest, but Geralt stopped the attack.",
+   "entities": [
+    "Foltest",
+    "Geralt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "King Foltest made Geralt his personal bodyguard after the failed assassination attempt against him.",
+   "entities": [
+    "Foltest",
+    "Geralt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "King Demavend of Aedirn was assassinated, and about a month later King Foltest was also killed.",
+   "entities": [
+    "Demavend",
+    "Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Geralt was falsely accused of murdering King Foltest and imprisoned, but escaped to find the real assassin.",
+   "entities": [
+    "Geralt",
+    "Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Geralt traveled to the border town of Flotsam and discovered the assassin was Letho of Gulet, a witcher and former companion he no longer remembered.",
+   "entities": [
+    "Geralt",
+    "Flotsam",
+    "Letho of Gulet"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59
+  },
+  {
+   "text": "Letho of Gulet fled Flotsam by forcing Triss Merigold to teleport them both to the Kingdom of Aedirn.",
+   "entities": [
+    "Letho of Gulet",
+    "Triss Merigold",
+    "Flotsam"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59
+  },
+  {
+   "text": "In Aedirn, Geralt encountered Saskia, the Virgin of Aedirn, leading an uprising amid conflict with King Henselt of Kaedwen.",
+   "entities": [
+    "Saskia",
+    "Henselt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "King Henselt of Kaedwen seized Aedirnian territory after King Demavend's death.",
+   "entities": [
+    "Henselt",
+    "Demavend"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Geralt discovered that two more Viper School witchers, confederates of Letho, were active in the Aedirn conflict.",
+   "entities": [
+    "Geralt",
+    "Letho of Gulet",
+    "School of the Viper"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Geralt fought and the three Viper School witchers settled their differences with blades.",
+   "entities": [
+    "Geralt",
+    "School of the Viper"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Before dying, the Viper witchers revealed that Sile de Tansarville of the Lodge of Sorceresses had hired them to kill King Demavend.",
+   "entities": [
+    "Sile de Tansarville",
+    "Lodge of Sorceresses",
+    "Demavend"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The trails of Sile de Tansarville and Letho of Gulet led to the ancient ruins of Loc Muinne, site of a summit of Northern kings and sorceresses.",
+   "entities": [
+    "Sile de Tansarville",
+    "Letho of Gulet",
+    "Loc Muinne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "The Loc Muinne summit included delegates from Kaedwen, Aedirn, Temeria, and Redania, along with Nilfgaardian observers.",
+   "entities": [
+    "Loc Muinne",
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "The Loc Muinne summit aimed to resolve the Temerian succession and consider reactivating the Conclave and Supreme Council of Sorcerers.",
+   "entities": [
+    "Loc Muinne"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "The Loc Muinne summit collapsed after Nilfgaardian intervention and was ended by a dragon attack.",
+   "entities": [
+    "Loc Muinne",
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Emperor Emhyr var Emreis orchestrated the assassination plot against the Northern kings using Viper School witchers, promising to help rebuild their keep.",
+   "entities": [
+    "Emhyr var Emreis",
+    "School of the Viper"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "The Lodge of Sorceresses' involvement in Demavend's assassination was separate private scheming that Emperor Emhyr exploited.",
+   "entities": [
+    "Lodge of Sorceresses",
+    "Emhyr var Emreis",
+    "Demavend"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Emperor Emhyr's plot weakened both the Northern monarchs and the mages, clearing the way for his renewed invasion of the North.",
+   "entities": [
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "During his conversation with Letho, Geralt learned that Yennefer was likely alive in the Nilfgaardian Empire.",
+   "entities": [
+    "Geralt",
+    "Letho of Gulet",
+    "Yennefer",
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Taking advantage of the Temerian interregnum and Northern discord, the Nilfgaardian army crossed the Yaruga river to invade the North again.",
+   "entities": [
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Yennefer sent Geralt a letter requesting a meeting in the former Temerian town of Willoughby.",
+   "entities": [
+    "Yennefer",
+    "Geralt",
+    "Willoughby"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "While traveling through occupied Temeria, Geralt reunited with his mentor Vesemir.",
+   "entities": [
+    "Geralt",
+    "Vesemir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Willoughby had been destroyed in fighting between Northern armies and Nilfgaard, and Yennefer was not there when Geralt and Vesemir arrived.",
+   "entities": [
+    "Willoughby",
+    "Yennefer",
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Geralt found Yennefer in the village of White Orchard after dealing with a griffin menacing locals and Nilfgaardian troops.",
+   "entities": [
+    "Geralt",
+    "Yennefer",
+    "White Orchard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Yennefer was accompanied by Nilfgaardian guards who told Geralt that Emperor Emhyr needed to see them both.",
+   "entities": [
+    "Yennefer",
+    "Emhyr var Emreis",
+    "Geralt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Geralt and Yennefer were ambushed by the Wild Hunt while traveling to meet Emperor Emhyr in Vizima.",
+   "entities": [
+    "Geralt",
+    "Yennefer",
+    "Wild Hunt",
+    "Vizima"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Emperor Emhyr revealed that Ciri had returned to their world and asked Geralt to find her.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Ciri",
+    "Geralt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Emhyr and Yennefer had already been searching for Ciri but stopped after their efforts attracted the Wild Hunt.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Yennefer",
+    "Ciri",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Emperor Emhyr offered Geralt gold to find Ciri, though Geralt needed no incentive to help her.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Geralt",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Ciri's presence was tracked through the war-torn region of Velen, the Free City of Novigrad, and the Skellige Islands.",
+   "entities": [
+    "Ciri",
+    "Velen",
+    "Novigrad",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Ciri first arrived back in this world in Skellige, causing a magical explosion that devastated part of the islands.",
+   "entities": [
+    "Ciri",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Ciri fled to Velen, where she encountered the Crones, three demonic sisters.",
+   "entities": [
+    "Ciri",
+    "Velen",
+    "Crones"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "After escaping the Crones, Ciri found shelter with the Bloody Baron in Velen.",
+   "entities": [
+    "Ciri",
+    "Bloody Baron",
+    "Velen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "The Bloody Baron recommended Ciri seek help in Novigrad.",
+   "entities": [
+    "Bloody Baron",
+    "Ciri",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "In Novigrad, Ciri sought help from Dandelion to lift a curse.",
+   "entities": [
+    "Ciri",
+    "Dandelion",
+    "Novigrad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Dandelion was captured by guards of the Church of the Eternal Fire and imprisoned after covering Ciri's escape.",
+   "entities": [
+    "Dandelion",
+    "Church of the Eternal Fire",
+    "Ciri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Geralt and Zoltan Chivay devised a plan to rescue Dandelion from imprisonment.",
+   "entities": [
+    "Geralt",
+    "Zoltan Chivay",
+    "Dandelion"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Avallac'h became Ciri's crucial ally in her flight from the Wild Hunt, putting him in open conflict with Eredin.",
+   "entities": [
+    "Avallac'h",
+    "Ciri",
+    "Wild Hunt",
+    "Eredin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Avallac'h is an Aen Saevherne, a powerful elven mage-sage.",
+   "entities": [
+    "Avallac'h"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During a clash with the Wild Hunt, Avallac'h was cursed, deforming his body and mind.",
+   "entities": [
+    "Avallac'h",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Geralt, with Yennefer's help, lifted the curse afflicting Avallac'h.",
+   "entities": [
+    "Geralt",
+    "Yennefer",
+    "Avallac'h"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "After being cured, Avallac'h revealed that he had hidden Ciri on the Isle of Mists, outside time and space, to protect her.",
+   "entities": [
+    "Avallac'h",
+    "Ciri",
+    "Isle of Mists"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Ciri lay in a magically induced sleep on the Isle of Mists until Geralt arrived and his presence broke the spell, waking her.",
+   "entities": [
+    "Ciri",
+    "Isle of Mists",
+    "Geralt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 72
+  },
+  {
+   "text": "After reuniting, Geralt and Ciri returned to Kaer Morhen, but Eredin tracked them there with the Wild Hunt.",
+   "entities": [
+    "Geralt",
+    "Ciri",
+    "Kaer Morhen",
+    "Eredin",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "Imlerith, one of Eredin's commanders, led the Wild Hunt's assault on Kaer Morhen and killed Vesemir.",
+   "entities": [
+    "Imlerith",
+    "Eredin",
+    "Kaer Morhen",
+    "Vesemir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Grieving Vesemir's death, Ciri unleashed her dormant Power, devastating the attacking Wild Hunt forces and forcing them to retreat.",
+   "entities": [
+    "Ciri",
+    "Vesemir",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Geralt and his allies later hunted down and killed Imlerith to weaken the Wild Hunt.",
+   "entities": [
+    "Geralt",
+    "Imlerith",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 75
+  },
+  {
+   "text": "Avallac'h convinced the Wild Hunt general Ge'els to stay out of the final conflict.",
+   "entities": [
+    "Avallac'h",
+    "Ge'els",
+    "Wild Hunt"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 76
+  },
+  {
+   "text": "Geralt and his allies recruited the surviving Lodge of Sorceresses to help summon and trap the Naglfar, Eredin's vessel for traveling between worlds.",
+   "entities": [
+    "Geralt",
+    "Lodge of Sorceresses",
+    "Naglfar",
+    "Eredin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 76
+  },
+  {
+   "text": "The final battle against the Wild Hunt took place off the shores of Skellige.",
+   "entities": [
+    "Wild Hunt",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "Geralt used a magic elven artifact to summon the Naglfar into a trap in a Skellige bay.",
+   "entities": [
+    "Geralt",
+    "Naglfar",
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "The Lodge of Sorceresses' magic prevented the Naglfar from fleeing while the imperial fleet blocked its escape to open sea.",
+   "entities": [
+    "Lodge of Sorceresses",
+    "Naglfar",
+    "Nilfgaard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "Geralt boarded the Naglfar and dueled Eredin, ultimately killing him and breaking the power of the Wild Hunt for good.",
+   "entities": [
+    "Geralt",
+    "Eredin",
+    "Naglfar",
+    "Wild Hunt"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "Skellige mythology describes an apocalyptic prophecy called Tedd Deireadh, involving the Naglfar ship, the hero Hemdall, and a final conflict called Ragh Nar Roog.",
+   "entities": [
+    "Skellige",
+    "Naglfar"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

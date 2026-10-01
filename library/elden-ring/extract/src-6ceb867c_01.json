@@ -1,0 +1,1509 @@
+{
+ "entities": [
+  {
+   "name": "Godwin",
+   "kind": "character",
+   "aliases": [
+    "Godwyn the Golden"
+   ]
+  },
+  {
+   "name": "Ranni",
+   "kind": "character",
+   "aliases": [
+    "Ranni the Witch",
+    "Rani",
+    "Ry"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "Ma",
+    "Queen Marika"
+   ]
+  },
+  {
+   "name": "Knight of the Black Knives",
+   "kind": "character",
+   "aliases": [
+    "Black Knife Assassin"
+   ]
+  },
+  {
+   "name": "Rune of Death",
+   "kind": "item",
+   "aliases": [
+    "Destined Death"
+   ]
+  },
+  {
+   "name": "Prince of Death",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Those Who Live in Death",
+   "kind": "faction",
+   "aliases": [
+    "Death Rite Birds' victims"
+   ]
+  },
+  {
+   "name": "Elden Ring (artifact)",
+   "kind": "item",
+   "aliases": [
+    "Elden Ring"
+   ]
+  },
+  {
+   "name": "Great Runes",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Godrick the Grafted",
+   "kind": "boss",
+   "aliases": [
+    "Godrick"
+   ]
+  },
+  {
+   "name": "Stormveil Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Margit",
+   "kind": "boss",
+   "aliases": [
+    "Morgott",
+    "the Omen King"
+   ]
+  },
+  {
+   "name": "Leyndell",
+   "kind": "location",
+   "aliases": [
+    "Royal Capital"
+   ]
+  },
+  {
+   "name": "Rykard",
+   "kind": "boss",
+   "aliases": [
+    "Lord of Blasphemy"
+   ]
+  },
+  {
+   "name": "Volcano Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Radahn",
+   "kind": "boss",
+   "aliases": [
+    "Starscourge Radahn",
+    "Red Lion"
+   ]
+  },
+  {
+   "name": "Leonard",
+   "kind": "character",
+   "aliases": [
+    "Radahn's horse"
+   ]
+  },
+  {
+   "name": "Sellia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nokron",
+   "kind": "location",
+   "aliases": [
+    "Eternal City"
+   ]
+  },
+  {
+   "name": "Malenia",
+   "kind": "boss",
+   "aliases": [
+    "Melenia",
+    "Blade of Miquella"
+   ]
+  },
+  {
+   "name": "Battle of Aeonia",
+   "kind": "event",
+   "aliases": [
+    "Battle of Aonia"
+   ]
+  },
+  {
+   "name": "Scarlet Aeonia",
+   "kind": "item",
+   "aliases": [
+    "Scarlet Aonia"
+   ]
+  },
+  {
+   "name": "Caelid",
+   "kind": "location",
+   "aliases": [
+    "Calid"
+   ]
+  },
+  {
+   "name": "Finlay",
+   "kind": "character",
+   "aliases": [
+    "Finley"
+   ]
+  },
+  {
+   "name": "Haligtree",
+   "kind": "location",
+   "aliases": [
+    "Hikree",
+    "Hikry"
+   ]
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": [
+    "Mikuela",
+    "Mckela"
+   ]
+  },
+  {
+   "name": "Mohg",
+   "kind": "boss",
+   "aliases": [
+    "Moog",
+    "Lord of Blood"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "faction",
+   "aliases": [
+    "Mother of Truth"
+   ]
+  },
+  {
+   "name": "Mohgwyn Palace",
+   "kind": "location",
+   "aliases": [
+    "Mogwin Palace"
+   ]
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Outer Gods",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "God of Scarlet Rot",
+   "kind": "faction",
+   "aliases": [
+    "Rot Goddess"
+   ]
+  },
+  {
+   "name": "Lake of Rot",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Fell God",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Giants",
+   "kind": "faction",
+   "aliases": [
+    "Fire Giants"
+   ]
+  },
+  {
+   "name": "Frenzied Flame",
+   "kind": "faction",
+   "aliases": [
+    "Three Fingers"
+   ]
+  },
+  {
+   "name": "Dark Moon",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Godfrey",
+   "kind": "character",
+   "aliases": [
+    "Hoarah Loux"
+   ]
+  },
+  {
+   "name": "Vyke",
+   "kind": "character",
+   "aliases": [
+    "Vik"
+   ]
+  },
+  {
+   "name": "Finger Maiden",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Finger-Slayer Blade",
+   "kind": "item",
+   "aliases": [
+    "finger slayer blade"
+   ]
+  },
+  {
+   "name": "Moonlight Altar",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Dark Moon Ring",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Blaidd",
+   "kind": "character",
+   "aliases": [
+    "bled"
+   ]
+  },
+  {
+   "name": "Iji",
+   "kind": "character",
+   "aliases": [
+    "eegi"
+   ]
+  },
+  {
+   "name": "Sellen",
+   "kind": "character",
+   "aliases": [
+    "Saluis"
+   ]
+  },
+  {
+   "name": "Ranni's Towers",
+   "kind": "location",
+   "aliases": [
+    "Three towers of Liurnia"
+   ]
+  },
+  {
+   "name": "Liurnia",
+   "kind": "location",
+   "aliases": [
+    "Lernia"
+   ]
+  },
+  {
+   "name": "Radagon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Nokron - Dragon Kin/Night's Cavalry people",
+   "kind": "faction",
+   "aliases": [
+    "Dox people",
+    "Eternal City people"
+   ]
+  },
+  {
+   "name": "Alexander the Iron Fist",
+   "kind": "character",
+   "aliases": [
+    "Alexander"
+   ]
+  },
+  {
+   "name": "Nepheli Loux",
+   "kind": "character",
+   "aliases": [
+    "Nephil",
+    "Nephilu"
+   ]
+  },
+  {
+   "name": "Gideon Ofnir",
+   "kind": "character",
+   "aliases": [
+    "Gideon the All-Knowing"
+   ]
+  },
+  {
+   "name": "Round Table Hold",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Fia",
+   "kind": "character",
+   "aliases": [
+    "the Deathbed Companion"
+   ]
+  },
+  {
+   "name": "Age of Duskborn",
+   "kind": "ending",
+   "aliases": [
+    "Age of Dusk"
+   ]
+  },
+  {
+   "name": "Radahn Festival",
+   "kind": "event",
+   "aliases": [
+    "Radan Festival"
+   ]
+  },
+  {
+   "name": "Death Root",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Tarnished",
+   "kind": "character",
+   "aliases": [
+    "the player"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "At the same moment Godwyn died, Ranni took her own life in a high isolated tower in the lands between.",
+   "entities": [
+    "Godwin",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The suicide of Ranni split the death curse mark into two half-wheels instead of one complete circle.",
+   "entities": [
+    "Ranni",
+    "Godwin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "One half of the curse mark was carved into Godwyn's flesh and the other half was carried by Ranni's discarded body.",
+   "entities": [
+    "Godwin",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The knife that killed Godwyn only carried a fragment of the Rune of Death, so it killed only his soul, leaving his body alive but soulless.",
+   "entities": [
+    "Godwin",
+    "Rune of Death",
+    "Knight of the Black Knives"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Godwyn's soulless body grew and festered within the underground roots beneath Leyndell, becoming the entity known as the Prince of Death.",
+   "entities": [
+    "Godwin",
+    "Prince of Death"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Ranni's body died but her soul survived because she had planned for this outcome in advance.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Ranni transferred her soul into a small doll modeled after a mentor she had loved, then vanished from the world's awareness.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Ranni was an Empyrean, a candidate to become the next god of the Lands Between under the Greater Will.",
+   "entities": [
+    "Ranni",
+    "Greater Will"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni wanted to escape the fate chosen for her by the Two Fingers and refused to continue Marika's cycle of divine control.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni sought to follow the Dark Moon, a distant cosmic force offering freedom rather than order, instead of the Erdtree's Golden Order.",
+   "entities": [
+    "Ranni",
+    "Dark Moon"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "To escape the Two Fingers' control, Ranni needed to die in the flesh while preserving her soul, which the Knight of the Black Knives' stolen Rune of Death made possible.",
+   "entities": [
+    "Ranni",
+    "Knight of the Black Knives",
+    "Rune of Death"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Godwyn's death was the first death of a demigod in the history of the Lands Between.",
+   "entities": [
+    "Godwin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Traces of the Rune of Death spread through the Erdtree's root network, appearing as Death Root.",
+   "entities": [
+    "Rune of Death",
+    "Death Root"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "The spread of the Rune of Death created a new category of beings called 'those who live in death,' undead people who cannot properly return to the Erdtree.",
+   "entities": [
+    "Those Who Live in Death"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Those who live in death were hunted by the Golden Order for existing in a state that violated its framework of mortality.",
+   "entities": [
+    "Those Who Live in Death"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Godwyn's death devastated Queen Marika, since he embodied everything she hoped the Golden Order could produce.",
+   "entities": [
+    "Marika",
+    "Godwin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Ranni, Marika's stepdaughter, used a piece of Marika's own system to murder Marika's firstborn son Godwyn.",
+   "entities": [
+    "Marika",
+    "Ranni",
+    "Godwin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Following Godwyn's death, Marika took the Elden Ring and shattered it, breaking the fundamental laws of reality in the Lands Between.",
+   "entities": [
+    "Marika",
+    "Elden Ring (artifact)"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "The shards of the shattered Elden Ring flew outward and settled in or near demigods, becoming their Great Runes.",
+   "entities": [
+    "Elden Ring (artifact)",
+    "Great Runes"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Every demigod touched by a Great Rune's concentrated power was driven toward madness.",
+   "entities": [
+    "Great Runes"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "The game describes the power of the Great Runes as a 'mad taint' rather than a pure gift, amplifying each demigod's existing traits.",
+   "entities": [
+    "Great Runes"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Godrick the Grafted retreated to Stormveil Castle after inheriting his Great Rune and began grafting the limbs of conquered enemies onto his own body.",
+   "entities": [
+    "Godrick the Grafted",
+    "Stormveil Castle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Morgott, the Omen King, took his lineage's Great Rune to Leyndell and placed himself on the Elden Throne as a guardian rather than as Elden Lord.",
+   "entities": [
+    "Margit",
+    "Leyndell"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Morgott disguised himself as the merchant and prophet Margit, warning tarnished away from the capital.",
+   "entities": [
+    "Margit"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Morgott had been shunned and reviled in Leyndell his entire life yet chose to protect the city when it was in crisis.",
+   "entities": [
+    "Margit",
+    "Leyndell"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Rykard, Lord of Blasphemy, took his Great Rune to Volcano Manor and merged with a great serpent, becoming a god-devouring blasphemy.",
+   "entities": [
+    "Rykard",
+    "Volcano Manor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Rykard's Volcano Manor became a refuge for assassins and recusants who rejected the Golden Order and hunted tarnished.",
+   "entities": [
+    "Rykard",
+    "Volcano Manor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Radahn, the Starscourge, claimed his Great Rune and continued holding the stars in place using gravity magic.",
+   "entities": [
+    "Radahn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Radahn halted the stars specifically to prevent Ranni's planned Age of Stars from occurring, since her destiny required the stars to fall.",
+   "entities": [
+    "Radahn",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Radahn studied gravity magic in Sellia, a town in Caelid known for sorcerers who studied stars and cosmic forces.",
+   "entities": [
+    "Radahn",
+    "Sellia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Radahn developed gravity magic partly so he would not crush Leonard, a small horse he had owned since childhood too weak to carry his growing size.",
+   "entities": [
+    "Radahn",
+    "Leonard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When fought in the ruined desert north of Redmane Castle, Radahn still rides Leonard even while feral and consumed by rot.",
+   "entities": [
+    "Radahn",
+    "Leonard"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Leonard stays beside Radahn's body after his death.",
+   "entities": [
+    "Radahn",
+    "Leonard"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "When Radahn was defeated at the Radahn Festival, the stars he held moved and a fragment struck the earth, opening the previously inaccessible underground city of Nokron.",
+   "entities": [
+    "Radahn",
+    "Nokron",
+    "Radahn Festival"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Nokron's opening was specifically what Ranni needed for the next stage of her plan.",
+   "entities": [
+    "Nokron",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Malenia marched her army from the Haligtree south to fight Radahn in the Battle of Aeonia, the defining conflict of the Shattering.",
+   "entities": [
+    "Malenia",
+    "Radahn",
+    "Battle of Aeonia",
+    "Haligtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Malenia's Cleanrot Knights, who accepted exposure to scarlet rot out of loyalty, fought Radahn's soldiers in one of the bloodiest battles in Lands Between history.",
+   "entities": [
+    "Malenia",
+    "Radahn",
+    "Battle of Aeonia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Malenia and Radahn were evenly matched in personal combat, as neither had ever lost a battle before.",
+   "entities": [
+    "Malenia",
+    "Radahn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "During the duel, Malenia's needle broke, though the game leaves ambiguous whether this happened by accident or by her own choice.",
+   "entities": [
+    "Malenia",
+    "Battle of Aeonia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "When Malenia's needle broke, the scarlet rot suppressed within her since birth exploded outward as the Scarlet Aeonia, a massive crimson flower as large as a small city.",
+   "entities": [
+    "Malenia",
+    "Scarlet Aeonia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "The bloom of the Scarlet Aeonia transformed the region of Caelid into a permanent blood-red rotted wasteland.",
+   "entities": [
+    "Scarlet Aeonia",
+    "Caelid"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Radahn survived the battle but the scarlet rot consumed his mind, reducing him to a feral, mindless creature that ate corpses.",
+   "entities": [
+    "Radahn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Radahn's loyal soldiers organized the Radahn Festival, inviting warriors worldwide to give their general an honorable death in battle rather than kill him for conquest.",
+   "entities": [
+    "Radahn",
+    "Radahn Festival"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "After the battle, Malenia fell into a deep, dreamless coma.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "A Cleanrot Knight named Finlay carried Malenia's unconscious body alone back to the Haligtree, fighting off enemies the entire way.",
+   "entities": [
+    "Finlay",
+    "Malenia",
+    "Haligtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "After the Shattering ended with no victor, the demigods retreated to their strongholds and Leyndell remained mostly intact but without a true Elden Lord.",
+   "entities": [
+    "Leyndell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "The Greater Will effectively went silent after the Shattering, unable or unwilling to guide events.",
+   "entities": [
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": 34
+  },
+  {
+   "text": "Leyndell is built around the Erdtree's massive golden roots, which arch through the city like exposed bones.",
+   "entities": [
+    "Leyndell"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Leyndell has been sealed off from normal time, its remaining soldiers and knights still loyal to an order that no longer functions since the Shattering.",
+   "entities": [
+    "Leyndell"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Erdtree in the game's present cannot be entered, its golden bark sealed over by thorns that no conventional weapon can break.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers claim the Erdtree is withered while priests claim it is merely dormant awaiting a new Elden Lord.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The grace light from the Erdtree now appears only as thin, faint Sites of Grace guiding tarnished, remnants of a nearly depleted divine power.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Malenia sleeps in the depths of Elphael, the branch of the Haligtree, waiting for Miquella to return.",
+   "entities": [
+    "Malenia",
+    "Haligtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Even during Malenia's sleep, the scarlet rot she carries continues to spread and corrupt the Haligtree, which Miquella intended as a pure sanctuary.",
+   "entities": [
+    "Malenia",
+    "Haligtree",
+    "Miquella"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Malenia wakes only when the tarnished disturbs her after navigating the Consecrated Snowfield and the corrupted Haligtree.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Upon waking, Malenia says: \"I dreamt for so long. My flesh was dull gold and my blood was rot,\" and \"I await him still,\" referring to Miquella.",
+   "entities": [
+    "Malenia",
+    "Miquella"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Malenia introduces herself as Malenia, Blade of Miquella, and declares she has never known defeat.",
+   "entities": [
+    "Malenia",
+    "Miquella"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Malenia heals herself by draining the player's vitality with each successful attack.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Malenia can bloom a smaller version of the Scarlet Aeonia during battle, filling the arena with rot.",
+   "entities": [
+    "Malenia",
+    "Scarlet Aeonia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miquella is trapped in eternal youth, unable to grow into the mature form required for godhood.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miquella's goal, revealed in the Shadow of the Erdtree expansion, is to become a god of compassion and establish a new order free of the Greater Will.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miquella grew the Haligtree from a sapling, watering it with his own Empyrean blood hoping his growth would be reflected in the tree, but it never became a full Erdtree.",
+   "entities": [
+    "Miquella",
+    "Haligtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "While Malenia was fighting Radahn, Mohg, Lord of Blood, kidnapped the sleeping Miquella and took him to his hidden palace underground.",
+   "entities": [
+    "Mohg",
+    "Miquella"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Mohg wrapped Miquella in a cocoon of golden silk and fed him blood in a ritual meant to elevate Miquella to divine status.",
+   "entities": [
+    "Mohg",
+    "Miquella"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Mohg believed he was a devoted caretaker enabling Miquella's ascension and expected to be made his consort.",
+   "entities": [
+    "Mohg",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In truth, Miquella orchestrated his own kidnapping, having charmed Mohg to gain access to the Realm of Shadow through Mohg's blood rituals.",
+   "entities": [
+    "Miquella",
+    "Mohg"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 34
+  },
+  {
+   "text": "The Realm of Shadow contains the Gate of Divinity, the same gate Marika used to become a god.",
+   "entities": [
+    "Miquella",
+    "Marika"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Through symbolic death in Mohg's cocoon, Miquella broke free of the Erdtree's death-rebirth cycle and shed his flesh piece by piece on his path to the Gate of Divinity.",
+   "entities": [
+    "Miquella"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "The Greater Will is not the only cosmic power in Elden Ring's theology; it dominates the current age through the Erdtree and Marika's godhood while other Outer Gods contest for influence.",
+   "entities": [
+    "Greater Will",
+    "Outer Gods"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The game identifies at least half a dozen Outer Gods clearly, with hints of others whose names remain obscure.",
+   "entities": [
+    "Outer Gods"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The God of Scarlet Rot is an ancient deity that was defeated and sealed beneath the lakes, in what became the Lake of Rot.",
+   "entities": [
+    "God of Scarlet Rot",
+    "Lake of Rot"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Lake of Rot will kill a person almost instantly if they remain immersed in it for more than a few moments.",
+   "entities": [
+    "Lake of Rot"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Malenia was marked by the God of Scarlet Rot from birth, according to the Remembrance of the Rot Goddess, manifesting as the scarlet rot that has afflicted her since birth.",
+   "entities": [
+    "Malenia",
+    "God of Scarlet Rot"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the Scarlet Aeonia blooms three times, Malenia will become a true goddess and complete vessel for the rot; she has bloomed once so far.",
+   "entities": [
+    "Malenia",
+    "Scarlet Aeonia",
+    "God of Scarlet Rot"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Formless Mother, also called the Mother of Truth, is the Outer God that Mohg worships, associated with burning blood, wounds, and brutal intimacy.",
+   "entities": [
+    "Formless Mother",
+    "Mohg"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Mohg stood before the Formless Mother in the deep earth, his cursed blood caught fire, and the deity chose him as her vessel due to his crucible-marked omen nature.",
+   "entities": [
+    "Mohg",
+    "Formless Mother"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mohg was thrown into a sewer at birth and told his crucible marks were shameful signs of corruption.",
+   "entities": [
+    "Mohg"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mohg built Mohgwyn Palace around a wound in the world tied to the Formless Mother and declared himself Lord of Blood.",
+   "entities": [
+    "Mohg",
+    "Mohgwyn Palace",
+    "Formless Mother"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fell God is the ancient fire deity of the giants that Marika and Godfrey went to war against in the early days of the Golden Order.",
+   "entities": [
+    "Fell God",
+    "Marika",
+    "Godfrey"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Fell God is depicted as a malformed one-eyed deity with curled horns and braided red hair, associated with primordial fire preceding the Erdtree's golden warmth.",
+   "entities": [
+    "Fell God"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Godfrey destroyed nearly all the giants, the Fell God lost most of its followers but did not die, and still lurks in the Mountaintops of the Giants.",
+   "entities": [
+    "Fell God",
+    "Godfrey"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "The Frenzied Flame is delivered through the Three Fingers, said to be a counterpart to the Greater Will's Two Fingers, once part of a single whole.",
+   "entities": [
+    "Frenzied Flame",
+    "Greater Will"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Frenzied Flame theology holds that the Greater Will erred by creating individuals, and that all suffering should be melted back into unified oneness.",
+   "entities": [
+    "Frenzied Flame"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Followers of the Frenzied Flame are scarred, one-eyed people whose eyes burn with yellow fire, believing the end of everything would be a mercy.",
+   "entities": [
+    "Frenzied Flame"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vyke, a tarnished, was according to item descriptions closer to becoming Elden Lord than anyone before the player character.",
+   "entities": [
+    "Vyke"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Vyke took the Frenzied Flame into himself to save his finger maiden from being sacrificed to burn open the Erdtree.",
+   "entities": [
+    "Vyke",
+    "Finger Maiden",
+    "Frenzied Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Vyke became a Lord of Frenzy and lost his path to the throne, wandering into madness.",
+   "entities": [
+    "Vyke"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "The Dark Moon, Ranni's chosen Outer God, is cold, silver, and distant, governing fate, stars, and the unknown, offering freedom rather than commandment.",
+   "entities": [
+    "Dark Moon",
+    "Ranni"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni is introduced to the player in a tower in northern Liurnia, one of three towers belonging to her and her brothers, once her family's home before her father Radagon left to return to Marika.",
+   "entities": [
+    "Ranni",
+    "Liurnia",
+    "Radagon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni appears as a young woman with pale blue skin and silver hair inhabiting a small doll body.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni's retinue includes Blaidd, a half-man half-wolf sworn to serve her; Iji, an ancient blacksmith; and Sellen, a snow witch whose loyalty is complex.",
+   "entities": [
+    "Ranni",
+    "Blaidd",
+    "Iji",
+    "Sellen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ranni seeks the Finger-Slayer Blade, hidden in the underground city of Nokron, to pursue her plan involving the Dark Moon.",
+   "entities": [
+    "Ranni",
+    "Finger-Slayer Blade",
+    "Nokron"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Finger-Slayer Blade was forged specifically to kill the Fingers, the cosmic emissaries of the Greater Will.",
+   "entities": [
+    "Finger-Slayer Blade",
+    "Greater Will"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Finger-Slayer Blade was made in Nokron by a people who had rebelled against the Greater Will and were punished for it.",
+   "entities": [
+    "Finger-Slayer Blade",
+    "Nokron"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The people of the eternal cities (referred to as the 'Dox people') were once the most advanced scholars of the Lands Between, studying stars and cosmic forces and building underground cities lit by artificial constellations.",
+   "entities": [
+    "Nokron - Dragon Kin/Night's Cavalry people"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "After the eternal cities' people rebelled against the Greater Will, they were punished by having their entire civilization buried underground.",
+   "entities": [
+    "Nokron - Dragon Kin/Night's Cavalry people",
+    "Greater Will"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Ranni travels to the Moonlight Altar, a remote plateau guarded by a sleeping ancient dragon coiled around a cathedral of sorcery, to claim a special ring meant for her Elden Lord consort.",
+   "entities": [
+    "Ranni",
+    "Moonlight Altar",
+    "Dark Moon Ring"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Ranni leaves the Dark Moon Ring for the tarnished to retrieve and bring back to her, formally asking them to be her lord and consort.",
+   "entities": [
+    "Ranni",
+    "Dark Moon Ring"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Ranni describes her intended Age of Stars as one of unalloyed cold darkness, a thousand-year voyage into darkness guided by the Dark Moon.",
+   "entities": [
+    "Ranni",
+    "Dark Moon"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In Ranni's envisioned age, the Erdtree would no longer be the center of power, the golden economy of souls would be disrupted, and mortal natural death would be restored in some form.",
+   "entities": [
+    "Ranni",
+    "Dark Moon"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Whether Ranni's Age of Stars ending is truly good for the people of the Lands Between is left ambiguous by the game.",
+   "entities": [
+    "Ranni"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Alexander the Iron Fist is a giant jar, a living vessel called a 'jarhead' containing the remains of great warriors absorbed into it.",
+   "entities": [
+    "Alexander the Iron Fist"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alexander is found stuck in the ground up to his shoulders, calling cheerfully for help, and wants to grow stronger by absorbing the remains of great warriors.",
+   "entities": [
+    "Alexander the Iron Fist"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alexander travels toward the Radahn Festival out of genuine joy at the prospect of fighting alongside great warriors.",
+   "entities": [
+    "Alexander the Iron Fist",
+    "Radahn Festival"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "At the end of his questline, Alexander requests to be defeated by the player so his absorbed essence can be carried forward.",
+   "entities": [
+    "Alexander the Iron Fist"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Nepheli Loux is the granddaughter of Gideon Ofnir, the all-knowing leader of the Round Table Hold faction.",
+   "entities": [
+    "Nepheli Loux",
+    "Gideon Ofnir",
+    "Round Table Hold"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nepheli Loux is also the adopted daughter of Godfrey, the first Elden Lord, who named her his heir even in exile.",
+   "entities": [
+    "Nepheli Loux",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nepheli's questline involves confronting the horror of Stormveil's population being experimented on and turned into shambling creatures by Godrick.",
+   "entities": [
+    "Nepheli Loux",
+    "Godrick the Grafted"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Nepheli's questline resolves with her ruling a restored Limgrave from its throne, presented as one of the game's unambiguously positive outcomes.",
+   "entities": [
+    "Nepheli Loux"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Fia, the Deathbed Companion, resides in the Round Table Hold and offers an embrace that grants a buff and a debuff simultaneously.",
+   "entities": [
+    "Fia",
+    "Round Table Hold"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia collects deathbeds, the moments of heroes' final rest, carrying them inside her body to eventually create the Prince of Death made possible by Godwyn's incomplete demise.",
+   "entities": [
+    "Fia",
+    "Prince of Death",
+    "Godwin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fia has devoted herself to restoring natural death in a world that forcibly removes it, loving the Prince of Death despite its inability to love her back.",
+   "entities": [
+    "Fia",
+    "Prince of Death"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The player character is called Tarnished, one who once had the grace of the Erdtree, lost it, died, and was called back by a new Grace toward the Erdtree.",
+   "entities": [
+    "Tarnished"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-6ceb867c"
+}

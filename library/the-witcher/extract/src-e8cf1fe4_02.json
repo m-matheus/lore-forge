@@ -1,0 +1,1025 @@
+{
+ "entities": [
+  {
+   "name": "Dryads",
+   "kind": "faction",
+   "aliases": [
+    "Eerie Wives"
+   ]
+  },
+  {
+   "name": "Brokilon Forest",
+   "kind": "location",
+   "aliases": [
+    "Brokilon"
+   ]
+  },
+  {
+   "name": "Craag An",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Verden",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kerack",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Brugge",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Witchers",
+   "kind": "faction",
+   "aliases": [
+    "Witcher Order"
+   ]
+  },
+  {
+   "name": "Conjunction of the Spheres",
+   "kind": "event",
+   "aliases": [
+    "The Conjunction"
+   ]
+  },
+  {
+   "name": "Law of Surprise",
+   "kind": "concept",
+   "aliases": [
+    "Unexpected Child"
+   ]
+  },
+  {
+   "name": "Zatret Voruta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Supree",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "White Wolf",
+    "Butcher of Blaviken"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": [
+    "Witchers' Seat"
+   ]
+  },
+  {
+   "name": "Wolf School",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Cat School",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Trial of the Grasses",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Cosimo Malaspina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Alzur",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Viy",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Iello Massacre",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Brehen",
+   "kind": "character",
+   "aliases": [
+    "Cat of Jello"
+   ]
+  },
+  {
+   "name": "Blaviken Massacre",
+   "kind": "event",
+   "aliases": [
+    "Blaviken"
+   ]
+  },
+  {
+   "name": "Monstrum; or, A Portrayal of Witchers",
+   "kind": "item",
+   "aliases": [
+    "Monstrum"
+   ]
+  },
+  {
+   "name": "The Purge",
+   "kind": "event",
+   "aliases": [
+    "Witcher Pogrom"
+   ]
+  },
+  {
+   "name": "The Gauntlet",
+   "kind": "location",
+   "aliases": [
+    "The Path"
+   ]
+  },
+  {
+   "name": "Salamandra",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Azar Javed",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Witcher medallion",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Witcher swords",
+   "kind": "weapon",
+   "aliases": [
+    "silver sword",
+    "steel sword"
+   ]
+  },
+  {
+   "name": "Oxenfurt Academy",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Dryads, also called eerie wives by humans, once inhabited nearly all forests but now only remain in Brokilon Forest.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads resemble young, slender maidens and their entire race is composed exclusively of females.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Young dryads are born from unions with elves or, more rarely, with humans.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Because their relations with humans are mostly hostile, dryads have resorted to kidnapping human girls to replenish their numbers.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kidnapped human girls are said to be given the Water of Brokilon, which erases their former memories, after which the dryads raise them as their own.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some cruel humans leave sick children infected with diseases like smallpox at the edge of Brokilon Forest hoping to spread epidemics among the dryads.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads appear to be immune to disease, and infected girls sent to them may instead be healed and become new defenders of the forest.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads deeply revere their forest and would never intentionally harm it.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads build their homes from living trees which they can shape at will.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads are exceptionally skilled archers, surpassing even elves in mastery of the bow.",
+   "entities": [
+    "Dryads"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brokilon Forest is in a state of perpetual war with the surrounding human lands.",
+   "entities": [
+    "Brokilon Forest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Neighboring lords covet Brokilon's valuable trees and the treasures rumored to be hidden in the ruined city and necropolis of Craag An deep within the forest.",
+   "entities": [
+    "Brokilon Forest",
+    "Craag An"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "For hundreds of years humans have tried to log Brokilon Forest, leading to repeated violent clashes with the dryads.",
+   "entities": [
+    "Brokilon Forest",
+    "Dryads"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Humans execute captured dryads without mercy, while dryads kill any intruders into their forest with arrows, showing no distinction for age or gender.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dryads do not recognize human-drawn borders and attack settlers on lands that were formerly part of Brokilon Forest.",
+   "entities": [
+    "Dryads",
+    "Brokilon Forest"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The kings of Verden and Kerack harbor a legendary hatred of the dryads and their leader due to raids on settlers.",
+   "entities": [
+    "Verden",
+    "Kerack",
+    "Dryads"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The more moderate king of Brugge has prevented the conflict with Brokilon from escalating into full extermination war.",
+   "entities": [
+    "Brugge",
+    "Dryads"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are described by sorcerers as mutants with superhuman abilities created specifically to kill monsters for money.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nobles view witchers as tools to solve problems like succession disputes, personal security, and conflicts with other rulers.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Druids consider witchers to be butchers who mindlessly exterminate endangered species for profit.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Common people mostly see witchers as professionals hired to eliminate dangerous creatures, like specialized pest control.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some people who owe witchers their lives view them as noble defenders of mankind.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Others see witchers as godless, cursed freaks who exploit the poor and desperate for coin.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The clergy generally holds witchers in low esteem, officially because witchers do not worship any gods.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers began using their signature dual blades and medallions several centuries before the game's present day.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Before humans arrived, ancient races such as vrans, elves, and werebbubbs inhabited the lands that later became witcher territory.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "As humans expanded, they pushed vrans, elves, and werebbubbs into deep forests and mountains.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Natural predators posed an early threat to human settlers, but such predators occupied a normal ecological niche and did not primarily target humans.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Some monsters came into the world during the Conjunction of the Spheres, the same event that brought magic into the world.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Post-Conjunction monsters adapted quickly and found humans, then a weak link in the food chain, to be easy prey.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The Law of Surprise is a magical phenomenon connecting a person known as the Unexpected Child to someone destined to receive them, typically as payment for a favor.",
+   "entities": [
+    "Law of Surprise"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "To invoke the Law of Surprise, the benefactor must agree to give whatever unexpected thing greets them upon returning home, without knowing what that will be.",
+   "entities": [
+    "Law of Surprise"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Law of Surprise is only finalized if the promised child or person later recognizes the recipient's rightful claim.",
+   "entities": [
+    "Law of Surprise"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The hero Zatret Voruta was given to the dwarves as an Unexpected Child because his was the first face his father saw upon returning home.",
+   "entities": [
+    "Zatret Voruta",
+    "Law of Surprise"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The hero Supree was an Unexpected Child given to the Mad Dei, whom he later saved from a terrible curse.",
+   "entities": [
+    "Supree",
+    "Law of Surprise"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Many witchers historically invoked the Law of Surprise as payment for their services, believing such children would easily pass or be exempt from the witcher trials.",
+   "entities": [
+    "Witchers",
+    "Law of Surprise"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt of Rivia was believed to be an Unexpected Child claimed through the Law of Surprise.",
+   "entities": [
+    "Geralt of Rivia",
+    "Law of Surprise"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "After the Conjunction of the Spheres, people used folk magic like scattering salt, nailing silver coins or iron horseshoes, and lighting torches to ward off monsters.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "A widespread but false belief held that a red cap or hood would protect a young woman from a werewolf, a myth partly spread by the Dyers' Guild for profit.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The order of witchers was created specifically to defend humanity against monsters using steel, silver, and magic.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Common folklore claims witchers kidnap children from villages, though this is described as false since abducting children would be impractical for witchers.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Most witcher recruits came from orphans, abandoned children, and unwanted offspring such as bastards or extra sons with no inheritance.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers who helped establish witcher training were primarily responsible for seeking out potential recruits.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Only physically and mentally fit boys were selected as witcher candidates, as weaker candidates would not survive training.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Prospective witchers were trained at Kaer Morhen, also known as the Witchers' Seat, home of the Wolf School.",
+   "entities": [
+    "Kaer Morhen",
+    "Wolf School"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The origins and original creators of the witcher training and mutation process are unknown, as those who developed it are long dead.",
+   "entities": [
+    "Kaer Morhen",
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Early stages of witcher training involved herbal infusions and a diet of cave fungi to regulate metabolism and boost growth rate before the Trial of the Grasses.",
+   "entities": [
+    "Trial of the Grasses",
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Trial of the Grasses involved administering mutagenic potions over several days, causing severe fevers, vomiting, and hemorrhages, and killing most who underwent it.",
+   "entities": [
+    "Trial of the Grasses",
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Survivors of the initial Trial of the Grasses underwent a further stage called the Changes, involving more infusions and infections causing additional suffering.",
+   "entities": [
+    "Trial of the Grasses",
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Special experimental trials with new elixirs and mutagens were sometimes performed on witcher trainees, causing extreme suffering to those chosen.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt of Rivia survived the Trial of the Grasses and the Changes, losing hair pigment as a result, but the rest of his test group did not survive.",
+   "entities": [
+    "Geralt of Rivia",
+    "Trial of the Grasses"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Other witcher schools besides Kaer Morhen existed, each with different training programs and processes for the Changes.",
+   "entities": [
+    "Witchers",
+    "Kaer Morhen"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cat School was notorious for producing witchers who were psychopaths, madmen, and sadists due to flawed mutation processes or selection of aggressive candidates.",
+   "entities": [
+    "Cat School"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iello Massacre, attributed to the witcher Brehen (later called the Cat of Jello), is one of the infamous episodes tarnishing witchers' reputation.",
+   "entities": [
+    "Iello Massacre",
+    "Brehen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Blaviken Massacre occurred when the witcher Geralt killed six men and a woman in broad daylight in the town market, earning him the nickname Butcher of Blaviken.",
+   "entities": [
+    "Blaviken Massacre",
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers Cosimo Malaspina and his apprentice Alzur are believed to be the original creators of the witcher mutation process.",
+   "entities": [
+    "Cosimo Malaspina",
+    "Alzur",
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alzur created spells such as Alzur's Shield and Alzur's Thunder that are still used by sorcerers today.",
+   "entities": [
+    "Alzur"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alzur was killed in Maribor by a viy, a giant centipede-like creature he had created himself; the creature then rampaged through half the city before fleeing to Riverdell's forests.",
+   "entities": [
+    "Alzur",
+    "Viy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A book titled Monstrum; or, A Portrayal of Witchers was published, spreading exaggerated and false accusations against witchers, likely authored by a member of the clergy.",
+   "entities": [
+    "Monstrum; or, A Portrayal of Witchers"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Monstrum was widely circulated shortly before the anti-witcher purges that occurred over a century before the game's present.",
+   "entities": [
+    "Monstrum; or, A Portrayal of Witchers",
+    "The Purge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Public sentiment turned against witchers over time due to rumors and deliberate incitement, eventually leading to mob violence against witcher strongholds.",
+   "entities": [
+    "Witchers",
+    "The Purge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Kaer Morhen fell when a mob, aided by sorcerers' magic, breached its gates and slaughtered nearly everyone inside, including trainees, teaching sorcerers, and witchers.",
+   "entities": [
+    "Kaer Morhen",
+    "The Purge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Only a few witchers survived the fall of Kaer Morhen because they happened to be away at the time of the attack.",
+   "entities": [
+    "Kaer Morhen",
+    "The Purge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Kaer Morhen's name derives from the Elder Speech phrase 'caer a'muirehen,' meaning 'old sea keep,' suggesting it was originally an elven structure.",
+   "entities": [
+    "Kaer Morhen"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kaer Morhen is believed to be located in the inaccessible mountains of northeastern Kaedwen along the upper reaches of the Gwenllech river.",
+   "entities": [
+    "Kaer Morhen"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kaer Morhen was destroyed during an outbreak of anti-witcher purges probably near the end of the twelfth century.",
+   "entities": [
+    "Kaer Morhen",
+    "The Purge"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "After the purge, authorities declared the attacks isolated incidents and punished the perpetrators, while survivors speculated the true target had been the sorcerers who trained witchers rather than the witchers themselves.",
+   "entities": [
+    "The Purge",
+    "Witchers"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 13
+  },
+  {
+   "text": "Following the purge, some witcher laboratories, elixirs, and notes survived, but no one remained who knew how to recreate the mutation and Trial of the Grasses processes.",
+   "entities": [
+    "The Purge",
+    "Trial of the Grasses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "A small number of Wolf School witchers survived the pogrom and continue to use the ruins of Kaer Morhen as a winter shelter and training ground.",
+   "entities": [
+    "Kaer Morhen",
+    "Wolf School"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Witcher mutations slow the aging process considerably, allowing witchers to live far longer than ordinary humans, though the exact maximum lifespan is unknown due to violent deaths in the profession.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers have full immunity to disease as a result of their mutations.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers have increased but not complete resistance to venoms and toxins, and also a higher tolerance for alcohol.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers can adjust their pupils to see in darkness or avoid being blinded by sudden light.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers have a slower pulse that can be regulated under stress, heightened reflexes, acute hearing, and increased pain resistance.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are rendered sterile by their mutations, though it is unclear if this is an intentional measure or a side effect.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are trained and genetically adjusted to better control their emotions, though they are not truly soulless as popular belief suggests.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers can still feel fear but are trained to control it rather than being fearless.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers can feel compassion for victims of curses, but must be able to act decisively against a monster when necessary despite that empathy.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher training includes physical regimens performed on an obstacle course at Kaer Morhen known as the Path, nicknamed the Gauntlet by trainees.",
+   "entities": [
+    "Kaer Morhen",
+    "The Gauntlet"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Gauntlet is a dangerous and ever-changing obstacle course where many young witcher trainees have been injured or killed over the years.",
+   "entities": [
+    "The Gauntlet"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The witcher combat style emphasizes speed, mobility, and brutal effectiveness, originally compiled from the techniques of mercenaries and cutthroats before being refined over generations.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher swordsmanship was influenced by elven fencing concepts that favored light armor and relied on dodges and feints rather than heavy armor.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers avoid heavy armor like chainmail or breastplates because such gear hinders the mobility needed to fight multiple monsters or creatures with unconventional attacks like tentacles or pincers.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher training emphasizes fighting in adverse conditions, such as blindfolded, on unstable surfaces, or in water, to prepare for realistic monster encounters.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers study extensive monster lore, including ancient texts and oral tales, to learn enemy habitats, habits, diets, and weaknesses before engaging them.",
+   "entities": [
+    "Witchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A note found near a headless corpse in Novigrad's sewers suggests that the criminal organization Salamandra, led by the renegade sorcerer Azar Javed, attempted to seize hidden 'witcher secrets' from Kaer Morhen.",
+   "entities": [
+    "Salamandra",
+    "Azar Javed",
+    "Kaer Morhen"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Witcher medallions are magically imbued silver items that serve as both practical tools and symbols of guild membership.",
+   "entities": [
+    "Witcher medallion",
+    "Witchers"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher silver swords are considered magical because they are forged from inherently magical silver, making them lethal to creatures born of evil powers.",
+   "entities": [
+    "Witcher swords"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher steel swords are commonly believed to be forged from 'star iron,' meaning steel made from meteoric iron (siderite).",
+   "entities": [
+    "Witcher swords"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

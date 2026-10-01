@@ -1,0 +1,1216 @@
+{
+ "entities": [
+  {
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": [
+    "the Dawn Walker"
+   ]
+  },
+  {
+   "name": "Anka",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Leonuka",
+   "kind": "character",
+   "aliases": [
+    "Leonica"
+   ]
+  },
+  {
+   "name": "Saint Mihi",
+   "kind": "character",
+   "aliases": [
+    "Mihi"
+   ]
+  },
+  {
+   "name": "Tobias",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Albertus",
+   "kind": "character",
+   "aliases": [
+    "Alberta"
+   ]
+  },
+  {
+   "name": "Brenis",
+   "kind": "character",
+   "aliases": [
+    "Kinaz Brenis"
+   ]
+  },
+  {
+   "name": "Ambress",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Julen Codrin",
+   "kind": "character",
+   "aliases": [
+    "Julen"
+   ]
+  },
+  {
+   "name": "Vera",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Farcus Derrescu",
+   "kind": "character",
+   "aliases": [
+    "Farcus the Fox"
+   ]
+  },
+  {
+   "name": "Bakir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ducen",
+   "kind": "character",
+   "aliases": [
+    "Duen"
+   ]
+  },
+  {
+   "name": "Vicho",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "D'vorah",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Eli",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dr. Simeon",
+   "kind": "character",
+   "aliases": [
+    "Simeon"
+   ]
+  },
+  {
+   "name": "Sara",
+   "kind": "character",
+   "aliases": [
+    "Sarah"
+   ]
+  },
+  {
+   "name": "Craig",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dro",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lios",
+   "kind": "character",
+   "aliases": [
+    "Laos"
+   ]
+  },
+  {
+   "name": "Buen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Measer",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Verkieri",
+   "kind": "faction",
+   "aliases": [
+    "Viri",
+    "Vrair",
+    "Vraker"
+   ]
+  },
+  {
+   "name": "Manumits",
+   "kind": "faction",
+   "aliases": [
+    "manummits"
+   ]
+  },
+  {
+   "name": "Cobalts",
+   "kind": "faction",
+   "aliases": [
+    "cobalt colony"
+   ]
+  },
+  {
+   "name": "Muron",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Anahora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svartra",
+   "kind": "location",
+   "aliases": [
+    "Svatra"
+   ]
+  },
+  {
+   "name": "Veil Sangora",
+   "kind": "location",
+   "aliases": [
+    "Vale Sangora"
+   ]
+  },
+  {
+   "name": "Saint Tina's Convent",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Maragir",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Agasti",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "The Midens",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Church of St. Teotim",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mihi's Sword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Sancti Mihi Histori Vera",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Amethyst Ring",
+   "kind": "item",
+   "aliases": [
+    "Drescu family ring"
+   ]
+  },
+  {
+   "name": "Font of Life",
+   "kind": "location",
+   "aliases": [
+    "Impluvium vite"
+   ]
+  },
+  {
+   "name": "Winged Gargoyle Creature",
+   "kind": "enemy",
+   "aliases": [
+    "the gargoyle"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Anka found forbidden books and told Leonuka about them, leading Leonuka to bargain with a dark power to try to save the convent from the plague.",
+   "entities": [
+    "Anka",
+    "Leonuka"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "When Leonuka was one step away from ending the curse on the convent, Anka stopped her.",
+   "entities": [
+    "Anka",
+    "Leonuka"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Anka decided to complete the ritual herself to atone for stopping Leonuka, and Cohen reluctantly agreed to let her do it alone.",
+   "entities": [
+    "Anka",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Anka performed the ritual alone in the catacombs while Cohen waited in the library listening to inhuman sounds from the crypt.",
+   "entities": [
+    "Anka",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "After the ritual, Cohen found that the nuns of the convent had vanished.",
+   "entities": [
+    "Cohen",
+    "Saint Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Cohen and Anka found a book titled Sancti Mihi Histori Vera whose pages appeared blank, written in invisible ink.",
+   "entities": [
+    "Cohen",
+    "Anka",
+    "Sancti Mihi Histori Vera"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "The book Sancti Mihi Histori Vera reveals that Saint Mihi, believed by the valley's people to have fought dragons, actually fought the Verkieri.",
+   "entities": [
+    "Sancti Mihi Histori Vera",
+    "Saint Mihi",
+    "Verkieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "According to the manuscript, Saint Mihi was a pagan who struck down a Verkier with a magically strengthened sword that cut through evil.",
+   "entities": [
+    "Saint Mihi",
+    "Verkieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Saint Mihi's body was believed lost, but the manuscript claims he was buried with his belongings somewhere in Svartra.",
+   "entities": [
+    "Saint Mihi",
+    "Svartra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Albertus was a monk who served as chronicler under Kinaz Brenis, tasked with praising the ruler's virtues and hiding his sins.",
+   "entities": [
+    "Albertus",
+    "Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Albertus devoted his life to studying the history of Veil Sangora, but the Verkieri banished him and destroyed his life's work when they seized power.",
+   "entities": [
+    "Albertus",
+    "Verkieri",
+    "Veil Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "After losing his research, Albertus reportedly went mad and now lives on the streets.",
+   "entities": [
+    "Albertus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Anka admitted to Cohen that she has had feelings for him for a long time.",
+   "entities": [
+    "Anka",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Cohen found Saint Mihi walled in alive beneath the cathedral in Svartra, emaciated but still breathing after centuries of imprisonment.",
+   "entities": [
+    "Cohen",
+    "Saint Mihi",
+    "Svartra"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Saint Mihi mistook Cohen for a man named Tobias and attacked him with a broken sword.",
+   "entities": [
+    "Saint Mihi",
+    "Cohen",
+    "Tobias"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "After Cohen defeated him, Saint Mihi revealed that Tobias had betrayed and imprisoned him centuries earlier.",
+   "entities": [
+    "Saint Mihi",
+    "Tobias",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Saint Mihi called Cohen a 'dawn walker' and claimed to be one himself.",
+   "entities": [
+    "Saint Mihi",
+    "Cohen"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Tobias was a monk who believed Mihi was a pagan sorcerer and imprisoned him underground, fabricating the church legend of St. Mihi despite the good Mihi had done.",
+   "entities": [
+    "Tobias",
+    "Saint Mihi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Saint Mihi's sword was shattered and its pieces were carried off by cobalts; Cohen would need to recover the fragments and have Yurashi blacksmiths reforge it.",
+   "entities": [
+    "Saint Mihi",
+    "Mihi's Sword",
+    "Cobalts",
+    "Cohen"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Before dying, Saint Mihi promised Cohen that beings called 'the augers' would eventually find him and explain what a dawn walker truly is.",
+   "entities": [
+    "Saint Mihi",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Father Floren, the priest who preaches at the blood masses, sent soldiers to an ancient shrine of St. Mihi, leading Cohen to investigate the cobalt caves.",
+   "entities": [
+    "Cohen",
+    "Saint Mihi"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Cohen found cave drawings made by cobalts depicting Mihi as a monstrous warrior who slaughtered many cobalts before being defeated by a lone cobalt hero who shattered his sword.",
+   "entities": [
+    "Cobalts",
+    "Saint Mihi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "The cobalts divided Mihi's shattered sword among three nests, treating each fragment as a sacred relic.",
+   "entities": [
+    "Cobalts",
+    "Mihi's Sword"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Cohen killed Brenis's soldiers who had raided the third cobalt cave and recovered the final sword fragment.",
+   "entities": [
+    "Cohen",
+    "Brenis",
+    "Mihi's Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "A Yurashi blacksmith agreed to reforge Mihi's sword for free once she learned Cohen intended to kill Brenis.",
+   "entities": [
+    "Cohen",
+    "Brenis",
+    "Mihi's Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Cohen empowered the reforged sword with nameless magical power inside an ancient ruin in the mountains, making it deadly against both humans and monsters.",
+   "entities": [
+    "Cohen",
+    "Mihi's Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 51
+  },
+  {
+   "text": "Ambress, one of Brenis's boyers, challenged Cohen to a one-on-one duel at a ruined fortress near Maragir.",
+   "entities": [
+    "Ambress",
+    "Cohen",
+    "Maragir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "In Maragir, villagers celebrated Ambress's execution of former nobility by crucifixion, and feared Cohen as the Verkier-hunting dawn walker.",
+   "entities": [
+    "Ambress",
+    "Maragir",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "Julen Codrin, a noble who swore loyalty to Ambress on the night the Verkieri seized power, secretly wanted Ambress dead.",
+   "entities": [
+    "Julen Codrin",
+    "Ambress"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 53
+  },
+  {
+   "text": "Ambress kept a private herd of humans to feed on despite Brenis officially forbidding that practice among the Verkieri.",
+   "entities": [
+    "Ambress",
+    "Brenis"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 53
+  },
+  {
+   "text": "Julen planned to have Cohen poison the person Ambress would drink from before their duel to weaken him.",
+   "entities": [
+    "Julen Codrin",
+    "Ambress",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Vera was a poison expert living alone in the marshes who was preparing a ritual to strengthen the poison meant for Ambress.",
+   "entities": [
+    "Vera",
+    "Ambress"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Cohen and Julen found Vera dead at an old pagan shrine after she went alone to find something to protect Julen from the poison.",
+   "entities": [
+    "Cohen",
+    "Julen Codrin",
+    "Vera"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Julen revealed that he himself was meant to be the poisoned victim whose blood Ambress would drink before the duel, intending for both himself and Ambress to die.",
+   "entities": [
+    "Julen Codrin",
+    "Ambress"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Ambress forced Julen to kneel and beg for the honor of having his blood drunk, humiliating him repeatedly.",
+   "entities": [
+    "Ambress",
+    "Julen Codrin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 53
+  },
+  {
+   "text": "Using Vera's notes, Cohen completed the poison ritual and forced Julen to drink the mixture, binding the poison to his blood.",
+   "entities": [
+    "Cohen",
+    "Julen Codrin",
+    "Vera"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "At the duel, Ambress drank Julen's poisoned blood after Cohen refused to drink first and insulted Ambress's manners.",
+   "entities": [
+    "Ambress",
+    "Julen Codrin",
+    "Cohen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 57
+  },
+  {
+   "text": "Weakened by the poison, Ambress was defeated by Cohen, who then drank his blood.",
+   "entities": [
+    "Ambress",
+    "Cohen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Drinking Ambress's blood pulled Cohen's consciousness into Anahora, the dimension from which the corruption creating Verkieri originated and where Verkieri souls go after death.",
+   "entities": [
+    "Cohen",
+    "Ambress",
+    "Anahora",
+    "Verkieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "In Anahora, Ambress's spirit begged Cohen to carry his soul back into the living world, since living Verkieri can host echoes of other Verkieri's essence.",
+   "entities": [
+    "Ambress",
+    "Cohen",
+    "Anahora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Anahora is ruled by a nameless entity that Verkieri fear more than humans fear Satan, and after death Verkieri souls wander cursed plains under its gaze.",
+   "entities": [
+    "Anahora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cohen suspects Anahora is the world depicted on the blasphemous banner in Lazla's church, showing a three-eyed fanged figure devouring Verkieri and their victims, and theorizes it may be the same being Leonuka bargained with.",
+   "entities": [
+    "Anahora",
+    "Leonuka"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Cohen chose to leave Ambress's soul trapped in Anahora rather than carry it back.",
+   "entities": [
+    "Cohen",
+    "Ambress",
+    "Anahora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "After killing Ambress, Cohen found a report revealing that a new female Verkier had appeared near the northeastern wall of Svartra.",
+   "entities": [
+    "Cohen",
+    "Svartra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59
+  },
+  {
+   "text": "Cohen buried Julen Codrin's body beside a mountain monastery.",
+   "entities": [
+    "Cohen",
+    "Julen Codrin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 59
+  },
+  {
+   "text": "Anka found a manuscript describing the Impluvium vite, or Font of Life, said to grant anyone who enters it strength greater than Achilles.",
+   "entities": [
+    "Anka",
+    "Font of Life"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Cohen and Anka searched for the Font of Life using clues from an old monk's diary, discovering ancient ruins in the mountains.",
+   "entities": [
+    "Cohen",
+    "Anka",
+    "Font of Life"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "To enter the Font of Life, Cohen had to pass warrior's trials without armor, marked with magical symbols painted by Anka.",
+   "entities": [
+    "Cohen",
+    "Anka",
+    "Font of Life"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "The trials included revenants, deadly traps, and a statue that flayed Cohen's arm to test his willingness to sacrifice.",
+   "entities": [
+    "Cohen",
+    "Font of Life"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Anka revealed that the Font of Life not only strengthens but restores youth, and admitted she is twenty years older than Cohen.",
+   "entities": [
+    "Anka",
+    "Cohen",
+    "Font of Life"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Anka wanted to use the Font of Life to become young again and start over, free of the darkness she let into herself through occult dealings.",
+   "entities": [
+    "Anka",
+    "Font of Life"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Cohen and Anka defeated mummified undead guardians who had failed the font's trials before them.",
+   "entities": [
+    "Cohen",
+    "Anka",
+    "Font of Life"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "There was only enough power in the Font of Life for one person, so Anka let Cohen drink from it instead of herself.",
+   "entities": [
+    "Anka",
+    "Cohen",
+    "Font of Life"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "After drinking from the font, Cohen felt all his exhaustion and pain vanish, gaining renewed strength.",
+   "entities": [
+    "Cohen",
+    "Font of Life"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Cohen and Anka became romantically involved that night after leaving the font.",
+   "entities": [
+    "Cohen",
+    "Anka"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Farcus Derrescu, a servant of the boyer Bakir, secretly wanted his master dead and approached Cohen for help.",
+   "entities": [
+    "Farcus Derrescu",
+    "Bakir",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Bakir hosted a monthly contest called the lunar tournament (or 'rat race') inside a ruined fortress, where contestants wore animal masks.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Farcus offered Cohen entry into the tournament as 'the moth' so Cohen could get close enough to Bakir to kill him.",
+   "entities": [
+    "Farcus Derrescu",
+    "Cohen",
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Farcus is the true heir to the title of Bandrescu and wanted an amethyst family ring from Bakir's treasury to prove his lineage.",
+   "entities": [
+    "Farcus Derrescu",
+    "Amethyst Ring",
+    "Bakir"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Cohen won the lunar tournament by retrieving a coin swallowed by another contestant, the porcupine, cutting it from his belly.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "As the winning contestant, Cohen was allowed into Bakir's treasury, refused to remove his mask, and asked for the amethyst ring, which Bakir claimed not to have.",
+   "entities": [
+    "Cohen",
+    "Bakir",
+    "Amethyst Ring"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Cohen fought and killed Bakir in the treasury after being denied the ring, then drank his blood and was pulled into Anahora.",
+   "entities": [
+    "Cohen",
+    "Bakir",
+    "Anahora"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "In Anahora, Bakir, a sadist and masochist, welcomed torment rather than begging to return, but Cohen carried his soul back to the physical world anyway to deny him that satisfaction.",
+   "entities": [
+    "Bakir",
+    "Cohen",
+    "Anahora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "The amethyst ring recovered was engraved with demonic runes from Anahora rather than the Drescu family crest.",
+   "entities": [
+    "Amethyst Ring",
+    "Anahora"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Farcus explained that Bakir killed most of his family but spared him and his brother Ducen, whom Bakir sexually abused and crippled after Ducen refused his advances.",
+   "entities": [
+    "Farcus Derrescu",
+    "Bakir",
+    "Ducen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Bakir promised Farcus the demonic ring could work miracles and might heal Ducen if Farcus impressed him.",
+   "entities": [
+    "Bakir",
+    "Farcus Derrescu",
+    "Ducen",
+    "Amethyst Ring"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Cohen gave Farcus the demonic ring despite warning him of its danger, out of sympathy for Ducen's suffering.",
+   "entities": [
+    "Cohen",
+    "Farcus Derrescu",
+    "Amethyst Ring"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Farcus's journal later revealed the ring's ritual to heal Ducen failed, crumbling to ash, after which Farcus went mad and mutilated his brother trying to fix him.",
+   "entities": [
+    "Farcus Derrescu",
+    "Ducen",
+    "Amethyst Ring"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Vicho is a Verkier collector of curiosities and forbidden knowledge who opposes Brenis's regime but refuses to join Cohen's war openly.",
+   "entities": [
+    "Vicho",
+    "Brenis",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Vicho refuses to drink human blood and instead whips himself before a Christian cross, praying to be freed from his curse or granted death.",
+   "entities": [
+    "Vicho"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Vicho offered Cohen a protective amulet in exchange for help investigating the deaths of his friends D'vorah and Eli.",
+   "entities": [
+    "Vicho",
+    "Cohen",
+    "D'vorah",
+    "Eli"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Vicho suspected he himself might have killed D'vorah and Eli during a blackout, as his hunger has grown harder to control with age.",
+   "entities": [
+    "Vicho",
+    "D'vorah",
+    "Eli"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 72
+  },
+  {
+   "text": "At the crime scene, Cohen found a threatening note from Dr. Simeon demanding D'vorah and Eli repay a debt by week's end.",
+   "entities": [
+    "Cohen",
+    "Dr. Simeon",
+    "D'vorah",
+    "Eli"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 72
+  },
+  {
+   "text": "Dr. Simeon researched the plague and tried to synthesize medicine from Verkier blood properties, since Verkier blood cured disease including the Black Death.",
+   "entities": [
+    "Dr. Simeon",
+    "Verkieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Dr. Simeon had removed Vicho's fangs for research, though they eventually grew back.",
+   "entities": [
+    "Dr. Simeon",
+    "Vicho"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Simeon experimented on living subjects, including himself, attempting to turn humans into Verkieri by driving a fang into the heart.",
+   "entities": [
+    "Dr. Simeon",
+    "Verkieri"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "If the transformation into a Verkier is done imprecisely, the victim becomes a Muron, a mindless bloodthirsty abomination.",
+   "entities": [
+    "Muron",
+    "Verkieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dr. Simeon's failed self-transformation turned him into a Muron, and Cohen and Vicho were forced to kill him.",
+   "entities": [
+    "Dr. Simeon",
+    "Muron",
+    "Cohen",
+    "Vicho"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "Vicho revealed that Simeon, desperate to avoid death, had once asked to be turned into a Verkier, but Vicho refused.",
+   "entities": [
+    "Vicho",
+    "Dr. Simeon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "It was actually the transformed Dr. Simeon, not Vicho, who killed D'vorah and Eli during his mutation.",
+   "entities": [
+    "Dr. Simeon",
+    "D'vorah",
+    "Eli"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73
+  },
+  {
+   "text": "Cohen later discovered that Vicho, having lost control of his hunger, slaughtered a farm family who had known his secret, after Simeon had falsely blamed Vicho beforehand.",
+   "entities": [
+    "Vicho",
+    "Cohen",
+    "Dr. Simeon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74
+  },
+  {
+   "text": "Realizing what he had done, Vicho chose to meet the sunrise and die rather than continue killing, and asked Cohen to stay with him until dawn.",
+   "entities": [
+    "Vicho",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 75
+  },
+  {
+   "text": "Sara, the manumit woman who had once betrayed Cohen into a trap, returned to tell him the manumits would vote on his membership.",
+   "entities": [
+    "Sara",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 76
+  },
+  {
+   "text": "Cohen was voted into the Manumits, a group opposing Verkieri tyranny, with only Dro voting against him.",
+   "entities": [
+    "Cohen",
+    "Manumits",
+    "Dro"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 76
+  },
+  {
+   "text": "Craig, leader of the Manumits, tasked Cohen with finding four missing manumit scouts after suspecting betrayal by a member named Lios.",
+   "entities": [
+    "Craig",
+    "Cohen",
+    "Lios",
+    "Manumits"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 77
+  },
+  {
+   "text": "Cohen found a manumit scout named Buen dying, who revealed the Verkieri were constructing an army of artificial winged creatures rather than recruiting soldiers.",
+   "entities": [
+    "Cohen",
+    "Buen",
+    "Verkieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "Buen's dying message included the code word 'Teayotim,' which referred to the ruined Church of St. Teotim in the Midens.",
+   "entities": [
+    "Buen",
+    "Church of St. Teotim"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78
+  },
+  {
+   "text": "At the Church of St. Teotim, Cohen and Sara were ambushed by a gigantic winged creature made from a mutilated human body sealed inside a clay vessel.",
+   "entities": [
+    "Cohen",
+    "Sara",
+    "Winged Gargoyle Creature",
+    "Church of St. Teotim"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Cohen defeated the gargoyle creature, discovering it was constructed from an amputated human body baked inside clay, with wings and bony scythe-like limbs attached.",
+   "entities": [
+    "Winged Gargoyle Creature",
+    "Cohen"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Sara was mortally wounded by the gargoyle, and Craig killed her himself rather than let her fall into Kinaz Brenis's hands.",
+   "entities": [
+    "Sara",
+    "Craig",
+    "Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 79
+  },
+  {
+   "text": "Craig told Cohen that if he were ever captured, Cohen should kill him too rather than let him be taken alive.",
+   "entities": [
+    "Craig",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Inside the gargoyle's mouth was a manuscript written in an unknown language marked with an unfamiliar occult symbol, which Craig planned to have a rabbi named Measer translate.",
+   "entities": [
+    "Winged Gargoyle Creature",
+    "Craig",
+    "Measer"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 80
+  }
+ ],
+ "_src": "src-5f491777"
+}

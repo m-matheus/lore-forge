@@ -1,0 +1,1239 @@
+{
+ "entities": [
+  {
+   "name": "Gnomes",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Dwarves",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vrans",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Werebbubbs",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Elves",
+   "kind": "faction",
+   "aliases": [
+    "Aen Seidhe"
+   ]
+  },
+  {
+   "name": "Conjunction of the Spheres",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Landing of the Exiles",
+   "kind": "event",
+   "aliases": [
+    "First Landing"
+   ]
+  },
+  {
+   "name": "Northern Kingdoms",
+   "kind": "faction",
+   "aliases": [
+    "Nordlings",
+    "Northern Realms"
+   ]
+  },
+  {
+   "name": "Nilfgaardian Empire",
+   "kind": "faction",
+   "aliases": [
+    "Nilfgaard",
+    "the Black Ones"
+   ]
+  },
+  {
+   "name": "Wozgor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Dauk",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Sigebert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Shaerrawedd",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Aelirenn",
+   "kind": "character",
+   "aliases": [
+    "White Rose of Shaerrawedd"
+   ]
+  },
+  {
+   "name": "Cuannah aep Finavail",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Iorveth",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Loc Muinne",
+   "kind": "location",
+   "aliases": [
+    "Loe Muinne"
+   ]
+  },
+  {
+   "name": "Emhyr var Emreis",
+   "kind": "character",
+   "aliases": [
+    "the crafty fox"
+   ]
+  },
+  {
+   "name": "Kingdom of Cintra",
+   "kind": "faction",
+   "aliases": [
+    "Cintra"
+   ]
+  },
+  {
+   "name": "Queen Calanthe",
+   "kind": "character",
+   "aliases": [
+    "Lioness of Cintra"
+   ]
+  },
+  {
+   "name": "King Eist Tuirseach",
+   "kind": "character",
+   "aliases": [
+    "Eist Tuirseach"
+   ]
+  },
+  {
+   "name": "Slaughter of Cintra",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Battle of the Marnadal Dale",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Kingdom of Sodden",
+   "kind": "location",
+   "aliases": [
+    "Sodden"
+   ]
+  },
+  {
+   "name": "Second Battle of Sodden",
+   "kind": "event",
+   "aliases": [
+    "Battle of Sodden Hill",
+    "Hill of the Fourteen"
+   ]
+  },
+  {
+   "name": "First Nilfgaard War",
+   "kind": "event",
+   "aliases": [
+    "First Northern War"
+   ]
+  },
+  {
+   "name": "Second Northern War",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Third Northern War",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Triss Merigold",
+   "kind": "character",
+   "aliases": [
+    "Fourteenth of the Hill"
+   ]
+  },
+  {
+   "name": "King Vizimir",
+   "kind": "character",
+   "aliases": [
+    "Vizimir of Redania"
+   ]
+  },
+  {
+   "name": "Battle of Brenna",
+   "kind": "event",
+   "aliases": [
+    "Brenna"
+   ]
+  },
+  {
+   "name": "John Natalis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Menno Coehoorn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "King Demavend",
+   "kind": "character",
+   "aliases": [
+    "Demavend of Aedirn"
+   ]
+  },
+  {
+   "name": "King Foltest",
+   "kind": "character",
+   "aliases": [
+    "Foltest of Temeria"
+   ]
+  },
+  {
+   "name": "Battle of Aldersberg",
+   "kind": "event",
+   "aliases": [
+    "Aldersberg"
+   ]
+  },
+  {
+   "name": "Radovid V",
+   "kind": "character",
+   "aliases": [
+    "Radovid the Stern"
+   ]
+  },
+  {
+   "name": "Jacques de Aldersberg",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Order of the Flaming Rose",
+   "kind": "faction",
+   "aliases": [
+    "Order of the White Rose"
+   ]
+  },
+  {
+   "name": "Scoia'tael",
+   "kind": "faction",
+   "aliases": [
+    "Squirrels"
+   ]
+  },
+  {
+   "name": "Lodge of Sorceresses",
+   "kind": "faction",
+   "aliases": [
+    "the Lodge"
+   ]
+  },
+  {
+   "name": "Princess Cirilla",
+   "kind": "character",
+   "aliases": [
+    "Ciri"
+   ]
+  },
+  {
+   "name": "Prince Joachim de Wett",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Duke Ardal aep Dahy",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Morvran Voorhis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Queen Meve",
+   "kind": "character",
+   "aliases": [
+    "Meve of Lyria"
+   ]
+  },
+  {
+   "name": "King Ervyll of Verden",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kingdom of Kovir and Poviss",
+   "kind": "faction",
+   "aliases": [
+    "Kovir"
+   ]
+  },
+  {
+   "name": "Skellige",
+   "kind": "location",
+   "aliases": [
+    "Skellige Islands"
+   ]
+  },
+  {
+   "name": "Dragon Mountains",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Blue Mountains",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Fiery Mountains",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Tir Tochair",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Korath Desert",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Great Sea",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mahakam",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Xin'trea",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Elskerdeg Pass",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Zerrikania",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Haakland",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Common Tongue",
+   "kind": "concept",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Human history according to the narrator is defined largely by repeated cycles of war and conquest.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ancient dwarven tales claim the gnomes were the oldest inhabitants of the region.",
+   "entities": [
+    "Gnomes"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 0
+  },
+  {
+   "text": "Some scholars believe races such as the vrans or the nearly extinct werebbubbs may also date back many thousands of years.",
+   "entities": [
+    "Vrans",
+    "Werebbubbs"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 0
+  },
+  {
+   "text": "Gnomes had small colonies in the mountain regions of Mahakam and Tir Tochair long before dwarves arrived, roughly three to four thousand years before the present.",
+   "entities": [
+    "Gnomes",
+    "Mahakam",
+    "Tir Tochair"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Dwarves arrived in these lands roughly three to four thousand years before the present.",
+   "entities": [
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The meeting between gnomes and dwarves was unusually peaceful compared to other racial encounters, and their good relations have continued to the present day.",
+   "entities": [
+    "Gnomes",
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Elves are believed to have arrived from another world through magical gates or portals, similar to how humans later arrived.",
+   "entities": [
+    "Elves"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 3
+  },
+  {
+   "text": "Elves arrived roughly two and a half thousand years before the present, landing from white ships.",
+   "entities": [
+    "Elves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "After landing, the elves began a gradual colonization of the region that lasted for about ten centuries.",
+   "entities": [
+    "Elves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Elven colonization caused some conflicts with vrans, werebbubbs, and dwarves, though these never escalated into total extermination wars.",
+   "entities": [
+    "Elves",
+    "Vrans",
+    "Werebbubbs",
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Despite past conflicts, relations between elves and dwarves have remained fairly amicable.",
+   "entities": [
+    "Elves",
+    "Dwarves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Humans are commonly believed to have arrived in the world alongside the Conjunction of the Spheres, a great magical cataclysm.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 6
+  },
+  {
+   "text": "The Conjunction of the Spheres occurred around one and a half thousand years before the present, according to human reckoning.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "The Conjunction of the Spheres is said to have given birth to magic, which then became part of this world.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 6
+  },
+  {
+   "text": "Priest Sigebert preached during the witch hunt period between 1272 and 1276, condemning the theory that humans arrived via the Conjunction of the Spheres as blasphemy invented by the elves.",
+   "entities": [
+    "Sigebert"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Proper human expansion into what is now called the Northern Kingdoms began around five hundred years before the present.",
+   "entities": [
+    "Northern Kingdoms"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "The event known as the Landing of the Exiles occurred when ships carrying men who would found the northern kingdoms made landfall at the Pontar Delta and the mouth of the Yaruga.",
+   "entities": [
+    "Landing of the Exiles"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "It is unknown where the human exiles originally came from, as legends are silent on this detail.",
+   "entities": [
+    "Landing of the Exiles"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 7
+  },
+  {
+   "text": "The Wozgor and the Dauk were ancient human cultures believed to have arrived directly after the Conjunction of the Spheres, settling lands between the Dragon Mountains and the Gulf of Praxeda.",
+   "entities": [
+    "Wozgor",
+    "Dauk"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Fragmentary information about the Wozgor and Dauk mainly comes from remains of their material culture, including menhirs and tombstones.",
+   "entities": [
+    "Wozgor",
+    "Dauk"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Some scholars believe Wozgor and Dauk beliefs survive today in the religion of Melitele and lesser cults such as Coram Agh Tera and Veyopatis.",
+   "entities": [
+    "Wozgor",
+    "Dauk"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The circumstances that led to the extinction of the Wozgor and Dauk peoples remain disputed among scholars.",
+   "entities": [
+    "Wozgor",
+    "Dauk"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "When human exiles first arrived, elves initially avoided armed conflict, hoping the humans would eventually halt their expansion eastward.",
+   "entities": [
+    "Elves",
+    "Landing of the Exiles"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Elves eventually abandoned some of their cities, which were taken over by human invaders who built structures atop the elven foundations.",
+   "entities": [
+    "Elves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "No less than two dozen cities of the Northern Kingdoms, including Oxenfurt, Novigrad, Vizima, Maribor, Tretogor, and Cidaris, were built on the sites of ancient elven settlements.",
+   "entities": [
+    "Elves",
+    "Northern Kingdoms"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "The ruins of the elven city Xin'trea are the site of present-day Cintra.",
+   "entities": [
+    "Xin'trea",
+    "Kingdom of Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Early human colonists frequently fought among themselves in addition to warring against nonhuman races.",
+   "entities": [],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Vrans were eventually pushed into the Blue Mountains by expanding human kingdoms.",
+   "entities": [
+    "Vrans",
+    "Blue Mountains"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Werebbubbs were pushed into remote regions of Mahakam and the Amell Mountains by expanding human kingdoms.",
+   "entities": [
+    "Werebbubbs",
+    "Mahakam"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "A peace treaty between humans and elves was broken by a treacherous Redanian attack that led to the slaughter at Loc Muinne, sparking the second war between men and elves.",
+   "entities": [
+    "Loc Muinne",
+    "Elves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The flower of elven youth died in the second elf-human war, a loss from which the elven race never recovered.",
+   "entities": [
+    "Elves"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "About four centuries after the Landing of the Exiles, humans had claimed all lands between the Great Sea and the Blue Mountains, and between the Dragon Mountains and the Amell Mountains, forming the Northern Kingdoms.",
+   "entities": [
+    "Northern Kingdoms"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "At Shaerrawedd, roughly two hundred years before the present, the elven leader Aelirenn led a doomed last stand against human forces after most elven leaders had chosen to abandon and destroy their cities instead.",
+   "entities": [
+    "Aelirenn",
+    "Shaerrawedd"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Aelirenn's followers fought and died at Shaerrawedd with no real hope of victory, choosing to die for their symbol and homeland rather than flee.",
+   "entities": [
+    "Aelirenn",
+    "Shaerrawedd"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "The account of Aelirenn's last stand was recorded by Cuannah aep Finavail, a comrade of Iorveth and member of the Scoia'tael.",
+   "entities": [
+    "Cuannah aep Finavail",
+    "Iorveth",
+    "Scoia'tael",
+    "Aelirenn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "The southern kingdoms developed independently of the northern ones, and it is unclear if their founders shared ancestry with the northern exiles.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 9
+  },
+  {
+   "text": "The Nilfgaardian Empire's writings and records from conquered southern territories were largely deposited at the Imperial Academy.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nilfgaard was originally a small kingdom that grew into an empire by conquering neighboring lands, later adopting the Great Sun as its emblem.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "The Nilfgaardian language is based on the Elder Speech, differing completely from the Common Tongue used by the Northern Kingdoms.",
+   "entities": [
+    "Nilfgaardian Empire",
+    "Common Tongue"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Common Tongue is the language of the Nordling peoples (excluding Skellige) and likely formed from an amalgamation of ancestral languages mixed with local tribal phrases after the first settlement at the mouth of the Yaruga.",
+   "entities": [
+    "Common Tongue",
+    "Northern Kingdoms"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Over several centuries, Nilfgaard's power expanded until it reached the foothills of the Amell Mountains, bordering the Northern Kingdoms, a few decades before the present.",
+   "entities": [
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Emperor Emhyr var Emreis ordered the invasion of the Northern Kingdoms despite the logistical difficulties of crossing the Amell Mountains and the Yaruga River.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Nilfgaard's first victim in the Northern Wars was the Kingdom of Cintra, whose army was crushed at the Marnadal Stairs a little over a dozen years before the present.",
+   "entities": [
+    "Kingdom of Cintra",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "During the Battle of the Marnadal Dale, King Eist Tuirseach was killed, and Queen Calanthe took command, breaking through the Nilfgaardian encirclement to reach Cintra despite grievous wounds.",
+   "entities": [
+    "Battle of the Marnadal Dale",
+    "King Eist Tuirseach",
+    "Queen Calanthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Cintra's capital fell in an event called the Slaughter of Cintra; the royal castle's remaining defenders chose death over capture.",
+   "entities": [
+    "Slaughter of Cintra",
+    "Kingdom of Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Queen Calanthe, the Lioness of Cintra, took her own life by leaping from the castle battlements rather than be captured after the fall of Cintra.",
+   "entities": [
+    "Queen Calanthe",
+    "Slaughter of Cintra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "After conquering Cintra, Nilfgaard invaded the Kingdom of Sodden, taking Upper Sodden before crossing the Yaruga to attack Northern Sodden.",
+   "entities": [
+    "Kingdom of Sodden",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "At the Second Battle of Sodden, a coalition of Redania, Temeria, Aedirn, and Kaedwen under King Vizimir of Redania, aided by Northern sorcerers, halted the Nilfgaardian advance and pushed it back across the Yaruga.",
+   "entities": [
+    "Second Battle of Sodden",
+    "King Vizimir",
+    "Northern Kingdoms",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "During the Second Battle of Sodden, twenty-two sorcerers made a stand on Kite Hill; thirteen died, and the location was renamed the Hill of Sorcerers or the Hill of the Fourteen.",
+   "entities": [
+    "Second Battle of Sodden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Sorceress Triss Merigold was believed dead after the Second Battle of Sodden but actually survived her wounds, later becoming known as the Fourteenth of the Hill.",
+   "entities": [
+    "Triss Merigold",
+    "Second Battle of Sodden"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The First Nilfgaard War ended in a stalemate after the Second Battle of Sodden, with both sides watching each other across the Yaruga.",
+   "entities": [
+    "First Nilfgaard War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The Scoia'tael, elven and nonhuman freedom fighters also called Squirrels, emerged after the First Nilfgaard War, taking advantage of the absence of Northern soldiers who had marched south.",
+   "entities": [
+    "Scoia'tael"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "The Scoia'tael are composed mostly of elves, but also include dwarves and halflings, and are known for ambushing settlers, merchants, and soldiers.",
+   "entities": [
+    "Scoia'tael"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Notable Scoia'tael leaders include Faoiltiarna, Iorveth, and Yaevinn.",
+   "entities": [
+    "Scoia'tael",
+    "Iorveth"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the peace following the First Nilfgaard War, the Northern coalition planned a surprise attack to retake Upper Sodden and Cintra, but Emperor Emhyr var Emreis struck first.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Emhyr var Emreis had Nilfgaardian commanders responsible for the previous defeat executed and replaced with young, ambitious officers loyal to the new 'blitz' style of war.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "King Vizimir of Redania, leader of the Northern coalition, was assassinated, plunging his realm into chaos before the Second Northern War.",
+   "entities": [
+    "King Vizimir",
+    "Second Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "At the start of the Second Northern War, Scoia'tael units, swayed by promises of elven freedom from Emhyr, attacked the Nordling rear while Nilfgaardian armies crossed the upper Yaruga.",
+   "entities": [
+    "Scoia'tael",
+    "Emhyr var Emreis",
+    "Second Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "During the Second Northern War, Nilfgaardian forces quickly crushed the armies of Lyria and Aedirn, while Kaedwen betrayed its allies and switched sides, sealing Aedirn's fate.",
+   "entities": [
+    "Second Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "King Foltest of Temeria was forced to sign a separate truce with Nilfgaard after King Ervyll of Verden also betrayed the coalition and paid homage to Emhyr.",
+   "entities": [
+    "King Foltest",
+    "Nilfgaardian Empire"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Sixteen days after Temeria's truce with Nilfgaard, Nilfgaardian forces, aided by Verden volunteers and Scoia'tael units, attacked Temeria, Brugge, and Lower Sodden anyway.",
+   "entities": [
+    "Nilfgaardian Empire",
+    "Scoia'tael"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Nilfgaardian offensive against Temeria was halted by the arrival of winter, and its renewal in spring went poorly for the empire due to internal sabotage by opponents of Emhyr.",
+   "entities": [
+    "Nilfgaardian Empire",
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Queen Meve of Lyria organized resistance forces to harass occupying Nilfgaardian troops, while Verden faced its own anti-imperial uprising.",
+   "entities": [
+    "Queen Meve"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Skellige islanders launched pirate raids on Nilfgaardian coastal provinces and blockaded marine supply lines alongside the fleet of Ethain of Cidaris.",
+   "entities": [
+    "Skellige"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "After the death of King Eist Tuirseach, the Skellige islanders became some of Nilfgaard's most determined enemies, using their longships to disrupt imperial sea routes.",
+   "entities": [
+    "Skellige",
+    "King Eist Tuirseach"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Kingdom of Kovir and Poviss officially stayed neutral during the Second Northern War but reportedly gave financial aid to the Northern coalition, and Koviri mercenaries of the Free Company fought on the Northern side.",
+   "entities": [
+    "Kingdom of Kovir and Poviss"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The decisive Battle of Brenna saw combined Redanian-Temerian forces, commanded by John Natalis and aided by dwarven volunteers from Mahakam, defeat Nilfgaardian field marshal Menno Coehoorn's army.",
+   "entities": [
+    "Battle of Brenna",
+    "John Natalis",
+    "Menno Coehoorn",
+    "Mahakam"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Following the Battle of Brenna, the feuding kingdoms of Aedirn and Kaedwen united to defeat Nilfgaardian forces at Aldersberg, ending the Second Northern War.",
+   "entities": [
+    "Battle of Aldersberg",
+    "Second Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "After the Second Northern War, Redania crowned young King Radovid V, who earned the nickname 'the Stern.'",
+   "entities": [
+    "Radovid V"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "After the Second Northern War, King Foltest of Temeria dealt with Scoia'tael uprisings, the power-grabbing Order of the Flaming Rose led by Jacques de Aldersberg, and rebellious nobles.",
+   "entities": [
+    "King Foltest",
+    "Order of the Flaming Rose",
+    "Jacques de Aldersberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Prince Joachim de Wett deliberately underperformed as a Temerian commander due to his involvement in a Nilfgaardian conspiracy against Emperor Emhyr var Emreis.",
+   "entities": [
+    "Prince Joachim de Wett",
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "A group of Nilfgaardian magnates conspired to remove Emperor Emhyr var Emreis and install the underage Morvran Voorhis on the throne under a regency council, motivated by Emhyr's refusal to marry their daughters.",
+   "entities": [
+    "Morvran Voorhis",
+    "Emhyr var Emreis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Emperor Emhyr var Emreis sought to consolidate control over conquered territories by finding Princess Cirilla, the missing heir to the throne of Cintra and granddaughter of Queen Calanthe.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Princess Cirilla",
+    "Queen Calanthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Suspecting a conspiracy against him, Emhyr var Emreis reassigned Prince Joachim de Wett and Duke Ardal aep Dahy to distant command positions in the ongoing Northern War.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Prince Joachim de Wett",
+    "Duke Ardal aep Dahy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "King Demavend of Aedirn was assassinated, plunging his realm into civil war among burghers, knights, and peasants.",
+   "entities": [
+    "King Demavend"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "King Foltest of Temeria was killed on the eve of his victory over the rebellious House La Valette nobles, leaving Temeria's succession unresolved.",
+   "entities": [
+    "King Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Emperor Emhyr var Emreis manipulated the Lodge of Sorceresses by having his agents pose as their operatives to carry out the assassinations of Demavend and Foltest.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Lodge of Sorceresses",
+    "King Demavend",
+    "King Foltest"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "At the summit of kings at Loc Muinne, Emperor Emhyr var Emreis revealed the Lodge of Sorceresses' alleged role in the assassinations, using it as a scapegoat and preventing further cooperation between sorcerers and kings.",
+   "entities": [
+    "Emhyr var Emreis",
+    "Loc Muinne",
+    "Lodge of Sorceresses"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The revelations at Loc Muinne allowed Nilfgaardian armies to again cross the Yaruga, beginning the Third Northern War.",
+   "entities": [
+    "Loc Muinne",
+    "Third Northern War"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "The Order of the Flaming Rose originated as the secular Order of the White Rose in Temeria, which became focused on land grants and wealth rather than its founding ideals.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Grand Master Rudolf Valaris died, Jacques de Aldersberg took over and renamed the order the Order of the Flaming Rose, adopting the tenets of the Eternal Fire faith.",
+   "entities": [
+    "Order of the Flaming Rose",
+    "Jacques de Aldersberg"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After events in Vizima, the Order of the Flaming Rose relocated to Redania and, under King Radovid's protection, became an armed force serving the crown.",
+   "entities": [
+    "Order of the Flaming Rose",
+    "Radovid V"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A few years after the Northern Wars, Temeria was riven by internal conflict between oppressed nonhumans and the Order of the Flaming Rose.",
+   "entities": [
+    "Order of the Flaming Rose"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The Great Sea forms the western boundary of the known world, and human sailing technology is not yet advanced enough to cross it.",
+   "entities": [
+    "Great Sea"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dragon Mountains form the northern border of human lands, remaining unexplored due to remoteness and a native dragon population.",
+   "entities": [
+    "Dragon Mountains"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The eastern border of the known world is formed by three mountain ranges: the Blue Mountains, the Fiery Mountains, and the Tir Tochair Massif, along with the Korath Desert.",
+   "entities": [
+    "Blue Mountains",
+    "Fiery Mountains",
+    "Tir Tochair",
+    "Korath Desert"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Blue Mountains contain the source of the Pontar River and the ruins of the elven cities Loc Muinne and Est Haemlet, and are home to the Free Elves who never submitted to human rule.",
+   "entities": [
+    "Blue Mountains",
+    "Loc Muinne"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fiery Mountains are the source of the Yaruga River and separate the 'civilized' human lands from the 'barbaric' lands of the East, including Zerrikania and Haakland beyond Elskerdeg Pass.",
+   "entities": [
+    "Fiery Mountains",
+    "Zerrikania",
+    "Haakland",
+    "Elskerdeg Pass"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A diary found near the plundered caravan at Elskerdeg Pass describes dangerous lands beyond the Fiery Mountains inhabited by beasts, wraiths, and hostile tribes, including evidence of cannibalism.",
+   "entities": [
+    "Elskerdeg Pass"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

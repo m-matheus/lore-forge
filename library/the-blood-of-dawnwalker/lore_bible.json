@@ -1,0 +1,7455 @@
+{
+ "game": "The Blood of Dawnwalker",
+ "updated_at": "2026-09-25T11:45:51",
+ "sources": {
+  "src-5f491777": {
+   "kind": "reference_video",
+   "title": "The Blood of Dawnwalker – The ENTIRE Story & Lore",
+   "origin": "https://www.youtube.com/watch?v=uCPsvLg5DZQ",
+   "sha": "5f491777389f05c2"
+  }
+ },
+ "entities": [
+  {
+   "id": "n0001",
+   "name": "Ambress",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0002",
+   "name": "Brenis",
+   "kind": "character",
+   "aliases": [
+    "Brenesus",
+    "Brenus",
+    "Keenaz",
+    "Kenaz Brenis",
+    "Kenyaz Brenis",
+    "Kinaz Brenis",
+    "Kinyaz Brenis"
+   ]
+  },
+  {
+   "id": "n0003",
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": [
+    "Dawn Walker",
+    "Dawnwalker",
+    "the Dawn Walker"
+   ]
+  },
+  {
+   "id": "n0004",
+   "name": "Craig",
+   "kind": "character",
+   "aliases": [
+    "Marat"
+   ]
+  },
+  {
+   "id": "n0005",
+   "name": "Manommits",
+   "kind": "faction",
+   "aliases": [
+    "Manits",
+    "Manumits",
+    "Manummits",
+    "manummits",
+    "the mans",
+    "the manums"
+   ]
+  },
+  {
+   "id": "n0006",
+   "name": "Saint Mihi",
+   "kind": "character",
+   "aliases": [
+    "Mihi"
+   ]
+  },
+  {
+   "id": "n0007",
+   "name": "Veil Sangora",
+   "kind": "location",
+   "aliases": [
+    "Sangora",
+    "Vale Sangora"
+   ]
+  },
+  {
+   "id": "n0008",
+   "name": "Anahora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0009",
+   "name": "Anka",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0010",
+   "name": "Bakir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0011",
+   "name": "Cobalts",
+   "kind": "enemy",
+   "aliases": [
+    "Cobalt brood",
+    "cobalt colony"
+   ]
+  },
+  {
+   "id": "n0012",
+   "name": "Esme",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0013",
+   "name": "Luca",
+   "kind": "character",
+   "aliases": [
+    "La",
+    "Lca",
+    "Lukа",
+    "Lunka"
+   ]
+  },
+  {
+   "id": "n0014",
+   "name": "Pieta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0015",
+   "name": "Sarah",
+   "kind": "character",
+   "aliases": [
+    "Sara"
+   ]
+  },
+  {
+   "id": "n0016",
+   "name": "Svatra",
+   "kind": "location",
+   "aliases": [
+    "Svartra",
+    "Zvart",
+    "Zvatra"
+   ]
+  },
+  {
+   "id": "n0017",
+   "name": "Vrakieri",
+   "kind": "faction",
+   "aliases": [
+    "Verkieri",
+    "Viri",
+    "Vrair",
+    "Vraker",
+    "Vrakeri",
+    "Vrakier"
+   ]
+  },
+  {
+   "id": "n0018",
+   "name": "Zanthy",
+   "kind": "character",
+   "aliases": [
+    "Baroness Zanthy"
+   ]
+  },
+  {
+   "id": "n0019",
+   "name": "Agasti",
+   "kind": "location",
+   "aliases": [
+    "Augusti"
+   ]
+  },
+  {
+   "id": "n0020",
+   "name": "Catalin",
+   "kind": "character",
+   "aliases": [
+    "Katalin",
+    "Ketalin"
+   ]
+  },
+  {
+   "id": "n0021",
+   "name": "Dro",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0022",
+   "name": "Kalas",
+   "kind": "character",
+   "aliases": [
+    "Calas",
+    "Kalus"
+   ]
+  },
+  {
+   "id": "n0023",
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": [
+    "LRA",
+    "Lakra",
+    "Lra"
+   ]
+  },
+  {
+   "id": "n0024",
+   "name": "Lazla",
+   "kind": "location",
+   "aliases": [
+    "Lasa",
+    "Lasa village",
+    "Laza"
+   ]
+  },
+  {
+   "id": "n0025",
+   "name": "Leonica",
+   "kind": "character",
+   "aliases": [
+    "Leonuka"
+   ]
+  },
+  {
+   "id": "n0026",
+   "name": "Measer",
+   "kind": "character",
+   "aliases": [
+    "Maser",
+    "Mevasa"
+   ]
+  },
+  {
+   "id": "n0027",
+   "name": "Muron",
+   "kind": "enemy",
+   "aliases": [
+    "Moroni"
+   ]
+  },
+  {
+   "id": "n0028",
+   "name": "Sancti Mihi Histori Vera",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0029",
+   "name": "Shrikes Crag",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0030",
+   "name": "St. Tina's Convent",
+   "kind": "location",
+   "aliases": [
+    "Saint Tina's Convent"
+   ]
+  },
+  {
+   "id": "n0031",
+   "name": "Uryashi",
+   "kind": "faction",
+   "aliases": [
+    "Urash",
+    "Urashi",
+    "Yurash",
+    "Yurashi",
+    "goatfaces"
+   ]
+  },
+  {
+   "id": "n0032",
+   "name": "Wisps",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0033",
+   "name": "Albertus",
+   "kind": "character",
+   "aliases": [
+    "Alberta"
+   ]
+  },
+  {
+   "id": "n0034",
+   "name": "Alen",
+   "kind": "character",
+   "aliases": [
+    "Alene"
+   ]
+  },
+  {
+   "id": "n0035",
+   "name": "Amethyst Ring",
+   "kind": "item",
+   "aliases": [
+    "Drescu family ring"
+   ]
+  },
+  {
+   "id": "n0036",
+   "name": "Atanis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0037",
+   "name": "Aurelius",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0038",
+   "name": "Baker",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0039",
+   "name": "Bernice",
+   "kind": "character",
+   "aliases": [
+    "Mother Superior Bernice"
+   ]
+  },
+  {
+   "id": "n0040",
+   "name": "Buen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0041",
+   "name": "Cassell",
+   "kind": "location",
+   "aliases": [
+    "Castile"
+   ]
+  },
+  {
+   "id": "n0042",
+   "name": "Chonk",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0043",
+   "name": "Church of St. Teotim",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0044",
+   "name": "Costl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0045",
+   "name": "Council of Augers",
+   "kind": "faction",
+   "aliases": [
+    "the augers",
+    "the orars"
+   ]
+  },
+  {
+   "id": "n0046",
+   "name": "D'vorah",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0047",
+   "name": "Dr. Simeon",
+   "kind": "character",
+   "aliases": [
+    "Simeon"
+   ]
+  },
+  {
+   "id": "n0048",
+   "name": "Ducen",
+   "kind": "character",
+   "aliases": [
+    "Duen"
+   ]
+  },
+  {
+   "id": "n0049",
+   "name": "Eli",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0050",
+   "name": "Farcus Derrescu",
+   "kind": "character",
+   "aliases": [
+    "Farcus the Fox"
+   ]
+  },
+  {
+   "id": "n0051",
+   "name": "Father Floren",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0052",
+   "name": "Font of Life",
+   "kind": "location",
+   "aliases": [
+    "Impluvium vite"
+   ]
+  },
+  {
+   "id": "n0053",
+   "name": "Gargoyles",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0054",
+   "name": "Gavl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0055",
+   "name": "Golem",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0056",
+   "name": "Gremla",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0057",
+   "name": "Griefberg",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0058",
+   "name": "Helvia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0059",
+   "name": "Heraclea",
+   "kind": "character",
+   "aliases": [
+    "Haraciclea"
+   ]
+  },
+  {
+   "id": "n0060",
+   "name": "Hila",
+   "kind": "character",
+   "aliases": [
+    "Haley",
+    "Healey"
+   ]
+  },
+  {
+   "id": "n0061",
+   "name": "Isbrand",
+   "kind": "character",
+   "aliases": [
+    "Ebrand"
+   ]
+  },
+  {
+   "id": "n0062",
+   "name": "Jana",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0063",
+   "name": "Julen Codrin",
+   "kind": "character",
+   "aliases": [
+    "Julen"
+   ]
+  },
+  {
+   "id": "n0064",
+   "name": "Kenaz Scander",
+   "kind": "character",
+   "aliases": [
+    "Kinaz Scander"
+   ]
+  },
+  {
+   "id": "n0065",
+   "name": "Kinyaz Scender Dragosti",
+   "kind": "character",
+   "aliases": [
+    "Kenya Scender",
+    "Kenyaz Scander"
+   ]
+  },
+  {
+   "id": "n0066",
+   "name": "Lazar",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0067",
+   "name": "Lios",
+   "kind": "character",
+   "aliases": [
+    "Laos"
+   ]
+  },
+  {
+   "id": "n0068",
+   "name": "Mandre",
+   "kind": "item",
+   "aliases": [
+    "Flower of Anahora"
+   ]
+  },
+  {
+   "id": "n0069",
+   "name": "Maragir",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0070",
+   "name": "Marrair Monastery",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0071",
+   "name": "Mert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0072",
+   "name": "Mihi's Sword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "id": "n0073",
+   "name": "Nebaru",
+   "kind": "character",
+   "aliases": [
+    "Nearu"
+   ]
+  },
+  {
+   "id": "n0074",
+   "name": "Nish",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0075",
+   "name": "Premil",
+   "kind": "character",
+   "aliases": [
+    "Premisel",
+    "Premzel"
+   ]
+  },
+  {
+   "id": "n0076",
+   "name": "Rena",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0077",
+   "name": "Sanjani",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0078",
+   "name": "Scander",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0079",
+   "name": "Silas",
+   "kind": "character",
+   "aliases": [
+    "Silus"
+   ]
+  },
+  {
+   "id": "n0080",
+   "name": "St. Teotim's church",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0081",
+   "name": "St. Tobias's cemetery",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0082",
+   "name": "Stonewood Post",
+   "kind": "location",
+   "aliases": [
+    "Stoneward Post"
+   ]
+  },
+  {
+   "id": "n0083",
+   "name": "Svetana",
+   "kind": "character",
+   "aliases": [
+    "Vetlana"
+   ]
+  },
+  {
+   "id": "n0084",
+   "name": "The Midens",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0085",
+   "name": "Tobias",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0086",
+   "name": "Tonis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0087",
+   "name": "Tsarina",
+   "kind": "character",
+   "aliases": [
+    "Sarina",
+    "Zarena",
+    "Zarina"
+   ]
+  },
+  {
+   "id": "n0088",
+   "name": "Vassel",
+   "kind": "character",
+   "aliases": [
+    "Veil"
+   ]
+  },
+  {
+   "id": "n0089",
+   "name": "Vera",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0090",
+   "name": "Vicho",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0091",
+   "name": "Vladimir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0092",
+   "name": "Vulk",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0093",
+   "name": "Winged Gargoyle Creature",
+   "kind": "enemy",
+   "aliases": [
+    "the gargoyle"
+   ]
+  },
+  {
+   "id": "n0094",
+   "name": "Wrongs",
+   "kind": "enemy",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "id": "f0001",
+   "text": "In return for blood, the Vrakieri share drops of their cursed blood with commoners, curing plague and granting immunity to disease.",
+   "entity_ids": [
+    "n0007",
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0002",
+   "text": "Under Brenis's rule, the only passage into Veil Sangora was sealed, preventing anyone from entering or leaving.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0003",
+   "text": "Most soldiers of Veil Sangora swore allegiance to Brenis and were forbidden from killing the human population, who were treated as valuable livestock.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0004",
+   "text": "Brenis banned all silver in Veil Sangora, punishable by death, because it can harm the Vrakieri.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0005",
+   "text": "The story begins in the year 1347, during the Black Death pandemic sweeping across Europe.",
+   "entity_ids": [
+    "n0007"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0006",
+   "text": "Cohen and Lacra learned that something beneath Svatra leaks Anahora's dark power into the world, and Brenis intends to seize control of it through a ritual completed at his coronation.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0016"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0007",
+   "text": "Drinking Ambress's blood pulled Cohen's consciousness into Anahora, the dimension from which the corruption creating Verkieri originated and where Verkieri souls go after death.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0008",
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0008",
+   "text": "Interrupting the ritual causes the barrier between Anahora and reality to partially collapse around Griefberg instead of closing cleanly, turning the castle into a supernatural disaster zone.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0057"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0009",
+   "text": "After the ritual's disruption, corpses rise, spectral entities appear, parts of the castle are torn upward, and living prisoners appear possessed by forces from Anahora.",
+   "entity_ids": [
+    "n0008",
+    "n0057"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0010",
+   "text": "A Vrakieri is created when another Vrakieri pierces a human's heart with one of their fangs.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0011",
+   "text": "Vrakieri do not age and heal from wounds almost instantly.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0012",
+   "text": "Vrakieri are not harmed by crucifixes or garlic, but silver and sunlight pose a genuine threat to them.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0013",
+   "text": "Vrakieri need human blood to survive.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0014",
+   "text": "Anahora is ruled by a nameless entity that Verkieri fear more than humans fear Satan, and after death Verkieri souls wander cursed plains under its gaze.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0015",
+   "text": "If the transformation into a Verkier is done imprecisely, the victim becomes a Muron, a mindless bloodthirsty abomination.",
+   "entity_ids": [
+    "n0017",
+    "n0027"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0016",
+   "text": "The Sanjani refused to discuss the entity that initiates the transformation into Verkieri, saying they feared it more than any earthly creature, and that it rules over Anahora.",
+   "entity_ids": [
+    "n0008",
+    "n0017",
+    "n0077"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0017",
+   "text": "Lacra explained that the force which turns humans into Verkieri and Moroni is a form of corruption, not ordinary magic, and it can also affect animals and plants.",
+   "entity_ids": [
+    "n0017",
+    "n0023"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0018",
+   "text": "A Vraker's body normally crumbles to dust after death, making Kalas's preserved fused form unusual.",
+   "entity_ids": [
+    "n0022"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0019",
+   "text": "Lakra explains that a Mandre can grow when a powerful Vraker's remains, such as ashes or teeth, stay in one place for centuries.",
+   "entity_ids": [
+    "n0068"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0020",
+   "text": "Inside the cave, Cohen found an ancient tomb of a great warrior woman who fought the Vrakieri long ago and chose to burn herself rather than be turned into one.",
+   "entity_ids": [
+    "n0003",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0021",
+   "text": "Vulk and Pieta had been mercenaries together, fighting in Ireland, Constantinople, and for the King of France.",
+   "entity_ids": [
+    "n0014",
+    "n0092"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0022",
+   "text": "Pieta retired from mercenary life about 20 years earlier after the Battle of Cassell.",
+   "entity_ids": [
+    "n0014",
+    "n0041"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0023",
+   "text": "Vulk was captured and tortured five years before the story, losing his eyes, before eventually finding Pieta in Veil Sangora.",
+   "entity_ids": [
+    "n0007",
+    "n0014",
+    "n0092"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0024",
+   "text": "A monk at Marrair Monastery revealed that Pieta had donated all his gold to build a scriptorium, seeking atonement for burning the city of Cassell and its people.",
+   "entity_ids": [
+    "n0014",
+    "n0041",
+    "n0070"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0025",
+   "text": "As a novice at St. Tina's Convent, Anka discovered a hidden forbidden library and shared the secret with her friend Leonica, whose reading of the books led her to bargain with a dark power to try to save the convent from the plague.",
+   "entity_ids": [
+    "n0009",
+    "n0025",
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0026",
+   "text": "Leonica betrayed Anka by reporting her interest in magic to Mother Superior Bernice, resulting in Anka's expulsion from the convent.",
+   "entity_ids": [
+    "n0009",
+    "n0025",
+    "n0030",
+    "n0039"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0027",
+   "text": "Pilgrims at St. Tina's Convent tore apart the corpse of Saint Tina hoping her relics would cure the plague, but it failed.",
+   "entity_ids": [
+    "n0006",
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0028",
+   "text": "Some nuns sacrificed themselves to hide fragments of Saint Tina's relics; those killed by pilgrims rather than plague did not rise as undead.",
+   "entity_ids": [
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0029",
+   "text": "Leonica explained she had prayed for God to save the convent from plague, received no answer, then turned to forbidden manuscripts and made a bargain with an entity with burning eyes and tentacles.",
+   "entity_ids": [
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0030",
+   "text": "Leonica's bargain resulted in the infected nuns being cursed to rot alive without dying, their souls trapped in decaying bodies.",
+   "entity_ids": [
+    "n0025",
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0031",
+   "text": "Kinyaz Scender Dragosti (also known as Scander) ruled Veil Sangora, having taken the throne in 1324 after his father died in a hunting accident; his son Catalin later fled when the Verkieri under Brenis seized power.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0020",
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0032",
+   "text": "Within Isbrand's memories, Cohen and Lacra witnessed that Brenis was once a Roman legion commander whose army was defeated in battle, after which he and survivors fled into a place haunted by otherworldly shadows.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0033",
+   "text": "Isbrand confronted the sole-surviving Brenis and offered him a choice: kneel and become a Verkieri, or die; Brenis chose to become a Verkieri.",
+   "entity_ids": [
+    "n0002",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0034",
+   "text": "After nine years of oppression, the people of Veil Sangora rose against Kinyaz Scender Dragosti.",
+   "entity_ids": [
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0035",
+   "text": "After his transformation, Brenis returned to his estate, and Isbrand made him kill the guards who refused entry and confront his wife Helvia.",
+   "entity_ids": [
+    "n0002",
+    "n0058",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0036",
+   "text": "Brenis's wife Helvia did not recognize him as her husband and burned herself alive rather than go with him, as Isbrand forced Brenis to watch, severing his ties to his former life.",
+   "entity_ids": [
+    "n0002",
+    "n0058",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0037",
+   "text": "Kinyaz Scender Dragosti crushed the uprising at Shrikes Crag, massacring the peasants and leaving no survivors.",
+   "entity_ids": [
+    "n0029",
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0038",
+   "text": "On a full moon night in 1347, a peasant named Cohen fled with his dying sister Luca from soldiers of Kinyaz Scender Dragosti who were ordered to kill anyone showing signs of plague infection.",
+   "entity_ids": [
+    "n0003",
+    "n0013",
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0039",
+   "text": "Cohen and Luca were cornered by soldiers among the ruins of an old church.",
+   "entity_ids": [
+    "n0003",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0040",
+   "text": "Four vampires called Vrakieri, led by Brenis, ambushed and killed Kinyaz Scender Dragosti's soldiers at the church.",
+   "entity_ids": [
+    "n0002",
+    "n0017",
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0041",
+   "text": "Cohen begged Brenis to save his dying sister Luca, and Brenis healed her plague symptoms by giving her some of his tainted blood.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0042",
+   "text": "The Vrakieri drained Kinyaz Scender Dragosti of all his blood as he begged for mercy, killing him.",
+   "entity_ids": [
+    "n0002",
+    "n0065"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0043",
+   "text": "That same night, Brenis and his three boyers, Ambress, Bakir, and Zanthy, seized control of Veil Sangora.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0007",
+    "n0010",
+    "n0018"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0044",
+   "text": "Brenis and his boyers slaughtered most of the local nobility, turning some into blood donors and others into court jesters.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0010",
+    "n0018"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0045",
+   "text": "Brenis abolished all taxes except the blood tithe owed to the Vrakieri rulers.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0046",
+   "text": "After the Vrakieri takeover, Brenis invited the Uryashi into his service, and many left their mountain villages to serve him.",
+   "entity_ids": [
+    "n0002",
+    "n0031"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0047",
+   "text": "By 1349, two years after the Vrakieri takeover, the mining village of Lazla still had to pay the blood tithe.",
+   "entity_ids": [
+    "n0002",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0048",
+   "text": "Esme became too weak to attend the blood mass, putting her at risk of being deemed worthless and killed by the Vrakieri.",
+   "entity_ids": [
+    "n0012",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0049",
+   "text": "Cohen's father Pieta sent him to the village herbalist Anka for a tonic to help Esme.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0012",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0050",
+   "text": "While fishing with his siblings Jana, Lunka, and Meto, Cohen was confronted by one of Brenis's soldiers asking about Pieta.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0013",
+    "n0014",
+    "n0062"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0051",
+   "text": "An Uryashi commander intervened to stop the soldier from threatening Cohen's sister Jana.",
+   "entity_ids": [
+    "n0003",
+    "n0031",
+    "n0062"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0052",
+   "text": "Cohen found his father Pieta arguing with neighbor Vladimir about time running out for a secret plan.",
+   "entity_ids": [
+    "n0003",
+    "n0014",
+    "n0091"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0053",
+   "text": "Vladimir asked Pieta to lead the men of Lazla to an abandoned silver mine to extract silver, which harms the Vrakieri.",
+   "entity_ids": [
+    "n0014",
+    "n0017",
+    "n0024",
+    "n0091"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0054",
+   "text": "Cohen discovered that Lazar had been killed inside a cave after fleeing a wolf attack, and someone had murdered him there deliberately.",
+   "entity_ids": [
+    "n0003",
+    "n0066"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0055",
+   "text": "Vladimir told Cohen the resistance planned to attack the silver mine while Brenis was away, with approval from resistance leader Craig.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0091"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0056",
+   "text": "Brenis singled out the weakened Esme at the blood mass, calling her a sickly sheep to be culled, prompting Cohen to publicly call him a monster.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0012"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0057",
+   "text": "Pieta decided to lead the miners in a defense of the silver mine after realizing Esme's death was otherwise inevitable.",
+   "entity_ids": [
+    "n0003",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0058",
+   "text": "Brenis's soldiers attacked the silver mine, having learned of the rebels' plan in advance.",
+   "entity_ids": [
+    "n0002",
+    "n0014",
+    "n0091"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0059",
+   "text": "During the mine battle, black mist and blood-red moths burst in and knocked Cohen unconscious.",
+   "entity_ids": [
+    "n0003",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0060",
+   "text": "Cohen, sensing blood from wounded miner Costl, lost control and bit him, feeding on his blood.",
+   "entity_ids": [
+    "n0003",
+    "n0044"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0061",
+   "text": "While feeding, Cohen recalled that Brenis had torn out one of his own fangs and pierced Cohen's heart with it, turning him into a Vrakieri.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0062",
+   "text": "Pieta had begged Brenis to spare Cohen's life, and Brenis granted the request by turning Cohen instead of killing him.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0063",
+   "text": "Costl attacked the newly turned Cohen with a dagger, causing both to fall into a mineshaft.",
+   "entity_ids": [
+    "n0003",
+    "n0044"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0064",
+   "text": "Tobias was a monk who believed Mihi was a pagan sorcerer and imprisoned him underground, fabricating the church legend of St. Mihi despite the good Mihi had done.",
+   "entity_ids": [
+    "n0006",
+    "n0085"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0065",
+   "text": "Cohen emerged from the caves to find his village Lazla burned and its people killed or taken by Brenis's forces.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0066",
+   "text": "Brenis forced Pieta to watch the destruction of Lazla, blaming him for the villagers' resistance to the blood tithe.",
+   "entity_ids": [
+    "n0002",
+    "n0014",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0067",
+   "text": "Brenis cut Pieta to tempt Cohen's bloodlust, but Cohen restrained himself and refused to kill his father.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0068",
+   "text": "Brenis defeated Cohen in battle and bit him, but Cohen's blood burned and weakened Brenis from within.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0069",
+   "text": "Brenis pinned Cohen to a tree with a pickaxe and left him to die at dawn, unable to understand why Cohen's blood harmed him.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0070",
+   "text": "The book Sancti Mihi Histori Vera reveals that Saint Mihi, believed by the valley's people to have fought dragons, actually fought the Verkieri.",
+   "entity_ids": [
+    "n0006",
+    "n0017",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0071",
+   "text": "According to the manuscript, Saint Mihi was a pagan who struck down a Verkier with a magically strengthened sword that cut through evil.",
+   "entity_ids": [
+    "n0006",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0072",
+   "text": "In Augusti, Cohen found the skeletons of Hila's parents in a house marked with a plague cross.",
+   "entity_ids": [
+    "n0019",
+    "n0060"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0073",
+   "text": "Tonis explained that Hila ran into the forest 10 years earlier while their father was beating their mother, and she never returned.",
+   "entity_ids": [
+    "n0060",
+    "n0086"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0074",
+   "text": "In another memory, Isbrand ordered Brenis to tear out Lacra's teeth as punishment for Brenis violating the ancient Verkieri laws, since Lacra was his progeny.",
+   "entity_ids": [
+    "n0002",
+    "n0023",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0075",
+   "text": "Long ago, near the tower where Cohen and Lacra are staying, Saint Mihi fought an ancient Verkieri/Vraker named Kalas, who could thin the veil between reality and Anahora.",
+   "entity_ids": [
+    "n0006",
+    "n0008",
+    "n0022"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0076",
+   "text": "Cohen survived being impaled and left in sunlight, later found alive by Anka who nursed him back to health.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0077",
+   "text": "Anka used necromantic magic to question a dead soldier, learning that the villagers of Lazla were taken to Brenis's castle dungeons for his coronation.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0009",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0078",
+   "text": "Brenis's coronation, where the captured villagers' blood would be used, was set to occur in 30 days.",
+   "entity_ids": [
+    "n0002",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0079",
+   "text": "Saint Mihi's body was believed lost, but the manuscript claims he was buried with his belongings somewhere in Svartra.",
+   "entity_ids": [
+    "n0006",
+    "n0016"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0080",
+   "text": "Cohen learned that the miller Mert was a member of the resistance group called the Manommits.",
+   "entity_ids": [
+    "n0003",
+    "n0005",
+    "n0071"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0081",
+   "text": "Mert was captured and imprisoned at Stonewood Post after being suspected of belonging to the rebel cell.",
+   "entity_ids": [
+    "n0071",
+    "n0082"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0082",
+   "text": "Cohen infiltrated Stonewood Post, freed Mert, and fought his way out after learning of a resistance meeting point.",
+   "entity_ids": [
+    "n0003",
+    "n0071",
+    "n0082"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0083",
+   "text": "Cohen rescued the rebel Sarah from Brenis's soldiers near a bridge, and she led him toward the Manommit camp.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0005",
+    "n0015"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0084",
+   "text": "Sarah led Cohen into an ambush by the Manommits, who captured him using a silver chain.",
+   "entity_ids": [
+    "n0003",
+    "n0005",
+    "n0015",
+    "n0021"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0085",
+   "text": "Manommit leader Craig was skeptical of Cohen but agreed to consider an alliance if Cohen kept disrupting Brenis's forces.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004",
+    "n0005"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0086",
+   "text": "After Cohen defeated him, Saint Mihi revealed that Tobias had betrayed and imprisoned him centuries earlier.",
+   "entity_ids": [
+    "n0003",
+    "n0006",
+    "n0085"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0087",
+   "text": "Cohen and Vulk searched unsuccessfully for gold Pieta supposedly received from the King of France after the Battle of Cassell.",
+   "entity_ids": [
+    "n0003",
+    "n0014",
+    "n0041",
+    "n0092"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0088",
+   "text": "Cohen found cave drawings made by cobalts depicting Mihi as a monstrous warrior who slaughtered many cobalts before being defeated by a lone cobalt hero who shattered his sword.",
+   "entity_ids": [
+    "n0006",
+    "n0011"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0089",
+   "text": "After Cohen's visits, soldiers attacked Vulk's shack looking for Cohen, but Vulk killed them rather than betray him.",
+   "entity_ids": [
+    "n0003",
+    "n0092"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0090",
+   "text": "Cohen raided Vrakieri boyer camps and caravans to disrupt their logistics and gain combat experience.",
+   "entity_ids": [
+    "n0003",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0091",
+   "text": "In the ruins beneath Svatra, Cohen and Lacra witnessed the final battle where Isbrand warned Brenis that beings called the Augurs would come for him for violating Verkieri law.",
+   "entity_ids": [
+    "n0002",
+    "n0016",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0092",
+   "text": "Three Boyars, Bakir, Ambress, and Zanthy, came to Brenis's aid, and together they managed to defeat Isbrand in the ruins beneath Svatra.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0010",
+    "n0018",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0093",
+   "text": "In the convent catacombs, Anka and Cohen found Leonica performing a blood ritual using occult symbols matching those on Anka's hands and Cohen's skin.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0094",
+   "text": "When Leonica was one step away from ending the curse on the convent, Anka warned Cohen, who killed her during the ritual, only learning afterward that Leonica had been trying to break the curse and free the nuns' souls.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0095",
+   "text": "Brenis declared afterward that he had mastered the power seeping from the ruins beneath Svatra, which comes directly from Anahora.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0016"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0096",
+   "text": "Feeling responsible for the tragedy, Anka performed the ritual alone in the catacombs to free the cursed nuns' souls while Cohen waited in the library listening to inhuman sounds from the crypt, and afterward the undead nuns vanished.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0097",
+   "text": "Years before the main story, Cohen and his brother Alen disobeyed their father Pieta's warning and went onto thinning river ice; Alen fell through and drowned before help could save him.",
+   "entity_ids": [
+    "n0003",
+    "n0014",
+    "n0034"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0098",
+   "text": "Albertus devoted his life to studying the history of Veil Sangora, but the Verkieri banished him and destroyed his life's work when they seized power.",
+   "entity_ids": [
+    "n0007",
+    "n0017",
+    "n0033"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0099",
+   "text": "Farcus explained that Bakir killed most of his family but spared him and his brother Ducen, whom Bakir sexually abused and crippled after Ducen refused his advances.",
+   "entity_ids": [
+    "n0010",
+    "n0048",
+    "n0050"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0100",
+   "text": "Dr. Simeon researched the plague and tried to synthesize medicine from Verkier blood properties, since Verkier blood cured disease including the Black Death.",
+   "entity_ids": [
+    "n0017",
+    "n0047"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0101",
+   "text": "Dr. Simeon had removed Vicho's fangs for research, though they eventually grew back.",
+   "entity_ids": [
+    "n0047",
+    "n0090"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0102",
+   "text": "For two years, corrupted cobalts had been eating Isbrand alive piece by piece while his body continually regenerated, absorbing his corruption.",
+   "entity_ids": [
+    "n0011",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 29,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0103",
+   "text": "The matriarch explained that Brenis had defeated Isbrand in battle, then forced the Uryashi to imprison him in chains within their caves under threat of destroying the village.",
+   "entity_ids": [
+    "n0002",
+    "n0031",
+    "n0061"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0104",
+   "text": "A note found on a corpse revealed that an apprentice named Svetana, acting for her master Aurelius, hired mercenaries to retrieve an encoded tome from a tomb beneath St. Tobias's cemetery.",
+   "entity_ids": [
+    "n0037",
+    "n0081",
+    "n0083"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0105",
+   "text": "Cohen recalled that the dying Mihi in the crypt beneath Zvatra Cathedral had told him to trust the Augurs because they would save him.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 44,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0106",
+   "text": "Aurelius's records showed that in his most recent batch, only 3 of 11 prisoners successfully became gargoyles.",
+   "entity_ids": [
+    "n0037",
+    "n0053"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0107",
+   "text": "A previous squad sent by Leonard into Zanthy's castle never returned.",
+   "entity_ids": [
+    "n0018"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0108",
+   "text": "Brenis's coronation ritual is set to culminate in the sacrifice of every prisoner in his castle dungeons, including Cohen's family.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0109",
+   "text": "In Maragir, villagers celebrated Ambress's execution of former nobility by crucifixion, and feared Cohen as the Verkier-hunting dawn walker.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0069"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0110",
+   "text": "Cohen and Julen found Vera dead at an old pagan shrine after she went alone to find something to protect Julen from the poison.",
+   "entity_ids": [
+    "n0003",
+    "n0063",
+    "n0089"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0111",
+   "text": "After killing Ambress, Cohen found a report revealing that a new female Verkier had appeared near the northeastern wall of Svartra.",
+   "entity_ids": [
+    "n0003",
+    "n0016"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0112",
+   "text": "Farcus's journal later revealed the ring's ritual to heal Ducen failed, crumbling to ash, after which Farcus went mad and mutilated his brother trying to fix him.",
+   "entity_ids": [
+    "n0035",
+    "n0048",
+    "n0050"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0113",
+   "text": "At the crime scene, Cohen found a threatening note from Dr. Simeon demanding D'vorah and Eli repay a debt by week's end.",
+   "entity_ids": [
+    "n0003",
+    "n0046",
+    "n0047",
+    "n0049"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 72,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0114",
+   "text": "It was actually the transformed Dr. Simeon, not Vicho, who killed D'vorah and Eli during his mutation.",
+   "entity_ids": [
+    "n0046",
+    "n0047",
+    "n0049"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 73,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0115",
+   "text": "Cohen later discovered that Vicho, having lost control of his hunger, slaughtered a farm family who had known his secret, after Simeon had falsely blamed Vicho beforehand.",
+   "entity_ids": [
+    "n0003",
+    "n0047",
+    "n0090"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 74,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0116",
+   "text": "Cohen found a manumit scout named Buen dying, who revealed the Verkieri were constructing an army of artificial winged creatures rather than recruiting soldiers.",
+   "entity_ids": [
+    "n0003",
+    "n0017",
+    "n0040"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0117",
+   "text": "Buen's dying message included the code word 'Teayotim,' which referred to the ruined Church of St. Teotim in the Midens.",
+   "entity_ids": [
+    "n0040",
+    "n0043"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0118",
+   "text": "In the negotiation route, after Cohen kills Brenis's three major vassals Ambress, Baker, and Zanthy and reaches maximum infamy, Brenis offers a parley at Shrikes Crag.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0003",
+    "n0018",
+    "n0029",
+    "n0038"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0119",
+   "text": "At the parley, Brenis brings Pater as proof that Cohen's family is alive and offers to return them and spare Lasa, including exemption from the blood tithe, in exchange for the location of the Manummit hideout.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0005",
+    "n0024"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 78,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0120",
+   "text": "Cohen can accept the bargain by marking the Manummit hideout entrance for Brenis, leading to its forces massacring the Manummits.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0005"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0121",
+   "text": "Brenis personally captures Craig during the raid on the Manummit hideout, drinking his blood and taking him away.",
+   "entity_ids": [
+    "n0002",
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0122",
+   "text": "After consuming the Mandre and preparing fully, Cohen receives an invitation from Brenis proposing negotiations.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0123",
+   "text": "In the Lakra route, Cohen and Lakra descend into the ruins beneath Zvatra to interrupt Brenis's ritual.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0124",
+   "text": "Inside the ritual chamber, a huge red sphere of blood churns while prisoners float around it.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0125",
+   "text": "Lakra destroys the blood sphere, breaking the active blood conduit through which Brenis was drawing strength from Anahora.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0126",
+   "text": "In the Manummit route, the rebels launch a surprise attack on an outpost while Catalin's army attacks from the other side to break the blockade of Veil Sangora, and Cohen personally turns the wheel to open the gates.",
+   "entity_ids": [
+    "n0003",
+    "n0005",
+    "n0007",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 82,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0127",
+   "text": "In this route, the Manummits and Catalin's forces have not yet begun their operation, leaving Cohen and Lakra to infiltrate the castle alone.",
+   "entity_ids": [
+    "n0003",
+    "n0005",
+    "n0020",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 82,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0128",
+   "text": "Craig reports that Brenis is performing a ritual using prisoners inside the castle, but Catalin dismisses this as superstition.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 83,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0129",
+   "text": "In this route, Cohen's family is found fused into Anahora's growth spreading through the castle, in a worse state than in the Manummit route.",
+   "entity_ids": [
+    "n0003",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 83,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0130",
+   "text": "Cohen, Craig, Catalin, and fighters storm the castle through a secret passage beneath the mountains, the same route Catalin used to escape two years earlier when the Verkieri seized power.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0131",
+   "text": "Cohen and Craig find the prison cells empty, with no sign of where the prisoners were taken.",
+   "entity_ids": [
+    "n0003",
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0132",
+   "text": "Catalin sends a group of Manummits on a suicidal assault to seize the armory despite their being too few in number.",
+   "entity_ids": [
+    "n0005",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0133",
+   "text": "Brenis blames Lakra for causing reality and Anahora to collide, and offers to let Cohen take his family and leave without pursuit.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0134",
+   "text": "Cohen refuses Brenis's offer and attacks him alongside Lakra.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0135",
+   "text": "During the battle, Brenis seriously wounds Lakra, but she is healed by the power of the Mandre flower she and Cohen had consumed earlier.",
+   "entity_ids": [
+    "n0002",
+    "n0023",
+    "n0068"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 84,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0136",
+   "text": "Cohen and Craig find the desecrated corpse of Kenaz Scander sitting on the throne.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0064"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0137",
+   "text": "Brenis attacks Catalin in the throne room, and Craig sacrifices himself to protect Catalin, resulting in Craig's death.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0138",
+   "text": "Brenis badly wounds Catalin and then leaves, telling Cohen that his family is already waiting for him.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0139",
+   "text": "After defeating Zanthy's blood guard, Cohen kills the wounded Catalin himself, refusing to let him rule Veil Sangora.",
+   "entity_ids": [
+    "n0003",
+    "n0007",
+    "n0018",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 86,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0140",
+   "text": "Cohen finds his family seated at a table in the castle's dining hall, shrouded in crimson mist, with his youngest sister Luca missing.",
+   "entity_ids": [
+    "n0003",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0141",
+   "text": "Brenis reveals his plan to break every bone in Cohen's body, nail him to a wall, and force him to watch his family drained one by one.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0142",
+   "text": "Defeated, Brenis cuts open his palm to release a cloud of bloody mist that drags both himself and Cohen into Anahora.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0143",
+   "text": "Before vanishing into Anahora's wastelands, Brenis refuses to reveal what happened to Luca and promises he will have the last laugh.",
+   "entity_ids": [
+    "n0002",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0144",
+   "text": "Cohen and Lakra share deeply personal memories in the marsh to attract the wisps and be guided to Kalas's lair.",
+   "entity_ids": [
+    "n0003",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0145",
+   "text": "Vladimir was connected to a rebel cell in Svatra, the capital of Veil Sangora, planning an uprising against Vrakieri rule.",
+   "entity_ids": [
+    "n0007",
+    "n0016",
+    "n0091"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0146",
+   "text": "Craig (Marat) told Cohen that the Manumits plan to help Catalin, son of the former ruler Scander, overthrow Kinaz Brenis by opening the mountain pass gates from within.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0005",
+    "n0020",
+    "n0078"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0147",
+   "text": "Hila appears to be a young girl but has actually been kept childlike for 10 years by the magic of the Sanjani, small fae-like beings who live in burrows; they found her in the forest and brought her to live with them, using their magic to keep her from aging.",
+   "entity_ids": [
+    "n0060",
+    "n0077"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0148",
+   "text": "By this point in the story, two of Brenis's Boyars, Ambress and Bakir, were already dead, leaving only the witch Zanthy.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0010",
+    "n0018"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0149",
+   "text": "Ambress kept a private herd of humans to feed on despite Brenis officially forbidding that practice among the Verkieri.",
+   "entity_ids": [
+    "n0001",
+    "n0002"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 53,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0150",
+   "text": "Cohen was voted into the Manumits, a group opposing Verkieri tyranny, with only Dro voting against him.",
+   "entity_ids": [
+    "n0003",
+    "n0005",
+    "n0021"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 76,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0151",
+   "text": "Nebaru offers Cohen a purpose from the Council of Augers, saying eternity is unbearable without one.",
+   "entity_ids": [
+    "n0003",
+    "n0045",
+    "n0073"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0152",
+   "text": "The Uryashi are a humanoid mountain people with great physical strength who are derogatorily called goatfaces by humans.",
+   "entity_ids": [
+    "n0031"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0153",
+   "text": "The Sanjani have a peculiar fascination with collecting human teeth as gifts for their rulers, called Sarinas.",
+   "entity_ids": [
+    "n0077",
+    "n0087"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0154",
+   "text": "Kinyaz Scender Dragosti ruled through fear and cruelty beyond that of his predecessors.",
+   "entity_ids": [
+    "n0065"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0155",
+   "text": "Cohen is wary of helping Catalin because Scander nearly had Cohen and Luca killed the night the Verkieri seized power.",
+   "entity_ids": [
+    "n0003",
+    "n0013",
+    "n0017",
+    "n0020",
+    "n0078"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0156",
+   "text": "Brenis claimed he had watched Veil Sangora for years and had decided to change its fate.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0157",
+   "text": "Cohen's mother Esme suffered a mental breakdown after her son Alen drowned, the plague struck, and the Vrakieri took power.",
+   "entity_ids": [
+    "n0003",
+    "n0012",
+    "n0034"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0158",
+   "text": "Anka was found washing hands covered in strange occult symbols, which she refused to explain to Cohen.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0159",
+   "text": "Esme was coaxed into drinking her medicine after Cohen sang her a childhood lullaby about a little angel.",
+   "entity_ids": [
+    "n0003",
+    "n0012"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0160",
+   "text": "Pieta revealed he has years of military service and tested Cohen's swordsmanship in a sparring match.",
+   "entity_ids": [
+    "n0003",
+    "n0014"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0161",
+   "text": "Cohen fought and beat the village bully Vassel after Vassel insulted him and his mother.",
+   "entity_ids": [
+    "n0003",
+    "n0088"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0162",
+   "text": "Vassel's father Atanis had been abusing his son since childhood, which Cohen discovered when Atanis demanded Cohen beat Vassel further.",
+   "entity_ids": [
+    "n0003",
+    "n0036",
+    "n0088"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0163",
+   "text": "An old woman named Gremla was distraught after the banner she wove for Brenis's blood mass was stolen.",
+   "entity_ids": [
+    "n0002",
+    "n0056"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0164",
+   "text": "The villager Premil stole Gremla's banner to protest it hanging in the church in place of the cross, and Cohen convinced him to return it to protect Gremla from punishment.",
+   "entity_ids": [
+    "n0003",
+    "n0056",
+    "n0075"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0165",
+   "text": "A villager named Gavl asked Cohen to find his missing brother Lazar in the marshes.",
+   "entity_ids": [
+    "n0003",
+    "n0054",
+    "n0066"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0166",
+   "text": "Father Floren preached in the church, portraying Brenis as a savior who protected the people from plague, war, and famine.",
+   "entity_ids": [
+    "n0002",
+    "n0051"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0167",
+   "text": "Silas had been a physician before turning to dark magic, reportedly learning to animate inanimate objects and drain life from living beings.",
+   "entity_ids": [
+    "n0079"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0168",
+   "text": "Silas studied and corrupted ancient teachings including the Cabala, combining sacred texts with unholy rituals.",
+   "entity_ids": [
+    "n0079"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0169",
+   "text": "Cohen met Vulk, a blind old mercenary and former comrade of his father Pieta, living in an isolated shack.",
+   "entity_ids": [
+    "n0003",
+    "n0014",
+    "n0092"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0170",
+   "text": "Albertus was a monk who served as chronicler under Kinaz Brenis, tasked with praising the ruler's virtues and hiding his sins.",
+   "entity_ids": [
+    "n0002",
+    "n0033"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0171",
+   "text": "Cohen's recurring nightmare was built around the drowning death of his younger brother Alen, a tragedy Cohen blamed himself for.",
+   "entity_ids": [
+    "n0003",
+    "n0034"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0172",
+   "text": "After losing his research, Albertus reportedly went mad and now lives on the streets.",
+   "entity_ids": [
+    "n0033"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 22,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0173",
+   "text": "Vicho revealed that Simeon, desperate to avoid death, had once asked to be turned into a Verkier, but Vicho refused.",
+   "entity_ids": [
+    "n0047",
+    "n0090"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 26,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0174",
+   "text": "Anka decided to complete the ritual herself to atone for stopping Leonuka, and Cohen reluctantly agreed to let her do it alone.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0175",
+   "text": "Anka admitted to Cohen that she has had feelings for him for a long time.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 44,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0176",
+   "text": "During a gargoyle attack, Sara (also called Sarah) had her spine broken, losing the ability to move her arms and legs, and was mortally wounded; Craig killed her himself with a dagger rather than let her fall into Kinaz Brenis's hands.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0015"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0177",
+   "text": "Craig told Cohen that if Cohen were ever captured or in Sara's position, he should be killed rather than allowed to be taken alive by Brenis's forces.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0178",
+   "text": "Craig and Cohen sought out a rabbi named Mevasa, a scholar of ancient books and traditions, to translate the manuscript from the gargoyle's mouth.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0026"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0179",
+   "text": "Mevasa told Craig and Cohen that a man named Silas could translate the manuscript, but Silas has been dead for roughly 100 years.",
+   "entity_ids": [
+    "n0026",
+    "n0079"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0180",
+   "text": "Mevasa mentioned that a woman recently came to him asking about Silas, claiming to be conducting research for her master.",
+   "entity_ids": [
+    "n0026",
+    "n0037",
+    "n0083"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0181",
+   "text": "Craig recognized the name Aurelius as a legendary evil sorcerer in Svartra folklore, said to be able to drive people mad with a glance and to live in a tower south of Augusti.",
+   "entity_ids": [
+    "n0004",
+    "n0019",
+    "n0037"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0182",
+   "text": "Craig revealed his real name to Cohen as Marat, as a sign of trust.",
+   "entity_ids": [
+    "n0003",
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0183",
+   "text": "Cohen agreed to help the Manumits' plan because it could help him recover his family.",
+   "entity_ids": [
+    "n0003",
+    "n0005"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0184",
+   "text": "Inside the nightmare, Cohen finally accepted that Alen's death was not his fault and promised to forgive himself and remember his brother.",
+   "entity_ids": [
+    "n0003",
+    "n0034"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0185",
+   "text": "Before dying, Saint Mihi promised Cohen that beings called 'the augers' would eventually find him and explain what a dawn walker truly is.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0186",
+   "text": "After defeating Aurelius, Cohen followed a trail of glowing flyer garic mushrooms to a burrow inhabited by a girl named Hila.",
+   "entity_ids": [
+    "n0003",
+    "n0060"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0187",
+   "text": "Hila asked Cohen to find her brother Tonis and offered that her invisible friends could deliver a letter to Cohen's sister Luca in exchange.",
+   "entity_ids": [
+    "n0003",
+    "n0013",
+    "n0060",
+    "n0086"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0188",
+   "text": "Cohen found Tonis, Hila's brother, now an adult living among charcoal burners, still visiting a wooden palace to light candles for his long-vanished sister.",
+   "entity_ids": [
+    "n0060",
+    "n0086"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0189",
+   "text": "The Tsarina of the Sanjani refused to let Tonis stay with Hila permanently, allowing him only one visit per month.",
+   "entity_ids": [
+    "n0060",
+    "n0086",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0190",
+   "text": "The Tsarina argued that human life for a girl in that era meant hard labor and repeated childbirth, justifying keeping Hila in the burrow.",
+   "entity_ids": [
+    "n0060",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0191",
+   "text": "Cohen convinced the Tsarina to release Hila for a ransom of human teeth rather than waiting years.",
+   "entity_ids": [
+    "n0003",
+    "n0060",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0192",
+   "text": "The Sanjani revealed that Cohen became a Dawn Walker instead of an ordinary Verkieri because his blood contained a small amount of silver, weakening the transformation.",
+   "entity_ids": [
+    "n0003",
+    "n0017",
+    "n0077"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0193",
+   "text": "After Cohen paid the ransom in human teeth, the Tsarina agreed to send a letter to Luca telling her Cohen would come for the family soon.",
+   "entity_ids": [
+    "n0003",
+    "n0013",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0194",
+   "text": "Father Floren, the priest who preaches at the blood masses, sent soldiers to an ancient shrine of St. Mihi, leading Cohen to investigate the cobalt caves.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0195",
+   "text": "A soldier named Leonard told Cohen that young women were disappearing throughout Baroness Zanthy's lands and that she was responsible.",
+   "entity_ids": [
+    "n0018"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0196",
+   "text": "Heraclea is revealed to be Baroness Zanthy's daughter, the reason Zanthy abducted and murdered young women in her territory.",
+   "entity_ids": [
+    "n0018",
+    "n0059"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0197",
+   "text": "Following reports of a mysterious female Verkieri near Svartra's northeastern wall, Cohen tracked her down and met Lacra, who was also seeking to kill Brenis.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0023"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0198",
+   "text": "Lacra revealed that Brenis's greatest weakness is Isbrand, the Verkieri who originally turned him.",
+   "entity_ids": [
+    "n0002",
+    "n0023",
+    "n0061"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0199",
+   "text": "Lacra held a captive Uryashi named Nish, whose clan elder knew how to find Isbrand.",
+   "entity_ids": [
+    "n0023",
+    "n0031",
+    "n0061",
+    "n0074"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0200",
+   "text": "Cohen convinced Nish to reveal the route to the Uryashi elder by promising to try to save his own family from Brenis, and swore not to harm Nish's people.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0031",
+    "n0074"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0201",
+   "text": "Cohen refused to let Lacra kill Nish after he gave them the information.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0074"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0202",
+   "text": "At the Uryashi village, Cohen's calm, non-violent conduct under provocation earned the trust of the clan matriarch, who agreed to help.",
+   "entity_ids": [
+    "n0003",
+    "n0031"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0203",
+   "text": "The matriarch warned Lacra never to return to the Uryashi village, threatening to bury her under stones, while declaring Cohen a friend of the Uryashi.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0031"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0204",
+   "text": "Lacra and Cohen discovered they are both progeny of Brenis, making Isbrand their shared 'grandfather' figure.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0023",
+    "n0061"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0205",
+   "text": "Cohen and Lacra extracted Isbrand and moved him to an old watch fort in the mountains, though his body was severely damaged and his mind broken beyond normal recovery.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0061"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0206",
+   "text": "Lacra refuses to explain to Cohen why her teeth were torn out or why she was exiled.",
+   "entity_ids": [
+    "n0003",
+    "n0023"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0207",
+   "text": "Isbrand repented his failure to kill Brenis earlier and asked Cohen to absorb his essence so his soul would not fall prey to the entity ruling Anahora.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0061"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0208",
+   "text": "To attract the wisps and find Kalas's battlefield, Cohen and Lacra shared deeply personal memories: Cohen recounted his brother Alen's drowning, and Lacra revealed that as a child in Egypt she was married off to a grown man and endured years of abuse.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0034"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0209",
+   "text": "Ambress, one of Brenis's boyers, challenged Cohen to a one-on-one duel at a ruined fortress near Maragir.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0069"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 52,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0210",
+   "text": "Julen Codrin, a noble who swore loyalty to Ambress on the night the Verkieri seized power, secretly wanted Ambress dead.",
+   "entity_ids": [
+    "n0001",
+    "n0063"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 53,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0211",
+   "text": "Ambress forced Julen to kneel and beg for the honor of having his blood drunk, humiliating him repeatedly.",
+   "entity_ids": [
+    "n0001",
+    "n0063"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 53,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0212",
+   "text": "Julen planned to have Cohen poison the person Ambress would drink from before their duel to weaken him.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0063"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 54,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0213",
+   "text": "Vera was a poison expert living alone in the marshes who was preparing a ritual to strengthen the poison meant for Ambress.",
+   "entity_ids": [
+    "n0001",
+    "n0089"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 54,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0214",
+   "text": "Julen revealed that he himself was meant to be the poisoned victim whose blood Ambress would drink before the duel, intending for both himself and Ambress to die.",
+   "entity_ids": [
+    "n0001",
+    "n0063"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0215",
+   "text": "Cohen chose to leave Ambress's soul trapped in Anahora rather than carry it back.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0008"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0216",
+   "text": "Cohen buried Julen Codrin's body beside a mountain monastery.",
+   "entity_ids": [
+    "n0003",
+    "n0063"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 59,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0217",
+   "text": "Anka revealed that the Font of Life not only strengthens but restores youth, and admitted she is twenty years older than Cohen.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0052"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0218",
+   "text": "Anka wanted to use the Font of Life to become young again and start over, free of the darkness she let into herself through occult dealings.",
+   "entity_ids": [
+    "n0009",
+    "n0052"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0219",
+   "text": "There was only enough power in the Font of Life for one person, so Anka let Cohen drink from it instead of herself.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0052"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0220",
+   "text": "Cohen and Anka became romantically involved that night after leaving the font.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0221",
+   "text": "Farcus Derrescu, a servant of the boyer Bakir, secretly wanted his master dead and approached Cohen for help.",
+   "entity_ids": [
+    "n0003",
+    "n0010",
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0222",
+   "text": "Farcus offered Cohen entry into the tournament as 'the moth' so Cohen could get close enough to Bakir to kill him.",
+   "entity_ids": [
+    "n0003",
+    "n0010",
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0223",
+   "text": "As the winning contestant, Cohen was allowed into Bakir's treasury, refused to remove his mask, and asked for the amethyst ring, which Bakir claimed not to have.",
+   "entity_ids": [
+    "n0003",
+    "n0010",
+    "n0035"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0224",
+   "text": "In Anahora, Bakir, a sadist and masochist, welcomed torment rather than begging to return, but Cohen carried his soul back to the physical world anyway to deny him that satisfaction.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0225",
+   "text": "Cohen gave Farcus the demonic ring despite warning him of its danger, out of sympathy for Ducen's suffering.",
+   "entity_ids": [
+    "n0003",
+    "n0035",
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 69,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0226",
+   "text": "Vicho is a Verkier collector of curiosities and forbidden knowledge who opposes Brenis's regime but refuses to join Cohen's war openly.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0090"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0227",
+   "text": "Vicho refuses to drink human blood and instead whips himself before a Christian cross, praying to be freed from his curse or granted death.",
+   "entity_ids": [
+    "n0090"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0228",
+   "text": "Vicho suspected he himself might have killed D'vorah and Eli during a blackout, as his hunger has grown harder to control with age.",
+   "entity_ids": [
+    "n0046",
+    "n0049",
+    "n0090"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 72,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0229",
+   "text": "Realizing what he had done, Vicho chose to meet the sunrise and die rather than continue killing, and asked Cohen to stay with him until dawn.",
+   "entity_ids": [
+    "n0003",
+    "n0090"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 75,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0230",
+   "text": "Sara, the manumit woman who had once betrayed Cohen into a trap, returned to tell him the manumits would vote on his membership.",
+   "entity_ids": [
+    "n0003",
+    "n0015"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 76,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0231",
+   "text": "Craig, leader of the Manumits, tasked Cohen with finding four missing manumit scouts after suspecting betrayal by a member named Lios.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0005",
+    "n0067"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 77,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0232",
+   "text": "Lacra knew disrupting the ritual carried great risk but did so believing that letting Brenis finish would cause an even larger-scale catastrophe.",
+   "entity_ids": [
+    "n0002",
+    "n0023"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0233",
+   "text": "Catalin, son of the former Kenaz Scander, is revealed to be selfish, cruel, and arrogant like his father.",
+   "entity_ids": [
+    "n0020",
+    "n0064"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 83,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0234",
+   "text": "Cohen's sister Jana begs him to run when he finds her fused into the growth.",
+   "entity_ids": [
+    "n0003",
+    "n0062"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 83,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0235",
+   "text": "Catalin is pleased that Brenis killed his father, since it removed an obstacle to his own claim to the throne.",
+   "entity_ids": [
+    "n0002",
+    "n0020",
+    "n0064"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0236",
+   "text": "Brenis says sunlight has always been his greatest weakness but claims he no longer fears it, demonstrating by passing his hand through a sunbeam.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0237",
+   "text": "Anka is also leaving Veil Sangora to search for a way to remove the evil power and heal the symbols carved into her skin.",
+   "entity_ids": [
+    "n0007",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0238",
+   "text": "Nebaru arrives in the cave and reveals he is also a Vraker and a Dawn Walker like Cohen, working as an arbiter for the Council of Augers.",
+   "entity_ids": [
+    "n0003",
+    "n0045",
+    "n0073"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0239",
+   "text": "Anka once served as a novice at St. Tina's Convent, where forbidden magical books were kept.",
+   "entity_ids": [
+    "n0009",
+    "n0030"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0240",
+   "text": "St. Tina's Convent became shrouded in a permanent unnatural fog after the plague struck the pilgrims who sought refuge there.",
+   "entity_ids": [
+    "n0030"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0241",
+   "text": "Hila's home village of Augusti was abandoned years ago after its inhabitants died of plague or left.",
+   "entity_ids": [
+    "n0019",
+    "n0060"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0242",
+   "text": "Kalas had the power to thin the veil between reality and Anahora.",
+   "entity_ids": [
+    "n0008",
+    "n0022"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0243",
+   "text": "Craig and Cohen discovered Silas's former home, which had a hidden cellar leading to ancient ruins where Silas conducted his experiments; these ruins connect to catacombs from the Christian era, where Cohen and Craig found fresh decapitated bodies.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0079"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0244",
+   "text": "Saint Mihi called Cohen a 'dawn walker' and claimed to be one himself.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0245",
+   "text": "Inside Zanthy's castle, Cohen found a laboratory where the Baroness performed horrific mutilations on abducted girls, removing bones and eyes, and a dungeon containing piles of human remains fed to a monster kept in the cellar.",
+   "entity_ids": [
+    "n0003",
+    "n0018"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0246",
+   "text": "Cohen and Anka searched for the Font of Life using clues from an old monk's diary, discovering ancient ruins in the mountains.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0052"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0247",
+   "text": "Veil Sangora is a principality located deep in the Carpathian Mountains.",
+   "entity_ids": [
+    "n0007"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0248",
+   "text": "The wisps lead Cohen and Lakra to an overgrown entrance to Kalas's lair.",
+   "entity_ids": [
+    "n0003",
+    "n0022",
+    "n0023"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0249",
+   "text": "Cohen found only his father's old equipment and a prayer book from Marrair Monastery in a hidden cache instead of gold.",
+   "entity_ids": [
+    "n0003",
+    "n0014",
+    "n0070"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 13,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0250",
+   "text": "The cobalts divided Mihi's shattered sword among three nests, treating each fragment as a sacred relic.",
+   "entity_ids": [
+    "n0011",
+    "n0072"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 13,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0251",
+   "text": "Vulk left Cohen his sword and a note saying he was leaving for one last adventure rather than remain a burden.",
+   "entity_ids": [
+    "n0003",
+    "n0092"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 14,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0252",
+   "text": "Bakir promised Farcus the demonic ring could work miracles and might heal Ducen if Farcus impressed him.",
+   "entity_ids": [
+    "n0010",
+    "n0035",
+    "n0048",
+    "n0050"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0253",
+   "text": "The tome sought by Svetana's mercenaries was written in the same unknown language as the manuscript from the gargoyle's mouth and Silas's writings.",
+   "entity_ids": [
+    "n0079",
+    "n0083"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0254",
+   "text": "Cohen and Anka found a book titled Sancti Mihi Histori Vera whose pages appeared blank, written in invisible ink.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0028"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0255",
+   "text": "Cohen found a parchment drawing in Silas's ruins depicting a gargoyle nearly identical to the ones encountered at the warehouse and St. Teotim's church.",
+   "entity_ids": [
+    "n0003",
+    "n0079",
+    "n0080"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0256",
+   "text": "Inside the tower, Cohen found a translation guide and a spellbook that let him decipher the strange language and use magic, including a spell to weaken gargoyles.",
+   "entity_ids": [
+    "n0003",
+    "n0053"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0257",
+   "text": "Leonard gave Cohen a magic lamp that, when placed in the hand of a statue by Zanthy's gate, would remove the impenetrable barrier protecting her castle.",
+   "entity_ids": [
+    "n0018"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0258",
+   "text": "Lacra hoped that Kalas's old lair might contain something to protect them from Anahora's influence or to turn Brenis's ritual against him.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0022",
+    "n0023"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0259",
+   "text": "Anka found a manuscript describing the Impluvium vite, or Font of Life, said to grant anyone who enters it strength greater than Achilles.",
+   "entity_ids": [
+    "n0009",
+    "n0052"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0260",
+   "text": "Farcus is the true heir to the title of Bandrescu and wanted an amethyst family ring from Bakir's treasury to prove his lineage.",
+   "entity_ids": [
+    "n0010",
+    "n0035",
+    "n0050"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0261",
+   "text": "The amethyst ring recovered was engraved with demonic runes from Anahora rather than the Drescu family crest.",
+   "entity_ids": [
+    "n0008",
+    "n0035"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0262",
+   "text": "Vicho offered Cohen a protective amulet in exchange for help investigating the deaths of his friends D'vorah and Eli.",
+   "entity_ids": [
+    "n0003",
+    "n0046",
+    "n0049",
+    "n0090"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0263",
+   "text": "A manuscript written in an unknown language and marked with an unfamiliar occult symbol was found rolled up inside a gargoyle's mouth; Craig planned to have a rabbi named Measer translate it.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0026",
+    "n0053",
+    "n0093"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0264",
+   "text": "Anka prepares a lethal potion for Cohen, warning it is dangerous and intended for use that same night; the potion is lethal poison to both Verkieri and Moroni, and Cohen intends to use it to end Luca's suffering.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0013"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0265",
+   "text": "The banner used in Brenis's blood mass depicted a hellish scene with a tree impaling bodies, a lake of blood, feasting Vrakieri, and a three-eyed fanged god-like entity.",
+   "entity_ids": [
+    "n0002",
+    "n0017"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0266",
+   "text": "Growing within Kalas's remains is a Mandre, an extremely rare flower of Anahora, said to grant power that can help someone withstand both Brenis and Anahora itself.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0022",
+    "n0068"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0267",
+   "text": "Cohen and Lakra both consume the Mandre flower.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0068"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0268",
+   "text": "Saint Mihi's sword was shattered and its pieces were carried off by cobalts; Cohen would need to recover the fragments and have Yurashi blacksmiths reforge it.",
+   "entity_ids": [
+    "n0003",
+    "n0006",
+    "n0011",
+    "n0072"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0269",
+   "text": "Cohen killed Brenis's soldiers who had raided the third cobalt cave and recovered the final sword fragment.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0072"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0270",
+   "text": "A Yurashi blacksmith agreed to reforge Mihi's sword for free once she learned Cohen intended to kill Brenis.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0072"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0271",
+   "text": "Cohen empowered the reforged sword with nameless magical power inside an ancient ruin in the mountains, making it deadly against both humans and monsters.",
+   "entity_ids": [
+    "n0003",
+    "n0072"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 51,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0272",
+   "text": "Cohen defeated an undead guardian protecting the ancient warrior's tomb in the cave.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0273",
+   "text": "Cohen found Saint Mihi walled in alive beneath the cathedral in Svartra, emaciated but still breathing after centuries of imprisonment.",
+   "entity_ids": [
+    "n0003",
+    "n0006",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0274",
+   "text": "Saint Mihi mistook Cohen for a man named Tobias and attacked him with a broken sword.",
+   "entity_ids": [
+    "n0003",
+    "n0006",
+    "n0085"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0275",
+   "text": "Cohen infiltrated Aurelius's tower to stop him from creating more gargoyles for Brenis, killing Svetana and a garrison of Brenis's soldiers.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0037",
+    "n0083"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0276",
+   "text": "At the top of his tower, Aurelius was seen performing an incantation before a gargoyle, surrounded by images of Anahora, suggesting he draws power from Anahora to animate and control gargoyles.",
+   "entity_ids": [
+    "n0008",
+    "n0037",
+    "n0053"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0277",
+   "text": "Cohen escaped the nightmare and woke to find Aurelius preparing to turn him into a gargoyle on a table; Cohen killed Aurelius with a hammer blow.",
+   "entity_ids": [
+    "n0003",
+    "n0037"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0278",
+   "text": "In an upper chamber of the castle, Cohen found a masked, mutilated creature named Heraclea, stitched together from the bodies of abducted girls, singing a mournful song.",
+   "entity_ids": [
+    "n0018",
+    "n0059"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0279",
+   "text": "Baroness Zanthy offered to help Cohen fight Brenis in exchange for sparing her and Heraclea, but Cohen refused and killed both the Baroness and Heraclea.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0018",
+    "n0059"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0280",
+   "text": "After the vision, Isbrand's remaining spirit attacked Cohen and Lacra but was defeated with little difficulty.",
+   "entity_ids": [
+    "n0003",
+    "n0023",
+    "n0061"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0281",
+   "text": "At the duel, Ambress drank Julen's poisoned blood after Cohen refused to drink first and insulted Ambress's manners.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0063"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 57,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0282",
+   "text": "Weakened by the poison, Ambress was defeated by Cohen, who then drank his blood.",
+   "entity_ids": [
+    "n0001",
+    "n0003"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0283",
+   "text": "Cohen fought and killed Bakir in the treasury after being denied the ring, then drank his blood and was pulled into Anahora.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0284",
+   "text": "Dr. Simeon's failed self-transformation turned him into a Muron, and Cohen and Vicho were forced to kill him.",
+   "entity_ids": [
+    "n0003",
+    "n0027",
+    "n0047",
+    "n0090"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 73,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0285",
+   "text": "At the Church of St. Teotim, Cohen and Sara were ambushed by a gigantic winged creature made from a mutilated human body sealed inside a clay vessel.",
+   "entity_ids": [
+    "n0003",
+    "n0015",
+    "n0043",
+    "n0093"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0286",
+   "text": "Despite Brenis no longer fearing sunlight, Cohen, who arrived in human form during the day, fights and defeats him in the physical world.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0287",
+   "text": "In Anahora, Brenis transforms into a deformed monster with a flayed skull and leathery tentacles.",
+   "entity_ids": [
+    "n0002",
+    "n0008"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0288",
+   "text": "Cohen defeats Brenis's monstrous form within Anahora itself, something normally considered impossible.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0008"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0289",
+   "text": "Inside the lair, Kalas is found fused into a mass of plant-like growth resembling the vegetation seen in Anahora and in Baroness Zanthy's castle.",
+   "entity_ids": [
+    "n0008",
+    "n0018",
+    "n0022"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0290",
+   "text": "Cohen encountered and killed a brood of cave-dwelling creatures called cobalts after being turned.",
+   "entity_ids": [
+    "n0003",
+    "n0011"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0291",
+   "text": "Anka and Cohen found the convent's novices resurrected as undead, singing prayers and attacking intruders.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0030"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0292",
+   "text": "While exploring the crypt, Craig was attacked and dragged off by a moroni creature living in the tomb, but Cohen saved him.",
+   "entity_ids": [
+    "n0003",
+    "n0004"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0293",
+   "text": "Zanthy's castle was guarded by leathery blood-cord creatures and monstrous dog-like beasts created from feeding dogs human remains.",
+   "entity_ids": [
+    "n0018"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 48,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0294",
+   "text": "The caves holding Isbrand were infested with cobalts whose cave art depicted an upside-down Verkieri (Isbrand) being worshipped.",
+   "entity_ids": [
+    "n0011",
+    "n0061"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0295",
+   "text": "Cohen and Lacra encountered corrupted, mutated cobalts that had broken from the cobalt hive mind due to exposure to the same corruption that creates Verkieri.",
+   "entity_ids": [
+    "n0011",
+    "n0017"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0296",
+   "text": "The cobalt hive mind, called the Hive, referred to the mutated, hive-severed cobalts as 'wrongs,' the strongest of which was named Chonk.",
+   "entity_ids": [
+    "n0011",
+    "n0042",
+    "n0094"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0297",
+   "text": "Cohen and Anka defeated mummified undead guardians who had failed the font's trials before them.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0052"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0298",
+   "text": "Gargoyle creatures are constructed from an amputated human body baked inside a clay vessel like an oven, with wings and bony scythe-like limbs attached; Cohen discovered this after defeating one.",
+   "entity_ids": [
+    "n0003",
+    "n0053",
+    "n0093"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0299",
+   "text": "Brenis's last remaining gargoyle and soldiers guard the underground ruins, and the intrusion awakens the undead.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0300",
+   "text": "Wisps are otherworldly entities that inhabit the marshes and are drawn to and guided by strong, sincere emotions such as joy, grief, or anger.",
+   "entity_ids": [
+    "n0032"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0301",
+   "text": "In the turncoat ending, Brenis honors the bargain and returns Cohen's family, and the story moves to Lasa instead of a final battle.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0024"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0302",
+   "text": "In the turncoat ending, Cohen never confronts Brenis in Anahora and never kills him.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0008"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0303",
+   "text": "In the turncoat ending, Brenis remains in power and continues extracting blood from the valley for his larger plan, while Lasa receives special privileges including permission for Christianity.",
+   "entity_ids": [
+    "n0002",
+    "n0024"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 79,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0304",
+   "text": "In the epilogue, Cohen learns at a cemetery that Luca has died, but the rest of his family survived.",
+   "entity_ids": [
+    "n0003",
+    "n0013"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0305",
+   "text": "Cohen visits his mother Esme, who is catatonic, but she briefly regains awareness long enough to tell him she loves him.",
+   "entity_ids": [
+    "n0003",
+    "n0012"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0306",
+   "text": "Cohen helps his father Pieta repair the front door of their home, though conversation between them remains difficult.",
+   "entity_ids": [
+    "n0003",
+    "n0014"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0307",
+   "text": "Cohen announces he is leaving Veil Sangora, and Pieta gives him his blessing.",
+   "entity_ids": [
+    "n0003",
+    "n0007",
+    "n0014"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0308",
+   "text": "Cohen finds Luca alive in a mountain cave, transformed into a Muron rather than dead as everyone believed; this transformation was Brenis's farewell gift to Cohen, sparing her instead of killing her.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0013",
+    "n0027"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0309",
+   "text": "Nebaru gives Cohen a letter with instructions and says they must leave the valley immediately before snow buries the mountain passes.",
+   "entity_ids": [
+    "n0003",
+    "n0073"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0310",
+   "text": "Nebaru stays behind to deal with the chaos left by Brenis and his servants, promising that in time no one will remember Brenis's name.",
+   "entity_ids": [
+    "n0002",
+    "n0073"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0311",
+   "text": "In the Lakra ending route, when Nebaru comes to the cave, Lakra arrives with him and reveals she works for the Council of Augers, who sent her to deal with Brenis.",
+   "entity_ids": [
+    "n0002",
+    "n0023",
+    "n0045",
+    "n0073"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0312",
+   "text": "That same night, Cohen loads Luca into a wagon and leaves the valley.",
+   "entity_ids": [
+    "n0003",
+    "n0013"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0313",
+   "text": "In every ending route, Luca is transformed into a Muron and Nebaru eventually comes for Cohen, who enters the service of the Council of Augers.",
+   "entity_ids": [
+    "n0003",
+    "n0013",
+    "n0027",
+    "n0045",
+    "n0073"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0314",
+   "text": "The epilogue of the turncoat ending states that Brenis's regime eventually collapses because of the arbiters, meaning Cohen's choice only delays rather than secures Brenis's rule.",
+   "entity_ids": [
+    "n0002",
+    "n0045"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0315",
+   "text": "Brenis instituted a weekly Blood Mass where the Vrakieri drink blood from every resident of Veil Sangora in every local church.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0017"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0316",
+   "text": "During the blood mass, villagers drank a sip of Brenis's blood from a communion chalice and then gave their own blood into a baptismal font.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0317",
+   "text": "After the fall, Cohen's broken bones healed instantly and he discovered he could dissolve into black mist to cross gaps.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0318",
+   "text": "Newly turned, Cohen discovered he could climb walls and ceilings, ignoring gravity.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0319",
+   "text": "Cohen discovered he does not burn in sunlight, unlike ordinary Vrakieri, making him an unprecedented and dangerous anomaly.",
+   "entity_ids": [
+    "n0003",
+    "n0017"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0320",
+   "text": "Anka used a ritual involving runes carved into Cohen's flesh to unlock hidden magical perception, allowing him to see beyond ordinary reality.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0321",
+   "text": "Cohen rang the convent's bells to trigger the undead nuns' ingrained routine of gathering for prayer, clearing a path to the library.",
+   "entity_ids": [
+    "n0003",
+    "n0030"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0322",
+   "text": "Aurelius's gargoyle creation process involved keeping captives' higher brain functions active in a mental trap, then gutting them, coating them in clay, firing them, and fitting them with limbs, wings, and blades before animating them in a ritual.",
+   "entity_ids": [
+    "n0037",
+    "n0053"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0323",
+   "text": "The moment Cohen entered Aurelius's hall, he was trapped in a magical nightmare snare shaped from his own memories.",
+   "entity_ids": [
+    "n0003",
+    "n0037"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0324",
+   "text": "The Hive offered to reveal Isbrand's location if Cohen and Lacra killed the wrongs, including Chonk.",
+   "entity_ids": [
+    "n0011",
+    "n0042",
+    "n0061",
+    "n0094"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0325",
+   "text": "To retrieve useful information from Isbrand's shattered mind, Cohen and Lacra had to enter Anahora and follow the remnants of his memories.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0023",
+    "n0061"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0326",
+   "text": "Cohen drove Isbrand's fang into his own heart, absorbing the ancient Verkieri's essence and saving his soul from Anahora.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0061"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0327",
+   "text": "Cohen and Lacra theorized that the ruins beneath Svatra might connect directly to the castle's underground levels, allowing them to disrupt the ritual and free the prisoners in one operation.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0016",
+    "n0023"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 49,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0328",
+   "text": "Using Vera's notes, Cohen completed the poison ritual and forced Julen to drink the mixture, binding the poison to his blood.",
+   "entity_ids": [
+    "n0003",
+    "n0063",
+    "n0089"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 56,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0329",
+   "text": "In Anahora, Ambress's spirit begged Cohen to carry his soul back into the living world, since living Verkieri can host echoes of other Verkieri's essence.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0008"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0330",
+   "text": "To enter the Font of Life, Cohen had to pass warrior's trials without armor, marked with magical symbols painted by Anka.",
+   "entity_ids": [
+    "n0003",
+    "n0009",
+    "n0052"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0331",
+   "text": "The trials included revenants, deadly traps, and a statue that flayed Cohen's arm to test his willingness to sacrifice.",
+   "entity_ids": [
+    "n0003",
+    "n0052"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0332",
+   "text": "After drinking from the font, Cohen felt all his exhaustion and pain vanish, gaining renewed strength.",
+   "entity_ids": [
+    "n0003",
+    "n0052"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0333",
+   "text": "Bakir hosted a monthly contest called the lunar tournament (or 'rat race') inside a ruined fortress, where contestants wore animal masks.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0334",
+   "text": "Cohen won the lunar tournament by retrieving a coin swallowed by another contestant, the porcupine, cutting it from his belly.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 67,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0335",
+   "text": "Simeon experimented on living subjects, including himself, attempting to turn humans into Verkieri by driving a fang into the heart.",
+   "entity_ids": [
+    "n0017",
+    "n0047"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 73,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0336",
+   "text": "Cohen faces a choice: negotiate with Brenis, join Catalin and the Manummits to break the blockade at the mountain pass, or join Lakra to sabotage Brenis's ritual beneath Zvatra.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0005",
+    "n0020",
+    "n0023"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0337",
+   "text": "Nebaru explains there is a way to transform a Muron into a true Vrair, meaning Luca cannot become human again but need not remain a mindless monster.",
+   "entity_ids": [
+    "n0013",
+    "n0027",
+    "n0073"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0338",
+   "text": "Cohen transforms into a Vrakieri at night but remains human by day, an unexplained unique condition.",
+   "entity_ids": [
+    "n0003",
+    "n0017"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0339",
+   "text": "Cohen must defeat Brenis's three boyers, Ambress, Bakir, and Zanthy, before confronting Brenis himself.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0003",
+    "n0010",
+    "n0018"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0340",
+   "text": "Among Verkieri, forcibly removing another vampire's teeth is a ritualized punishment and humiliation.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0341",
+   "text": "A post-credits scene reveals Cohen survives into the modern day, still fighting supernatural forces as Anahora's corruption begins seeping into the real world again.",
+   "entity_ids": [
+    "n0003",
+    "n0008"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0342",
+   "text": "Only four people knew of the convent's forbidden library: Anka, Leonica, Mother Superior Bernice, and caretaker Anel.",
+   "entity_ids": [
+    "n0009",
+    "n0025",
+    "n0039"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0343",
+   "text": "Among the recovered forbidden books was one titled Sancti Mihi Histori Vera, written in invisible ink, revealing that Saint Mihi actually fought the Vrakieri rather than dragons as commonly believed.",
+   "entity_ids": [
+    "n0006",
+    "n0017",
+    "n0028"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0344",
+   "text": "Brenis was attempting to create a controlled breach into Anahora to draw power into the material world while retaining control, but Lakra's sabotage left the breach uncontrolled.",
+   "entity_ids": [
+    "n0002",
+    "n0008",
+    "n0023"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 81,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0345",
+   "text": "Cohen suspects Anahora is the world depicted on the blasphemous banner in Lazla's church, showing a three-eyed fanged figure devouring Verkieri and their victims, and theorizes it may be the same being Leonuka bargained with.",
+   "entity_ids": [
+    "n0008",
+    "n0025"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0346",
+   "text": "The narrator theorizes that the gargoyles' construction, human bodies sealed in fired clay, is inspired by the concept of golems from Jewish folklore.",
+   "entity_ids": [
+    "n0053",
+    "n0055"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0347",
+   "text": "Isbrand believed Verkieri should remain hidden and obey ancient restrictions, while Brenis wanted to abandon restraint and openly dominate humanity.",
+   "entity_ids": [
+    "n0002",
+    "n0061"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0348",
+   "text": "Lakra believes Kalas was meddling with the same power that Brenis is trying to harness.",
+   "entity_ids": [
+    "n0002",
+    "n0022",
+    "n0023"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0349",
+   "text": "Lakra suspects Kalas's unusually deep connection to Anahora is what preserved his body in plant form.",
+   "entity_ids": [
+    "n0008",
+    "n0022",
+    "n0023"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0350",
+   "text": "Brenis later explains his goal was to embrace and harness the Anacorin curse carried by the Verkieri rather than resist it.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-5f491777",
+     "locator": ""
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "e001",
+   "order": 1,
+   "summary": "Long ago, a great warrior woman fought the Vrakieri and chose to burn herself rather than be turned; centuries later a pagan hero-saint (Mihi) also battled Verkieri, including an ancient one named Kalas who could thin the veil to Anahora, before Mihi was betrayed and imprisoned by the monk Tobias, who fabricated the legend of 'St. Mihi' fighting dragons.",
+   "fact_ids": [
+    "f0020",
+    "f0070",
+    "f0071",
+    "f0075",
+    "f0079",
+    "f0242",
+    "f0064",
+    "f0086"
+   ]
+  },
+  {
+   "id": "e002",
+   "order": 2,
+   "summary": "Centuries before the main story, Brenis was a defeated Roman legion commander who, cornered by the Verkieri elder Isbrand, chose to be turned rather than die; afterward Isbrand made him kill guards and watch his own wife burn herself alive rather than accept him, severing his humanity.",
+   "fact_ids": [
+    "f0032",
+    "f0033",
+    "f0035",
+    "f0036"
+   ]
+  },
+  {
+   "id": "e003",
+   "order": 3,
+   "summary": "At some later point Brenis violated ancient Verkieri law, and Isbrand punished him by tearing out the teeth of his progeny Lacra; eventually Brenis, aided by his three boyers, turned on and defeated Isbrand himself in ruins beneath Svatra, after which the Uryashi were forced to imprison the broken elder in their caves, where corrupted cobalts fed on him for years.",
+   "fact_ids": [
+    "f0074",
+    "f0091",
+    "f0092",
+    "f0103",
+    "f0102"
+   ]
+  },
+  {
+   "id": "e004",
+   "order": 4,
+   "summary": "Generations later, Kinyaz Scender Dragosti ruled Veil Sangora with cruelty; after nine years of oppression the people rose up, but he crushed the uprising at Shrikes Crag, slaughtering the rebels.",
+   "fact_ids": [
+    "f0031",
+    "f0154",
+    "f0034",
+    "f0037"
+   ]
+  },
+  {
+   "id": "e005",
+   "order": 5,
+   "summary": "Elsewhere, mercenaries Vulk and Pieta fought together across Europe; Pieta later burned the city of Cassell, retired from soldiering, and donated his wealth to a monastery scriptorium seeking atonement, while Vulk was later captured and blinded before finding his old comrade again.",
+   "fact_ids": [
+    "f0021",
+    "f0022",
+    "f0024",
+    "f0023"
+   ]
+  },
+  {
+   "id": "e006",
+   "order": 6,
+   "summary": "At St. Tina's Convent, novice Anka discovered forbidden magical texts and shared them with Leonica, who, when plague struck and prayers went unanswered, bargained with a dark entity, cursing the infected nuns to rot alive instead of dying; Leonica then betrayed Anka to the Mother Superior, and pilgrims later desecrated Saint Tina's relics in a failed cure attempt while some nuns sacrificed themselves to hide the remains.",
+   "fact_ids": [
+    "f0025",
+    "f0026",
+    "f0027",
+    "f0028",
+    "f0029",
+    "f0030",
+    "f0239",
+    "f0240"
+   ]
+  },
+  {
+   "id": "e007",
+   "order": 7,
+   "summary": "In a separate tragedy, servant Farcus was spared by the sadistic boyer-to-be Bakir, who instead abused and crippled his brother Ducen; meanwhile a monk named Albertus devoted his life to chronicling Veil Sangora's true history.",
+   "fact_ids": [
+    "f0099",
+    "f0098",
+    "f0170"
+   ]
+  },
+  {
+   "id": "e008",
+   "order": 8,
+   "summary": "Years before the plague, young Cohen and his brother Alen went onto thin river ice against their father's warning; Alen drowned, a tragedy that haunted Cohen's nightmares and drove their mother Esme toward a breakdown.",
+   "fact_ids": [
+    "f0097",
+    "f0171",
+    "f0157"
+   ]
+  },
+  {
+   "id": "e009",
+   "order": 9,
+   "summary": "In 1347, as the Black Death ravaged the region, peasant Cohen fled with his dying sister Luca from Scender's soldiers, who had orders to kill anyone showing plague symptoms; they were cornered among ruins of an old church.",
+   "fact_ids": [
+    "f0005",
+    "f0038",
+    "f0039"
+   ]
+  },
+  {
+   "id": "e010",
+   "order": 10,
+   "summary": "Four Vrakieri led by Brenis ambushed the soldiers, drained Kinyaz Scender Dragosti of blood in revenge, and Brenis showed mercy by curing Luca's plague with his tainted blood after Cohen begged him.",
+   "fact_ids": [
+    "f0040",
+    "f0041",
+    "f0042",
+    "f0155"
+   ]
+  },
+  {
+   "id": "e011",
+   "order": 11,
+   "summary": "That same night Brenis and his three boyers—Ambress, Bakir, and Zanthy—seized control of Veil Sangora, slaughtering the nobility, instituting a blood tithe and weekly Blood Mass, sealing the valley, banning silver, and inviting the Uryashi into service while claiming to be the land's savior.",
+   "fact_ids": [
+    "f0043",
+    "f0044",
+    "f0045",
+    "f0046",
+    "f0001",
+    "f0002",
+    "f0003",
+    "f0004",
+    "f0315",
+    "f0316",
+    "f0156"
+   ]
+  },
+  {
+   "id": "e012",
+   "order": 12,
+   "summary": "Two years later in the mining village of Lazla, Cohen navigated daily hardships—his mother's illness, village politics, a bullied friend, a missing villager, and a father secretly conspiring with the resistance—while the blood tithe continued to endanger the weak, including his own mother Esme.",
+   "fact_ids": [
+    "f0047",
+    "f0048",
+    "f0049",
+    "f0050",
+    "f0051",
+    "f0052",
+    "f0053",
+    "f0145",
+    "f0157",
+    "f0159",
+    "f0160",
+    "f0161",
+    "f0162",
+    "f0163",
+    "f0164",
+    "f0165",
+    "f0166",
+    "f0158",
+    "f0054",
+    "f0272",
+    "f0290"
+   ]
+  },
+  {
+   "id": "e013",
+   "order": 13,
+   "summary": "When Brenis condemned the weakened Esme to death at the blood mass, Cohen publicly defied him; his father Pieta then led the miners in a doomed defense of a silver mine, but Brenis's forces, forewarned, crushed the rebellion, and in the chaos Cohen was accidentally turned into a Verkieri by Brenis himself as a mercy to spare his life.",
+   "fact_ids": [
+    "f0056",
+    "f0057",
+    "f0058",
+    "f0059",
+    "f0060",
+    "f0061",
+    "f0062",
+    "f0063"
+   ]
+  },
+  {
+   "id": "e014",
+   "order": 14,
+   "summary": "Emerging from the mine as a fledgling Vrakieri, Cohen found Lazla destroyed and his family taken; Brenis tormented him by cutting Pieta to provoke his bloodlust, but Cohen refused to kill his father, fought Brenis, and though his own blood mysteriously burned the elder Verkier, he was defeated and left impaled to die at dawn.",
+   "fact_ids": [
+    "f0065",
+    "f0066",
+    "f0067",
+    "f0068",
+    "f0069",
+    "f0317",
+    "f0318"
+   ]
+  },
+  {
+   "id": "e015",
+   "order": 15,
+   "summary": "Miraculously surviving sunlight, Cohen was found and nursed back to health by the herbalist Anka, who used necromancy to learn that the captured villagers were being held for Brenis's coronation ritual in thirty days, and used dark magic to awaken hidden perception in Cohen, revealing he does not burn like an ordinary Vrakieri.",
+   "fact_ids": [
+    "f0076",
+    "f0077",
+    "f0078",
+    "f0319",
+    "f0320"
+   ]
+  },
+  {
+   "id": "e016",
+   "order": 16,
+   "summary": "Cohen began building a resistance network: freeing the captured rebel Mert, being ambushed and then cautiously allied with the Manummit rebels under their leader Craig (secretly named Marat), and searching in vain for his father's rumored gold, finding only old gear, a prayer book, and evidence of Pieta's guilt over Cassell.",
+   "fact_ids": [
+    "f0080",
+    "f0081",
+    "f0082",
+    "f0083",
+    "f0084",
+    "f0085",
+    "f0087",
+    "f0088",
+    "f0249",
+    "f0250"
+   ]
+  },
+  {
+   "id": "e017",
+   "order": 17,
+   "summary": "Cohen reconnected with the blind mercenary Vulk, whose shack was later attacked by soldiers hunting Cohen; Vulk killed them to protect him and eventually departed to face one last adventure alone, leaving Cohen his sword.",
+   "fact_ids": [
+    "f0089",
+    "f0169",
+    "f0090",
+    "f0251"
+   ]
+  },
+  {
+   "id": "e018",
+   "order": 18,
+   "summary": "Returning to the convent, Cohen and Anka discovered Leonica performing a ritual to try to free the cursed nuns; misunderstanding her intent, Cohen killed her mid-ritual, and Anka later returned alone to complete the ritual herself out of guilt, finally freeing the trapped souls.",
+   "fact_ids": [
+    "f0093",
+    "f0094",
+    "f0095",
+    "f0096",
+    "f0291",
+    "f0321",
+    "f0174"
+   ]
+  },
+  {
+   "id": "e019",
+   "order": 19,
+   "summary": "Investigating occult activity, Cohen and Craig uncovered the ruined laboratory of the long-dead sorcerer Silas, found catacombs linked to a mysterious manuscript language, and eventually located Saint Mihi himself, walled alive beneath the cathedral for centuries, who mistook Cohen for his betrayer Tobias before revealing the truth and naming Cohen a fellow 'dawn walker.'",
+   "fact_ids": [
+    "f0104",
+    "f0243",
+    "f0253",
+    "f0292",
+    "f0273",
+    "f0274",
+    "f0086",
+    "f0105",
+    "f0185",
+    "f0244",
+    "f0254"
+   ]
+  },
+  {
+   "id": "e020",
+   "order": 20,
+   "summary": "Seeking a translator for the strange manuscript, Craig and Cohen consulted the scholar Mevasa, learning of the legendary sorcerer Aurelius; after Sara was gravely wounded and mercy-killed by Craig, the two infiltrated Aurelius's tower, discovered his gargoyle-creation ritual, escaped a memory-based nightmare snare (where Cohen made peace with Alen's death), and killed him.",
+   "fact_ids": [
+    "f0178",
+    "f0179",
+    "f0180",
+    "f0181",
+    "f0182",
+    "f0183",
+    "f0176",
+    "f0177",
+    "f0106",
+    "f0255",
+    "f0275",
+    "f0276",
+    "f0277",
+    "f0322",
+    "f0323",
+    "f0256",
+    "f0184"
+   ]
+  },
+  {
+   "id": "e021",
+   "order": 21,
+   "summary": "Following clues from Aurelius's tower, Cohen found Hila, a girl kept eternally young for a decade by the fae-like Sanjani, reunited her spiritually with her now-adult brother Tonis, and negotiated her release from the Sanjani Tsarina in exchange for a ransom of human teeth, also learning that his own survival of sunlight stemmed from a trace of silver in his blood.",
+   "fact_ids": [
+    "f0072",
+    "f0073",
+    "f0147",
+    "f0186",
+    "f0187",
+    "f0188",
+    "f0189",
+    "f0190",
+    "f0191",
+    "f0192",
+    "f0193",
+    "f0241",
+    "f0153"
+   ]
+  },
+  {
+   "id": "e022",
+   "order": 22,
+   "summary": "Investigating disappearances tied to Baroness Zanthy, Cohen infiltrated her castle, discovered her horrific experiments on abducted girls including her monstrous daughter Heraclea, and ultimately killed both rather than accept Zanthy's offer of alliance.",
+   "fact_ids": [
+    "f0194",
+    "f0195",
+    "f0196",
+    "f0245",
+    "f0257",
+    "f0278",
+    "f0279",
+    "f0293"
+   ]
+  },
+  {
+   "id": "e023",
+   "order": 23,
+   "summary": "Cohen pursued the shattered fragments of Saint Mihi's sword from cobalt nests, fighting corrupted cave creatures, and had it reforged and magically empowered by a Yurashi blacksmith once she learned his intent to kill Brenis.",
+   "fact_ids": [
+    "f0250",
+    "f0268",
+    "f0269",
+    "f0270",
+    "f0271",
+    "f0294"
+   ]
+  },
+  {
+   "id": "e024",
+   "order": 24,
+   "summary": "Tracking reports of a mysterious female Verkier, Cohen met Lacra, a fellow progeny of Brenis; together they freed the Uryashi-imprisoned elder Isbrand, entered his fractured mind within Anahora to retrieve memories of Brenis's past, and Cohen absorbed Isbrand's dying essence to save his soul before his last spirit had to be put down.",
+   "fact_ids": [
+    "f0197",
+    "f0198",
+    "f0199",
+    "f0200",
+    "f0201",
+    "f0202",
+    "f0203",
+    "f0204",
+    "f0205",
+    "f0206",
+    "f0207",
+    "f0208",
+    "f0280",
+    "f0325",
+    "f0326",
+    "f0295",
+    "f0296",
+    "f0324"
+   ]
+  },
+  {
+   "id": "e025",
+   "order": 25,
+   "summary": "Learning of Brenis's boyer Ambress, Cohen allied with the vengeful noble Julen to poison Ambress's blood before a duel; after the duel, weakened by poison, Ambress was slain and his soul, offered a chance to return, was instead left trapped forever in Anahora, while Julen's own sacrifice was later honored with burial.",
+   "fact_ids": [
+    "f0209",
+    "f0210",
+    "f0211",
+    "f0212",
+    "f0213",
+    "f0214",
+    "f0281",
+    "f0282",
+    "f0328",
+    "f0215",
+    "f0216",
+    "f0329",
+    "f0007"
+   ]
+  },
+  {
+   "id": "e026",
+   "order": 26,
+   "summary": "Cohen and Anka sought the legendary Font of Life; after passing brutal trials and defeating the mummified guardians who had failed before them, Anka revealed she was decades older than she appeared and let Cohen drink from the font instead of herself, restoring his strength and beginning a romance between them.",
+   "fact_ids": [
+    "f0217",
+    "f0218",
+    "f0219",
+    "f0220",
+    "f0246",
+    "f0259",
+    "f0297",
+    "f0330",
+    "f0331",
+    "f0332"
+   ]
+  },
+  {
+   "id": "e027",
+   "order": 27,
+   "summary": "Approached by the servant Farcus, who sought to avenge his abused brother Ducen against their master Bakir, Cohen entered Bakir's masked lunar tournament, won by grim means, was denied a family ring in the treasury, killed Bakir, and gave the demonic ring to Farcus despite warning him of its danger; the ring's cursed magic later failed and drove Farcus mad.",
+   "fact_ids": [
+    "f0221",
+    "f0222",
+    "f0223",
+    "f0224",
+    "f0225",
+    "f0252",
+    "f0260",
+    "f0261",
+    "f0283",
+    "f0333",
+    "f0334",
+    "f0112"
+   ]
+  },
+  {
+   "id": "e028",
+   "order": 28,
+   "summary": "Cohen also crossed paths with Vicho, a reclusive Verkieri who abstained from human blood; investigating a double murder, Cohen and Vicho uncovered that the disgraced Dr. Simeon—desperate to cure disease and later himself transformed into a monster—was responsible, and after Vicho relapsed and killed innocents in a blackout, he chose to die at sunrise with Cohen at his side.",
+   "fact_ids": [
+    "f0100",
+    "f0101",
+    "f0173",
+    "f0113",
+    "f0114",
+    "f0115",
+    "f0226",
+    "f0227",
+    "f0228",
+    "f0229",
+    "f0262",
+    "f0284",
+    "f0335"
+   ]
+  },
+  {
+   "id": "e029",
+   "order": 29,
+   "summary": "Having proven himself, Cohen was voted into the Manummits (with only Dro dissenting) and was sent to investigate missing scouts, discovering that Brenis's forces were secretly building an army of gargoyle-creatures rather than recruiting soldiers, information relayed by a dying scout before Cohen destroyed one such creature at the ruined Church of St. Teotim.",
+   "fact_ids": [
+    "f0150",
+    "f0230",
+    "f0231",
+    "f0116",
+    "f0117",
+    "f0298",
+    "f0285",
+    "f0109",
+    "f0111",
+    "f0148"
+   ]
+  },
+  {
+   "id": "e030",
+   "order": 30,
+   "summary": "Seeking further power before the final confrontation, Cohen and Lacra shared painful personal memories—his brother's drowning, her childhood abuse—to draw mystical wisps that guided them to the overgrown lair of the ancient Verkier Kalas, hoping to find a way to protect themselves from Anahora or turn Brenis's ritual against him.",
+   "fact_ids": [
+    "f0144",
+    "f0248",
+    "f0258",
+    "f0208"
+   ]
+  },
+  {
+   "id": "e031",
+   "order": 31,
+   "summary": "With Brenis's coronation approaching, Cohen faced a final choice: negotiate with Brenis, join Catalin and the Manummits to storm the castle, or join Lacra to sabotage the ritual directly beneath Svatra.",
+   "fact_ids": [
+    "f0122",
+    "f0336",
+    "f0006"
+   ]
+  },
+  {
+   "id": "e032",
+   "order": 32,
+   "summary": "In the negotiation path, after killing all three of Brenis's boyers, Cohen met him at Shrikes Crag, where Brenis offered to spare and return his family in exchange for the Manummit hideout's location; accepting doomed the rebels to a massacre and left Brenis's regime intact, though ultimately fated to collapse in time.",
+   "fact_ids": [
+    "f0118",
+    "f0119",
+    "f0120",
+    "f0121",
+    "f0301",
+    "f0302",
+    "f0303",
+    "f0314"
+   ]
+  },
+  {
+   "id": "e033",
+   "order": 33,
+   "summary": "In the Manummit path, rebel and Catalin's forces prepared a joint assault to break the valley's blockade, though the operation had not yet begun when Cohen and Lacra infiltrated the castle alone, finding it already warped by encroaching Anahora corruption and Cohen's family fused horrifically into its growth.",
+   "fact_ids": [
+    "f0126",
+    "f0127",
+    "f0128",
+    "f0233",
+    "f0129",
+    "f0130",
+    "f0131",
+    "f0132",
+    "f0234"
+   ]
+  },
+  {
+   "id": "e034",
+   "order": 34,
+   "summary": "In the Lacra path, the pair descended into the ruins beneath Svatra and disrupted Brenis's ritual by destroying the blood conduit, an act Lacra knew was dangerous but necessary to prevent a greater catastrophe—though it instead caused the barrier between Anahora and reality to collapse uncontrollably around the castle, unleashing corpses, spectral entities, and possessed prisoners.",
+   "fact_ids": [
+    "f0123",
+    "f0124",
+    "f0125",
+    "f0232",
+    "f0344",
+    "f0008",
+    "f0009"
+   ]
+  },
+  {
+   "id": "e035",
+   "order": 35,
+   "summary": "Storming the throne room, Cohen and his allies found the desecrated body of the old Kinyaz; Craig sacrificed himself to save Catalin from Brenis, who then gravely wounded Catalin before fleeing, after which Cohen, refusing to let the cruel and opportunistic Catalin rule, killed him himself.",
+   "fact_ids": [
+    "f0136",
+    "f0137",
+    "f0138",
+    "f0235",
+    "f0139",
+    "f0133",
+    "f0134",
+    "f0135"
+   ]
+  },
+  {
+   "id": "e036",
+   "order": 36,
+   "summary": "Cohen finally found his family in the castle, missing only Luca; Brenis, boasting he no longer feared sunlight, revealed his plan to torture them all, but Cohen defeated him in physical combat before Brenis dragged them both into Anahora, transforming into a monstrous flayed form that Cohen also defeated—an unprecedented feat—though Brenis vanished into the wastelands still refusing to reveal Luca's fate.",
+   "fact_ids": [
+    "f0140",
+    "f0141",
+    "f0236",
+    "f0286",
+    "f0142",
+    "f0143",
+    "f0287",
+    "f0288"
+   ]
+  },
+  {
+   "id": "e037",
+   "order": 37,
+   "summary": "In the aftermath, Cohen learned at a cemetery that Luca was believed dead while the rest of his family survived; he reconciled quietly with his catatonic mother and estranged father, prepared a lethal potion meant to end Luca's suffering, and announced his departure from Veil Sangora, as Anka too left to seek a cure for her own corrupted body.",
+   "fact_ids": [
+    "f0304",
+    "f0305",
+    "f0306",
+    "f0307",
+    "f0237",
+    "f0264"
+   ]
+  },
+  {
+   "id": "e038",
+   "order": 38,
+   "summary": "Cohen instead found Luca alive but transformed into a mindless Muron—Brenis's final, twisted mercy; the mysterious dawn walker Nebaru, an arbiter of the Council of Augers (joined in one route by Lacra herself), revealed that Murons could be elevated into true Vrair and urged Cohen to leave the valley immediately before winter sealed the passes.",
+   "fact_ids": [
+    "f0151",
+    "f0238",
+    "f0308",
+    "f0309",
+    "f0310",
+    "f0311",
+    "f0337"
+   ]
+  },
+  {
+   "id": "e039",
+   "order": 39,
+   "summary": "That night, Cohen loaded Luca into a wagon and left the valley behind, in every ending entering the service of the Council of Augers as a new dawn walker; a post-credits glimpse reveals he survives into the modern era, still fighting Anahora's resurgent corruption.",
+   "fact_ids": [
+    "f0312",
+    "f0313",
+    "f0341"
+   ]
+  }
+ ]
+}

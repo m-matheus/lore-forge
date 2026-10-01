@@ -1,0 +1,1005 @@
+{
+ "entities": [
+  {
+   "name": "Witcher",
+   "kind": "faction",
+   "aliases": [
+    "Witchers",
+    "Witcher Order"
+   ]
+  },
+  {
+   "name": "Kaer Morhen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Witcher Steel Sword",
+   "kind": "weapon",
+   "aliases": [
+    "steel sword",
+    "sword for men",
+    "sword for fools"
+   ]
+  },
+  {
+   "name": "Witcher Silver Sword",
+   "kind": "weapon",
+   "aliases": [
+    "silver sword"
+   ]
+  },
+  {
+   "name": "Siderite",
+   "kind": "item",
+   "aliases": [
+    "star iron",
+    "meteorite iron"
+   ]
+  },
+  {
+   "name": "Gwyhyr",
+   "kind": "weapon",
+   "aliases": [
+    "gwyhyrs"
+   ]
+  },
+  {
+   "name": "Sihil",
+   "kind": "weapon",
+   "aliases": [
+    "dwarven sihils"
+   ]
+  },
+  {
+   "name": "Esterhazy of Fano",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Witcher Medallion",
+   "kind": "item",
+   "aliases": [
+    "medallion"
+   ]
+  },
+  {
+   "name": "Witcher Signs",
+   "kind": "mechanic",
+   "aliases": [
+    "Signs"
+   ]
+  },
+  {
+   "name": "Witcher Potions",
+   "kind": "item",
+   "aliases": [
+    "potions"
+   ]
+  },
+  {
+   "name": "Witcher Code",
+   "kind": "concept",
+   "aliases": [
+    "the code"
+   ]
+  },
+  {
+   "name": "Vesemir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Geralt of Rivia",
+   "kind": "character",
+   "aliases": [
+    "Geralt",
+    "White Wolf"
+   ]
+  },
+  {
+   "name": "Conjunction of the Spheres",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Jan Bekker",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "First Landing",
+   "kind": "event",
+   "aliases": [
+    "the Landing"
+   ]
+  },
+  {
+   "name": "Roderick de Novembre",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Magic (the Power)",
+   "kind": "concept",
+   "aliases": [
+    "the Power",
+    "the Art"
+   ]
+  },
+  {
+   "name": "Sources",
+   "kind": "concept",
+   "aliases": [
+    "source"
+   ]
+  },
+  {
+   "name": "Places of Power",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Elemental Planes",
+   "kind": "location",
+   "aliases": [
+    "Four Spheres",
+    "Elemental Planes"
+   ]
+  },
+  {
+   "name": "Genius (creature type)",
+   "kind": "enemy",
+   "aliases": [
+    "geniuses",
+    "marides",
+    "ifrits",
+    "d'ao",
+    "djinni"
+   ]
+  },
+  {
+   "name": "Agnes of Glanville",
+   "kind": "character",
+   "aliases": [
+    "Mistress Agnes of Glanville"
+   ]
+  },
+  {
+   "name": "Dimeritium",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Alzur",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Alzur's Thunder",
+   "kind": "item",
+   "aliases": [
+    "spell"
+   ]
+  },
+  {
+   "name": "Yennefer of Vengerberg",
+   "kind": "character",
+   "aliases": [
+    "Yennejer"
+   ]
+  },
+  {
+   "name": "Dorregaray",
+   "kind": "character",
+   "aliases": [
+    "Master Dorregaray"
+   ]
+  },
+  {
+   "name": "Ban Ard Sorcerer's School",
+   "kind": "location",
+   "aliases": [
+    "Ban Ard"
+   ]
+  },
+  {
+   "name": "Old Conclave",
+   "kind": "faction",
+   "aliases": [
+    "Conclave"
+   ]
+  },
+  {
+   "name": "Necromancy",
+   "kind": "concept",
+   "aliases": [
+    "goetia",
+    "demonology"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Witchers study creatures extensively through ancient tomes, records, and oral and written legends before facing them.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before accepting a contract, a witcher must investigate by talking to witnesses, identifying victims, examining the attack scene, and following trails.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A band of armed assailants once broke into Kaer Morhen and stole some of the witchers' secret knowledge.",
+   "entities": [
+    "Kaer Morhen",
+    "Witcher"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher steel swords are commonly called 'star iron' swords because they are often forged from siderite, an iron meteorite.",
+   "entities": [
+    "Witcher Steel Sword",
+    "Siderite"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to a rejected manuscript, siderite meteorites absorb elemental energy while falling through the Spheres of Fire, Air, Earth, and Water, giving the resulting steel magical properties.",
+   "entities": [
+    "Siderite",
+    "Elemental Planes"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Not all witcher steel swords are made from siderite; some are made from magnetite ore or hematite ore.",
+   "entities": [
+    "Witcher Steel Sword",
+    "Esterhazy of Fano"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Esterhazy of Fano is a master swordsmith who wrote about witcher and dwarven weapon-making in 'Tales of Weapons'.",
+   "entities": [
+    "Esterhazy of Fano"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dwarven sihils incorporate ancient gnomish grinding and sharpening techniques but are considered inferior to ancient gnomish gwyhyr swords.",
+   "entities": [
+    "Sihil",
+    "Gwyhyr"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gwyhyrs were ancient gnomish swords made of hollowed dark steel, flame-bladed and extremely sharp, capable of cutting a floating batiste shawl in half.",
+   "entities": [
+    "Gwyhyr"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Original gwyhyr swords are extremely rare and command very high prices.",
+   "entities": [
+    "Gwyhyr"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Magnetite steel is extremely hard and difficult to sharpen, so its core is usually sheathed in softer steel for honing.",
+   "entities": [
+    "Witcher Steel Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Every witcher owns two swords, commonly called steel and silver, custom-made to the wielder's size, weight, and grip.",
+   "entities": [
+    "Witcher",
+    "Witcher Steel Sword",
+    "Witcher Silver Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The silver sword is not made entirely of silver; its core and edges are steel coated in silver, since silver alone is too soft to sharpen properly.",
+   "entities": [
+    "Witcher Silver Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The silver sword is fragile and should not be used to parry blows.",
+   "entities": [
+    "Witcher Silver Sword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The silver sword is used mainly against creatures born of magic, including relics of the Conjunction of the Spheres and beings created by curses or magical summoning.",
+   "entities": [
+    "Witcher Silver Sword",
+    "Conjunction of the Spheres"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher steel swords earned the derogatory nickname 'swords for men' because they are primarily used against humans who threaten witchers out of hatred, greed, or resentment.",
+   "entities": [
+    "Witcher Steel Sword"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some witchers historically referred to their steel swords as 'swords for fools' because so many foolish people tried to kill witchers and were killed instead.",
+   "entities": [
+    "Witcher Steel Sword"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Albert Braas wrote about the Witcher Code in his work 'Nordling Tribal Customs', describing it as a strict set of rules governing witcher conduct, most of which remain secret.",
+   "entities": [
+    "Witcher Code",
+    "Albert Braas"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The witcher medallion serves as both a professional insignia and a magical tool.",
+   "entities": [
+    "Witcher Medallion"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The witcher medallion reacts to nearby sorcerous auras, spellcasting, illusions, and magical creatures, and warns of sudden danger.",
+   "entities": [
+    "Witcher Medallion"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The witcher medallion can behave abnormally near very strong magical auras, such as Places of Power or during solstices, or in cities full of magical amulets and alarms.",
+   "entities": [
+    "Witcher Medallion",
+    "Places of Power"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher Signs are simple compared to true sorcery but require only concentration and a small gesture, useful since one of a witcher's hands is often occupied by a sword.",
+   "entities": [
+    "Witcher Signs"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Learning Signs requires only minimal magical talent, unlike full sorcery.",
+   "entities": [
+    "Witcher Signs"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher potions are brewed from ingredients such as monster organs and rare herbs, and are typically lethal or harmful to ordinary humans.",
+   "entities": [
+    "Witcher Potions"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are inured to potions from childhood training but still suffer ill effects and must take precise doses.",
+   "entities": [
+    "Witcher Potions",
+    "Witcher"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witcher potions increase toxin resistance, boost regeneration, enhance concentration for casting Signs, speed reflexes, and increase pain tolerance.",
+   "entities": [
+    "Witcher Potions"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Overdosing on witcher potions can be fatal, a known occupational hazard for witchers.",
+   "entities": [
+    "Witcher Potions"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers spend winters at Kaer Morhen resting, restocking potions, repairing equipment, and reuniting with other witchers.",
+   "entities": [
+    "Witcher",
+    "Kaer Morhen"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In spring, witchers travel the world seeking work by asking innkeepers, reeves, and village aldermen, or checking notices posted at crossroads.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are often received with hostility upon arriving in settlements, sometimes facing thrown objects, but friendlier receptions usually mean there is work available.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A witcher may refuse any contract that is beneath his dignity, offers inadequate pay, or seems unwinnable.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Payment for witcher contracts is negotiated beforehand and typically paid as a lump sum after job completion, sometimes with an advance for long jobs.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers accept coin from villagers but prefer bank transfers or checks from wealthy clients, redeemable at dwarven banks.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers maintain neutrality, refusing to take sides in the world's political or religious conflicts, which allows them to work regardless of circumstances.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "An anonymous quote attributed to Vesemir states that while witchers claim neutrality, sometimes a witcher must act against grave injustice, then walk away expecting no thanks.",
+   "entities": [
+    "Vesemir"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Geralt once was approached by a duke to find a girl who rejected his advances and fled leaving a shoe, a task Geralt argued was suited for a huntsman, not a witcher.",
+   "entities": [
+    "Geralt of Rivia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "There is no single official 'Witcher Code'; the term is used by Geralt to describe his personal principles, and every witcher effectively has his own code.",
+   "entities": [
+    "Witcher Code",
+    "Geralt of Rivia"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Citing 'the code' is useful for witchers to politely decline undesirable jobs, and people tend to respect those seen as following principles.",
+   "entities": [
+    "Witcher Code"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers exist specifically to kill monsters that threaten human life, not sapient beings, harmless creatures, or exotic species.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers are not knights-errant fighting for glory; they work strictly for money.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Witchers do not act as law enforcement pursuing bandits, and do not take sides in wars among rulers.",
+   "entities": [
+    "Witcher"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Magic is often called 'the Art' because it requires rare creative talent and artistry.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Magic is also described as chaos incarnate, a dangerous and destructive primal force that emerged from the Conjunction of the Spheres.",
+   "entities": [
+    "Magic (the Power)",
+    "Conjunction of the Spheres"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Magic is also viewed as a science, a discipline of study and progress that began with the Conjunction of the Spheres.",
+   "entities": [
+    "Magic (the Power)",
+    "Conjunction of the Spheres"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to legend, sorcerer Jan Bekker calmed the ocean's waves during the First Landing by harnessing the Power, commanding the elements to submit to Art, Chaos, and Science.",
+   "entities": [
+    "Jan Bekker",
+    "First Landing"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "A skeptical academic lecture claims Jan Bekker actually harnessed the Power only after the First Landing, and during the crossing he suffered seasickness like everyone else.",
+   "entities": [
+    "Jan Bekker",
+    "First Landing"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 5
+  },
+  {
+   "text": "Roderick de Novembre wrote 'The History of the World,' which recounts the legend of Jan Bekker calming the seas.",
+   "entities": [
+    "Roderick de Novembre",
+    "Jan Bekker"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Individuals with magical talent first began appearing shortly after the Conjunction of the Spheres, mostly as children showing natural magical inclination.",
+   "entities": [
+    "Conjunction of the Spheres"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Sources are individuals with wild, uncontrolled magical talent who act as involuntary conduits for the Power and often have prophetic tendencies.",
+   "entities": [
+    "Sources"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A source's magical abilities usually remain dormant until they manifest suddenly and violently, often causing destructive, uncontrolled effects.",
+   "entities": [
+    "Sources"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Trained sources can learn to control and refine their abilities to become powerful sorcerers.",
+   "entities": [
+    "Sources"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before magic's mechanisms were understood, both sources and other magically touched individuals were ostracized and feared.",
+   "entities": [
+    "Sources"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers channel the Power flowing through nature and bound within the four elements, since casting spells using only personal vitality is dangerous and can cause weakness, unconsciousness, or death.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to Mistress Agnes of Glanville's writing, only cats and dragons among earthly creatures can channel the Power, and both are drawn to magical intersections that other animals avoid.",
+   "entities": [
+    "Agnes of Glanville"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some scholars theorize dragons use accumulated Power to enable flight, since their size and mass should make natural flight physically impossible.",
+   "entities": [
+    "Agnes of Glanville"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some scholars believe cats use the Power to perceive invisible beings and other-dimensional creatures.",
+   "entities": [
+    "Agnes of Glanville"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Novice sorcerers experience 'contraction,' an uncontrolled acquisition of magical energy that usually causes harmless shocks but can lead to severe harm if precautions are ignored.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Reckless channeling of the Power can cause hemorrhage, nerve shock, blindness, coma, permanent sensory delusions, madness, or catatonia.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Places of Power are locations with extremely high circulation of magical energy, often found at tectonic plate boundaries, water vein intersections, volcanic zones, swamps, and windswept cliffs.",
+   "entities": [
+    "Places of Power"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers often build towers at Places of Power, and many such sites were historically places of worship with megaliths and temples.",
+   "entities": [
+    "Places of Power"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Water is considered the safest and most moderate element for inexperienced sorcerers to learn channeling, especially at water vein intersections.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The sea is a powerful but dangerous source of magical energy due to its dynamism, best used only by experienced sorcerers.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Earth is a widely accessible element but inefficient for channeling due to its static nature, though mastery grants exceptional power.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Air is easier to draw upon than earth but requires great skill due to its capricious, dynamic nature.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fire provides energy quickly but is the most dangerous and unpredictable element, easiest to 'contract' upon, and especially risky for sources.",
+   "entities": [
+    "Magic (the Power)",
+    "Sources"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The four Elemental Planes (Fire, Water, Earth, Air) are inhabited by beings called geniuses, each aligned with one element: marides (water), ifrits (fire), d'ao (earth), and djinni (air).",
+   "entities": [
+    "Elemental Planes",
+    "Genius (creature type)"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The word 'genie' derives from djinni, the air-aligned geniuses of the Elemental Planes.",
+   "entities": [
+    "Genius (creature type)"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Powerful sorcerers can sometimes bind a genius to gain near-omnipotent magical power, drawing energy directly from it instead of traditional channeling.",
+   "entities": [
+    "Genius (creature type)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "This information on geniuses comes from Giambattista's 'Elemental Empires.'",
+   "entities": [
+    "Genius (creature type)"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dimeritium is a rare bluish metal that blocks magic by limiting the flow of the Power around it.",
+   "entities": [
+    "Dimeritium"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dimeritium alloyed with iron is used to make shackles that prevent spellcasters from using magic; its touch causes nausea and vertigo.",
+   "entities": [
+    "Dimeritium"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The most powerful mages can build immunity to dimeritium over time or temporarily neutralize its anti-magic aura.",
+   "entities": [
+    "Dimeritium"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Casting a spell typically requires uttering a magical formula and performing gestures, but the essential requirements are deep concentration and expenditure of accumulated energy.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A sorcerer can only use as much Power as they have channeled; attempting to use more causes severe harm to their own body.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sorcerers must use only the precise amount of Power needed for a spell's effect, as wasting excess energy on simple tasks is a common novice mistake.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Clear, firm incantation and concise gestures are important for successful spellcasting; stammering can cause spell failure or even fatal magical backlash.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The sorcerer Alzur was famous for his powerful voice and superior diction, which let him cast even highly complex spells with ease.",
+   "entities": [
+    "Alzur"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Alzur's Thunder is a spell capable of killing half a dozen men at once, but it is rarely used because its incantation is extremely complex.",
+   "entities": [
+    "Alzur's Thunder",
+    "Alzur"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wands and magical staves are common substitutes for hand gestures in spellcasting.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to an anecdote, sorceress Yennefer of Vengerberg once cast a spell using her leg for gesticulation, witnessed by Master Dorregaray in the Kestrel Mountains.",
+   "entities": [
+    "Yennefer of Vengerberg",
+    "Dorregaray"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A letter from Ban Ard Sorcerer's School describes students getting drunk and staging an obscene contest trying to replicate Yennefer's leg-casting feat during Belleteyn celebrations.",
+   "entities": [
+    "Ban Ard Sorcerer's School",
+    "Yennefer of Vengerberg"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Spells are formally classified into categories including psychokinetic spells, illusions, divination, transformations, and creation magic, the last considered the pinnacle of sorcery.",
+   "entities": [
+    "Magic (the Power)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Necromancy and demonology (goetia) are forbidden magic disciplines banned by the edicts of the old Conclave due to being dangerous and unethical.",
+   "entities": [
+    "Necromancy",
+    "Old Conclave"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before restrictions were imposed, unrestricted practice of necromancy and demonology caused hundreds of accidental deaths among sorcerers and bystanders.",
+   "entities": [
+    "Necromancy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-e8cf1fe4"
+}

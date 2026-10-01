@@ -1,0 +1,1354 @@
+{
+ "entities": [
+  {
+   "name": "Veil Sangora",
+   "kind": "location",
+   "aliases": [
+    "Vale Sangora"
+   ]
+  },
+  {
+   "name": "Kinyaz Scender Dragosti",
+   "kind": "character",
+   "aliases": [
+    "Kenya Scender",
+    "Kenyaz Scander"
+   ]
+  },
+  {
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": [
+    "Dawnwalker"
+   ]
+  },
+  {
+   "name": "Luca",
+   "kind": "character",
+   "aliases": [
+    "Lukа"
+   ]
+  },
+  {
+   "name": "Brenis",
+   "kind": "character",
+   "aliases": [
+    "Kinyaz Brenis",
+    "Kenyaz Brenis"
+   ]
+  },
+  {
+   "name": "Vrakieri",
+   "kind": "faction",
+   "aliases": [
+    "Verkieri",
+    "Vrair",
+    "Viri",
+    "Vrakier"
+   ]
+  },
+  {
+   "name": "Ambress",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Bakir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Zanthy",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lazla",
+   "kind": "location",
+   "aliases": [
+    "Lasa",
+    "Laza"
+   ]
+  },
+  {
+   "name": "Esme",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Pieta",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Anka",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vladimir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Craig",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Manommits",
+   "kind": "faction",
+   "aliases": [
+    "Manummits",
+    "Manits"
+   ]
+  },
+  {
+   "name": "Uryashi",
+   "kind": "faction",
+   "aliases": [
+    "Urashi",
+    "goatfaces"
+   ]
+  },
+  {
+   "name": "Costl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vulk",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Mert",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rena",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sarah",
+   "kind": "character",
+   "aliases": [
+    "Sara"
+   ]
+  },
+  {
+   "name": "Dro",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Stonewood Post",
+   "kind": "location",
+   "aliases": [
+    "Stoneward Post"
+   ]
+  },
+  {
+   "name": "Leonica",
+   "kind": "character",
+   "aliases": [
+    "Leonuka"
+   ]
+  },
+  {
+   "name": "Bernice",
+   "kind": "character",
+   "aliases": [
+    "Mother Superior Bernice"
+   ]
+  },
+  {
+   "name": "St. Tina's Convent",
+   "kind": "location",
+   "aliases": [
+    "Saint Tina's Convent"
+   ]
+  },
+  {
+   "name": "Saint Mihi",
+   "kind": "character",
+   "aliases": [
+    "Mihi"
+   ]
+  },
+  {
+   "name": "Cassell",
+   "kind": "location",
+   "aliases": [
+    "Castile"
+   ]
+  },
+  {
+   "name": "Marrair Monastery",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Shrikes Crag",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svatra",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Atanis",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vassel",
+   "kind": "character",
+   "aliases": [
+    "Veil"
+   ]
+  },
+  {
+   "name": "Premil",
+   "kind": "character",
+   "aliases": [
+    "Premzel",
+    "Premisel"
+   ]
+  },
+  {
+   "name": "Gremla",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Gavl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lazar",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Father Floren",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Cobalts",
+   "kind": "enemy",
+   "aliases": [
+    "Cobalt brood"
+   ]
+  },
+  {
+   "name": "Sancti Mihi Histori Vera",
+   "kind": "item",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The story begins in the year 1347, during the Black Death pandemic sweeping across Europe.",
+   "entities": [
+    "Veil Sangora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Veil Sangora is a principality located deep in the Carpathian Mountains.",
+   "entities": [
+    "Veil Sangora"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kinyaz Scender Dragosti ruled Veil Sangora, having taken the throne in 1324 after his father died in a hunting accident.",
+   "entities": [
+    "Kinyaz Scender Dragosti",
+    "Veil Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Kinyaz Scender Dragosti ruled through fear and cruelty beyond that of his predecessors.",
+   "entities": [
+    "Kinyaz Scender Dragosti"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "After nine years of oppression, the people of Veil Sangora rose against Kinyaz Scender Dragosti.",
+   "entities": [
+    "Kinyaz Scender Dragosti"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Kinyaz Scender Dragosti crushed the uprising at Shrikes Crag, massacring the peasants and leaving no survivors.",
+   "entities": [
+    "Kinyaz Scender Dragosti",
+    "Shrikes Crag"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "On a full moon night in 1347, a peasant named Cohen fled with his dying sister Luca from soldiers of Kinyaz Scender Dragosti who were ordered to kill anyone showing signs of plague infection.",
+   "entities": [
+    "Cohen",
+    "Luca",
+    "Kinyaz Scender Dragosti"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Cohen and Luca were cornered by soldiers among the ruins of an old church.",
+   "entities": [
+    "Cohen",
+    "Luca"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Four vampires called Vrakieri, led by Brenis, ambushed and killed Kinyaz Scender Dragosti's soldiers at the church.",
+   "entities": [
+    "Brenis",
+    "Vrakieri",
+    "Kinyaz Scender Dragosti"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "A Vrakieri is created when another Vrakieri pierces a human's heart with one of their fangs.",
+   "entities": [
+    "Vrakieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vrakieri do not age and heal from wounds almost instantly.",
+   "entities": [
+    "Vrakieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vrakieri are not harmed by crucifixes or garlic, but silver and sunlight pose a genuine threat to them.",
+   "entities": [
+    "Vrakieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vrakieri need human blood to survive.",
+   "entities": [
+    "Vrakieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cohen begged Brenis to save his dying sister Luca, and Brenis healed her plague symptoms by giving her some of his tainted blood.",
+   "entities": [
+    "Cohen",
+    "Brenis",
+    "Luca"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Brenis claimed he had watched Veil Sangora for years and had decided to change its fate.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "The Vrakieri drained Kinyaz Scender Dragosti of all his blood as he begged for mercy, killing him.",
+   "entities": [
+    "Brenis",
+    "Kinyaz Scender Dragosti"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "That same night, Brenis and his three boyers, Ambress, Bakir, and Zanthy, seized control of Veil Sangora.",
+   "entities": [
+    "Brenis",
+    "Ambress",
+    "Bakir",
+    "Zanthy",
+    "Veil Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Brenis and his boyers slaughtered most of the local nobility, turning some into blood donors and others into court jesters.",
+   "entities": [
+    "Brenis",
+    "Ambress",
+    "Bakir",
+    "Zanthy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Brenis instituted a weekly Blood Mass where the Vrakieri drink blood from every resident of Veil Sangora in every local church.",
+   "entities": [
+    "Brenis",
+    "Vrakieri",
+    "Veil Sangora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "In return for blood, the Vrakieri share drops of their cursed blood with commoners, curing plague and granting immunity to disease.",
+   "entities": [
+    "Vrakieri",
+    "Veil Sangora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Brenis abolished all taxes except the blood tithe owed to the Vrakieri rulers.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Under Brenis's rule, the only passage into Veil Sangora was sealed, preventing anyone from entering or leaving.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Most soldiers of Veil Sangora swore allegiance to Brenis and were forbidden from killing the human population, who were treated as valuable livestock.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Brenis banned all silver in Veil Sangora, punishable by death, because it can harm the Vrakieri.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora",
+    "Vrakieri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "By 1349, two years after the Vrakieri takeover, the mining village of Lazla still had to pay the blood tithe.",
+   "entities": [
+    "Lazla",
+    "Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen's mother Esme suffered a mental breakdown after her son Alen drowned, the plague struck, and the Vrakieri took power.",
+   "entities": [
+    "Esme",
+    "Cohen",
+    "Alen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Esme became too weak to attend the blood mass, putting her at risk of being deemed worthless and killed by the Vrakieri.",
+   "entities": [
+    "Esme",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen's father Pieta sent him to the village herbalist Anka for a tonic to help Esme.",
+   "entities": [
+    "Pieta",
+    "Cohen",
+    "Anka",
+    "Esme"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "While fishing with his siblings Jana, Lunka, and Meto, Cohen was confronted by one of Brenis's soldiers asking about Pieta.",
+   "entities": [
+    "Cohen",
+    "Jana",
+    "Lunka",
+    "Meto",
+    "Pieta",
+    "Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "An Uryashi commander intervened to stop the soldier from threatening Cohen's sister Jana.",
+   "entities": [
+    "Uryashi",
+    "Cohen",
+    "Jana"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "The Uryashi are a humanoid mountain people with great physical strength who are derogatorily called goatfaces by humans.",
+   "entities": [
+    "Uryashi"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Vrakieri takeover, Brenis invited the Uryashi into his service, and many left their mountain villages to serve him.",
+   "entities": [
+    "Brenis",
+    "Uryashi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Anka was found washing hands covered in strange occult symbols, which she refused to explain to Cohen.",
+   "entities": [
+    "Anka",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen found his father Pieta arguing with neighbor Vladimir about time running out for a secret plan.",
+   "entities": [
+    "Pieta",
+    "Vladimir",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Esme was coaxed into drinking her medicine after Cohen sang her a childhood lullaby about a little angel.",
+   "entities": [
+    "Esme",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Pieta revealed he has years of military service and tested Cohen's swordsmanship in a sparring match.",
+   "entities": [
+    "Pieta",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Vladimir was connected to a rebel cell in Svatra, the capital of Veil Sangora, planning an uprising against Vrakieri rule.",
+   "entities": [
+    "Vladimir",
+    "Svatra",
+    "Veil Sangora"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Vladimir asked Pieta to lead the men of Lazla to an abandoned silver mine to extract silver, which harms the Vrakieri.",
+   "entities": [
+    "Vladimir",
+    "Pieta",
+    "Lazla",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen fought and beat the village bully Vassel after Vassel insulted him and his mother.",
+   "entities": [
+    "Cohen",
+    "Vassel"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Vassel's father Atanis had been abusing his son since childhood, which Cohen discovered when Atanis demanded Cohen beat Vassel further.",
+   "entities": [
+    "Atanis",
+    "Vassel",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "An old woman named Gremla was distraught after the banner she wove for Brenis's blood mass was stolen.",
+   "entities": [
+    "Gremla",
+    "Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "The villager Premil stole Gremla's banner to protest it hanging in the church in place of the cross, and Cohen convinced him to return it to protect Gremla from punishment.",
+   "entities": [
+    "Premil",
+    "Gremla",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "A villager named Gavl asked Cohen to find his missing brother Lazar in the marshes.",
+   "entities": [
+    "Gavl",
+    "Lazar",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen discovered that Lazar had been killed inside a cave after fleeing a wolf attack, and someone had murdered him there deliberately.",
+   "entities": [
+    "Lazar",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Inside the cave, Cohen found an ancient tomb of a great warrior woman who fought the Vrakieri long ago and chose to burn herself rather than be turned into one.",
+   "entities": [
+    "Cohen",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 0
+  },
+  {
+   "text": "Cohen defeated an undead guardian protecting the ancient warrior's tomb in the cave.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "The banner used in Brenis's blood mass depicted a hellish scene with a tree impaling bodies, a lake of blood, feasting Vrakieri, and a three-eyed fanged god-like entity.",
+   "entities": [
+    "Brenis",
+    "Vrakieri"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vladimir told Cohen the resistance planned to attack the silver mine while Brenis was away, with approval from resistance leader Craig.",
+   "entities": [
+    "Vladimir",
+    "Brenis",
+    "Craig"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Father Floren preached in the church, portraying Brenis as a savior who protected the people from plague, war, and famine.",
+   "entities": [
+    "Father Floren",
+    "Brenis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "During the blood mass, villagers drank a sip of Brenis's blood from a communion chalice and then gave their own blood into a baptismal font.",
+   "entities": [
+    "Brenis",
+    "Veil Sangora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Brenis singled out the weakened Esme at the blood mass, calling her a sickly sheep to be culled, prompting Cohen to publicly call him a monster.",
+   "entities": [
+    "Brenis",
+    "Esme",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Pieta decided to lead the miners in a defense of the silver mine after realizing Esme's death was otherwise inevitable.",
+   "entities": [
+    "Pieta",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Brenis's soldiers attacked the silver mine, having learned of the rebels' plan in advance.",
+   "entities": [
+    "Brenis",
+    "Pieta",
+    "Vladimir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "During the mine battle, black mist and blood-red moths burst in and knocked Cohen unconscious.",
+   "entities": [
+    "Cohen",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen, sensing blood from wounded miner Costl, lost control and bit him, feeding on his blood.",
+   "entities": [
+    "Cohen",
+    "Costl"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "While feeding, Cohen recalled that Brenis had torn out one of his own fangs and pierced Cohen's heart with it, turning him into a Vrakieri.",
+   "entities": [
+    "Cohen",
+    "Brenis",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Pieta had begged Brenis to spare Cohen's life, and Brenis granted the request by turning Cohen instead of killing him.",
+   "entities": [
+    "Pieta",
+    "Brenis",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Costl attacked the newly turned Cohen with a dagger, causing both to fall into a mineshaft.",
+   "entities": [
+    "Costl",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "After the fall, Cohen's broken bones healed instantly and he discovered he could dissolve into black mist to cross gaps.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Newly turned, Cohen discovered he could climb walls and ceilings, ignoring gravity.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen encountered and killed a brood of cave-dwelling creatures called cobalts after being turned.",
+   "entities": [
+    "Cohen",
+    "Cobalts"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Cohen emerged from the caves to find his village Lazla burned and its people killed or taken by Brenis's forces.",
+   "entities": [
+    "Cohen",
+    "Lazla",
+    "Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Brenis forced Pieta to watch the destruction of Lazla, blaming him for the villagers' resistance to the blood tithe.",
+   "entities": [
+    "Brenis",
+    "Pieta",
+    "Lazla"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Brenis cut Pieta to tempt Cohen's bloodlust, but Cohen restrained himself and refused to kill his father.",
+   "entities": [
+    "Brenis",
+    "Pieta",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Brenis defeated Cohen in battle and bit him, but Cohen's blood burned and weakened Brenis from within.",
+   "entities": [
+    "Brenis",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Brenis pinned Cohen to a tree with a pickaxe and left him to die at dawn, unable to understand why Cohen's blood harmed him.",
+   "entities": [
+    "Brenis",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Cohen survived being impaled and left in sunlight, later found alive by Anka who nursed him back to health.",
+   "entities": [
+    "Cohen",
+    "Anka"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Cohen discovered he does not burn in sunlight, unlike ordinary Vrakieri, making him an unprecedented and dangerous anomaly.",
+   "entities": [
+    "Cohen",
+    "Vrakieri"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Cohen transforms into a Vrakieri at night but remains human by day, an unexplained unique condition.",
+   "entities": [
+    "Cohen",
+    "Vrakieri"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Anka used a ritual involving runes carved into Cohen's flesh to unlock hidden magical perception, allowing him to see beyond ordinary reality.",
+   "entities": [
+    "Anka",
+    "Cohen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Anka used necromantic magic to question a dead soldier, learning that the villagers of Lazla were taken to Brenis's castle dungeons for his coronation.",
+   "entities": [
+    "Anka",
+    "Cohen",
+    "Brenis",
+    "Lazla"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Brenis's coronation, where the captured villagers' blood would be used, was set to occur in 30 days.",
+   "entities": [
+    "Brenis",
+    "Lazla"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Anka once served as a novice at St. Tina's Convent, where forbidden magical books were kept.",
+   "entities": [
+    "Anka",
+    "St. Tina's Convent"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Anka was expelled from St. Tina's Convent by Mother Superior Bernice after being caught practicing magic.",
+   "entities": [
+    "Anka",
+    "Bernice",
+    "St. Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Cohen must defeat Brenis's three boyers, Ambress, Bakir, and Zanthy, before confronting Brenis himself.",
+   "entities": [
+    "Cohen",
+    "Brenis",
+    "Ambress",
+    "Bakir",
+    "Zanthy"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cohen learned that the miller Mert was a member of the resistance group called the Manommits.",
+   "entities": [
+    "Cohen",
+    "Mert",
+    "Manommits"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Mert was captured and imprisoned at Stonewood Post after being suspected of belonging to the rebel cell.",
+   "entities": [
+    "Mert",
+    "Stonewood Post"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Cohen infiltrated Stonewood Post, freed Mert, and fought his way out after learning of a resistance meeting point.",
+   "entities": [
+    "Cohen",
+    "Mert",
+    "Stonewood Post"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Cohen rescued the rebel Sarah from Brenis's soldiers near a bridge, and she led him toward the Manommit camp.",
+   "entities": [
+    "Cohen",
+    "Sarah",
+    "Manommits",
+    "Brenis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Sarah led Cohen into an ambush by the Manommits, who captured him using a silver chain.",
+   "entities": [
+    "Sarah",
+    "Cohen",
+    "Manommits",
+    "Dro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Manommit leader Craig was skeptical of Cohen but agreed to consider an alliance if Cohen kept disrupting Brenis's forces.",
+   "entities": [
+    "Craig",
+    "Cohen",
+    "Brenis",
+    "Manommits"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Cohen met Vulk, a blind old mercenary and former comrade of his father Pieta, living in an isolated shack.",
+   "entities": [
+    "Vulk",
+    "Pieta",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Vulk and Pieta had been mercenaries together, fighting in Ireland, Constantinople, and for the King of France.",
+   "entities": [
+    "Vulk",
+    "Pieta"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Pieta retired from mercenary life about 20 years earlier after the Battle of Cassell.",
+   "entities": [
+    "Pieta",
+    "Cassell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Vulk was captured and tortured five years before the story, losing his eyes, before eventually finding Pieta in Veil Sangora.",
+   "entities": [
+    "Vulk",
+    "Pieta",
+    "Veil Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Cohen and Vulk searched unsuccessfully for gold Pieta supposedly received from the King of France after the Battle of Cassell.",
+   "entities": [
+    "Cohen",
+    "Vulk",
+    "Pieta",
+    "Cassell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Cohen found only his father's old equipment and a prayer book from Marrair Monastery in a hidden cache instead of gold.",
+   "entities": [
+    "Cohen",
+    "Pieta",
+    "Marrair Monastery"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "A monk at Marrair Monastery revealed that Pieta had donated all his gold to build a scriptorium, seeking atonement for burning the city of Cassell and its people.",
+   "entities": [
+    "Pieta",
+    "Marrair Monastery",
+    "Cassell"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "After Cohen's visits, soldiers attacked Vulk's shack looking for Cohen, but Vulk killed them rather than betray him.",
+   "entities": [
+    "Vulk",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Vulk left Cohen his sword and a note saying he was leaving for one last adventure rather than remain a burden.",
+   "entities": [
+    "Vulk",
+    "Cohen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Cohen raided Vrakieri boyer camps and caravans to disrupt their logistics and gain combat experience.",
+   "entities": [
+    "Cohen",
+    "Vrakieri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "St. Tina's Convent became shrouded in a permanent unnatural fog after the plague struck the pilgrims who sought refuge there.",
+   "entities": [
+    "St. Tina's Convent"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Anka and Cohen found the convent's novices resurrected as undead, singing prayers and attacking intruders.",
+   "entities": [
+    "Anka",
+    "Cohen",
+    "St. Tina's Convent"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Anka discovered a hidden forbidden library at St. Tina's Convent as a novice and shared the secret with her friend Leonica.",
+   "entities": [
+    "Anka",
+    "Leonica",
+    "St. Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Leonica betrayed Anka by reporting her interest in magic to Mother Superior Bernice, resulting in Anka's expulsion.",
+   "entities": [
+    "Leonica",
+    "Anka",
+    "Bernice"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Only four people knew of the convent's forbidden library: Anka, Leonica, Mother Superior Bernice, and caretaker Anel.",
+   "entities": [
+    "Anka",
+    "Leonica",
+    "Bernice"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pilgrims at St. Tina's Convent tore apart the corpse of Saint Tina hoping her relics would cure the plague, but it failed.",
+   "entities": [
+    "St. Tina's Convent",
+    "Saint Mihi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Some nuns sacrificed themselves to hide fragments of Saint Tina's relics; those killed by pilgrims rather than plague did not rise as undead.",
+   "entities": [
+    "St. Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Cohen rang the convent's bells to trigger the undead nuns' ingrained routine of gathering for prayer, clearing a path to the library.",
+   "entities": [
+    "Cohen",
+    "St. Tina's Convent"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "In the convent catacombs, Anka and Cohen found Leonica performing a blood ritual using occult symbols matching those on Anka's hands and Cohen's skin.",
+   "entities": [
+    "Leonica",
+    "Anka",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Leonica explained she had prayed for God to save the convent from plague, received no answer, then turned to forbidden manuscripts and made a bargain with an entity with burning eyes and tentacles.",
+   "entities": [
+    "Leonica"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Leonica's bargain resulted in the infected nuns being cursed to rot alive without dying, their souls trapped in decaying bodies.",
+   "entities": [
+    "Leonica",
+    "St. Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Cohen killed Leonica during her ritual on Anka's warning, only to learn afterward that Leonica had been trying to break the curse and free the nuns' souls.",
+   "entities": [
+    "Cohen",
+    "Leonica",
+    "Anka"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Feeling responsible for the tragedy, Anka completed the ritual herself to free the cursed nuns' souls, and afterward the undead nuns vanished.",
+   "entities": [
+    "Anka",
+    "St. Tina's Convent"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Among the recovered forbidden books was one titled Sancti Mihi Histori Vera, written in invisible ink, revealing that Saint Mihi actually fought the Vrakieri rather than dragons as commonly believed.",
+   "entities": [
+    "Sancti Mihi Histori Vera",
+    "Saint Mihi",
+    "Vrakieri"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-5f491777"
+}
