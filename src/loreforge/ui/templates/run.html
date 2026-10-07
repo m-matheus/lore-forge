@@ -140,7 +140,7 @@
           <!-- THUMBNAIL: style references, title override, variants -->
           <template x-if="step.id === 'thumbnail'">
             <div>
-              <label>Reference thumbnail <small class="muted">(recreated as closely as possible for this game on the next Run/Redo)</small>
+              <label>Reference thumbnail <small class="muted">(mood board for a new scene for this game on the next Run/Redo; if the image tool refuses it, its look is described instead)</small>
                 <input type="file" multiple accept="image/*" @change="upload('thumbnail-refs', $event)"></label>
               <div class="file-list">
                 <template x-for="f in state.thumbnail_refs || []" :key="f">
@@ -259,7 +259,7 @@ const LEADS = {
   captions: 'Builds the SRT and the Premiere transcript from word timings.',
   footage: 'Downloads the footage URLs and detects scenes across all videos.',
   music: 'Builds a music bed matching the narration length.',
-  thumbnail: 'With a reference thumbnail: recreates it for this game, like CutForge. Without one: AI key art with the title and band drawn from the channel template.',
+  thumbnail: 'With reference thumbnails: sent as a mood board for a new scene (described in words if the image tool refuses them), title composited where they had it. Without one: AI key art with the title and band drawn from the channel template.',
   metadata: 'Title, description, tags and chapters from real timings.',
   premiere: 'Exports the Premiere XML timeline.',
 };

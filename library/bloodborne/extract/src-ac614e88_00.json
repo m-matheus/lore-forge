@@ -1,0 +1,747 @@
+{
+ "entities": [
+  {
+   "name": "Cleric Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Father Gascoigne",
+   "kind": "boss",
+   "aliases": [
+    "Gascoigne"
+   ]
+  },
+  {
+   "name": "Viola",
+   "kind": "character",
+   "aliases": [
+    "Vi"
+   ]
+  },
+  {
+   "name": "Henryk",
+   "kind": "character",
+   "aliases": [
+    "Henrik"
+   ]
+  },
+  {
+   "name": "Blood-starved Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Vicar Amelia",
+   "kind": "boss",
+   "aliases": [
+    "Amelia"
+   ]
+  },
+  {
+   "name": "Lawrence",
+   "kind": "character",
+   "aliases": [
+    "Lawrence the First Vicar"
+   ]
+  },
+  {
+   "name": "Witches of Hemwick",
+   "kind": "boss",
+   "aliases": [
+    "Witch of Hemwick"
+   ]
+  },
+  {
+   "name": "Shadows of Yharnam",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Queen Yharnam",
+   "kind": "character",
+   "aliases": [
+    "the Thumanrian Queen"
+   ]
+  },
+  {
+   "name": "Oedon",
+   "kind": "character",
+   "aliases": [
+    "Eden"
+   ]
+  },
+  {
+   "name": "Mergo",
+   "kind": "character",
+   "aliases": [
+    "Mgo"
+   ]
+  },
+  {
+   "name": "Rom, the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Darkbeast Paarl",
+   "kind": "boss",
+   "aliases": [
+    "Pal",
+    "Paarl"
+   ]
+  },
+  {
+   "name": "Archibald",
+   "kind": "character",
+   "aliases": [
+    "Archerald",
+    "Archabold",
+    "Archable"
+   ]
+  },
+  {
+   "name": "The One Reborn",
+   "kind": "boss",
+   "aliases": [
+    "theology the one reborn"
+   ]
+  },
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": [
+    "the church"
+   ]
+  },
+  {
+   "name": "School of Mensis",
+   "kind": "faction",
+   "aliases": [
+    "Mensis",
+    "menis"
+   ]
+  },
+  {
+   "name": "Old Yharnam",
+   "kind": "location",
+   "aliases": [
+    "old Yarnam",
+    "old Jarnham"
+   ]
+  },
+  {
+   "name": "Yahar'gul",
+   "kind": "location",
+   "aliases": [
+    "Yaharul",
+    "Yaharal",
+    "Yaharghoul"
+   ]
+  },
+  {
+   "name": "Hemwick Charnel Lane",
+   "kind": "location",
+   "aliases": [
+    "Hemik Jarn Lane",
+    "Hemwick"
+   ]
+  },
+  {
+   "name": "Great Bridge of Central Yharnam",
+   "kind": "location",
+   "aliases": [
+    "the great bridge of central Yanam"
+   ]
+  },
+  {
+   "name": "Jura",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Brador",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Master Willem",
+   "kind": "character",
+   "aliases": [
+    "Williams"
+   ]
+  },
+  {
+   "name": "Tomb of Oedon",
+   "kind": "location",
+   "aliases": [
+    "tomb of Weeden",
+    "tomb of Eden"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "location",
+   "aliases": [
+    "Bergenworth"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Early in the game, before encountering any boss, the player hears a distant agonized scream from the rooftops of Central Yharnam, foreshadowing the suffering of the beasts.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 2
+  },
+  {
+   "text": "The Cleric Beast waits on the Great Bridge of Central Yharnam and has been screaming at the moon for a long time before the player encounters it.",
+   "entities": [
+    "Cleric Beast",
+    "Great Bridge of Central Yharnam"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Sword Hunter Badge item description states that Ludwig was the first of many Healing Church hunters, many of whom were clerics, to transform into hideous beasts.",
+   "entities": [
+    "Cleric Beast",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Clerics of the Healing Church administered and received the old blood as a sacred ritual, believing the resulting transformations were caused by insufficient faith rather than an inherent property of the blood.",
+   "entities": [
+    "Healing Church",
+    "Cleric Beast"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": 1
+  },
+  {
+   "text": "Game director Hidetaka Miyazaki stated in an interview that the longer a transformation is suppressed by willpower, the larger and more extreme the resulting beast becomes.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cleric Beast has nails driven into its legs, interpreted as the reflexive habit of a healer still trying to apply blood vials to wounds even after losing coherent thought.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The specific identity of the Cleric Beast fought on the Great Bridge is never confirmed in the game.",
+   "entities": [
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lawrence, founder of the Healing Church, became the first cleric beast and is fought separately in the Old Hunters DLC.",
+   "entities": [
+    "Lawrence",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Brador, a Healing Church assassin encountered later in the Old Hunters DLC, killed a fellow hunter who transformed into a cleric beast and wears that hunter's scalp as a memento.",
+   "entities": [
+    "Brador"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Father Gascoigne is the first mandatory boss in Bloodborne, meaning players cannot bypass his fight.",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Gascoigne's title 'Father' is a foreign pastoral honorific from outside Yharnam, distinct from the Healing Church's own titles like Vicar.",
+   "entities": [
+    "Father Gascoigne",
+    "Healing Church"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gascoigne was partnered as a hunter with a veteran named Henryk, described as gallant.",
+   "entities": [
+    "Father Gascoigne",
+    "Henryk"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Gascoigne gave his wife Viola a brooch with a deep red jewel that he found while hunting.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Gascoigne and Viola had two daughters together.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "As the hunt wore on Gascoigne, he began to lose memories of his family, including his daughters' voices and Viola's sleeping face.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Viola used a music box, wound by hand and playing a melody meaningful to the couple, to recall Gascoigne back to himself whenever the hunt took him too far.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "On the night of the game's events, Gascoigne did not return home, and Viola went looking for him without bringing the music box.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The player finds Gascoigne in the Tomb of Oedon, already transformed and destroying corpses.",
+   "entities": [
+    "Father Gascoigne",
+    "Tomb of Oedon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Before fully transforming, Gascoigne tells the player 'Beasts all over the shop, you'll be one of them sooner or later' and 'The sweet blood, it sings to me.'",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Viola's body is found dead near Gascoigne's transformation site, with her brooch lying beside her; the game leaves ambiguous whether Gascoigne killed her himself or found her body after a mob attack.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "The player can use the music box given by Gascoigne's daughter during the boss fight to make Gascoigne pause, clutch his head, and mutter as his humanity briefly resurfaces, creating an opening to attack.",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "When Gascoigne is defeated, a voice beneath his beast noises seems to say 'Forgive me.'",
+   "entities": [
+    "Father Gascoigne"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Returning Viola's brooch to Gascoigne's daughter prompts her to say only the word 'mommy,' after which the window goes silent.",
+   "entities": [
+    "Father Gascoigne",
+    "Viola"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "The Healing Church sealed the district of Old Yharnam and burned it entirely, killing both the transformed and the untransformed, officially to contain the scourge of beasts.",
+   "entities": [
+    "Old Yharnam",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The burning of Old Yharnam did not stop the plague, which continued spreading through Yharnam via the Church's ongoing blood ministration in other districts.",
+   "entities": [
+    "Old Yharnam",
+    "Healing Church"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 2
+  },
+  {
+   "text": "Jura, a hunter who helped burn Old Yharnam, later returned to live among its ruins, protecting the remaining beasts from other hunters seeking to kill them.",
+   "entities": [
+    "Jura",
+    "Old Yharnam"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Blood-starved Beast is found in a church at the bottom of Old Yharnam and carries an additional toxic/poisonous property alongside standard beasthood from exposure to 'ashen blood.'",
+   "entities": [
+    "Blood-starved Beast",
+    "Old Yharnam"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Blood-starved Beast's emaciated appearance reflects an insatiable hunger that is actually a craving for blood rather than food.",
+   "entities": [
+    "Blood-starved Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Blood-starved Beast resides specifically in the church where Old Yharnam's residents once received blood ministration from the Healing Church, linking the creature symbolically to the faith that doomed the district.",
+   "entities": [
+    "Blood-starved Beast",
+    "Healing Church",
+    "Old Yharnam"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Defeating the Blood-starved Beast rewards the player with a Tumbling (Thumanrian) Chalice, a ritual artifact of the ancient civilization that first discovered the old blood.",
+   "entities": [
+    "Blood-starved Beast"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Vicar Amelia prays before the altar of the Grand Cathedral, reciting Healing Church liturgy about communion with the old blood as she transforms into a beast.",
+   "entities": [
+    "Vicar Amelia",
+    "Healing Church"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "The title 'Vicar' is the Healing Church's term for its highest representative, derived from a Latin word meaning a proxy who acts on behalf of another authority.",
+   "entities": [
+    "Vicar Amelia",
+    "Healing Church"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Amelia received Lawrence's pendant, a symbol of his authority, when she succeeded him as leader of the Healing Church.",
+   "entities": [
+    "Vicar Amelia",
+    "Lawrence"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Lawrence's skull is kept as a relic on the Grand Cathedral's altar, inscribed inside with the words 'Fear the old blood,' attributed to Willem's warning.",
+   "entities": [
+    "Lawrence",
+    "Vicar Amelia",
+    "Master Willem"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During her boss fight, Vicar Amelia heals herself by pressing her hands together in a prayer-like gesture even after losing coherent thought.",
+   "entities": [
+    "Vicar Amelia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "The Witches of Hemwick are actually two beings fought together; defeating one and reducing the other to half health causes a second witch to materialize.",
+   "entities": [
+    "Witches of Hemwick"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Witches of Hemwick summon the Madmen of Hemwick, eyeless humanoid servants whose empty eye sockets reflect a philosophy that external sight is a limitation and true perception comes from internal transformation.",
+   "entities": [
+    "Witches of Hemwick"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Master Willem's doctrine held that true perception requires 'eyes on the inside' rather than reliance on physical eyesight.",
+   "entities": [
+    "Master Willem"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Witches of Hemwick practice rites older than the Healing Church, connected to the Hintertomb chalice dungeon branch beneath Hemwick Charnel Lane.",
+   "entities": [
+    "Witches of Hemwick",
+    "Hemwick Charnel Lane"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Hemwick Charnel Lane is the district where Yharnam's dead are processed into materials the Healing Church requires for its operations.",
+   "entities": [
+    "Hemwick Charnel Lane",
+    "Healing Church"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Shadows of Yharnam are three ancient robed guardians stationed at the forbidden woods before the ascent to Byrgenwerth, each wielding different roles: one with sword and torch, one with a candle staff who summons serpents, and one who heals the group.",
+   "entities": [
+    "Shadows of Yharnam",
+    "Byrgenwerth"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Shadows of Yharnam serve Queen Yharnam, a Thumanrian queen after whom the city was named.",
+   "entities": [
+    "Shadows of Yharnam",
+    "Queen Yharnam"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Queen Yharnam appears in a blood vision after Rom's death, shown in ceremonial robes with hands crossed over the child she carried, facing a descending moon.",
+   "entities": [
+    "Queen Yharnam",
+    "Rom, the Vacuous Spider"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Queen Yharnam entered a contract with Oedon, a formless great one with no physical body, and bore his child, Mergo; the birth effectively ended her existence, leaving her as a suspended remnant rather than fully dead.",
+   "entities": [
+    "Queen Yharnam",
+    "Oedon",
+    "Mergo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Serpents are symbolically associated with the great one Oedon in Bloodborne's iconography, and the Shadows of Yharnam summon serpents in combat.",
+   "entities": [
+    "Shadows of Yharnam",
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Shadows of Yharnam guard the path toward Byrgenwerth and the lake where Rom hides, protecting the secret tied to Queen Yharnam's tragedy.",
+   "entities": [
+    "Shadows of Yharnam",
+    "Byrgenwerth",
+    "Rom, the Vacuous Spider",
+    "Queen Yharnam"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Darkbeast Paarl is found in a cell within a section of Yahar'gul's underground jail designated as the Graveyard of the Dark Beast, used by the School of Mensis to imprison captives.",
+   "entities": [
+    "Darkbeast Paarl",
+    "Yahar'gul",
+    "School of Mensis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dark beasts like Paarl are technically undead creatures that generate blue-white electricity along their bones, which may serve as an animating current keeping them from fully dying.",
+   "entities": [
+    "Darkbeast Paarl"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Spark Hunter Badge reveals that it was crafted in secret by Archibald, an eccentric Healing Church researcher who studied bolt electricity emitted by dark beasts.",
+   "entities": [
+    "Archibald",
+    "Darkbeast Paarl",
+    "Healing Church"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Archibald worked using methodology closely following Byrgenwerth's approach and created weapons such as the Tonitrus and Tiny Tonitrus, which were not widely adopted by the Church.",
+   "entities": [
+    "Archibald",
+    "Byrgenwerth"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "All items created by Archibald are found in or around Yahar'gul, suggesting he worked within School of Mensis territory.",
+   "entities": [
+    "Archibald",
+    "Yahar'gul",
+    "School of Mensis"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The most coherent reading is that Darkbeast Paarl was Archibald's primary research subject for his experiments replicating dark beast electricity.",
+   "entities": [
+    "Darkbeast Paarl",
+    "Archibald"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A tunnel is clawed through stone from Paarl's cell toward the wall separating Yahar'gul from Old Yharnam, suggesting an escape attempt that failed because the door was locked from the Yahar'gul side.",
+   "entities": [
+    "Darkbeast Paarl",
+    "Yahar'gul",
+    "Old Yharnam"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The player is taken to Yahar'gul after being kidnapped from the streets of Yharnam by the Bell-ringing Women who served the School of Mensis.",
+   "entities": [
+    "Yahar'gul",
+    "School of Mensis"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "The One Reborn is a boss composed of a mass of fused human bodies, animated by a School of Mensis ritual using remains of processed victims.",
+   "entities": [
+    "The One Reborn",
+    "School of Mensis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "During the fight against The One Reborn, chime maidens continuously heal and empower the creature while attacking the player.",
+   "entities": [
+    "The One Reborn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 9
+  }
+ ],
+ "_src": "src-ac614e88"
+}

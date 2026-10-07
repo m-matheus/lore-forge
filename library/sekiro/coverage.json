@@ -1,0 +1,29 @@
+{
+  "facts": 180,
+  "needed": 260,
+  "usable": 177,
+  "by_category": {
+    "world": 7,
+    "history": 41,
+    "faction": 3,
+    "character": 18,
+    "location": 5,
+    "item": 7,
+    "weapon": 3,
+    "boss": 19,
+    "enemy": 4,
+    "ending": 14,
+    "mechanic": 15,
+    "production": 27,
+    "secret": 2,
+    "theme": 15
+  },
+  "by_status": {
+    "canon": 157,
+    "inferred": 20,
+    "theory": 3
+  },
+  "warnings": [
+    "177 canon/inferred facts for ~260 needed at 130 min (history). Add sources (wiki pages, item descriptions) to sources/ and re-run research."
+  ]
+}

@@ -48,7 +48,7 @@ Formats: `history` (chronological "Entire Lore of X"), `facts` ("N Hours of X Fa
 | `captions` | `captions.srt` + Premiere transcript | — |
 | `footage` | Downloads, cuts into scenes, rejects bright / shaky / HUD shots | Footage URLs or captures in `footage/raw/` |
 | `music` | One ambient bed as long as the narration, looped and levelled | A royalty-free track (see below) |
-| `thumbnail` | AI key art with no text + title and badge drawn locally | Optional references in `thumbnail/refs/` |
+| `thumbnail` | AI key art with no text + title and badge drawn locally | Optional references in `thumbnail/refs/`: sent to the image tool as a mood board; on a refusal Claude describes them and the art is generated from that text alone (`--set reference=mood` skips straight to that) |
 | `metadata` | Title, description, tags and chapters from the real timings | — |
 | `premiere` | The full FCP7 XML timeline | — |
 

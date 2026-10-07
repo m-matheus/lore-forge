@@ -124,29 +124,59 @@ def compose(project: VideoProject, art_path: Path, title_text: str, out: Path) -
     return out
 
 
-# CutForge's reference-led prompt (_build_request_with_refs), adapted to games. Kept SHORT
-# so the image leads. The references are often official key art, and the image tool refuses
-# anything that reads as a copy of it ("almost identical" was refused every time). So it takes
-# the ingredients (same character, setting, palette, mood) and builds a new scene from them.
-REF_REQUEST = (
-    "Create a new, original thumbnail artwork for a video about the lore of the video game "
+# First try: the references go to the image tool as a mood board (REF_REQUEST below), which
+# keeps their look closest. But they are usually official key art or other channels'
+# thumbnails, and the tool may refuse anything that reads as a copy of them. Blurring their
+# lettering did not help (The Witcher was refused three times in a row): the art itself is what
+# it objects to. So on a refusal the references are left out: Claude reads them as a mood board
+# and writes a visual-direction spec plus a new subject, and the image is generated from that
+# text alone. Either way the art has no lettering; the title is composited locally where the
+# references had it.
+REFERENCE_DIRECTION_SYSTEM = """\
+You are the art director of a video game lore channel. The attached thumbnails are a mood
+board: they show the visual language the channel wants, not images to copy. Describe that
+language as a general design spec: composition and subject placement, camera distance,
+lighting, colour relationships, atmosphere, contrast, art style, mood, and where the image
+leaves calm space for a title. Describe it in general terms; do not name the references'
+exact scene, logos or lettering.
+
+Then choose the subject of a NEW scene for the given game: an original moment from its world,
+of the same kind as the references' subject. If they centre a character, use that game's
+canonical character by name, in a new pose and place, with a different setting and camera
+angle from the references. One or two concrete sentences, enough to paint from.
+"""
+REFERENCE_DIRECTION_SCHEMA = ai.obj({k: ai.STR for k in (
+    "composition", "camera", "lighting", "palette", "atmosphere", "contrast", "style", "mood",
+    "title_space", "subject")})
+
+MOOD_REQUEST = (
+    "Create a completely new cinematic thumbnail artwork for a video about the video game "
     "{game}.\n\n"
-    "Use the attached reference image as inspiration, not as something to copy. Keep its key "
-    "ingredients: the same main character (as they canonically appear in {game}, not a new "
-    "character), the same kind of setting and background, the same color palette, lighting and "
-    "mood, the same art style. Build a NEW scene from them: a different pose and camera angle, "
-    "your own composition, a fresh moment for the character. It should feel like it belongs "
-    "next to the reference, not be a copy of it.\n\n"
-    "{title_rule}NO logos, NO watermarks, NO channel names on the image."
+    "VISUAL DIRECTION:\n{direction}\n\n"
+    "SUBJECT: {subject}\n\n"
+    "Characters from {game} appear as they canonically look, in this new scene and composition. "
+    "Prioritise strong silhouettes, dramatic lighting, atmospheric depth and readability at "
+    "YouTube thumbnail size. Do not reproduce any existing promotional artwork, cover art, "
+    "screenshot or thumbnail.\n\n"
+    "NO text, NO letters, NO logos, NO watermarks, NO UI."
 )
-TITLE_RULE = ('If the reference shows a title, write "{game}" in the same lettering style, at a '
-              "similar size and position. ")
-# Fallback. OpenAI's image tool draws a game's art and its name separately, but refuses the
-# two together once the art closely follows someone else's thumbnail (it reads as copying
-# official key art). So: art from the references with their lettering blurred out and no
-# title, then the title generated on its own (that passes) and composited locally where the
-# reference had it, in the reference's lettering style.
-NO_TITLE_RULE = "Leave out any title or lettering; that area stays part of the artwork. "
+
+# The default first attempt (skipped with params reference=mood).
+REF_REQUEST = (
+    "Create a completely new cinematic thumbnail artwork for a video about the video game "
+    "{game}.\n\n"
+    "The attached images are visual mood-board references only. Use them to understand the "
+    "visual language, atmosphere, lighting, color relationships, character presentation and "
+    "overall thumbnail readability.\n\n"
+    "Create a substantially different composition and scene. Do not recreate, trace, closely "
+    "imitate or reproduce any reference image. Do not reproduce the reference layout, camera "
+    "angle, pose, typography, logo placement or background arrangement.\n\n"
+    "The artwork should depict an original moment from the world of {game}, with its "
+    "recognizable canonical characters portrayed naturally in a new pose and environment. "
+    "Prioritize cinematic storytelling, strong silhouettes, dramatic lighting, atmospheric "
+    "depth and readability at YouTube thumbnail size.\n\n"
+    "NO text, NO letters, NO logos, NO watermarks, NO UI."
+)
 
 TITLE_ART_REQUEST = (
     'The title "{game}" in large lettering, centred on a plain pure-black background. '
@@ -173,15 +203,22 @@ def _refs(project: VideoProject) -> list[Path]:
     return sorted(p for p in d.glob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp"))
 
 
+def _image_block(ref: Path) -> dict:
+    """A reference as a PNG content block for Claude, capped at 1568 px (its useful maximum)."""
+    img = Image.open(ref).convert("RGB")
+    img.thumbnail((1568, 1568))
+    buf = BytesIO()
+    img.save(buf, "PNG")
+    return ai.image_block(buf.getvalue())
+
+
 def _lettering(project: VideoProject, ref: Path) -> dict:
     """Claude's read of one reference: lettering boxes + title style (cached as JSON)."""
-    cache = project.thumbnail_dir / "refs_notext" / f"{ref.stem}.json"
+    cache = project.thumbnail_dir / "refs_analysis" / f"{ref.stem}.json"
     if cache.exists():
         return json.loads(cache.read_text(encoding="utf-8"))
-    buf = BytesIO()
-    Image.open(ref).convert("RGB").save(buf, "PNG")
     data, comp = ai.complete_json(
-        LETTERING_SYSTEM, [ai.image_block(buf.getvalue()), ai.plain("Find the lettering.")],
+        LETTERING_SYSTEM, [_image_block(ref), ai.plain("Find the lettering.")],
         schema=LETTERING_SCHEMA, max_tokens=2000, effort="low")
     project.add_costs(**comp.cost_deltas())
     cache.parent.mkdir(parents=True, exist_ok=True)
@@ -189,28 +226,28 @@ def _lettering(project: VideoProject, ref: Path) -> dict:
     return data
 
 
-def _blur_lettering(project: VideoProject, refs: list[Path], log) -> list[Path]:
-    """Copies of the references with their lettering blurred out (boxes found by Claude)."""
-    cleaned = []
-    for ref in refs:
-        out = project.thumbnail_dir / "refs_notext" / f"{ref.stem}.png"
-        if not out.exists():
-            data = _lettering(project, ref)
-            img = Image.open(ref).convert("RGB")
-            # Generous padding (boxes tend to clip descenders and flourishes) and a feathered
-            # mask: a hard-edged smudge still reads as "a title was here".
-            w, h = img.size
-            mask = Image.new("L", img.size, 0)
-            draw = ImageDraw.Draw(mask)
-            for b in data["boxes"]:
-                draw.rectangle(((b["x0"] - 0.04) * w, (b["y0"] - 0.10) * h,
-                                (b["x1"] + 0.04) * w, (b["y1"] + 0.10) * h), fill=255)
-            mask = mask.filter(ImageFilter.GaussianBlur(max(w, h) / 60))
-            img = Image.composite(img.filter(ImageFilter.GaussianBlur(max(w, h) / 30)), img, mask)
-            img.save(out)
-            log(f"Blurred {len(data['boxes'])} lettering area(s) out of {ref.name}")
-        cleaned.append(out)
-    return cleaned
+def _reference_direction(project: VideoProject, refs: list[Path], refresh: bool, log) -> dict:
+    """Claude's visual-direction spec of the references + a new subject (cached; ``refresh``
+    asks for a new one, so Redo also gets a new scene)."""
+    path = project.thumbnail_dir / "ref_direction.json"
+    if path.exists() and not refresh:
+        return json.loads(path.read_text(encoding="utf-8"))
+    user = [*(_image_block(r) for r in refs), ai.plain(
+        f"Game: {project.game}\nScope: {project.scope}\n"
+        "Return the design spec of these references and the subject of the new scene.")]
+    data, comp = ai.complete_json(REFERENCE_DIRECTION_SYSTEM, user,
+                                  schema=REFERENCE_DIRECTION_SCHEMA, max_tokens=3000, effort="low")
+    project.add_costs(**comp.cost_deltas())
+    path.write_text(json.dumps(data, indent=2), encoding="utf-8")
+    log(f"Reference direction: {data['subject']} | light: {data['lighting']}")
+    return data
+
+
+def _mood_prompt(game: str, d: dict) -> str:
+    lines = [f"- {k.capitalize()}: {d[k]}" for k in (
+        "composition", "camera", "lighting", "palette", "atmosphere", "contrast", "style", "mood")]
+    lines.append(f"- Leave calm, uncluttered space {d['title_space']} for a title added later.")
+    return MOOD_REQUEST.format(game=game, direction="\n".join(lines), subject=d["subject"])
 
 
 def _reference_title(project: VideoProject, refs: list[Path]) -> dict | None:
@@ -307,10 +344,12 @@ def _generate(project: VideoProject, prefix: str, prompt: str, refs: list[Path],
 
 
 def run(project: VideoProject, params: dict, on_log) -> dict:
-    """Two modes, as in CutForge:
+    """Two modes:
 
-    - reference thumbnails in thumbnail/refs/: a short "new scene from these ingredients"
-      prompt so the image leads; no art-direction call and no compositing (refthumb_NN.png);
+    - reference thumbnails in thumbnail/refs/: sent to the image tool as a mood board; if it
+      refuses (or with ``reference=mood``), Claude turns them into a visual-direction spec and
+      a new subject and the art is generated from that text alone. The title is composited
+      where the references had it (refthumb_NN.png);
     - no references: art direction + ART_BASELINE key art, title and band drawn locally
       from the channel template (keyart_NN.png).
 
@@ -337,27 +376,23 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
                 chosen = existing[0]
             else:
                 log(f"Following {len(refs)} reference(s) for {project.game}: {[r.name for r in refs]}")
-                prompt = REF_REQUEST.format(game=project.game,
-                                            title_rule=TITLE_RULE.format(game=project.game))
-                try:
-                    chosen = _generate(project, "refthumb", prompt, refs, variants, log)
-                except RuntimeError as exc:
-                    if "No image returned" not in str(exc):
-                        raise
-                    log(f"Image tool refused ({exc}). Retrying with the lettering blurred out "
-                        "of the references; the title is added afterwards.")
-                    prompt = REF_REQUEST.format(game=project.game, title_rule=NO_TITLE_RULE)
-                    clean = _blur_lettering(project, refs, log)
-                    title = _reference_title(project, refs)
-                    for attempt in (1, 2):             # refusals are not deterministic
-                        try:
-                            chosen = _generate(project, "refthumb", prompt, clean, variants, log,
-                                               meta={"title": title} if title else None)
-                            break
-                        except RuntimeError as again:
-                            if attempt == 2 or "No image returned" not in str(again):
-                                raise
-                            log("Refused again; one more try.")
+                title = _reference_title(project, refs)
+                meta = {"title": title} if title else None
+                if params.get("reference") != "mood":
+                    try:
+                        chosen = _generate(project, "refthumb", REF_REQUEST.format(game=project.game),
+                                           refs, variants, log, meta=meta)
+                    except RuntimeError as exc:
+                        if "No image returned" not in str(exc):
+                            raise
+                        # Retrying with the same references gets the same answer: describe
+                        # them instead and leave them out of the request.
+                        log(f"Image tool refused the references ({exc}). Switching to a "
+                            "description of them; the references are not sent.")
+                if chosen is None:
+                    direction = _reference_direction(project, refs, bool(params.get("force")), log)
+                    chosen = _generate(project, "refthumb", _mood_prompt(project.game, direction),
+                                       [], variants, log, meta=meta)
         _finish(project, chosen, project.thumbnail_path, log)
     else:
         direction_path = project.thumbnail_dir / "direction.json"

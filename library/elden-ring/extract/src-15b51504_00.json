@@ -1,0 +1,790 @@
+{
+ "entities": [
+  {
+   "name": "Godrick the Grafted",
+   "kind": "boss",
+   "aliases": [
+    "Godrick"
+   ]
+  },
+  {
+   "name": "Rennala",
+   "kind": "boss",
+   "aliases": [
+    "Queen of the Full Moon"
+   ]
+  },
+  {
+   "name": "Starscourge Radahn",
+   "kind": "boss",
+   "aliases": [
+    "Radahn"
+   ]
+  },
+  {
+   "name": "Rykard",
+   "kind": "boss",
+   "aliases": [
+    "Lord of Blasphemy"
+   ]
+  },
+  {
+   "name": "Morgott",
+   "kind": "boss",
+   "aliases": [
+    "Omen King",
+    "Margit"
+   ]
+  },
+  {
+   "name": "Mohg",
+   "kind": "boss",
+   "aliases": [
+    "Lord of Blood"
+   ]
+  },
+  {
+   "name": "Malenia",
+   "kind": "boss",
+   "aliases": [
+    "Blade of Miquella",
+    "The Severed",
+    "Goddess of Rot"
+   ]
+  },
+  {
+   "name": "Dragonlord Placidusax",
+   "kind": "boss",
+   "aliases": [
+    "Placidusax"
+   ]
+  },
+  {
+   "name": "Lansseax",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Fortissax",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Ancestor Spirit",
+   "kind": "boss",
+   "aliases": [
+    "Regal Ancestor Spirit"
+   ]
+  },
+  {
+   "name": "Fire Giant",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Maliketh",
+   "kind": "boss",
+   "aliases": [
+    "The Black Blade"
+   ]
+  },
+  {
+   "name": "Godfrey",
+   "kind": "boss",
+   "aliases": [
+    "First Elden Lord",
+    "Hoarah Loux"
+   ]
+  },
+  {
+   "name": "Queen Marika",
+   "kind": "character",
+   "aliases": [
+    "Marika"
+   ]
+  },
+  {
+   "name": "Radagon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ranni",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Godwyn the Golden",
+   "kind": "character",
+   "aliases": [
+    "Godwyn"
+   ]
+  },
+  {
+   "name": "Elden Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Stormveil Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Volcano Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Haligtree",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Farum Azula",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Deeproot Depths",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Nokron",
+   "kind": "location",
+   "aliases": [
+    "Eternal City"
+   ]
+  },
+  {
+   "name": "Caelid",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Leyndell",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": [
+    "Nox people"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "faction",
+   "aliases": [
+    "Outer God of Blood"
+   ]
+  },
+  {
+   "name": "Gelmir Cavalry",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Rune of Death",
+   "kind": "item",
+   "aliases": [
+    "Destined Death"
+   ]
+  },
+  {
+   "name": "Great Rune of the Unborn",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Erdtree",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Battle of Aeonia",
+   "kind": "history",
+   "aliases": [
+    "Scarlet Bloom"
+   ]
+  },
+  {
+   "name": "Leonard",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Giants",
+   "kind": "faction",
+   "aliases": [
+    "Fire Giants"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Godrick the Grafted is the most distant descendant of Queen Marika among the demigods, considered the least powerful in terms of divine bloodline.",
+   "entities": [
+    "Godrick the Grafted",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Godrick grafts the limbs of other creatures and people onto his own body to compensate for what he believes is a lack of inherited divine power.",
+   "entities": [
+    "Godrick the Grafted"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "The throne room of Stormveil Castle is decorated with writhing masses of flesh and limbs from people incorporated into the castle walls, symbolizing Godrick's philosophy of accumulating strength.",
+   "entities": [
+    "Godrick the Grafted",
+    "Stormveil Castle"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Godrick claims to have trained under Godfrey, the first Elden Lord, though the game never confirms whether this claim is true.",
+   "entities": [
+    "Godrick the Grafted",
+    "Godfrey"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "In the second phase of his boss fight, Godrick grafts a dragon's head onto a severed arm to gain additional power.",
+   "entities": [
+    "Godrick the Grafted"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Stormveil Castle appears grand and powerful but shows signs of crumbling maintenance and disorganized defenses, reflecting Godrick's desperation.",
+   "entities": [
+    "Stormveil Castle",
+    "Godrick the Grafted"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "Godrick's soldiers include pumpkin-headed warriors whose exaggerated design reflects an aesthetic of performed, rather than genuine, strength.",
+   "entities": [
+    "Godrick the Grafted",
+    "Stormveil Castle"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "Rennala, Queen of the Full Moon, is a human sorcerer and head of the Academy of Raya Lucaria who became connected to the demigod lineage through marriage to Radagon.",
+   "entities": [
+    "Rennala",
+    "Radagon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Rennala's Great Rune is called the Great Rune of the Unborn and allows the recipient to be reborn as something different, which functions in-game as the ability to respec character stats.",
+   "entities": [
+    "Rennala",
+    "Great Rune of the Unborn"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Radagon left Rennala and their children to return to his duty as Marika's other self, leaving Rennala in grief.",
+   "entities": [
+    "Rennala",
+    "Radagon",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Rennala is found in the ruined Grand Library surrounded by loyal students, singing a lullaby while clutching a piece of amber containing a shard of the Elden Ring.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The students at the Academy of Raya Lucaria remain devoted to Rennala even in her grief-stricken, barely present state.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "The boss fight against Rennala takes place in a dream-like golden night sky space formed from her memories and power.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Starscourge Radahn was regarded as the strongest demigod in raw combat capability.",
+   "entities": [
+    "Starscourge Radahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Radahn learned an entire school of gravitational magic to hold the stars in place because his sister Ranni's fate was tied to the movement of a specific star.",
+   "entities": [
+    "Starscourge Radahn",
+    "Ranni"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Radahn held the stars still for centuries because he resented Ranni's choices and loved his mother Rennala.",
+   "entities": [
+    "Starscourge Radahn",
+    "Ranni",
+    "Rennala"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 50
+  },
+  {
+   "text": "Radahn learned gravity magic partly so he could make himself lighter and still be carried by his horse Leonard, rather than giving up riding him.",
+   "entities": [
+    "Starscourge Radahn",
+    "Leonard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Radahn's mind was destroyed by scarlet rot infection after Malenia released the Scarlet Bloom during the Battle of Aeonia.",
+   "entities": [
+    "Starscourge Radahn",
+    "Malenia",
+    "Battle of Aeonia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Radahn's soldiers have camped in Caelid since the Battle of Aeonia, refusing to leave or kill him out of love, waiting for a worthy opponent to end his suffering.",
+   "entities": [
+    "Starscourge Radahn",
+    "Caelid"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The in-game Radahn Festival event allows players to summon multiple NPC allies, representing his soldiers' way of honoring him with a worthy final battle.",
+   "entities": [
+    "Starscourge Radahn"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Allied NPCs such as Blaidd and Alexander can be summoned for the Radahn fight, representing figures who traveled to honor his greatness.",
+   "entities": [
+    "Starscourge Radahn"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Rykard, Lord of Blasphemy, deliberately fed himself to a god-devouring serpent and merged with it, becoming both human and serpent.",
+   "entities": [
+    "Rykard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Rykard believed the Erdtree and Golden Order were a lie and sought to resist it by becoming immortal through consuming divine power rather than worshiping it.",
+   "entities": [
+    "Rykard",
+    "Golden Order",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 55
+  },
+  {
+   "text": "Rykard's philosophy at Volcano Manor encourages followers to consume the flesh of gods as an act of ultimate blasphemy against the Golden Order.",
+   "entities": [
+    "Rykard",
+    "Volcano Manor",
+    "Golden Order"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Volcano Manor sends the player to assassinate targets who threaten Rykard's own project, showing his disregard for solidarity with other Tarnished.",
+   "entities": [
+    "Rykard",
+    "Volcano Manor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Morgott was born an Omen, bearing horns and talons considered abominations by the Golden Order, and was cast into the sewers beneath Leyndell as a child.",
+   "entities": [
+    "Morgott",
+    "Leyndell",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Morgott conceals his Omen nature and disguises himself as Margit to hunt those who threaten the Golden Order before they reach Leyndell.",
+   "entities": [
+    "Morgott",
+    "Golden Order",
+    "Leyndell"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Despite being rejected by the Golden Order, Morgott remains its most devoted champion and defends Leyndell's throne, which he was never allowed to sit on.",
+   "entities": [
+    "Morgott",
+    "Golden Order",
+    "Leyndell"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "Mohg is Morgott's twin brother; both were Omens cast into the sewers, but Mohg chose a different path, receiving the favor of the Formless Mother, the Outer God of Blood.",
+   "entities": [
+    "Mohg",
+    "Morgott",
+    "Formless Mother"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Mohg built the Mohgwyn Dynasty, a blood-soaked realm dedicated to the Formless Mother, and kidnapped Miquella to use his divine power for his own elevation.",
+   "entities": [
+    "Mohg",
+    "Miquella",
+    "Formless Mother"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Malenia was cursed with scarlet rot from birth, an outer god's influence she had no choice in.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Malenia has never been defeated in any battle, including her closest encounter at the Battle of Aeonia against Radahn.",
+   "entities": [
+    "Malenia",
+    "Starscourge Radahn",
+    "Battle of Aeonia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "During the Battle of Aeonia, Malenia released the Scarlet Bloom, the full expression of the rot she had been containing, destroying Caelid.",
+   "entities": [
+    "Malenia",
+    "Battle of Aeonia",
+    "Caelid"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "After the Battle of Aeonia, Malenia went to guard the Haligtree, her brother Miquella's abandoned sanctuary, in his absence.",
+   "entities": [
+    "Malenia",
+    "Miquella",
+    "Haligtree"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "In her boss fight, Malenia heals from every hit she lands on the player, even through guard, reflecting her lifelong survival philosophy of aggression as defense.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Malenia's second phase causes scarlet rot to bloom into flower-like growths around her as she stops containing the god within her.",
+   "entities": [
+    "Malenia"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Dragonlord Placidusax is the oldest boss in the game, found in Farum Azula, a realm of ruins floating in an eternal storm outside the flow of time.",
+   "entities": [
+    "Dragonlord Placidusax",
+    "Farum Azula"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The fight against Placidusax is accessed by lying down among ancient bones arranged in a circle as a ritual invitation.",
+   "entities": [
+    "Dragonlord Placidusax"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Placidusax was the Elden Lord of a world that predated the current cosmological order established by the Greater Will.",
+   "entities": [
+    "Dragonlord Placidusax"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Placidusax has two heads, one representing a dragon god who abandoned the world and never returned, for whom Placidusax has waited ever since.",
+   "entities": [
+    "Dragonlord Placidusax"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "Lansseax was worshipped by the Gelmir Cavalry, a warrior culture that maintained the old Draconic faith against the Golden Order.",
+   "entities": [
+    "Lansseax",
+    "Gelmir Cavalry",
+    "Golden Order"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Fortissax was the dragon companion of Godwyn the Golden and descended into the Erdtree's roots after Godwyn's death to fight the Deathblight infecting them.",
+   "entities": [
+    "Fortissax",
+    "Godwyn the Golden"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The fight against Fortissax is accessed through Fia's questline in the deathbed dream, retrieving the Cursemark of Death.",
+   "entities": [
+    "Fortissax"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Fortissax attacks with golden lightning associated with Godwyn, reflecting his grief and vigil over his lost companion.",
+   "entities": [
+    "Fortissax",
+    "Godwyn the Golden"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "The Ancestor Spirits are spiritual representatives of the Crucible Age, a time before the Erdtree when species boundaries were fluid.",
+   "entities": [
+    "Ancestor Spirit"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The Regal Ancestor Spirit is found in Nokron, the underground Eternal City of the Nox people, who were cast below ground by the Greater Will for trying to create their own Elden Ring.",
+   "entities": [
+    "Ancestor Spirit",
+    "Nokron",
+    "Nox"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Fire Giant is the last survivor of the giants, a people who worshipped the Fell God and were destroyed in a war waged by Marika due to their flame challenging the Erdtree's dominance.",
+   "entities": [
+    "Fire Giant",
+    "Queen Marika",
+    "Giants"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Fire Giant had his legs severed and was chained to the Forge of the Giants, forced to maintain the flame of his destroyed people's faith.",
+   "entities": [
+    "Fire Giant"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "In the Fire Giant's second phase, he tears off his own leg to expose the flame within his body.",
+   "entities": [
+    "Fire Giant"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Maliketh, the Black Blade, is described as Queen Marika's shadow and puppy, reflecting his intimate, devoted relationship to her.",
+   "entities": [
+    "Maliketh",
+    "Queen Marika"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Marika entrusted Maliketh with guarding the Rune of Death, the principle of true permanent mortality, after removing it from the Elden Ring following Godwyn's death.",
+   "entities": [
+    "Maliketh",
+    "Queen Marika",
+    "Rune of Death",
+    "Godwyn the Golden"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Defeating Maliketh releases the Rune of Death back into the world, allowing destined death to return and making the Erdtree penetrable for the final stages of the game.",
+   "entities": [
+    "Maliketh",
+    "Rune of Death",
+    "Erdtree"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Godfrey was the first human Marika chose as her consort and led the wars that expanded the Erdtree's dominion across the Lands Between.",
+   "entities": [
+    "Godfrey",
+    "Queen Marika",
+    "Erdtree"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Marika deliberately stripped Godfrey of his grace and exiled him beyond the Lands Between, commanding him to become the first Tarnished.",
+   "entities": [
+    "Godfrey",
+    "Queen Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Elden Beast is described as the living physical form of the Golden Order itself, functioning as a law rather than a conscious monster.",
+   "entities": [
+    "Elden Beast",
+    "Golden Order"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 100
+  }
+ ],
+ "_src": "src-15b51504"
+}

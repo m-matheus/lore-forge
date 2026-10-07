@@ -1,27 +1,27 @@
 {
-  "facts": 626,
-  "needed": 260,
-  "usable": 600,
+  "facts": 777,
+  "needed": 234,
+  "usable": 745,
   "by_category": {
-    "world": 50,
-    "history": 10,
-    "faction": 19,
-    "character": 39,
-    "location": 21,
-    "item": 39,
-    "weapon": 23,
-    "boss": 57,
-    "enemy": 19,
-    "ending": 11,
-    "mechanic": 141,
-    "production": 118,
-    "secret": 12,
-    "theme": 67
+    "world": 53,
+    "history": 34,
+    "faction": 24,
+    "character": 67,
+    "location": 27,
+    "item": 52,
+    "weapon": 25,
+    "boss": 102,
+    "enemy": 22,
+    "ending": 16,
+    "mechanic": 147,
+    "production": 120,
+    "secret": 13,
+    "theme": 75
   },
   "by_status": {
-    "canon": 386,
-    "inferred": 214,
-    "theory": 26
+    "canon": 499,
+    "inferred": 246,
+    "theory": 32
   },
   "warnings": [
     "Only reference-video transcripts were used. Their claims are unverified; add wiki/notes to sources/ to anchor canon."

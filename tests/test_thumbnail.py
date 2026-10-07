@@ -17,25 +17,49 @@ def _fake_images(monkeypatch, calls):
     monkeypatch.setattr(T.openai_images, "generate_image", generate)
 
 
-def test_reference_mode_recreates_the_reference_without_compositing(tmp_path, monkeypatch):
+class _Comp:
+    def cost_deltas(self):
+        return {}
+
+
+DIRECTION = {k: k + " spec" for k in (
+    "composition", "camera", "lighting", "palette", "atmosphere", "contrast", "style", "mood")}
+DIRECTION.update(title_space="across the top third", subject="Geralt on a ruined bridge at night")
+
+
+def _fake_claude(monkeypatch, lettering, asked):
+    def complete_json(system, user, schema=None, **kw):
+        asked.append(schema)
+        if schema is T.LETTERING_SCHEMA:
+            return dict(lettering), _Comp()
+        assert schema is T.REFERENCE_DIRECTION_SCHEMA
+        return dict(DIRECTION), _Comp()
+    monkeypatch.setattr(T.ai, "complete_json", complete_json)
+
+
+def test_reference_mood_describes_the_references_instead_of_sending_them(tmp_path, monkeypatch):
     p = _project(tmp_path, monkeypatch)
-    calls = []
+    calls, asked = [], []
     _fake_images(monkeypatch, calls)
-    monkeypatch.setattr(T.ai, "complete_json", lambda *a, **k: (_ for _ in ()).throw(AssertionError("no art direction")))
+    _fake_claude(monkeypatch, {"boxes": [], "title_style": ""}, asked)
     monkeypatch.setattr(T, "compose", lambda *a, **k: (_ for _ in ()).throw(AssertionError("no compositing")))
     p.thumbnail_refs_dir.mkdir(parents=True)
     Image.new("RGB", (640, 360)).save(p.thumbnail_refs_dir / "ref.png")
 
-    result = T.run(p, {"variants": 2}, lambda m: None)
+    result = T.run(p, {"variants": 2, "reference": "mood"}, lambda m: None)
 
     assert [c["out"] for c in calls] == ["refthumb_01.png", "refthumb_02.png"]
-    assert calls[0]["refs"] == [p.thumbnail_refs_dir / "ref.png"]
-    assert "PRIMARY guide" in calls[0]["prompt"] and '"Elden Ring"' in calls[0]["prompt"]
+    assert calls[0]["refs"] is None                    # the references never reach the image tool
+    prompt = calls[0]["prompt"]
+    assert "video game Elden Ring" in prompt and "SUBJECT: Geralt on a ruined bridge" in prompt
+    assert "- Lighting: lighting spec" in prompt and "space across the top third" in prompt
+    assert "NO text" in prompt
     assert result["mode"] == "reference" and result["art"] == "refthumb_01.png"
     assert Image.open(p.thumbnail_path).size == (1280, 720)
 
-    # Redo appends new variants and shows the first new one; pick re-finishes with no new images.
-    assert T.run(p, {"force": True, "variants": 1}, lambda m: None)["art"] == "refthumb_03.png"
+    # Redo appends new variants with a fresh direction; pick re-finishes with no new images.
+    assert T.run(p, {"force": True, "variants": 1, "reference": "mood"}, lambda m: None)["art"] == "refthumb_03.png"
+    assert asked.count(T.REFERENCE_DIRECTION_SCHEMA) == 2
     assert T.run(p, {"force": True, "pick": "refthumb_02.png"}, lambda m: None)["art"] == "refthumb_02.png"
     assert len(calls) == 3
 
@@ -62,7 +86,24 @@ def test_without_references_uses_key_art_and_compositing(tmp_path, monkeypatch):
     assert result["mode"] == "keyart"
 
 
-def test_refused_reference_retries_untitled_then_overlays_the_title(tmp_path, monkeypatch):
+def test_reference_mode_sends_the_references_first(tmp_path, monkeypatch):
+    p = _project(tmp_path, monkeypatch)
+    calls, asked = [], []
+    _fake_images(monkeypatch, calls)
+    _fake_claude(monkeypatch, {"boxes": [], "title_style": ""}, asked)
+    p.thumbnail_refs_dir.mkdir(parents=True)
+    Image.new("RGB", (640, 360)).save(p.thumbnail_refs_dir / "ref.png")
+
+    result = T.run(p, {"variants": 1}, lambda m: None)
+
+    assert calls[0]["refs"] == [p.thumbnail_refs_dir / "ref.png"]
+    assert "mood-board references only" in calls[0]["prompt"] and "NO text" in calls[0]["prompt"]
+    assert T.REFERENCE_DIRECTION_SCHEMA not in asked     # no description when the image passes
+    assert result["mode"] == "reference" and result["art"] == "refthumb_01.png"
+
+
+def test_refused_reference_image_falls_back_to_the_description_and_overlays_the_title(
+        tmp_path, monkeypatch):
     p = _project(tmp_path, monkeypatch)
     monkeypatch.setattr(VideoProject, "library_dir", property(lambda self: tmp_path / "library"))
     calls = []
@@ -77,20 +118,17 @@ def test_refused_reference_retries_untitled_then_overlays_the_title(tmp_path, mo
         img.save(out)
     monkeypatch.setattr(T.openai_images, "generate_image", generate)
 
-    class Comp:
-        def cost_deltas(self):
-            return {}
     lettering = {"boxes": [{"x0": 0.1, "y0": 0.2, "x1": 0.9, "y1": 0.5}],
                  "title_style": "weathered white gothic serif"}
-    monkeypatch.setattr(T.ai, "complete_json", lambda *a, **k: (lettering, Comp()))
+    _fake_claude(monkeypatch, lettering, [])
     p.thumbnail_refs_dir.mkdir(parents=True)
     Image.new("RGB", (640, 360), (200, 200, 200)).save(p.thumbnail_refs_dir / "ref.png")
 
     result = T.run(p, {"variants": 1}, lambda m: None)
 
-    assert 'write "Elden Ring"' in calls[0]["prompt"]
-    assert "Leave out any title" in calls[1]["prompt"]
-    assert calls[1]["refs"] == [p.thumbnail_dir / "refs_notext" / "ref.png"]
+    assert calls[0]["refs"] == [p.thumbnail_refs_dir / "ref.png"]
+    assert "mood-board references only" in calls[0]["prompt"]
+    assert calls[1]["refs"] is None and "SUBJECT: Geralt" in calls[1]["prompt"]
     assert calls[2]["prompt"].startswith('The title "Elden Ring"') and "weathered white gothic" in calls[2]["prompt"]
     assert result["art"] == "refthumb_01.png"
     assert (tmp_path / "library" / "title.png").exists()
@@ -100,3 +138,4 @@ def test_refused_reference_retries_untitled_then_overlays_the_title(tmp_path, mo
     # Picking the variant again reuses the cached title: no new image call.
     T.run(p, {"force": True, "pick": "refthumb_01.png"}, lambda m: None)
     assert len(calls) == 3
+

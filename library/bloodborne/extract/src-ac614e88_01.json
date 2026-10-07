@@ -1,0 +1,852 @@
+{
+ "entities": [
+  {
+   "name": "School of Mensis",
+   "kind": "faction",
+   "aliases": [
+    "Mensis"
+   ]
+  },
+  {
+   "name": "Bell Maidens",
+   "kind": "enemy",
+   "aliases": [
+    "bell ringing women"
+   ]
+  },
+  {
+   "name": "Yahar'gul",
+   "kind": "location",
+   "aliases": [
+    "Yaharul",
+    "Yahar Ghoul"
+   ]
+  },
+  {
+   "name": "One Reborn",
+   "kind": "boss",
+   "aliases": [
+    "Theology the one reborn"
+   ]
+  },
+  {
+   "name": "Chime Maidens",
+   "kind": "enemy",
+   "aliases": [
+    "chime maiden"
+   ]
+  },
+  {
+   "name": "Rom the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom",
+    "hakuchi",
+    "vacuous spider"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "location",
+   "aliases": [
+    "Bergenworth",
+    "Bergenworth College"
+   ]
+  },
+  {
+   "name": "Micolash",
+   "kind": "boss",
+   "aliases": [
+    "Mich",
+    "Michelash"
+   ]
+  },
+  {
+   "name": "Mensis Cage",
+   "kind": "item",
+   "aliases": [
+    "men's cage"
+   ]
+  },
+  {
+   "name": "Nightmare of Mensis",
+   "kind": "location",
+   "aliases": [
+    "Mensis nightmare"
+   ]
+  },
+  {
+   "name": "Celestial Emissary",
+   "kind": "boss",
+   "aliases": [
+    "large celestial emissary"
+   ]
+  },
+  {
+   "name": "Healing Church Choir",
+   "kind": "faction",
+   "aliases": [
+    "Choir"
+   ]
+  },
+  {
+   "name": "Upper Cathedral Ward",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ebrietas, Daughter of the Cosmos",
+   "kind": "boss",
+   "aliases": [
+    "Ebrietas",
+    "Ebriatas"
+   ]
+  },
+  {
+   "name": "Altar of Despair",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Thumerian Labyrinths",
+   "kind": "location",
+   "aliases": [
+    "Thumrian depths",
+    "ancient Thumerian labyrinths"
+   ]
+  },
+  {
+   "name": "Logarius",
+   "kind": "boss",
+   "aliases": [
+    "Legarius",
+    "Lagarius",
+    "Loarius"
+   ]
+  },
+  {
+   "name": "Executioners",
+   "kind": "faction",
+   "aliases": [
+    "executioner's arm"
+   ]
+  },
+  {
+   "name": "Cainhurst Castle",
+   "kind": "location",
+   "aliases": [
+    "Canhurst Castle",
+    "Kanhurst"
+   ]
+  },
+  {
+   "name": "Vile Bloods",
+   "kind": "faction",
+   "aliases": [
+    "vile blood"
+   ]
+  },
+  {
+   "name": "Queen Annalise",
+   "kind": "boss",
+   "aliases": [
+    "Anelise",
+    "Annalise"
+   ]
+  },
+  {
+   "name": "Amygdala",
+   "kind": "enemy",
+   "aliases": [
+    "amygdalas"
+   ]
+  },
+  {
+   "name": "Nightmare Frontier",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mergo",
+   "kind": "character",
+   "aliases": [
+    "MGO",
+    "Mgo"
+   ]
+  },
+  {
+   "name": "Mergo's Wet Nurse",
+   "kind": "boss",
+   "aliases": [
+    "the wetness",
+    "wet nurse"
+   ]
+  },
+  {
+   "name": "Queen Yharnam",
+   "kind": "character",
+   "aliases": [
+    "Queen Yannam"
+   ]
+  },
+  {
+   "name": "Ludwig the Accursed",
+   "kind": "boss",
+   "aliases": [
+    "Ludvig",
+    "Ludwig"
+   ]
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman",
+    "Garman"
+   ]
+  },
+  {
+   "name": "Holy Moonlight Sword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Hunter's Nightmare",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Research Hall (Nightmare)",
+   "kind": "location",
+   "aliases": [
+    "nightmare research hall"
+   ]
+  },
+  {
+   "name": "Astral Clock Tower",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Maria",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Rakuyo",
+   "kind": "weapon",
+   "aliases": [
+    "Rakuo"
+   ]
+  },
+  {
+   "name": "Simon",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Great Ones",
+   "kind": "faction",
+   "aliases": [
+    "great one"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The player arrives in Yahar'gul after being abducted from the streets of Yharnam by bell-ringing women serving the School of Mensis.",
+   "entities": [
+    "School of Mensis",
+    "Yahar'gul",
+    "Bell Maidens"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Yahar'gul's chapter designation is 'The Kidnapped,' naming the people taken from Yharnam's population to fuel the School of Mensis's underground research.",
+   "entities": [
+    "Yahar'gul",
+    "School of Mensis"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the One Reborn boss fight, Chime Maidens continuously heal and empower the creature while attacking the player with projectiles.",
+   "entities": [
+    "One Reborn",
+    "Chime Maidens"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The One Reborn is a mass of fused human bodies, arms, legs, torsos, and other parts combined past the point of individual identity.",
+   "entities": [
+    "One Reborn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The One Reborn falls apart into its component parts as it is damaged and reassembles as long as the Chime Maidens continue their ritual.",
+   "entities": [
+    "One Reborn",
+    "Chime Maidens"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The One Reborn represents the School of Mensis's attempt to prove that death need not be final and that the old blood could create something between human and Great One.",
+   "entities": [
+    "One Reborn",
+    "School of Mensis",
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The bodies composing the One Reborn are residents of Yharnam who received blood ministration from the Healing Church and were later abducted by Mensis operatives.",
+   "entities": [
+    "One Reborn",
+    "School of Mensis"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 80
+  },
+  {
+   "text": "A hidden silver lake exists behind Byrgenwerth College, accessible only by leaping from a balcony into the moon's reflection.",
+   "entities": [
+    "Byrgenwerth",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rom the Vacuous Spider is an enormous, pale, eye-covered entity surrounded by dozens of smaller spiders in the moonlit lake.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rom was once a scholar of Byrgenwerth before being transformed by contact with a Great One.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Byrgenwerth",
+    "Great Ones"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Rom's Japanese title 'hakuchi' means fool or idiot, translated into English as 'vacuous.'",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman's dialogue references how he once appealed to the cosmos on behalf of the 'vacuous one,' saying 'Grant us eyes.'",
+   "entities": [
+    "Gehrman",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rom was placed in the hidden lake by Master Willem to maintain a veil hiding the blood moon's descent and the secret of Queen Yharnam.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Queen Yharnam"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 30
+  },
+  {
+   "text": "A note at Byrgenwerth states that the spider hides rituals because true enlightenment need not be shared.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Byrgenwerth"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Killing Rom causes the veil to fall, making the previously invisible Amygdalas visible throughout Yharnam and triggering the blood moon's descent.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Amygdala"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "After Rom's death, a vision of Queen Yharnam appears with her blood-soaked dress and hands over her child, facing the coming moon.",
+   "entities": [
+    "Queen Yharnam",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "The Nightmare of Mensis is a hellscape created by the School of Mensis's ritual, sustained by Micolash's broken consciousness and anchored to Mergo's presence.",
+   "entities": [
+    "Nightmare of Mensis",
+    "School of Mensis",
+    "Micolash",
+    "Mergo"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Micolash flees from the player throughout his boss encounter, teleporting through doors in the nightmare's shifting architecture.",
+   "entities": [
+    "Micolash",
+    "Nightmare of Mensis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Micolash wears the Mensis Cage, a hexagonal iron lattice crafted to limit the user's will in pursuit of higher cosmic contact.",
+   "entities": [
+    "Micolash",
+    "Mensis Cage"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Mensis Cage's item description notes that, from an outside view, it was what delivered its wearers into their harrowing nightmare.",
+   "entities": [
+    "Mensis Cage",
+    "Micolash"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Micolash's dialogue during his fight repeatedly appeals to 'the cosmos,' pleading not to abandon the dream and asking for eyes to cleanse 'beastly idiocy.'",
+   "entities": [
+    "Micolash"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Micolash's Japanese death quote is 'Will I wake up? Will I forget everything?' suggesting he believes the nightmare is a dream he will wake from.",
+   "entities": [
+    "Micolash"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Healing Church Choir operated an orphanage under the guise of charity for children left parentless by the scourge.",
+   "entities": [
+    "Healing Church Choir"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Choir's orphanage actually supplied children as experimental subjects for research into guided ascension, since children's minds were considered more malleable.",
+   "entities": [
+    "Healing Church Choir"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 40
+  },
+  {
+   "text": "Most children used in the Choir's ascension experiments died or went mad; those who 'succeeded' became Celestial Emissaries with no memories or identity.",
+   "entities": [
+    "Healing Church Choir",
+    "Celestial Emissary"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Celestial Emissaries can project arcane energy and, in groups, call down cosmic fire in the Lumenwood garden of the Upper Cathedral Ward.",
+   "entities": [
+    "Celestial Emissary",
+    "Upper Cathedral Ward"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas, Daughter of the Cosmos, resides in the Altar of Despair beneath the Upper Cathedral Ward, found kneeling over a body in apparent grief.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos",
+    "Altar of Despair"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas was discovered by Byrgenwerth scholars in the ancient Thumerian Labyrinths beneath Yharnam.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos",
+    "Byrgenwerth",
+    "Thumerian Labyrinths"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Ebrietas shared her cosmic blood, a purer strain unlike ordinary old blood that does not cause beasthood, with the Healing Church scholars for their most advanced research.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos",
+    "Healing Church Choir"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "Ebrietas remained alone in the Altar of Despair for years between scholarly visits, long after the Choir's experiments ended.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos",
+    "Altar of Despair"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Ebrietas's name derives from a word meaning cosmic intoxication, and she is described as originating from the space between stars.",
+   "entities": [
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Logarius, leader of the Healing Church's Executioners, keeps watch atop Cainhurst Castle in white robes, desiccated but still arcane-capable.",
+   "entities": [
+    "Logarius",
+    "Cainhurst Castle",
+    "Executioners"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executioners were the Healing Church's enforcement arm targeting people, unlike hunters who managed beasts.",
+   "entities": [
+    "Executioners",
+    "Logarius"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cainhurst Castle predates the Healing Church, having been the seat of an aristocratic family practicing their own blood arts called the Vile Bloods.",
+   "entities": [
+    "Cainhurst Castle",
+    "Vile Bloods"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "A traitor from Byrgenwerth brought forbidden knowledge to Cainhurst, allowing the Vile Bloods to develop their blood arts.",
+   "entities": [
+    "Cainhurst Castle",
+    "Byrgenwerth",
+    "Vile Bloods"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Queen Annalise of Cainhurst is immortal through her developed blood and seeks to produce a 'Child of Blood' to continue and elevate the Vile Bloodline.",
+   "entities": [
+    "Queen Annalise",
+    "Vile Bloods"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Healing Church branded the Vile Bloods as corruptors of sacred blood ministration and sent Logarius to eliminate them at Cainhurst.",
+   "entities": [
+    "Logarius",
+    "Vile Bloods",
+    "Cainhurst Castle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Unable to kill the immortal Queen Annalise, Logarius sealed her in the castle's throne room and guarded the seal himself for the remainder of his life.",
+   "entities": [
+    "Logarius",
+    "Queen Annalise",
+    "Cainhurst Castle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Logarius's body is found desiccated on the castle roof, having maintained his vigil until death, his arcane combat abilities (floating skulls, conjured weapon, burning phase) remaining intact.",
+   "entities": [
+    "Logarius"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite Logarius's vigil, Queen Annalise survives sealed in the throne room, unharmed and unchanged by the passage of time.",
+   "entities": [
+    "Queen Annalise",
+    "Logarius"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Queen Annalise speaks to the player with aristocratic composure, still seeking a champion to bring her powerful blood dregs to produce her Child of Blood.",
+   "entities": [
+    "Queen Annalise"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Amygdalas cling to buildings throughout Yharnam, having been present since the Healing Church's founding by Laurence, invisible to ordinary perception until the player gains sufficient Insight.",
+   "entities": [
+    "Amygdala",
+    "Yahar'gul"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Amygdalas are connected to the Moon Presence and act as the mechanism through which cosmic entities interact with and monitor Yharnam's hunt.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Amygdala encountered in the Nightmare Frontier attacks by tearing off and throwing its own limbs, which continue moving and attacking independently.",
+   "entities": [
+    "Amygdala",
+    "Nightmare Frontier"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the heart of the Nightmare of Mensis lies an empty-seeming crib from which Mergo's continuous infant crying emanates.",
+   "entities": [
+    "Mergo",
+    "Nightmare of Mensis"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mergo's Wet Nurse is a tall, black-robed figure wielding multiple conjured blades who silently defends the crib without relenting.",
+   "entities": [
+    "Mergo's Wet Nurse",
+    "Mergo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mergo is the infant Great One born from Queen Yharnam's contract with the Great Ones, a birth that left the queen in a permanent liminal state between life and death.",
+   "entities": [
+    "Mergo",
+    "Queen Yharnam",
+    "Great Ones"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Defeating Mergo's Wet Nurse and approaching the crib causes Mergo's crying to stop, beginning the unraveling of the Mensis ritual's nightmare.",
+   "entities": [
+    "Mergo's Wet Nurse",
+    "Mergo",
+    "Nightmare of Mensis"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Ludwig the Accursed is an enormous, equine, antlered beast fused with Healing Church hunter armor, found in a massive underground chamber in the Hunter's Nightmare.",
+   "entities": [
+    "Ludwig the Accursed",
+    "Hunter's Nightmare"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig founded the Healing Church Hunters as a formal organization, succeeding Gehrman's original small workshop, establishing ranks and a theological framework for the hunt.",
+   "entities": [
+    "Ludwig the Accursed",
+    "Gehrman"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Ludwig received the Holy Moonlight Sword through direct communion with the Great Ones.",
+   "entities": [
+    "Ludwig the Accursed",
+    "Holy Moonlight Sword",
+    "Great Ones"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Ludwig eventually succumbed to the old blood and transformed into a beast, merging in equine form possibly with the horse he once rode.",
+   "entities": [
+    "Ludwig the Accursed"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 40
+  },
+  {
+   "text": "In the second phase of the fight, Ludwig picks up the Holy Moonlight Sword, and his combat becomes precise, reflecting the discipline of the man he once was.",
+   "entities": [
+    "Ludwig the Accursed",
+    "Holy Moonlight Sword"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludwig's dying words ask whether the hunters who came after him were good hunters, questioning whether his life's work was worthwhile.",
+   "entities": [
+    "Ludwig the Accursed"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the nightmare version of the Choir's research hall, the Choir's 'unsuccessful' experimental subjects stand frozen between human and transformed states, their faces merged into smooth featureless surfaces.",
+   "entities": [
+    "Research Hall (Nightmare)",
+    "Healing Church Choir"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "These transitional failed subjects can collectively call down meteorites from the sky, having developed partial arcane capacity without completing ascension.",
+   "entities": [
+    "Research Hall (Nightmare)",
+    "Healing Church Choir"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the Astral Clock Tower, accessed via a locked door in the nightmare, Maria sits motionless in a chair until the player approaches, then opens her eyes.",
+   "entities": [
+    "Maria",
+    "Astral Clock Tower"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Maria was one of Gehrman's most gifted students, descended from Cainhurst's Vile Blood lineage but chose the hunter's path instead of the vile blood arts.",
+   "entities": [
+    "Maria",
+    "Gehrman",
+    "Cainhurst Castle",
+    "Vile Bloods"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Maria wielded the Rakuyo trick weapon, which she shared with her companion Simon, and was considered the finest hunter Gehrman trained.",
+   "entities": [
+    "Maria",
+    "Rakuyo",
+    "Simon",
+    "Gehrman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  }
+ ],
+ "_src": "src-ac614e88"
+}

@@ -1,0 +1,572 @@
+{
+ "entities": [
+  {
+   "name": "Wolf",
+   "kind": "character",
+   "aliases": [
+    "Sekiro",
+    "the Shinobi",
+    "One-Armed Wolf"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "character",
+   "aliases": [
+    "Shadow Owl"
+   ]
+  },
+  {
+   "name": "Lady Butterfly",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kuro",
+   "kind": "character",
+   "aliases": [
+    "the Divine Heir"
+   ]
+  },
+  {
+   "name": "Isshin Ashina",
+   "kind": "character",
+   "aliases": [
+    "Ishin",
+    "the Sword Saint"
+   ]
+  },
+  {
+   "name": "Emma",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Divine Dragon",
+   "kind": "character",
+   "aliases": [
+    "the divine dragon"
+   ]
+  },
+  {
+   "name": "Iron Code",
+   "kind": "concept",
+   "aliases": [
+    "the iron code"
+   ]
+  },
+  {
+   "name": "Dragon's Heritage",
+   "kind": "concept",
+   "aliases": [
+    "the heritage"
+   ]
+  },
+  {
+   "name": "Rejuvenating Waters",
+   "kind": "concept",
+   "aliases": [
+    "the waters",
+    "waters of Ashina"
+   ]
+  },
+  {
+   "name": "Ashina",
+   "kind": "location",
+   "aliases": [
+    "Asha"
+   ]
+  },
+  {
+   "name": "Fountain Head Palace",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Everblossom",
+   "kind": "item",
+   "aliases": [
+    "ever blossom tree"
+   ]
+  },
+  {
+   "name": "Hirata Estate",
+   "kind": "location",
+   "aliases": [
+    "Herata estate"
+   ]
+  },
+  {
+   "name": "Interior Ministry",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Senpou Temple",
+   "kind": "location",
+   "aliases": [
+    "Senpu Temple"
+   ]
+  },
+  {
+   "name": "Shura Ending",
+   "kind": "ending",
+   "aliases": [
+    "Shurer ending"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Sekiro: Shadows Die Twice tells its story mainly through direct character dialogue rather than hidden item descriptions, making it clearer than Bloodborne or Dark Souls.",
+   "entities": [
+    "Wolf"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "At its core, Sekiro is a story about immortality and the corrupting price people pay to attain or escape it.",
+   "entities": [],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Wolf begins as a nameless war orphan wandering a battlefield in Sengoku-era Japan after his parents and village were destroyed by war.",
+   "entities": [
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Owl, a mercenary shinobi, found the orphaned boy on the battlefield and took him not out of compassion but because he saw potential raw material to shape into a weapon.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Owl named the boy 'Wolf,' a designation meant to strip him of his former identity and mark him as an obedient, loyal killing tool.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Owl raised Wolf in the shinobi tradition, training him in combat, stealth, and silence before he ever learned to read.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Lady Butterfly was one of Wolf's trainers during his upbringing, viewing her student with cold professional detachment.",
+   "entities": [
+    "Lady Butterfly",
+    "Wolf"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "The Iron Code is the foundational doctrine of shinobi life, dictating that the shinobi exists only to serve their master, with no room for personal will.",
+   "entities": [
+    "Iron Code",
+    "Wolf"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Owl embedded a hidden clause in Wolf's version of the Iron Code: if the father and the master ever conflict, loyalty to the father (Owl) overrides loyalty to the master.",
+   "entities": [
+    "Iron Code",
+    "Owl",
+    "Wolf"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Japan during the Sengoku period was fractured into warring domains with no stable central authority, making alliances and loyalties constantly shift.",
+   "entities": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Ashina is a small, poor mountain domain lacking resources like fertile land or ports, but it possesses hidden underground reservoirs of mystical rejuvenating waters.",
+   "entities": [
+    "Ashina",
+    "Rejuvenating Waters"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The rejuvenating waters of Ashina can heal fatal wounds, restore withered strength, and in rare cases halt death entirely.",
+   "entities": [
+    "Rejuvenating Waters"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Twenty years before the game's events, Ashina was occupied by foreign lords who had subjugated its people.",
+   "entities": [
+    "Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Isshin Ashina, known as the Sword Saint, led a rebellion that drove out the foreign occupiers and won Ashina's independence.",
+   "entities": [
+    "Isshin Ashina",
+    "Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Isshin's rebellion secured roughly 20 years of freedom for Ashina before the Interior Ministry, Japan's growing central authority, began threatening to reclaim it.",
+   "entities": [
+    "Isshin Ashina",
+    "Interior Ministry",
+    "Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "By the time the game begins, Isshin Ashina is old and dying of illness, and the kingdom he built is collapsing under the threat of the Interior Ministry's armies.",
+   "entities": [
+    "Isshin Ashina",
+    "Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Divine Dragon is an ancient being that traveled from somewhere west across the sea (possibly China) and took root in the mountains of Ashina.",
+   "entities": [
+    "Divine Dragon",
+    "Ashina"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "The Divine Dragon appears as an immense ethereal being resembling pale white wood and silver bark, wielding a lightning-charged sword in a single arm.",
+   "entities": [
+    "Divine Dragon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The rejuvenating waters of Ashina are actually the Divine Dragon's blood or life essence seeping into the soil, water, and stone of the land.",
+   "entities": [
+    "Divine Dragon",
+    "Rejuvenating Waters"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Everblossom is a sacred tree with perpetually blooming, never-wilting flowers that serves as the physical anchor connecting the Divine Dragon's power to the mortal world.",
+   "entities": [
+    "Everblossom",
+    "Divine Dragon"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Everblossom tree stands at the center of the Fountain Head Palace.",
+   "entities": [
+    "Everblossom",
+    "Fountain Head Palace"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The nobles of the Fountain Head Palace are descendants of people who lived closest to the Divine Dragon's source and drank the waters for so long their bodies became nearly immortal.",
+   "entities": [
+    "Fountain Head Palace"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fountain Head nobles' immortality has left them stagnant and purposeless, existing without growth, change, or motivation.",
+   "entities": [
+    "Fountain Head Palace"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The dragon's heritage is distinct from the rejuvenating waters: it grants true, undoable immortality and can be shared with others through a blood oath bond.",
+   "entities": [
+    "Dragon's Heritage",
+    "Kuro"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kuro is the Divine Heir, the last living vessel carrying the dragon's heritage in his blood.",
+   "entities": [
+    "Kuro",
+    "Dragon's Heritage"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kuro wants to perform a ritual to sever the dragon's heritage, ending the flow of immortality-granting power in Ashina forever, even though it will likely cost him his life.",
+   "entities": [
+    "Kuro",
+    "Dragon's Heritage"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kuro's desire to end the heritage puts him at odds with the Ashina clan, the monks of Senpou Temple, and even his own protector Wolf, all of whom want him kept alive for different reasons.",
+   "entities": [
+    "Kuro",
+    "Wolf",
+    "Senpou Temple"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Kuro personally cooks rice balls in his chamber at the top of Ashina Castle and offers them to Wolf as a gesture of genuine friendship rather than lordly favor.",
+   "entities": [
+    "Kuro",
+    "Wolf"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A grave of a previous Divine Heir can be found near the dilapidated temple, indicating the dragon's heritage has passed through a lineage before Kuro.",
+   "entities": [
+    "Kuro",
+    "Dragon's Heritage"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "On the night of the Hirata Estate raid, Kuro granted Wolf the dragon's heritage out of love, asking him to live, turning the curse into an act of grace.",
+   "entities": [
+    "Kuro",
+    "Wolf",
+    "Hirata Estate"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The Iron Code as taught by Owl placed loyalty to the father above loyalty to the master, meaning Wolf was built with a hidden 'kill switch' that could override his service to Kuro.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Iron Code",
+    "Kuro"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Late in the game, Owl reveals he is still alive and invokes the Iron Code, commanding Wolf to abandon Kuro and obey him instead.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Kuro",
+    "Iron Code"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "If the player has Wolf obey Owl, the story leads to the Shura ending, the shortest and worst of the game's four endings.",
+   "entities": [
+    "Shura Ending",
+    "Owl",
+    "Wolf"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Shura ending, Wolf abandons Kuro, kills Emma and Isshin Ashina, and ultimately kills Owl as well, becoming a demon called Shura that exists only to consume through violence.",
+   "entities": [
+    "Shura Ending",
+    "Wolf",
+    "Emma",
+    "Isshin Ashina",
+    "Owl"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "If Wolf instead defies Owl and chooses loyalty to Kuro, he breaks free of the Iron Code and makes his first truly self-directed decision, becoming a person rather than a weapon.",
+   "entities": [
+    "Wolf",
+    "Owl",
+    "Kuro",
+    "Iron Code"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "Three years before the game's events, the Hirata Estate, the ancestral home of Kuro's clan, was attacked at night by bandits led by a massive drunken brute named Yuzu.",
+   "entities": [
+    "Hirata Estate",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "The Hirata Estate raid was secretly orchestrated by Owl in cooperation with agents of the Interior Ministry, using the bandit attack as cover to separate Kuro from his protectors and seize the dragon's heritage.",
+   "entities": [
+    "Hirata Estate",
+    "Owl",
+    "Interior Ministry",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "During the Hirata Estate raid, Owl pretended to be mortally wounded, reminded Wolf of the Iron Code to protect the Divine Heir, and sent him deeper into the estate.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Hirata Estate",
+    "Iron Code"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Wolf fought and defeated Lady Butterfly, his former mentor, inside the hidden temple beneath the Hirata Estate during the raid, as she attempted to take Kuro for unknown parties.",
+   "entities": [
+    "Wolf",
+    "Lady Butterfly",
+    "Hirata Estate",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Lady Butterfly fights using illusions, including exploding phantom butterflies and ghostly apparitions of the dead, reflecting her nature as a master of deception.",
+   "entities": [
+    "Lady Butterfly"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating Lady Butterfly, Wolf was stabbed in the back by Owl himself, who had secretly orchestrated the entire raid to claim the dragon's heritage.",
+   "entities": [
+    "Wolf",
+    "Owl",
+    "Hirata Estate"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Kuro found the mortally wounded Wolf and shared his blood with him, granting him the dragon's heritage and making him unable to die, which also shattered Wolf's memory of that night.",
+   "entities": [
+    "Kuro",
+    "Wolf",
+    "Dragon's Heritage"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "After the Hirata Estate raid, Wolf spent three years sitting at the bottom of a well in the Ashina Reservoir, stripped of purpose and memory.",
+   "entities": [
+    "Wolf",
+    "Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 29
+  },
+  {
+   "text": "Wolf was roused from the well by a letter dropped by Emma at the request of the dying Isshin Ashina, informing him that his master Kuro was alive and needed him.",
+   "entities": [
+    "Wolf",
+    "Emma",
+    "Isshin Ashina",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  }
+ ],
+ "_src": "src-2372d505"
+}

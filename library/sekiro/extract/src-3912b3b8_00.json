@@ -1,0 +1,850 @@
+{
+ "entities": [
+  {
+   "name": "Sekiro: Shadows Die Twice",
+   "kind": "event",
+   "aliases": [
+    "Sekiro"
+   ]
+  },
+  {
+   "name": "Wolf",
+   "kind": "character",
+   "aliases": [
+    "Sekiro",
+    "the Wolf"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kuro",
+   "kind": "character",
+   "aliases": [
+    "Divine Heir",
+    "young lord Kuro"
+   ]
+  },
+  {
+   "name": "Isshin Ashina",
+   "kind": "character",
+   "aliases": [
+    "Kensei Isshin",
+    "Isshin"
+   ]
+  },
+  {
+   "name": "Genichiro Ashina",
+   "kind": "character",
+   "aliases": [
+    "Genichiro"
+   ]
+  },
+  {
+   "name": "Emma",
+   "kind": "character",
+   "aliases": [
+    "the Physician"
+   ]
+  },
+  {
+   "name": "the Sculptor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lady Butterfly",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Divine Child of Rejuvenation",
+   "kind": "character",
+   "aliases": [
+    "Divine Child"
+   ]
+  },
+  {
+   "name": "Divine Dragon",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Ashina clan",
+   "kind": "faction",
+   "aliases": [
+    "Ashina"
+   ]
+  },
+  {
+   "name": "Interior Ministry",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Rejuvenating Waters",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Dragon's Heritage",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Immortal Severance",
+   "kind": "concept",
+   "aliases": [
+    "ritual of Immortal Severance"
+   ]
+  },
+  {
+   "name": "Shura ending",
+   "kind": "event",
+   "aliases": [
+    "Shura"
+   ]
+  },
+  {
+   "name": "Purification ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Return ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Immortal Severance ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Ashina Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "name": "FromSoftware",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Activision",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Tenchu",
+   "kind": "event",
+   "aliases": [
+    "Tenchu series"
+   ]
+  },
+  {
+   "name": "Bloodborne",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Dark Souls",
+   "kind": "event",
+   "aliases": [
+    "Dark Souls series"
+   ]
+  },
+  {
+   "name": "Yuka Kitamura",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Sekiro: No Defeat",
+   "kind": "event",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Sekiro: Shadows Die Twice is a 2019 action-adventure game developed by FromSoftware.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "FromSoftware"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game was published internationally by Activision and in Japan by FromSoftware itself for PlayStation 4, Windows, and Xbox One in March 2019, with a Stadia version following in October 2020.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Activision",
+    "FromSoftware"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Players control Wolf, a shinobi on a quest to rescue his lord, who becomes entangled in a conflict over Ashina's fate.",
+   "entities": [
+    "Wolf",
+    "Ashina clan"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game is set in a fictionalized Japan during the Sengoku period and draws heavily on Buddhist mythology and philosophy.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Hidetaka Miyazaki wanted to create a new intellectual property distinct from Dark Souls, aiming for a Japanese-themed game centered on shinobi and ninja.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Dark Souls"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tenchu series, tied to FromSoftware's history with historical Japanese settings, served as the impetus for Sekiro's development.",
+   "entities": [
+    "Tenchu",
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Compared to the Dark Souls series, Sekiro has fewer role-playing elements, no character creation, no stat leveling, and no real-time multiplayer.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Dark Souls"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro includes gear upgrading, prosthetic arm special abilities, a skill tree, and limited character customization.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Combat in Sekiro focuses on using a katana to break an enemy's posture and balance rather than solely depleting health points, with deflection of attacks leading to an opening for a single killing blow.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game includes stealth mechanics allowing instant elimination or severe damage to most enemies when undetected.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The player character can use tools like a grappling hook to assist combat and exploration.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the player dies, they can be revived on the spot using a resurrection power that is restored by defeating enemies, rather than respawning at checkpoints.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the late Sengoku period, the Ashina clan, led by Kensei Isshin Ashina, seized a land rich in divine favor, including a foreign deity called the Divine Dragon.",
+   "entities": [
+    "Ashina clan",
+    "Isshin Ashina",
+    "Divine Dragon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Divine Dragon can grant immortality through a bloodline called the Dragon's Heritage and through the Rejuvenating Waters and its mukade-infested Sediment.",
+   "entities": [
+    "Divine Dragon",
+    "Dragon's Heritage",
+    "Rejuvenating Waters"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "A nameless orphan was adopted by the wandering shinobi Owl, who named the boy 'Wolf' and trained him as a shinobi.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "As Wolf grew up, Owl entrusted him with protecting the young lord Kuro, the last of the Dragon's Heritage line.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Two decades after Wolf's adoption, an elderly Isshin Ashina is on his deathbed while a weakened Ashina clan is besieged by the Interior Ministry's forces seeking to complete the unification of Japan.",
+   "entities": [
+    "Isshin Ashina",
+    "Ashina clan",
+    "Interior Ministry"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Desperate to save Ashina, Isshin's adoptive grandson Genichiro Ashina seeks Kuro in order to use his blood to create an immortal army.",
+   "entities": [
+    "Genichiro Ashina",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Disagreeing with Genichiro's methods, Isshin Ashina has his private physician Emma warn Wolf so that Wolf and Kuro can flee.",
+   "entities": [
+    "Isshin Ashina",
+    "Emma",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Genichiro Ashina confronts Wolf and Kuro, defeats Wolf in a duel, severs Wolf's left arm, and captures Kuro.",
+   "entities": [
+    "Genichiro Ashina",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Wolf is saved by a man called the Sculptor, who gives him a prosthetic arm.",
+   "entities": [
+    "Wolf",
+    "the Sculptor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "To rescue Kuro, Wolf assaults Ashina Castle, where he meets Isshin Ashina, who gives him the new name 'Sekiro.'",
+   "entities": [
+    "Wolf",
+    "Ashina Castle",
+    "Isshin Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Through meditation on certain items, Sekiro can revisit a memory from three years earlier when Kuro's home was raided by bandits led by the shinobi Lady Butterfly, resulting in Owl's apparent death.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Lady Butterfly",
+    "Owl"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "In that memory, Sekiro defeated Lady Butterfly but was then fatally stabbed by an unknown assailant, surviving only because Kuro shared his blood with him.",
+   "entities": [
+    "Wolf",
+    "Lady Butterfly",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Sekiro duels Genichiro Ashina again and defeats him, but Genichiro survives by using the Sediment from the Rejuvenating Waters to gain a corrupted form of immortality and escapes.",
+   "entities": [
+    "Wolf",
+    "Genichiro Ashina",
+    "Rejuvenating Waters"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Kuro refuses to flee and instead asks Sekiro to perform the Immortal Severance ritual on him, which would kill Kuro and eliminate the Dragon's Heritage.",
+   "entities": [
+    "Kuro",
+    "Wolf",
+    "Immortal Severance",
+    "Dragon's Heritage"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "Sekiro agrees to gather materials for the Immortal Severance ritual, including the Mortal Blade, a weapon capable of killing immortals, obtained from the Divine Child of Rejuvenation.",
+   "entities": [
+    "Wolf",
+    "Mortal Blade",
+    "Divine Child of Rejuvenation",
+    "Immortal Severance"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 57
+  },
+  {
+   "text": "The Divine Child of Rejuvenation is the sole survivor of experiments involving the Rejuvenating Waters.",
+   "entities": [
+    "Divine Child of Rejuvenation",
+    "Rejuvenating Waters"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After collecting most of the ritual elements, Sekiro is confronted by Owl, who faked his death years earlier and reveals he was the one who stabbed Sekiro three years prior.",
+   "entities": [
+    "Wolf",
+    "Owl"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "If Sekiro renounces loyalty to Kuro at Owl's command, he kills Emma and Isshin Ashina while Owl kills Genichiro Ashina, but Sekiro then succumbs to bloodlust and kills Owl too while Kuro watches, resulting in the Shura ending.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Emma",
+    "Isshin Ashina",
+    "Owl",
+    "Genichiro Ashina",
+    "Shura ending"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "If Sekiro refuses Owl's demand, he kills Owl in combat and enters the divine realm to retrieve the final ritual ingredient from the Divine Dragon itself.",
+   "entities": [
+    "Wolf",
+    "Owl",
+    "Divine Dragon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Upon returning from the divine realm, Sekiro discovers Isshin Ashina has died and that Ashina Castle is under attack by Interior Ministry troops using rockets and flamethrowers.",
+   "entities": [
+    "Wolf",
+    "Isshin Ashina",
+    "Ashina Castle",
+    "Interior Ministry"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Fighting through the burning castle, Sekiro finds Kuro under attack by Genichiro Ashina, who has obtained another Mortal Blade.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Genichiro Ashina",
+    "Mortal Blade"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 75
+  },
+  {
+   "text": "After being defeated, Genichiro Ashina sacrifices himself using the second Mortal Blade to revive Isshin Ashina in his prime so he can restore Ashina, a wish Isshin honors despite disagreeing with it.",
+   "entities": [
+    "Genichiro Ashina",
+    "Mortal Blade",
+    "Isshin Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "After killing the revived Isshin Ashina, the game offers three possible endings depending on items collected: Immortal Severance, Purification, and Return.",
+   "entities": [
+    "Isshin Ashina",
+    "Immortal Severance ending",
+    "Purification ending",
+    "Return ending"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "In the Immortal Severance ending, Sekiro performs the ritual as instructed, killing Kuro and becoming mortal again, later spending his days carving Buddha statues like the Sculptor before him while keeping his prosthetic to pass on.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Immortal Severance ending",
+    "the Sculptor"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Purification ending, Sekiro performs an alternate ritual devised with Emma's help, sacrificing himself to free Kuro of the Dragon's Heritage; afterward Kuro prays at Sekiro's grave with Emma before leaving Ashina.",
+   "entities": [
+    "Wolf",
+    "Emma",
+    "Kuro",
+    "Purification ending",
+    "Dragon's Heritage"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Return ending, Sekiro collaborates with the Divine Child of Rejuvenation to make her a vessel for the Divine Dragon's power, then brings the dying Kuro to her so she can absorb him, after which the two depart to return the Dragon's Heritage to its origin in the West.",
+   "entities": [
+    "Wolf",
+    "Divine Child of Rejuvenation",
+    "Divine Dragon",
+    "Kuro",
+    "Return ending",
+    "Dragon's Heritage"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Development of Sekiro began in late 2015, following completion of Bloodborne's downloadable content, The Old Hunters.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro was directed by Hidetaka Miyazaki, who had previously worked on the Dark Souls series and Bloodborne.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Dark Souls",
+    "Bloodborne"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro draws inspiration from the Tenchu series of stealth-action games developed by Acquire and published by FromSoftware.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Tenchu",
+    "FromSoftware"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The development team initially considered making Sekiro a sequel to Tenchu, but the concept outgrew that idea.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Tenchu"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miyazaki wanted the combat redesign to evoke the feeling of swords clashing, with fighters seeking openings for a fatal strike.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miyazaki and the development team made Sekiro an entirely single-player experience because they felt multiplayer had limitations they wanted to avoid.",
+   "entities": [
+    "Hidetaka Miyazaki",
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Despite being set in the Sengoku period of real Japanese history, Sekiro features no actual historical people or locations.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro was revealed via a teaser trailer at The Game Awards 2017 with the tagline 'Shadows Die Twice.'",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The full title Sekiro: Shadows Die Twice was revealed during Microsoft's E3 2018 press conference.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game was published by Activision worldwide, with FromSoftware self-publishing in Japan and Cube Game publishing in the Asia-Pacific region.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Activision",
+    "FromSoftware"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's soundtrack was composed by Yuka Kitamura, with contributions from Noriyuki Asakura.",
+   "entities": [
+    "Yuka Kitamura",
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro: Shadows Die Twice was released for PlayStation 4, Windows, and Xbox One on 22 March 2019.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A collector's edition released the same day included a steelbook case, a figurine of the protagonist, an art book, a physical map, a soundtrack download code, and in-game coin replicas.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A Stadia port of Sekiro was released in late 2020.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "On 31 October 2020, a free update added new content including new cosmetics for Wolf and a boss rush mode.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Wolf"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The word 'sekirō' is a contraction of 'sekiwan no ōkami,' meaning 'one-armed wolf.'",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The subtitle 'Shadows Die Twice' was originally meant only as a teaser trailer slogan until Activision asked to keep it as part of the final title.",
+   "entities": [
+    "Sekiro: Shadows Die Twice",
+    "Activision"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro received critical acclaim and was praised for its gameplay and setting, often compared favorably to FromSoftware's earlier work, though its difficulty drew mixed reactions.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sekiro won Game of the Year at The Game Awards 2019.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As of September 2023, Sekiro has sold over 10 million units.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "On release day, Sekiro drew over 108,000 concurrent players on Steam, the highest for a new game launched in early 2019 and third highest for any Japanese game in Steam's history at the time.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In Japan, Sekiro sold 157,548 retail units in its opening weekend, debuting at number one.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Within ten days of release, Sekiro sold over two million units, rising to over five million units by July 2020.",
+   "entities": [
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "An anime adaptation titled Sekiro: No Defeat was announced at Gamescom 2025, produced by Qzil.la, set to premiere in January 2027 for eight episodes, streaming on Crunchyroll outside Japan.",
+   "entities": [
+    "Sekiro: No Defeat",
+    "Sekiro: Shadows Die Twice"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The anime's main cast reprises the voice roles of Daisuke Namikawa as Wolf, Miyuki Satou as Kuro, and Kenjiro Tsuda as Genichiro Ashina.",
+   "entities": [
+    "Sekiro: No Defeat",
+    "Wolf",
+    "Kuro",
+    "Genichiro Ashina"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A theatrical edition of the Sekiro: No Defeat anime opened in Japanese theaters on 4 September 2026, distributed by Animec.",
+   "entities": [
+    "Sekiro: No Defeat"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-3912b3b8"
+}

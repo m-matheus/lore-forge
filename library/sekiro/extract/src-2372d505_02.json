@@ -1,0 +1,784 @@
+{
+ "entities": [
+  {
+   "name": "Guardian Ape",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Guardian Ape's Mate",
+   "kind": "boss",
+   "aliases": [
+    "Second Ape"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "character",
+   "aliases": [
+    "Great Shinobi Owl"
+   ]
+  },
+  {
+   "name": "Wolf",
+   "kind": "character",
+   "aliases": [
+    "Sekiro"
+   ]
+  },
+  {
+   "name": "Lady Butterfly",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Hirata Estate",
+   "kind": "location",
+   "aliases": [
+    "Herata Estate"
+   ]
+  },
+  {
+   "name": "Ashina Castle",
+   "kind": "location",
+   "aliases": [
+    "Asheena Castle"
+   ]
+  },
+  {
+   "name": "Kuro",
+   "kind": "character",
+   "aliases": [
+    "Divine Heir"
+   ]
+  },
+  {
+   "name": "Fountain Head Palace",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Wedding Cave",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Divine Dragon",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Palace Nobles",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Okami Warriors",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Dragon's Tears",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Sculptor",
+   "kind": "character",
+   "aliases": [
+    "Orangutan"
+   ]
+  },
+  {
+   "name": "Shura",
+   "kind": "concept",
+   "aliases": [
+    "Ashura",
+    "Shurer"
+   ]
+  },
+  {
+   "name": "Demon of Hatred",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Emma",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Finger Whistle",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Isshin Ashina",
+   "kind": "character",
+   "aliases": [
+    "Ishin",
+    "Ein"
+   ]
+  },
+  {
+   "name": "Genichiro Ashina",
+   "kind": "character",
+   "aliases": [
+    "Janichiro"
+   ]
+  },
+  {
+   "name": "Senpou Temple",
+   "kind": "location",
+   "aliases": [
+    "Senpu Temple"
+   ]
+  },
+  {
+   "name": "Red Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Black Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Lotus of the Palace",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Shura Ending",
+   "kind": "event",
+   "aliases": [
+    "Immortal Shura ending"
+   ]
+  },
+  {
+   "name": "Immortal Severance Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Purification Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Dragon's Homecoming Ending",
+   "kind": "event",
+   "aliases": [
+    "Return Ending"
+   ]
+  },
+  {
+   "name": "Divine Child of Rejuvenation",
+   "kind": "character",
+   "aliases": [
+    "Divine Child"
+   ]
+  },
+  {
+   "name": "Ashina (land)",
+   "kind": "location",
+   "aliases": [
+    "Asha"
+   ]
+  },
+  {
+   "name": "Iron Code",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Ever Blossom Tree",
+   "kind": "item",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The waters of rejuvenation transformed the Guardian Ape into something that cannot die but is no longer truly alive.",
+   "entities": [
+    "Guardian Ape"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The player must defeat the Guardian Ape twice: once for its body and once for the centipede parasite inhabiting its severed head.",
+   "entities": [
+    "Guardian Ape"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian Ape has a mate, a second, smaller and less corrupted ape, found in a hidden arena deep in the mountains.",
+   "entities": [
+    "Guardian Ape's Mate",
+    "Guardian Ape"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the hidden arena, the Guardian Ape's mate fights alongside the reanimated, headless corpse of the first Guardian Ape.",
+   "entities": [
+    "Guardian Ape's Mate",
+    "Guardian Ape"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Wolf kills the second ape, the headless corpse of the first ape briefly cradles its body before resuming its attack.",
+   "entities": [
+    "Guardian Ape",
+    "Guardian Ape's Mate",
+    "Wolf"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Owl is portrayed as a villain driven purely by ambition and desire for power rather than grief, zealotry, or revenge.",
+   "entities": [
+    "Owl"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Owl planned the raid on the Hirata Estate for years, cultivating ties with Interior Ministry agents and coordinating with Lady Butterfly.",
+   "entities": [
+    "Owl",
+    "Hirata Estate",
+    "Lady Butterfly"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Owl used bandits as cover for the real operation during the Hirata Estate raid.",
+   "entities": [
+    "Owl",
+    "Hirata Estate"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Owl faked his own death and manipulated Wolf's loyalty, using the Iron Code he taught Wolf as a tool to control him.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Iron Code"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Owl stabbed Wolf in the back during the Hirata Estate raid with cold efficiency, treating him as an obstacle despite being his adoptive son.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "At the end of their final fight atop Ashina Castle, a defeated Owl tells Wolf he is proud of him.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Ashina Castle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "It is ambiguous whether Owl's final statement of pride is a last manipulation or genuine paternal feeling.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In the Purification ending's memory sequence, Wolf refights Owl at the Hirata Estate three years before the main game, facing him at the height of his power.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Hirata Estate",
+    "Purification Ending"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Defeating the younger, more powerful Owl in this memory battle symbolizes Wolf growing beyond his father's influence through love rather than ambition.",
+   "entities": [
+    "Owl",
+    "Wolf"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Fountain Head Palace is reached by traveling through the Wedding Cave, a passage connecting the mortal world to a realm between earth and sky.",
+   "entities": [
+    "Fountain Head Palace",
+    "Wedding Cave"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fountain Head Palace is depicted as an elegant aristocratic compound with traditional Japanese architecture and perpetually falling cherry blossoms.",
+   "entities": [
+    "Fountain Head Palace"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Palace Nobles were once human families who lived near the Ever Blossom Tree and were the first to drink deeply from the divine waters.",
+   "entities": [
+    "Palace Nobles",
+    "Ever Blossom Tree"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Centuries of drinking the rejuvenating waters transformed the Palace Nobles into elongated, pale, nearly translucent beings who have lost their individuality and emotions.",
+   "entities": [
+    "Palace Nobles"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Okami Warriors are tall, fierce women who guard the Fountain Head Palace, fighting with lightning-infused weapons and retaining more martial vigor than the Palace Nobles.",
+   "entities": [
+    "Okami Warriors",
+    "Fountain Head Palace"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the heart of the Fountain Head Palace, in a sky-open arena, the Divine Dragon resides, the entity whose essence poisoned the land of Ashina with immortality.",
+   "entities": [
+    "Divine Dragon",
+    "Fountain Head Palace",
+    "Ashina (land)"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Divine Dragon fight is framed as a ritual of release rather than a conventional battle, fought by catching and redirecting lightning at the dragon.",
+   "entities": [
+    "Divine Dragon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Divine Dragon is portrayed as a prisoner compelled to fight because of its bond to the mortal world through the Ever Blossom Tree, not out of malice.",
+   "entities": [
+    "Divine Dragon",
+    "Ever Blossom Tree"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Defeating the Divine Dragon grants the Dragon's Tears, a key ingredient needed for Kuro's ritual to sever the dragon's heritage and end immortality.",
+   "entities": [
+    "Divine Dragon",
+    "Dragon's Tears",
+    "Kuro"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As the story progresses, the Fountain Head Palace begins to crumble, its waters slow, and its blossoms falter, mirroring the weakening of Ashina's waters below.",
+   "entities": [
+    "Fountain Head Palace",
+    "Ashina (land)"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Sculptor was once a renowned shinobi nicknamed Orangutan, known for his size and explosive fighting style.",
+   "entities": [
+    "Sculptor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Sculptor was the original owner and first user of the prosthetic arm that Wolf later wears.",
+   "entities": [
+    "Sculptor",
+    "Wolf"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Sculptor's consuming rage is identified in the game's lore as Shura, a state in which a being surrenders entirely to violence.",
+   "entities": [
+    "Sculptor",
+    "Shura"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Isshin Ashina warned Wolf about the danger of becoming Shura, and the Sculptor represents a living example of that fate.",
+   "entities": [
+    "Isshin Ashina",
+    "Wolf",
+    "Shura",
+    "Sculptor"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "To contain his rage, the Sculptor gave up his weapons and his prosthetic arm, retreated to the dilapidated temple, and began carving Buddha statues as a form of meditation.",
+   "entities": [
+    "Sculptor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Over the course of the game, the Sculptor's health and Buddha carvings deteriorate, with the statues beginning to look wrathful instead of serene.",
+   "entities": [
+    "Sculptor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "During the Interior Ministry's final invasion and the burning of Ashina Castle, the Sculptor transforms into the Demon of Hatred.",
+   "entities": [
+    "Sculptor",
+    "Demon of Hatred",
+    "Ashina Castle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Demon of Hatred retains the fused prosthetic arm of the Sculptor, now warped into a weapon of destructive fire power.",
+   "entities": [
+    "Demon of Hatred",
+    "Sculptor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Emma informs the player about a finger whistle, a shinobi tool that can momentarily cut through the Demon of Hatred's rage to reveal the man within.",
+   "entities": [
+    "Emma",
+    "Finger Whistle",
+    "Demon of Hatred"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "During the fight, using the finger whistle causes the Demon of Hatred to flinch and briefly show a flicker of human recognition before the rage returns.",
+   "entities": [
+    "Demon of Hatred",
+    "Finger Whistle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "A hidden detail in the Demon of Hatred fight shows its non-prosthetic arm still making a carving motion throughout the battle.",
+   "entities": [
+    "Demon of Hatred",
+    "Sculptor"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Sekiro's story branches into four endings: Shura, Immortal Severance, Purification, and Dragon's Homecoming.",
+   "entities": [
+    "Shura Ending",
+    "Immortal Severance Ending",
+    "Purification Ending",
+    "Dragon's Homecoming Ending"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the Shura ending, Wolf obeys Owl, abandons Kuro, kills Emma and Isshin Ashina, then kills Owl himself, becoming a demon prowling the land.",
+   "entities": [
+    "Shura Ending",
+    "Wolf",
+    "Owl",
+    "Emma",
+    "Isshin Ashina",
+    "Kuro"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Immortal Severance ending is the default outcome if the player defies Owl and follows Kuro's plan without finding hidden alternate paths.",
+   "entities": [
+    "Immortal Severance Ending",
+    "Owl",
+    "Kuro"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "To complete the ritual in the Immortal Severance ending, Wolf acquires the Red Mortal Blade from Senpou Temple and the Lotus of the Palace from the Guardian Ape's cave, then defeats the Divine Dragon for its tears.",
+   "entities": [
+    "Immortal Severance Ending",
+    "Red Mortal Blade",
+    "Senpou Temple",
+    "Lotus of the Palace",
+    "Guardian Ape",
+    "Divine Dragon"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "In the Immortal Severance ending's final battle, Genichiro Ashina uses the Black Mortal Blade to open a gate to the underworld and summon the soul of young Isshin Ashina at the height of his power.",
+   "entities": [
+    "Immortal Severance Ending",
+    "Genichiro Ashina",
+    "Black Mortal Blade",
+    "Isshin Ashina"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Young Isshin Ashina fights across three escalating phases: swordsmanship, then spear and firearm techniques, then lightning-infused combat.",
+   "entities": [
+    "Isshin Ashina"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "After being defeated, young Isshin Ashina dies at peace, complimenting Wolf's skill rather than discussing Ashina's legacy.",
+   "entities": [
+    "Isshin Ashina",
+    "Wolf"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "In the Immortal Severance ending, Wolf gives Kuro the Dragon's Tears, Kuro performs the ritual severing the heritage, and Kuro dies as a result because the heritage is inseparable from his blood.",
+   "entities": [
+    "Immortal Severance Ending",
+    "Wolf",
+    "Kuro",
+    "Dragon's Tears"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Immortal Severance ending closes with Wolf sitting in the Sculptor's chair at the dilapidated temple, carving Buddhas himself.",
+   "entities": [
+    "Immortal Severance Ending",
+    "Wolf",
+    "Sculptor"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Purification ending requires discovering, through eavesdropping and a return to the Hirata Estate memory, an alternate ritual in which Wolf dies instead of Kuro.",
+   "entities": [
+    "Purification Ending",
+    "Wolf",
+    "Kuro",
+    "Hirata Estate"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Purification ending, Wolf's body is linked to the Ever Blossom Tree, so his permanent death severs the dragon's heritage without killing Kuro.",
+   "entities": [
+    "Purification Ending",
+    "Wolf",
+    "Ever Blossom Tree",
+    "Kuro"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Purification ending, Wolf gives Kuro the Dragon's Tears mixed with material from the Ever Blossom, and dies permanently so that Kuro can live on.",
+   "entities": [
+    "Purification Ending",
+    "Wolf",
+    "Kuro",
+    "Dragon's Tears",
+    "Ever Blossom Tree"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Dragon's Homecoming ending is the hardest to achieve, requiring a long hidden questline involving the Divine Child of Rejuvenation, sole survivor of the monks' experiments at Senpou Temple.",
+   "entities": [
+    "Dragon's Homecoming Ending",
+    "Divine Child of Rejuvenation",
+    "Senpou Temple"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Dragon's Homecoming ending, Wolf helps the Divine Child absorb Kuro's soul into her body, allowing Kuro's consciousness to survive after his physical body dies.",
+   "entities": [
+    "Dragon's Homecoming Ending",
+    "Wolf",
+    "Divine Child of Rejuvenation",
+    "Kuro"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Dragon's Homecoming ending, Wolf escorts the Divine Child, who now carries Kuro's soul, on a journey west to return the dragon's heritage to its place of origin.",
+   "entities": [
+    "Dragon's Homecoming Ending",
+    "Wolf",
+    "Divine Child of Rejuvenation"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Dragon's Homecoming ending does not show whether Wolf and the Divine Child succeed in their journey, ending on their departure westward.",
+   "entities": [
+    "Dragon's Homecoming Ending",
+    "Wolf",
+    "Divine Child of Rejuvenation"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The game's title phrase 'Shadows die twice' refers on a surface level to Wolf's resurrection mechanic, where he can die twice before a full game-over.",
+   "entities": [
+    "Wolf"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "On a thematic level, 'Shadows die twice' is interpreted as referring to the death of Wolf's selfhood when he became a shinobi tool, and later the death of that shadow-self when he chooses Kuro over Owl.",
+   "entities": [
+    "Wolf",
+    "Owl",
+    "Kuro",
+    "Iron Code"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Kuro chooses to destroy his own immortal heritage after witnessing how immortality corrupted monks, nobles, and warriors around him.",
+   "entities": [
+    "Kuro"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The narrator frames Sekiro's overarching theme as the value of mortality and acceptance of death over the corrupting pursuit of immortality.",
+   "entities": [
+    "Kuro",
+    "Wolf"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-2372d505"
+}

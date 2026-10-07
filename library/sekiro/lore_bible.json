@@ -1,0 +1,4017 @@
+{
+ "game": "Sekiro",
+ "updated_at": "2026-10-03T09:37:35",
+ "sources": {
+  "src-3912b3b8": {
+   "kind": "document",
+   "title": "Sekiro_ Shadows Die Twice - Wikipedia.html",
+   "origin": "sources\\Sekiro_ Shadows Die Twice - Wikipedia.html",
+   "sha": "3912b3b8b4bd65d7"
+  },
+  "src-2372d505": {
+   "kind": "reference_video",
+   "title": "The Entire Lore of Sekiro Explained To Fall Asleep To",
+   "origin": "https://www.youtube.com/watch?v=dPThKAqFTGw",
+   "sha": "2372d5054c15abb9"
+  }
+ },
+ "entities": [
+  {
+   "id": "n0001",
+   "name": "Wolf",
+   "kind": "character",
+   "aliases": [
+    "One-Armed Wolf",
+    "Sekiro",
+    "Sekiro: Shadows Die Twice",
+    "the Shinobi",
+    "the Wolf"
+   ]
+  },
+  {
+   "id": "n0002",
+   "name": "Ashina",
+   "kind": "location",
+   "aliases": [
+    "Asha",
+    "Asha domain",
+    "Ashina (land)",
+    "Ashina Domain",
+    "Ashina clan"
+   ]
+  },
+  {
+   "id": "n0003",
+   "name": "Emma",
+   "kind": "character",
+   "aliases": [
+    "the Physician"
+   ]
+  },
+  {
+   "id": "n0004",
+   "name": "Isshin Ashina",
+   "kind": "character",
+   "aliases": [
+    "Ein",
+    "Ishin",
+    "Isshin",
+    "Kensei Isshin",
+    "Sword Saint",
+    "the Sword Saint"
+   ]
+  },
+  {
+   "id": "n0005",
+   "name": "Kuro",
+   "kind": "character",
+   "aliases": [
+    "Curo",
+    "Divine Heir",
+    "the Divine Heir",
+    "young lord Kuro"
+   ]
+  },
+  {
+   "id": "n0006",
+   "name": "Owl",
+   "kind": "character",
+   "aliases": [
+    "Great Shinobi Owl",
+    "Shadow Owl",
+    "Shinobi Owl"
+   ]
+  },
+  {
+   "id": "n0007",
+   "name": "Ashina Castle",
+   "kind": "location",
+   "aliases": [
+    "Asheena Castle"
+   ]
+  },
+  {
+   "id": "n0008",
+   "name": "Divine Child of Rejuvenation",
+   "kind": "character",
+   "aliases": [
+    "Divine Child"
+   ]
+  },
+  {
+   "id": "n0009",
+   "name": "Divine Dragon",
+   "kind": "character",
+   "aliases": [
+    "the divine dragon"
+   ]
+  },
+  {
+   "id": "n0010",
+   "name": "Genichiro Ashina",
+   "kind": "character",
+   "aliases": [
+    "Ganichiro",
+    "Genichiro",
+    "Janichiro",
+    "Jenichiro",
+    "Jinichiro"
+   ]
+  },
+  {
+   "id": "n0011",
+   "name": "Interior Ministry",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0012",
+   "name": "Lady Butterfly",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0013",
+   "name": "Rejuvenating Waters",
+   "kind": "concept",
+   "aliases": [
+    "rejuvenating sediment",
+    "sacred sediment",
+    "the waters",
+    "waters of Ashina"
+   ]
+  },
+  {
+   "id": "n0014",
+   "name": "Senpou Temple",
+   "kind": "location",
+   "aliases": [
+    "Mount Kongo monastery",
+    "Senpu Temple"
+   ]
+  },
+  {
+   "id": "n0015",
+   "name": "Shura Ending",
+   "kind": "ending",
+   "aliases": [
+    "Immortal Shura ending",
+    "Shura",
+    "Shurer ending"
+   ]
+  },
+  {
+   "id": "n0016",
+   "name": "Black Mortal Blade",
+   "kind": "weapon",
+   "aliases": [
+    "black-bladed bow"
+   ]
+  },
+  {
+   "id": "n0017",
+   "name": "Dragon's Heritage",
+   "kind": "concept",
+   "aliases": [
+    "the heritage"
+   ]
+  },
+  {
+   "id": "n0018",
+   "name": "Dragon's Homecoming Ending",
+   "kind": "event",
+   "aliases": [
+    "Return Ending",
+    "Return ending"
+   ]
+  },
+  {
+   "id": "n0019",
+   "name": "Everblossom",
+   "kind": "item",
+   "aliases": [
+    "Ever Blossom Tree",
+    "ever blossom tree"
+   ]
+  },
+  {
+   "id": "n0020",
+   "name": "Fountain Head Palace",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0021",
+   "name": "Guardian Ape",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0022",
+   "name": "Guardian Ape's Mate",
+   "kind": "boss",
+   "aliases": [
+    "Second Ape",
+    "second ape"
+   ]
+  },
+  {
+   "id": "n0023",
+   "name": "Hirata Estate",
+   "kind": "location",
+   "aliases": [
+    "Herata Estate",
+    "Herata estate"
+   ]
+  },
+  {
+   "id": "n0024",
+   "name": "Immortal Severance Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "id": "n0025",
+   "name": "Iron Code",
+   "kind": "concept",
+   "aliases": [
+    "the iron code"
+   ]
+  },
+  {
+   "id": "n0026",
+   "name": "Purification Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "id": "n0027",
+   "name": "Red Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "id": "n0028",
+   "name": "The Sculptor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0029",
+   "name": "Activision",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0030",
+   "name": "Asha Reservoir",
+   "kind": "location",
+   "aliases": [
+    "Asha Reservoir well"
+   ]
+  },
+  {
+   "id": "n0031",
+   "name": "Bloodborne",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "id": "n0032",
+   "name": "Centipede Parasite",
+   "kind": "concept",
+   "aliases": [
+    "centipede"
+   ]
+  },
+  {
+   "id": "n0033",
+   "name": "Dark Souls",
+   "kind": "event",
+   "aliases": [
+    "Dark Souls series"
+   ]
+  },
+  {
+   "id": "n0034",
+   "name": "Demon of Hatred",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0035",
+   "name": "Dogen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0036",
+   "name": "Dragon Rot",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0037",
+   "name": "Dragon's Tears",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0038",
+   "name": "Finger Whistle",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0039",
+   "name": "FromSoftware",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0040",
+   "name": "Great Serpent",
+   "kind": "enemy",
+   "aliases": [
+    "Great Serpents"
+   ]
+  },
+  {
+   "id": "n0041",
+   "name": "Gun Fort",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0042",
+   "name": "Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Miyazaki"
+   ]
+  },
+  {
+   "id": "n0043",
+   "name": "Immortal Severance",
+   "kind": "concept",
+   "aliases": [
+    "ritual of Immortal Severance"
+   ]
+  },
+  {
+   "id": "n0044",
+   "name": "Long-armed Centipede Giraffe",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0045",
+   "name": "Lotus of the Palace",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0046",
+   "name": "Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "id": "n0047",
+   "name": "Okami Warriors",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0048",
+   "name": "Palace Nobles",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0049",
+   "name": "Prosthetic Arm",
+   "kind": "item",
+   "aliases": [
+    "shinobi prosthetic"
+   ]
+  },
+  {
+   "id": "n0050",
+   "name": "Sculptor",
+   "kind": "character",
+   "aliases": [
+    "Orangutan"
+   ]
+  },
+  {
+   "id": "n0051",
+   "name": "Sekiro: No Defeat",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "id": "n0052",
+   "name": "Shura",
+   "kind": "concept",
+   "aliases": [
+    "Ashura",
+    "Shurer"
+   ]
+  },
+  {
+   "id": "n0053",
+   "name": "Sunken Valley",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0054",
+   "name": "Sunken Valley Clan",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0055",
+   "name": "Tenchu",
+   "kind": "event",
+   "aliases": [
+    "Tenchu series"
+   ]
+  },
+  {
+   "id": "n0056",
+   "name": "Wedding Cave",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0057",
+   "name": "Yuka Kitamura",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "id": "f0001",
+   "text": "Japan during the Sengoku period was fractured into warring domains with no stable central authority, making alliances and loyalties constantly shift.",
+   "entity_ids": [],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0002",
+   "text": "The Divine Dragon is an ancient being that traveled from somewhere west across the sea (possibly China) and took root in the mountains of Ashina.",
+   "entity_ids": [
+    "n0002",
+    "n0009"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0003",
+   "text": "The monks discovered that parasitic centipedes native to Mount Kongo, which lived in the rejuvenating waters, could act as conduits for the dragon's power and sustain a host body indefinitely if implanted in a human.",
+   "entity_ids": [
+    "n0014",
+    "n0032"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 4,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0004",
+   "text": "The rejuvenating waters of Ashina are actually the Divine Dragon's blood or life essence seeping into the soil, water, and stone of the land, and can grant immortality through a bloodline called the Dragon's Heritage and through the Rejuvenating Waters and its mukade-infested Sediment.",
+   "entity_ids": [
+    "n0009",
+    "n0013",
+    "n0017"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0005",
+   "text": "As the story progresses, the Fountain Head Palace begins to crumble, its waters slow, and its blossoms falter, mirroring the weakening of Ashina's waters below.",
+   "entity_ids": [
+    "n0002",
+    "n0020"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0006",
+   "text": "The game is set in a fictionalized Japan during the Sengoku period, draws heavily on Buddhist mythology and philosophy, and despite the historical setting features no actual historical people or locations.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0007",
+   "text": "The rejuvenating waters are especially concentrated on Mount Kongo because the mountain sits close to the source of the divine dragon's essence.",
+   "entity_ids": [
+    "n0013",
+    "n0014"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0008",
+   "text": "Mount Kongo housed a monastery, Senpu Temple, where monks originally sought Buddhist enlightenment through meditation and scripture study.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0009",
+   "text": "Wolf begins as a nameless war orphan wandering a battlefield in Sengoku-era Japan after his parents and village were destroyed by war.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0010",
+   "text": "The monks of Senpu Temple began drinking the rejuvenating waters, which made them stronger and healthier, leading them to believe the waters were connected to enlightenment.",
+   "entity_ids": [
+    "n0013",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0011",
+   "text": "Owl, a wandering mercenary shinobi, found the orphaned boy on the battlefield and took him in—not out of compassion but because he saw potential raw material to shape into a weapon—naming him 'Wolf' and raising him in the shinobi tradition, training him in combat, stealth, and silence before he ever learned to read.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0012",
+   "text": "The monks of Senpu Temple abandoned Buddhist teachings and repurposed their meditation halls into laboratories to study the waters' effects.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0013",
+   "text": "Monks willingly allowed centipedes to be inserted into their bodies, achieving a twisted immortality while losing their humanity.",
+   "entity_ids": [
+    "n0014",
+    "n0032"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0014",
+   "text": "The monks of Senpu Temple experimented on children from surrounding villages, attempting to turn them into artificial divine heirs carrying the dragon's heritage.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0015",
+   "text": "Most children used in the monks' experiments died because their bodies could not contain the forced dragon power, and the monks buried them in shallow graves on the mountainside.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0016",
+   "text": "Twenty years before the game's events, Ashina was occupied by foreign lords who had subjugated its people.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0017",
+   "text": "During the late Sengoku period, the Ashina clan, led by Kensei Isshin Ashina, seized a land rich in divine favor, including a foreign deity called the Divine Dragon.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0018",
+   "text": "Isshin Ashina, known as the Sword Saint, led a rebellion that drove out the foreign occupiers and won Ashina's independence.",
+   "entity_ids": [
+    "n0002",
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0019",
+   "text": "Isshin's rebellion secured roughly 20 years of freedom for Ashina before the Interior Ministry, Japan's growing central authority, began threatening to reclaim it.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0011"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0020",
+   "text": "Wolf climbed out of the well after receiving Emma's letter, beginning the game's story.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0021",
+   "text": "Wolf infiltrates Ashina Castle and finds Kuro imprisoned in a tower room by the Ashina clan.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0005",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0022",
+   "text": "Genichiro Ashina, Isshin's adoptive grandson, wants to use Kuro's blood to create an immortal army to save Ashina from collapse under the Interior Ministry's invasion.",
+   "entity_ids": [
+    "n0004",
+    "n0005",
+    "n0010",
+    "n0011"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0023",
+   "text": "On the bridge leaving Ashina Castle, Genichiro Ashina confronts and decisively defeats Wolf in a duel, severing his left arm at the elbow, then takes Kuro back into the castle, leaving Wolf for dead.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0010"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0024",
+   "text": "Wolf does not die from his wounds because the dragon's heritage in his blood revives him, and he wakes in a dilapidated temple at the base of the mountain.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0025",
+   "text": "As Wolf grew up, Owl entrusted him with protecting the young lord Kuro, the last of the Dragon's Heritage line.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0026",
+   "text": "By the time the game begins, roughly two decades after Wolf's adoption, Isshin Ashina is old and dying of illness, and the kingdom he built is collapsing under the threat of the Interior Ministry's armies seeking to complete the unification of Japan.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0011"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0027",
+   "text": "The Hirata Estate raid was secretly orchestrated by Owl, who spent years planning it, cultivating ties with Interior Ministry agents and coordinating with Lady Butterfly, using the bandit attack as cover to separate Kuro from his protectors and seize the dragon's heritage for himself.",
+   "entity_ids": [
+    "n0005",
+    "n0006",
+    "n0011",
+    "n0012",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0028",
+   "text": "Wolf fights through Ashina's outskirts, an army of soldiers, generals, and war beasts to reach the castle's main tower where Kuro and Isshin Ashina are located.",
+   "entity_ids": [
+    "n0001",
+    "n0004",
+    "n0005",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0029",
+   "text": "Isshin Ashina, elderly and dying, meets Wolf as he assaults Ashina Castle to rescue Kuro and gives him the name 'Sekiro, One-Armed Wolf' as an acknowledgment of his loyalty despite failure.",
+   "entity_ids": [
+    "n0001",
+    "n0004",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0030",
+   "text": "After Owl stabbed Wolf during the Hirata Estate raid, Kuro found him mortally wounded and bleeding out in a burning temple and, out of love, shared his blood with him, asking him to live; this granted Wolf the dragon's heritage, made him unable to die, bound their fates together, and shattered his memory of that night.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0017",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0031",
+   "text": "Three years before the game's events, the Hirata Estate, the ancestral home of Kuro's clan, was attacked at night by bandits led by a massive drunken brute named Yuzu.",
+   "entity_ids": [
+    "n0005",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0032",
+   "text": "During the Hirata Estate raid, Owl pretended to be mortally wounded, reminded Wolf of the Iron Code to protect the Divine Heir, and sent him deeper into the estate.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0023",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0033",
+   "text": "Wolf fought and defeated Lady Butterfly, his former mentor, inside the hidden temple beneath the Hirata Estate during the raid, as she attempted to take Kuro for unknown parties.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0012",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0034",
+   "text": "After Wolf defeated Lady Butterfly, Owl—his adoptive father—stabbed him in the back with cold efficiency, treating him as an obstacle; having secretly orchestrated the entire raid to claim the dragon's heritage, Owl wounded Wolf mortally rather than killing him outright once Wolf became too loyal and effective to fit his plan, intending for Kuro's blood heritage to do the rest.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0023"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0035",
+   "text": "After the Hirata Estate raid, Wolf spent three years in a trance-like state at the bottom of a well in the Ashina (Asha) Reservoir, stripped of purpose and memory.",
+   "entity_ids": [
+    "n0001",
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 29,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0036",
+   "text": "Isshin Ashina, dying and disagreeing with Genichiro Ashina's plans, arranged for his physician Emma to drop a letter into the well telling Wolf that his master Kuro was alive and needed him, helping set up Wolf's escape so that Wolf and Kuro could flee.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0004",
+    "n0005",
+    "n0010"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0037",
+   "text": "Through meditation on certain items, Sekiro can revisit a memory from three years earlier when Kuro's home was raided by bandits led by the shinobi Lady Butterfly, resulting in Owl's apparent death.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006",
+    "n0012"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0038",
+   "text": "Wolf is saved by a man called the Sculptor, who gives him a prosthetic arm.",
+   "entity_ids": [
+    "n0001",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0039",
+   "text": "Sekiro duels Genichiro Ashina again and defeats him, but Genichiro survives by using the Sediment from the Rejuvenating Waters to gain a corrupted form of immortality and escapes.",
+   "entity_ids": [
+    "n0001",
+    "n0010",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0040",
+   "text": "Kuro refuses to flee and instead asks Sekiro to perform the Immortal Severance ritual on him, which would kill Kuro and eliminate the Dragon's Heritage.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0017",
+    "n0043"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 56,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0041",
+   "text": "Sekiro agrees to gather materials for the Immortal Severance ritual, including the Mortal Blade, a weapon capable of killing immortals, obtained from the Divine Child of Rejuvenation.",
+   "entity_ids": [
+    "n0001",
+    "n0008",
+    "n0043",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 57,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0042",
+   "text": "If Sekiro refuses Owl's demand, he kills Owl in combat and enters the divine realm to retrieve the final ritual ingredient from the Divine Dragon itself.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0043",
+   "text": "Upon returning from the divine realm, Sekiro discovers Isshin Ashina has died and that Ashina Castle is under attack by Interior Ministry troops using rockets and flamethrowers.",
+   "entity_ids": [
+    "n0001",
+    "n0004",
+    "n0007",
+    "n0011"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 70,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0044",
+   "text": "Fighting through the burning castle, Sekiro finds Kuro under attack by Genichiro Ashina, who has obtained another Mortal Blade.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0010",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 75,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0045",
+   "text": "After being defeated, Genichiro Ashina sacrifices himself using the second Mortal Blade to revive Isshin Ashina in his prime so he can restore Ashina, a wish Isshin honors despite disagreeing with it.",
+   "entity_ids": [
+    "n0004",
+    "n0010",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0046",
+   "text": "Late in the game, Owl—who had faked his own death years earlier—reveals he is still alive, admits he was the one who stabbed Wolf three years prior, and invokes the Iron Code he taught Wolf, commanding him to abandon Kuro and obey him instead.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0047",
+   "text": "A grave of a previous Divine Heir can be found near the dilapidated temple, indicating the dragon's heritage has passed through a lineage before Kuro.",
+   "entity_ids": [
+    "n0005",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0048",
+   "text": "Kuro wants to sever the dragon's heritage because he has witnessed the suffering dragon rot causes to those around Wolf.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0036"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0049",
+   "text": "The Fountain Head Palace Nobles are descendants of human families who lived closest to the Divine Dragon's source near the Ever Blossom Tree and were the first to drink deeply from the divine, rejuvenating waters, which made their bodies nearly immortal.",
+   "entity_ids": [
+    "n0019",
+    "n0020",
+    "n0048"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0050",
+   "text": "The Sunken Valley Clan reject conventional Ashina society, fight with reckless abandon, and include warriors who use long-barreled rifles from cliffside positions.",
+   "entity_ids": [
+    "n0054"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0051",
+   "text": "Centuries of drinking the rejuvenating waters transformed the Palace Nobles into elongated, pale, nearly translucent beings who have lost their individuality and emotions.",
+   "entity_ids": [
+    "n0048"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0052",
+   "text": "Owl named the boy 'Wolf,' a designation meant to strip him of his former identity and mark him as an obedient, loyal killing tool.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0053",
+   "text": "Lady Butterfly was one of Wolf's trainers during his upbringing, viewing her student with cold professional detachment.",
+   "entity_ids": [
+    "n0001",
+    "n0012"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0054",
+   "text": "The Divine Child of Rejuvenation is the sole survivor of the monks' experiments involving the Rejuvenating Waters, stably carrying a genuine fragment of the dragon's power.",
+   "entity_ids": [
+    "n0008",
+    "n0013",
+    "n0014"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0055",
+   "text": "The Divine Child of Rejuvenation is kept imprisoned in a shrine at Senpu Temple, worshipped by the monks as a living god while being denied freedom.",
+   "entity_ids": [
+    "n0008",
+    "n0014"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0056",
+   "text": "The Sculptor was once a renowned shinobi nicknamed Orangutan, known for his size and explosive fighting style.",
+   "entity_ids": [
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0057",
+   "text": "To contain his rage, the Sculptor gave up his weapons and his prosthetic arm, retreated to the dilapidated temple, and began carving Buddha statues as a form of meditation.",
+   "entity_ids": [
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0058",
+   "text": "Over the course of the game, the Sculptor's health and Buddha carvings deteriorate, with the statues beginning to look wrathful instead of serene.",
+   "entity_ids": [
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 70,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0059",
+   "text": "At the end of their final fight atop Ashina Castle, a defeated Owl tells Wolf he is proud of him.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0060",
+   "text": "Kuro is the Divine Heir, the last living vessel carrying the dragon's heritage in his blood.",
+   "entity_ids": [
+    "n0005",
+    "n0017"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0061",
+   "text": "Kuro wants to perform a ritual to sever the dragon's heritage, ending the flow of immortality-granting power in Ashina forever, even though it will likely cost him his life.",
+   "entity_ids": [
+    "n0005",
+    "n0017"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0062",
+   "text": "Kuro personally cooks rice balls in his chamber at the top of Ashina Castle and offers them to Wolf as a gesture of genuine friendship rather than lordly favor.",
+   "entity_ids": [
+    "n0001",
+    "n0005"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0063",
+   "text": "Genichiro Ashina is Isshin Ashina's adoptive grandson and the current military leader of the Ashina domain.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0064",
+   "text": "The Sculptor is an old man who saves Wolf and lives in a temple carving Buddhist statues compulsively.",
+   "entity_ids": [
+    "n0001",
+    "n0028"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0065",
+   "text": "Genichiro Ashina is portrayed as a patriot who loves Ashina and is desperate to save it from destruction by the Interior Ministry's invasion.",
+   "entity_ids": [
+    "n0002",
+    "n0010",
+    "n0011"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0066",
+   "text": "Genichiro Ashina has been drinking the sacred rejuvenating sediment to enhance his body's strength, speed, and resilience, though it does not grant true immortality.",
+   "entity_ids": [
+    "n0010",
+    "n0013"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0067",
+   "text": "Isshin Ashina disapproves of Genichiro Ashina's obsession with immortality, believing that death gives life meaning and courage.",
+   "entity_ids": [
+    "n0004",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0068",
+   "text": "Owl is portrayed as a villain driven purely by ambition and desire for power rather than grief, zealotry, or revenge.",
+   "entity_ids": [
+    "n0006"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0069",
+   "text": "Players control Wolf, a shinobi on a quest to rescue his lord, who becomes entangled in a conflict over Ashina's fate.",
+   "entity_ids": [
+    "n0001",
+    "n0002"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0070",
+   "text": "Ashina is a small, poor mountain domain lacking resources like fertile land or ports, but it possesses hidden underground reservoirs of mystical rejuvenating waters.",
+   "entity_ids": [
+    "n0002",
+    "n0013"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0071",
+   "text": "The Everblossom tree stands at the center of the Fountain Head Palace.",
+   "entity_ids": [
+    "n0019",
+    "n0020"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0072",
+   "text": "The Sunken Valley is a deep, narrow gorge where sunlight reaches the bottom only briefly each day, and is home to the Sunken Valley Clan who worship the Great Serpents as gods.",
+   "entity_ids": [
+    "n0040",
+    "n0053",
+    "n0054"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0073",
+   "text": "The Gun Fort is the Sunken Valley Clan's stronghold, fortified into the cliffs and defended by gunfire.",
+   "entity_ids": [
+    "n0041",
+    "n0054"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0074",
+   "text": "The Fountain Head Palace is reached by traveling through the Wedding Cave, a passage connecting the mortal world to a realm between earth and sky, and is depicted as an elegant aristocratic compound with traditional Japanese architecture and perpetually falling cherry blossoms.",
+   "entity_ids": [
+    "n0020",
+    "n0056"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0075",
+   "text": "The Sculptor gives Wolf a prosthetic arm to replace his severed limb; this arm was the same instrument the Sculptor had originally used and first owned during his years as a shinobi.",
+   "entity_ids": [
+    "n0001",
+    "n0028",
+    "n0049"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 19,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0076",
+   "text": "Emma informs the player about a finger whistle, a shinobi tool that can momentarily cut through the Demon of Hatred's rage to reveal the man within.",
+   "entity_ids": [
+    "n0003",
+    "n0034",
+    "n0038"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0077",
+   "text": "The Everblossom is a sacred tree with perpetually blooming, never-wilting flowers that serves as the physical anchor connecting the Divine Dragon's power to the mortal world.",
+   "entity_ids": [
+    "n0009",
+    "n0019"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0078",
+   "text": "The prosthetic arm was designed by Dogen, a physician and inventor, as a versatile tool platform rather than a simple replacement limb.",
+   "entity_ids": [
+    "n0035",
+    "n0049"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0079",
+   "text": "The prosthetic arm can be fitted with attachments including a grappling hook for traversal, a loaded axe for breaking shields, a flame vent for burning enemies, and a shield made from an ancient creature's shell for deflecting unblockable attacks.",
+   "entity_ids": [
+    "n0035",
+    "n0049"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0080",
+   "text": "The Divine Child offers Wolf rice grown in Mount Kongo's soil infused with rejuvenating waters, which has a mild healing effect.",
+   "entity_ids": [
+    "n0001",
+    "n0008"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0081",
+   "text": "Defeating the Divine Dragon grants the Dragon's Tears, a key ingredient needed for Kuro's ritual to sever the dragon's heritage and end immortality.",
+   "entity_ids": [
+    "n0005",
+    "n0009",
+    "n0037"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0082",
+   "text": "Genichiro Ashina trains in heretical arts forbidden by the Ashina School of Swordsmanship and acquires the Black Mortal Blade through unexplained means.",
+   "entity_ids": [
+    "n0010",
+    "n0016"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0083",
+   "text": "The Black Mortal Blade can open a gate to the underworld and pull the souls of the dead back into the world of the living, mirroring the Red Mortal Blade which can kill the immortal.",
+   "entity_ids": [
+    "n0016",
+    "n0027"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0084",
+   "text": "The Red Mortal Blade is obtained from Senpu Temple.",
+   "entity_ids": [
+    "n0014",
+    "n0027"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0085",
+   "text": "In the Purification ending's memory sequence, Wolf refights Owl at the Hirata Estate three years before the main game, facing him at the height of his power.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0023",
+    "n0026"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0086",
+   "text": "Wolf fights Genichiro Ashina three times: on the bridge, at the top of Ashina Castle, and in a final battle at a place called the Fountainhead/Silver field, each time showing further deterioration in Genichiro's methods and composure.",
+   "entity_ids": [
+    "n0001",
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0087",
+   "text": "In the second fight at the top of Ashina Castle, Genichiro Ashina tears off his armor and wields a black-bladed bow charged with lightning.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0088",
+   "text": "In the final encounter, Genichiro Ashina uses the Black Mortal Blade to cut his own throat, sacrificing his body to open a gate that summons a young, resurrected Isshin Ashina from death.",
+   "entity_ids": [
+    "n0004",
+    "n0010",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0089",
+   "text": "During the Interior Ministry's final invasion and the burning of Ashina Castle, the Sculptor transforms into the Demon of Hatred.",
+   "entity_ids": [
+    "n0007",
+    "n0034",
+    "n0050"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0090",
+   "text": "The Demon of Hatred retains the fused prosthetic arm of the Sculptor, now warped into a weapon of destructive fire power.",
+   "entity_ids": [
+    "n0034",
+    "n0050"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0091",
+   "text": "During the fight, using the finger whistle causes the Demon of Hatred to flinch and briefly show a flicker of human recognition before the rage returns.",
+   "entity_ids": [
+    "n0034",
+    "n0038"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0092",
+   "text": "In the Immortal Severance ending's final battle, Genichiro Ashina uses the Black Mortal Blade to open a gate to the underworld and summon the soul of young Isshin Ashina at the height of his power.",
+   "entity_ids": [
+    "n0004",
+    "n0010",
+    "n0016",
+    "n0024"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0093",
+   "text": "Young Isshin Ashina fights across three escalating phases: swordsmanship, then spear and firearm techniques, then lightning-infused combat.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0094",
+   "text": "After being defeated, young Isshin Ashina dies at peace, complimenting Wolf's skill rather than discussing Ashina's legacy.",
+   "entity_ids": [
+    "n0001",
+    "n0004"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0095",
+   "text": "The Divine Dragon appears as an immense ethereal being resembling pale white wood and silver bark, wielding a lightning-charged sword in a single arm.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0096",
+   "text": "Lady Butterfly fights using illusions, including exploding phantom butterflies and ghostly apparitions of the dead, reflecting her nature as a master of deception.",
+   "entity_ids": [
+    "n0012"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0097",
+   "text": "The Long-armed Centipede Giraffe is a mini boss in the Gun Fort whose body is driven by an internal centipede parasite, causing rapid jerking windmill-like attacks.",
+   "entity_ids": [
+    "n0032",
+    "n0041",
+    "n0044"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0098",
+   "text": "The Guardian Ape is an enormous primate sustained unnaturally by the rejuvenating waters, guarding the Lotus of the Palace, an ingredient Kuro needs for the severance ritual.",
+   "entity_ids": [
+    "n0005",
+    "n0013",
+    "n0021"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0099",
+   "text": "After Wolf decapitates the Guardian Ape, its headless body rises again, picks up its severed head and a sword, and continues attacking, driven by a centipede parasite inside it.",
+   "entity_ids": [
+    "n0021",
+    "n0032"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0100",
+   "text": "The Guardian Ape has a mate, a second, smaller and less corrupted ape, found in a hidden arena deep in the mountains, where she fights alongside the reanimated, headless corpse of the first Guardian Ape; when Wolf kills her, the headless first ape briefly cradles her body before resuming its attack.",
+   "entity_ids": [
+    "n0001",
+    "n0021",
+    "n0022"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0101",
+   "text": "The waters of rejuvenation transformed the Guardian Ape into something that cannot die but is no longer truly alive.",
+   "entity_ids": [
+    "n0021"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0102",
+   "text": "At the heart of the Fountain Head Palace, in a sky-open arena, the Divine Dragon resides, the entity whose essence poisoned the land of Ashina with immortality.",
+   "entity_ids": [
+    "n0002",
+    "n0009",
+    "n0020"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0103",
+   "text": "The Divine Dragon fight is framed as a ritual of release rather than a conventional battle, fought by catching and redirecting lightning at the dragon.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0104",
+   "text": "Centipede-infested monks encountered at Senpu Temple move with unnatural, insectile motions and sometimes have visible centipedes protruding from their bodies.",
+   "entity_ids": [
+    "n0014",
+    "n0032"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0105",
+   "text": "There are two distinct Great Serpents in Ashina, both once ordinary animals transformed over centuries by the rejuvenating waters into enormous, ancient beings.",
+   "entity_ids": [
+    "n0013",
+    "n0040"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0106",
+   "text": "The Great Serpents react to Wolf with hostility as if sensing that the dragon's heritage in his blood is related to the power within them.",
+   "entity_ids": [
+    "n0001",
+    "n0040"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0107",
+   "text": "The Okami Warriors are tall, fierce women who guard the Fountain Head Palace, fighting with lightning-infused weapons and retaining more martial vigor than the Palace Nobles.",
+   "entity_ids": [
+    "n0020",
+    "n0047"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0108",
+   "text": "The Divine Child's plan, tied to the game's best ending, requires her to become a vessel for Kuro's soul and carry the heritage back across the sea to its origin.",
+   "entity_ids": [
+    "n0005",
+    "n0008"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0109",
+   "text": "To complete the ritual in the Immortal Severance ending, Wolf acquires the Red Mortal Blade from Senpou Temple and the Lotus of the Palace from the Guardian Ape's cave, then defeats the Divine Dragon for its tears.",
+   "entity_ids": [
+    "n0009",
+    "n0014",
+    "n0021",
+    "n0024",
+    "n0027",
+    "n0045"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 98,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0110",
+   "text": "If the player has Wolf (Sekiro) obey Owl's command, he renounces loyalty to Kuro, kills Emma and Isshin Ashina while Owl kills Genichiro Ashina, and then Wolf succumbs to bloodlust and kills Owl as well, becoming a demon called Shura that exists only to consume through violence — the shortest and worst of the game's endings.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0004",
+    "n0005",
+    "n0006",
+    "n0010",
+    "n0015"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0111",
+   "text": "The Immortal Severance ending is the default outcome if the player defies Owl and follows Kuro's plan without finding hidden alternate paths; after killing the revived Isshin Ashina, the game offers three possible endings depending on items collected: Immortal Severance, Purification, and Return.",
+   "entity_ids": [
+    "n0004",
+    "n0005",
+    "n0006",
+    "n0018",
+    "n0024",
+    "n0026"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0112",
+   "text": "In the Immortal Severance ending, Wolf gives Kuro the Dragon's Tears, Kuro performs the ritual severing the heritage, and Kuro dies as a result because the heritage is inseparable from his blood, leaving Wolf mortal again.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0024",
+    "n0037"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0113",
+   "text": "The Immortal Severance ending closes with Wolf sitting in the Sculptor's chair at the dilapidated temple, spending his days carving Buddha statues like the Sculptor before him, while keeping his prosthetic to pass on.",
+   "entity_ids": [
+    "n0001",
+    "n0024",
+    "n0050"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0114",
+   "text": "The Purification ending requires discovering, through eavesdropping and a return to the Hirata Estate memory, an alternate ritual devised with Emma's help in which Wolf dies instead of Kuro.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0005",
+    "n0023",
+    "n0026"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0115",
+   "text": "In the Purification ending, Wolf's body is linked to the Ever Blossom Tree, so his permanent death severs the dragon's heritage without killing Kuro.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0019",
+    "n0026"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0116",
+   "text": "In the Purification ending, Wolf gives Kuro the Dragon's Tears mixed with material from the Ever Blossom and sacrifices himself permanently so Kuro can live on free of the Dragon's Heritage; afterward Kuro prays at Wolf's grave with Emma before leaving Ashina.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0005",
+    "n0017",
+    "n0019",
+    "n0026",
+    "n0037"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0117",
+   "text": "The Dragon's Homecoming ending is the hardest to achieve, requiring a long hidden questline involving the Divine Child of Rejuvenation, sole survivor of the monks' experiments at Senpou Temple.",
+   "entity_ids": [
+    "n0008",
+    "n0014",
+    "n0018"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0118",
+   "text": "In the Dragon's Homecoming (Return) ending, Wolf collaborates with the Divine Child to make her a vessel for the Divine Dragon's power, then brings the dying Kuro to her so she can absorb his soul, allowing Kuro's consciousness to survive after his physical body dies.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0008",
+    "n0009",
+    "n0018"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0119",
+   "text": "In the Dragon's Homecoming ending, Wolf escorts the Divine Child, who now carries Kuro's soul, on a journey west to return the Dragon's Heritage to its place of origin.",
+   "entity_ids": [
+    "n0001",
+    "n0008",
+    "n0017",
+    "n0018"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    },
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0120",
+   "text": "The Dragon's Homecoming ending does not show whether Wolf and the Divine Child succeed in their journey, ending on their departure westward.",
+   "entity_ids": [
+    "n0001",
+    "n0008",
+    "n0018"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0121",
+   "text": "Sekiro's story branches into four endings: Shura, Immortal Severance, Purification, and Dragon's Homecoming (also called Return).",
+   "entity_ids": [
+    "n0015",
+    "n0018",
+    "n0024",
+    "n0026"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0122",
+   "text": "The rejuvenating waters of Ashina can heal fatal wounds, restore withered strength, and in rare cases halt death entirely.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0123",
+   "text": "The dragon's heritage is distinct from the rejuvenating waters: it grants true, undoable immortality and can be shared with others through a blood oath bond.",
+   "entity_ids": [
+    "n0005",
+    "n0017"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0124",
+   "text": "Dragon rot is a disease that spreads through the land every time Wolf dies and resurrects, draining the life force of people in his orbit.",
+   "entity_ids": [
+    "n0001",
+    "n0036"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0125",
+   "text": "Dragon rot manifests as a persistent wasting cough and gradual weakening, afflicting characters such as the Sculptor and Emma.",
+   "entity_ids": [
+    "n0003",
+    "n0028",
+    "n0036"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0126",
+   "text": "The dragon's heritage does not create life but borrows it, siphoning vitality from nearby living people to fuel Wolf's resurrection.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0036"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0127",
+   "text": "Rejuvenating sediment can cure dragon rot by drawing the disease out of the afflicted, but the cure is temporary and does not prevent future infection.",
+   "entity_ids": [
+    "n0013",
+    "n0036"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0128",
+   "text": "When an NPC is afflicted by dragon rot, their quest line freezes and their story content becomes inaccessible until cured.",
+   "entity_ids": [
+    "n0036"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0129",
+   "text": "The player must defeat the Guardian Ape twice: once for its body and once for the centipede parasite inhabiting its severed head.",
+   "entity_ids": [
+    "n0021"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0130",
+   "text": "The game's title phrase 'Shadows die twice' refers on a surface level to Wolf's resurrection mechanic, where he can die twice before a full game-over.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0131",
+   "text": "Compared to the Dark Souls series, Sekiro has fewer role-playing elements, no character creation, no stat leveling, and no real-time multiplayer.",
+   "entity_ids": [
+    "n0001",
+    "n0033"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0132",
+   "text": "Sekiro includes gear upgrading, prosthetic arm special abilities, a skill tree, and limited character customization.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0133",
+   "text": "Combat in Sekiro focuses on using a katana to break an enemy's posture and balance rather than solely depleting health points, with deflection of attacks leading to an opening for a single killing blow.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0134",
+   "text": "The game includes stealth mechanics allowing instant elimination or severe damage to most enemies when undetected.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0135",
+   "text": "The player character can use tools like a grappling hook to assist combat and exploration.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0136",
+   "text": "If the player dies, they can be revived on the spot using a resurrection power that is restored by defeating enemies, rather than respawning at checkpoints.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0137",
+   "text": "Sekiro: Shadows Die Twice tells its story mainly through direct character dialogue rather than hidden item descriptions, making it clearer than Bloodborne or Dark Souls.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0138",
+   "text": "Sekiro: Shadows Die Twice is a 2019 action-adventure game developed by FromSoftware.",
+   "entity_ids": [
+    "n0001",
+    "n0039"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0139",
+   "text": "The game was published internationally by Activision and in Japan by FromSoftware itself for PlayStation 4, Windows, and Xbox One in March 2019, with a Stadia version following in October 2020; Cube Game published in the Asia-Pacific region.",
+   "entity_ids": [
+    "n0001",
+    "n0029",
+    "n0039"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0140",
+   "text": "Hidetaka Miyazaki wanted to create a new intellectual property distinct from Dark Souls, aiming for a Japanese-themed game centered on shinobi and ninja.",
+   "entity_ids": [
+    "n0033",
+    "n0042"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0141",
+   "text": "The Tenchu series, tied to FromSoftware's history with historical Japanese settings, served as the impetus for Sekiro's development.",
+   "entity_ids": [
+    "n0001",
+    "n0055"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0142",
+   "text": "Development of Sekiro began in late 2015, following completion of Bloodborne's downloadable content, The Old Hunters.",
+   "entity_ids": [
+    "n0001",
+    "n0031"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0143",
+   "text": "Sekiro was directed by Hidetaka Miyazaki, who had previously worked on the Dark Souls series and Bloodborne.",
+   "entity_ids": [
+    "n0031",
+    "n0033",
+    "n0042"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0144",
+   "text": "Sekiro draws inspiration from the Tenchu series of stealth-action games developed by Acquire and published by FromSoftware; the development team initially considered making Sekiro a sequel to Tenchu, but the concept outgrew that idea.",
+   "entity_ids": [
+    "n0001",
+    "n0039",
+    "n0055"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0145",
+   "text": "Miyazaki wanted the combat redesign to evoke the feeling of swords clashing, with fighters seeking openings for a fatal strike.",
+   "entity_ids": [
+    "n0001",
+    "n0042"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0146",
+   "text": "Miyazaki and the development team made Sekiro an entirely single-player experience because they felt multiplayer had limitations they wanted to avoid.",
+   "entity_ids": [
+    "n0001",
+    "n0042"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0147",
+   "text": "Sekiro was revealed via a teaser trailer at The Game Awards 2017 with the tagline 'Shadows Die Twice,' and the full title Sekiro: Shadows Die Twice was revealed during Microsoft's E3 2018 press conference.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0148",
+   "text": "The game's soundtrack was composed by Yuka Kitamura, with contributions from Noriyuki Asakura.",
+   "entity_ids": [
+    "n0001",
+    "n0057"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0149",
+   "text": "Sekiro: Shadows Die Twice was released for PlayStation 4, Windows, and Xbox One on 22 March 2019.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0150",
+   "text": "A collector's edition released the same day included a steelbook case, a figurine of the protagonist, an art book, a physical map, a soundtrack download code, and in-game coin replicas.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0151",
+   "text": "A Stadia port of Sekiro was released in late 2020.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0152",
+   "text": "On 31 October 2020, a free update added new content including new cosmetics for Wolf and a boss rush mode.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0153",
+   "text": "The word 'sekirō' is a contraction of 'sekiwan no ōkami,' meaning 'one-armed wolf.'",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0154",
+   "text": "The subtitle 'Shadows Die Twice' was originally meant only as a teaser trailer slogan until Activision asked to keep it as part of the final title.",
+   "entity_ids": [
+    "n0001",
+    "n0029"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0155",
+   "text": "Sekiro received critical acclaim and was praised for its gameplay and setting, often compared favorably to FromSoftware's earlier work, though its difficulty drew mixed reactions.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0156",
+   "text": "Sekiro won Game of the Year at The Game Awards 2019.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0157",
+   "text": "As of September 2023, Sekiro has sold over 10 million units.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0158",
+   "text": "On release day, Sekiro drew over 108,000 concurrent players on Steam, the highest for a new game launched in early 2019 and third highest for any Japanese game in Steam's history at the time.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0159",
+   "text": "In Japan, Sekiro sold 157,548 retail units in its opening weekend, debuting at number one.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0160",
+   "text": "Within ten days of release, Sekiro sold over two million units, rising to over five million units by July 2020.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0161",
+   "text": "An anime adaptation titled Sekiro: No Defeat was announced at Gamescom 2025, produced by Qzil.la, set to premiere in January 2027 for eight episodes, streaming on Crunchyroll outside Japan.",
+   "entity_ids": [
+    "n0001",
+    "n0051"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0162",
+   "text": "The anime's main cast reprises the voice roles of Daisuke Namikawa as Wolf, Miyuki Satou as Kuro, and Kenjiro Tsuda as Genichiro Ashina.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0010",
+    "n0051"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0163",
+   "text": "A theatrical edition of the Sekiro: No Defeat anime opened in Japanese theaters on 4 September 2026, distributed by Animec.",
+   "entity_ids": [
+    "n0051"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3912b3b8",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0164",
+   "text": "A hidden detail in the Demon of Hatred fight shows its non-prosthetic arm still making a carving motion throughout the battle.",
+   "entity_ids": [
+    "n0034",
+    "n0050"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0165",
+   "text": "The Divine Child has studied ancient 'holy chapters' describing the dragon's original journey from the west, suggesting the journey can be reversed.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0166",
+   "text": "If Wolf instead defies Owl and chooses loyalty to Kuro, he breaks free of the Iron Code and makes his first truly self-directed decision, becoming a person rather than a weapon.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006",
+    "n0025"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0167",
+   "text": "Isshin Ashina, once resurrected by Genichiro Ashina's sacrifice, had already made peace with death and did not want to be brought back.",
+   "entity_ids": [
+    "n0004",
+    "n0010"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0168",
+   "text": "At its core, Sekiro explores themes of immortality and the corrupting price people pay to attain or escape it, ultimately valuing mortality and acceptance of death over the pursuit of immortality.",
+   "entity_ids": [
+    "n0001",
+    "n0005"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0169",
+   "text": "The Iron Code is the foundational doctrine of shinobi life, dictating that the shinobi exists only to serve their master, with no room for personal will.",
+   "entity_ids": [
+    "n0001",
+    "n0025"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0170",
+   "text": "Owl embedded a hidden clause in Wolf's version of the Iron Code: if the father and the master ever conflict, loyalty to the father (Owl) overrides loyalty to the master, effectively giving Wolf a hidden 'kill switch' that could override his service to Kuro.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006",
+    "n0025"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0171",
+   "text": "The Fountain Head nobles' immortality has left them stagnant and purposeless, existing without growth, change, or motivation.",
+   "entity_ids": [
+    "n0020"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0172",
+   "text": "Kuro's desire to end the heritage puts him at odds with the Ashina clan, the monks of Senpou Temple, and even his own protector Wolf, all of whom want him kept alive for different reasons.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0014"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0173",
+   "text": "Severing the dragon's heritage would end dragon rot but requires Wolf to die permanently.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0036"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0174",
+   "text": "It is ambiguous whether Owl's final statement of pride is a last manipulation or genuine paternal feeling.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0175",
+   "text": "Defeating the younger, more powerful Owl in this memory battle symbolizes Wolf growing beyond his father's influence through love rather than ambition.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0176",
+   "text": "The Divine Dragon is portrayed as a prisoner compelled to fight because of its bond to the mortal world through the Ever Blossom Tree, not out of malice.",
+   "entity_ids": [
+    "n0009",
+    "n0019"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0177",
+   "text": "The Sculptor's consuming rage is identified in the game's lore as Shura, a state in which a being surrenders entirely to violence.",
+   "entity_ids": [
+    "n0015",
+    "n0050"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0178",
+   "text": "Isshin Ashina warned Wolf about the danger of becoming Shura, and the Sculptor represents a living example of that fate.",
+   "entity_ids": [
+    "n0001",
+    "n0004",
+    "n0015",
+    "n0050"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0179",
+   "text": "On a thematic level, 'Shadows die twice' is interpreted as referring to the death of Wolf's selfhood when he became a shinobi tool, and later the death of that shadow-self when he chooses Kuro over Owl.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006",
+    "n0025"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0180",
+   "text": "Kuro chooses to destroy his own immortal heritage after witnessing how immortality corrupted monks, nobles, and warriors around him.",
+   "entity_ids": [
+    "n0005"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-2372d505",
+     "locator": ""
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "e001",
+   "order": 1,
+   "summary": "Sengoku-era Japan is fractured into warring domains, with Ashina a small poor mountain domain hiding mystical rejuvenating waters said to come from the Divine Dragon, an ancient being that settled in its mountains.",
+   "fact_ids": [
+    "f0001",
+    "f0002",
+    "f0070"
+   ]
+  },
+  {
+   "id": "e002",
+   "order": 2,
+   "summary": "On Mount Kongo, monks of Senpu Temple originally sought Buddhist enlightenment, but began drinking the rejuvenating waters and found them empowering, abandoning their faith to study the waters as a science.",
+   "fact_ids": [
+    "f0008",
+    "f0010",
+    "f0012"
+   ]
+  },
+  {
+   "id": "e003",
+   "order": 3,
+   "summary": "The monks discovered parasitic centipedes in the waters could sustain a human host indefinitely, and willingly implanted them to gain a twisted immortality, losing their humanity.",
+   "fact_ids": [
+    "f0003",
+    "f0004",
+    "f0013"
+   ]
+  },
+  {
+   "id": "e004",
+   "order": 4,
+   "summary": "The monks experimented on village children to create artificial Divine Heirs; most died and were buried in shallow graves, except for one stable survivor, the Divine Child of Rejuvenation, who was imprisoned as a living god.",
+   "fact_ids": [
+    "f0014",
+    "f0015",
+    "f0054",
+    "f0055"
+   ]
+  },
+  {
+   "id": "e005",
+   "order": 5,
+   "summary": "Generations of Palace Nobles near the Divine Dragon's source became nearly immortal but lost their individuality, while the Sunken Valley Clan formed as a separate, reckless warrior culture worshipping serpents.",
+   "fact_ids": [
+    "f0049",
+    "f0051",
+    "f0050",
+    "f0072",
+    "f0073"
+   ]
+  },
+  {
+   "id": "e006",
+   "order": 6,
+   "summary": "Roughly twenty years before the main story, Ashina was occupied by foreign lords until Isshin Ashina led a rebellion that won independence, ruling afterward as the Sword Saint.",
+   "fact_ids": [
+    "f0016",
+    "f0017",
+    "f0018",
+    "f0019"
+   ]
+  },
+  {
+   "id": "e007",
+   "order": 7,
+   "summary": "A previous Divine Heir existed and died before Kuro, as shown by a grave near the dilapidated temple, indicating the dragon's heritage lineage predates him.",
+   "fact_ids": [
+    "f0047"
+   ]
+  },
+  {
+   "id": "e008",
+   "order": 8,
+   "summary": "A renowned shinobi called Orangutan eventually renounced violence, became the Sculptor, gave up his weapons and prosthetic arm, and retreated to a dilapidated temple to carve Buddha statues.",
+   "fact_ids": [
+    "f0056",
+    "f0057",
+    "f0064"
+   ]
+  },
+  {
+   "id": "e009",
+   "order": 9,
+   "summary": "An orphaned boy, later named Wolf, was found on a battlefield by the mercenary shinobi Owl, who raised and trained him as a loyal weapon, stripping him of his original identity.",
+   "fact_ids": [
+    "f0009",
+    "f0011",
+    "f0052"
+   ]
+  },
+  {
+   "id": "e010",
+   "order": 10,
+   "summary": "Wolf was trained in the shinobi arts, including by Lady Butterfly, and was eventually entrusted by Owl with protecting the young lord Kuro, last of the Dragon's Heritage line.",
+   "fact_ids": [
+    "f0025",
+    "f0053"
+   ]
+  },
+  {
+   "id": "e011",
+   "order": 11,
+   "summary": "Three years before the game's events, Owl secretly orchestrated a bandit raid on the Hirata Estate, Kuro's ancestral home, coordinating with Lady Butterfly and Interior Ministry contacts to seize the dragon's heritage for himself.",
+   "fact_ids": [
+    "f0027",
+    "f0031"
+   ]
+  },
+  {
+   "id": "e012",
+   "order": 12,
+   "summary": "During the raid, Owl faked mortal injury to send Wolf deeper into the estate, where Wolf defeated his former mentor Lady Butterfly as she tried to take Kuro.",
+   "fact_ids": [
+    "f0032",
+    "f0033"
+   ]
+  },
+  {
+   "id": "e013",
+   "order": 13,
+   "summary": "After the battle, Owl revealed his true colors and stabbed Wolf near-fatally, intending the dragon's heritage to finish him off, treating his own son as an obstacle to his ambition.",
+   "fact_ids": [
+    "f0034",
+    "f0068"
+   ]
+  },
+  {
+   "id": "e014",
+   "order": 14,
+   "summary": "Dying, Wolf was found by Kuro, who shared his blood with him out of love, unintentionally granting him the dragon's heritage and immortality while shattering his memory of the event.",
+   "fact_ids": [
+    "f0030",
+    "f0037"
+   ]
+  },
+  {
+   "id": "e015",
+   "order": 15,
+   "summary": "Wolf then spent three years in a trance at the bottom of a well, stripped of purpose and memory, while Ashina's fortunes continued to decline under Isshin's failing health and the Interior Ministry's growing threat.",
+   "fact_ids": [
+    "f0035",
+    "f0026"
+   ]
+  },
+  {
+   "id": "e016",
+   "order": 16,
+   "summary": "Dying and opposed to Genichiro's plans, Isshin arranged for his physician Emma to drop a letter into the well telling Wolf that Kuro needed him, prompting Wolf's awakening and return to action.",
+   "fact_ids": [
+    "f0036",
+    "f0020"
+   ]
+  },
+  {
+   "id": "e017",
+   "order": 17,
+   "summary": "Wolf infiltrated Ashina Castle and found Kuro imprisoned by the Ashina clan, with Genichiro intending to use Kuro's blood to forge an immortal army to save Ashina from collapse.",
+   "fact_ids": [
+    "f0021",
+    "f0022",
+    "f0063",
+    "f0065"
+   ]
+  },
+  {
+   "id": "e018",
+   "order": 18,
+   "summary": "Fleeing the castle, Wolf was confronted and decisively defeated by Genichiro on a bridge, who severed his arm and left him for dead, taking Kuro back inside.",
+   "fact_ids": [
+    "f0023",
+    "f0086"
+   ]
+  },
+  {
+   "id": "e019",
+   "order": 19,
+   "summary": "Wolf survived thanks to the dragon's heritage in his blood and awoke in the dilapidated temple, where the Sculptor saved him and fitted him with a prosthetic arm, the same one the Sculptor once used as a shinobi.",
+   "fact_ids": [
+    "f0024",
+    "f0038",
+    "f0075"
+   ]
+  },
+  {
+   "id": "e020",
+   "order": 20,
+   "summary": "Determined to rescue Kuro, Wolf fought through Ashina's outskirts and armies to reach the castle's main tower, where the dying Isshin Ashina named him 'Sekiro, One-Armed Wolf' in recognition of his loyalty.",
+   "fact_ids": [
+    "f0028",
+    "f0029"
+   ]
+  },
+  {
+   "id": "e021",
+   "order": 21,
+   "summary": "Kuro, preferring death over endless suffering caused by his blood, asked Sekiro to perform the Immortal Severance ritual to end the Dragon's Heritage forever, and Sekiro agreed to gather the needed materials.",
+   "fact_ids": [
+    "f0040",
+    "f0041",
+    "f0048",
+    "f0060",
+    "f0061"
+   ]
+  },
+  {
+   "id": "e022",
+   "order": 22,
+   "summary": "Kuro's genuine friendship with Wolf was shown through small gestures, such as personally cooking and offering him rice balls.",
+   "fact_ids": [
+    "f0062"
+   ]
+  },
+  {
+   "id": "e023",
+   "order": 23,
+   "summary": "Sekiro once again fought and defeated Genichiro Ashina atop the castle, but Genichiro survived using the corrupting Sediment of the Rejuvenating Waters to escape with a twisted immortality, despite Isshin's disapproval of such pursuits.",
+   "fact_ids": [
+    "f0039",
+    "f0087",
+    "f0066",
+    "f0067"
+   ]
+  },
+  {
+   "id": "e024",
+   "order": 24,
+   "summary": "Seeking the final ritual ingredient, Sekiro entered the divine realm and, in most playthroughs, defeated the Divine Dragon itself to obtain its tears.",
+   "fact_ids": [
+    "f0042",
+    "f0109"
+   ]
+  },
+  {
+   "id": "e025",
+   "order": 25,
+   "summary": "Returning from the divine realm, Sekiro found that Isshin Ashina had died and Ashina Castle was under full assault by Interior Ministry forces wielding rockets and flamethrowers.",
+   "fact_ids": [
+    "f0043"
+   ]
+  },
+  {
+   "id": "e026",
+   "order": 26,
+   "summary": "During the invasion's chaos, the Sculptor, his health and sanity deteriorating for some time, transformed into the raging Demon of Hatred, his fused prosthetic arm warped into a weapon of fire.",
+   "fact_ids": [
+    "f0058",
+    "f0089",
+    "f0090"
+   ]
+  },
+  {
+   "id": "e027",
+   "order": 27,
+   "summary": "Sekiro fought the Demon of Hatred, using a finger whistle given by Emma to briefly pierce its rage and reveal flickers of the Sculptor's humanity within, including a hidden detail of its human arm still carving.",
+   "fact_ids": [
+    "f0076",
+    "f0091",
+    "f0164"
+   ]
+  },
+  {
+   "id": "e028",
+   "order": 28,
+   "summary": "Fighting through the burning castle, Sekiro found Kuro under attack by Genichiro, who had obtained a second Mortal Blade.",
+   "fact_ids": [
+    "f0044"
+   ]
+  },
+  {
+   "id": "e029",
+   "order": 29,
+   "summary": "After being defeated again, Genichiro sacrificed his own body with the Black Mortal Blade to resurrect young Isshin Ashina in his prime, honoring a wish Isshin reluctantly accepted though he had already made peace with death.",
+   "fact_ids": [
+    "f0045",
+    "f0088",
+    "f0167"
+   ]
+  },
+  {
+   "id": "e030",
+   "order": 30,
+   "summary": "Late in the conflict, Owl revealed he had faked his death and was alive all along, confessing to stabbing Wolf years earlier and invoking the old Iron Code to command Wolf's obedience over loyalty to Kuro.",
+   "fact_ids": [
+    "f0046"
+   ]
+  },
+  {
+   "id": "e031",
+   "order": 31,
+   "summary": "If Wolf chooses to obey Owl, he betrays and kills Emma and Isshin, watches Owl kill Genichiro, then succumbs to bloodlust and kills Owl too, becoming the demon Shura in the game's bleakest ending.",
+   "fact_ids": [
+    "f0110"
+   ]
+  },
+  {
+   "id": "e032",
+   "order": 32,
+   "summary": "If Wolf instead defies Owl, he kills him in single combat, with Owl expressing pride in him at last, marking Wolf's first truly self-directed choice as he breaks free of the Iron Code.",
+   "fact_ids": [
+    "f0059",
+    "f0166"
+   ]
+  },
+  {
+   "id": "e033",
+   "order": 33,
+   "summary": "Sekiro then confronts the revived young Isshin Ashina in a three-phase final battle encompassing swordsmanship, spear and firearm techniques, and lightning-infused combat.",
+   "fact_ids": [
+    "f0092",
+    "f0093"
+   ]
+  },
+  {
+   "id": "e034",
+   "order": 34,
+   "summary": "After being defeated, young Isshin dies at peace, complimenting Wolf's skill rather than dwelling on Ashina's fate, closing the loop on the Ashina lineage's struggle.",
+   "fact_ids": [
+    "f0094"
+   ]
+  },
+  {
+   "id": "e035",
+   "order": 35,
+   "summary": "Following Isshin's final death, the story resolves into one of three main endings depending on items and secrets found: Immortal Severance, Purification, or Dragon's Homecoming.",
+   "fact_ids": [
+    "f0111",
+    "f0121"
+   ]
+  },
+  {
+   "id": "e036",
+   "order": 36,
+   "summary": "In the Immortal Severance ending, Wolf gives Kuro the Dragon's Tears; Kuro completes the ritual, dying as the heritage is severed from his blood, leaving Wolf mortal, who then takes up the Sculptor's life carving Buddha statues.",
+   "fact_ids": [
+    "f0112",
+    "f0113"
+   ]
+  },
+  {
+   "id": "e037",
+   "order": 37,
+   "summary": "In the Purification ending, uncovered through hidden memories and Emma's help, Wolf instead sacrifices his own life, linked through the Ever Blossom Tree, to sever the heritage and save Kuro, who later mourns him before leaving Ashina.",
+   "fact_ids": [
+    "f0114",
+    "f0115",
+    "f0116",
+    "f0085"
+   ]
+  },
+  {
+   "id": "e038",
+   "order": 38,
+   "summary": "In the hardest-to-achieve Dragon's Homecoming ending, Wolf helps the Divine Child of Rejuvenation become a vessel for Kuro's soul after his death, then escorts her westward to return the Dragon's Heritage to its origin, with their fate left unresolved.",
+   "fact_ids": [
+    "f0117",
+    "f0118",
+    "f0119",
+    "f0120",
+    "f0108"
+   ]
+  }
+ ]
+}

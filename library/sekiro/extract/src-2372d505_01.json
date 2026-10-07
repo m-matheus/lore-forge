@@ -1,0 +1,824 @@
+{
+ "entities": [
+  {
+   "name": "Wolf",
+   "kind": "character",
+   "aliases": [
+    "Sekiro",
+    "One-Armed Wolf"
+   ]
+  },
+  {
+   "name": "Owl",
+   "kind": "character",
+   "aliases": [
+    "Shinobi Owl"
+   ]
+  },
+  {
+   "name": "Kuro",
+   "kind": "character",
+   "aliases": [
+    "Curo",
+    "Divine Heir"
+   ]
+  },
+  {
+   "name": "Genichiro Ashina",
+   "kind": "character",
+   "aliases": [
+    "Jenichiro",
+    "Ganichiro",
+    "Jinichiro"
+   ]
+  },
+  {
+   "name": "Isshin Ashina",
+   "kind": "character",
+   "aliases": [
+    "Ishin",
+    "Sword Saint",
+    "Ein"
+   ]
+  },
+  {
+   "name": "Emma",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Sculptor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dogen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Divine Child of Rejuvenation",
+   "kind": "character",
+   "aliases": [
+    "Divine Child"
+   ]
+  },
+  {
+   "name": "Dragon Rot",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Rejuvenating Waters",
+   "kind": "concept",
+   "aliases": [
+    "sacred sediment",
+    "rejuvenating sediment"
+   ]
+  },
+  {
+   "name": "Senpu Temple",
+   "kind": "location",
+   "aliases": [
+    "Mount Kongo monastery"
+   ]
+  },
+  {
+   "name": "Ashina Castle",
+   "kind": "location",
+   "aliases": [
+    "Asheena Castle"
+   ]
+  },
+  {
+   "name": "Asha Reservoir",
+   "kind": "location",
+   "aliases": [
+    "Asha Reservoir well"
+   ]
+  },
+  {
+   "name": "Sunken Valley",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Sunken Valley Clan",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Gun Fort",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Great Serpent",
+   "kind": "enemy",
+   "aliases": [
+    "Great Serpents"
+   ]
+  },
+  {
+   "name": "Guardian Ape",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Guardian Ape's Mate",
+   "kind": "boss",
+   "aliases": [
+    "second ape"
+   ]
+  },
+  {
+   "name": "Long-armed Centipede Giraffe",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Red Mortal Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Black Mortal Blade",
+   "kind": "weapon",
+   "aliases": [
+    "black-bladed bow"
+   ]
+  },
+  {
+   "name": "Prosthetic Arm",
+   "kind": "item",
+   "aliases": [
+    "shinobi prosthetic"
+   ]
+  },
+  {
+   "name": "Centipede Parasite",
+   "kind": "concept",
+   "aliases": [
+    "centipede"
+   ]
+  },
+  {
+   "name": "Interior Ministry",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Ashina Domain",
+   "kind": "faction",
+   "aliases": [
+    "Asha domain",
+    "Ashina"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Owl staged the raid on Kuro's protectors as a deliberate plan to separate Kuro from his guardians and claim the divine heritage for himself.",
+   "entities": [
+    "Owl",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "Owl used bandits and Interior Ministry agents as cover to carry out his real objective during the raid.",
+   "entities": [
+    "Owl",
+    "Interior Ministry"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "When Wolf became too loyal and effective to fit Owl's plan, Owl wounded him mortally rather than killing him outright, intending for Kuro's blood heritage to do the rest.",
+   "entities": [
+    "Owl",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 11
+  },
+  {
+   "text": "Kuro found Wolf bleeding out in a burning temple and chose to share his blood with him, granting Wolf the dragon's heritage and binding their fates.",
+   "entities": [
+    "Kuro",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "The gift of the dragon's heritage made Wolf unable to die, but the trauma of the event shattered his memory.",
+   "entities": [
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Wolf spent three years in a trance-like state at the bottom of a well in the Asha Reservoir, stripped of purpose and memory.",
+   "entities": [
+    "Wolf",
+    "Asha Reservoir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "A woman named Emma, acting at the request of the dying Isshin Ashina, dropped a letter into the well telling Wolf that his master was alive and needed him.",
+   "entities": [
+    "Emma",
+    "Isshin Ashina",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Wolf climbed out of the well after receiving Emma's letter, beginning the game's story.",
+   "entities": [
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Wolf infiltrates Ashina Castle and finds Kuro imprisoned in a tower room by the Ashina clan.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Ashina Castle",
+    "Ashina Domain"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Genichiro Ashina is Isshin Ashina's adoptive grandson and the current military leader of the Ashina domain.",
+   "entities": [
+    "Genichiro Ashina",
+    "Isshin Ashina",
+    "Ashina Domain"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Genichiro Ashina wants Kuro's blood to create an immortal army to save Ashina from the Interior Ministry's invasion.",
+   "entities": [
+    "Genichiro Ashina",
+    "Kuro",
+    "Interior Ministry"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "On the bridge leaving Ashina Castle, Genichiro Ashina defeats Wolf decisively, severing Wolf's left arm at the elbow.",
+   "entities": [
+    "Genichiro Ashina",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "After losing his arm, Genichiro Ashina takes Kuro back into the castle, leaving Wolf for dead on the bridge.",
+   "entities": [
+    "Genichiro Ashina",
+    "Kuro",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Wolf does not die from his wounds because the dragon's heritage in his blood revives him, and he wakes in a dilapidated temple at the base of the mountain.",
+   "entities": [
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Sculptor is an old man who saves Wolf and lives in a temple carving Buddhist statues compulsively.",
+   "entities": [
+    "The Sculptor",
+    "Wolf"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sculptor gives Wolf a prosthetic arm to replace his severed limb.",
+   "entities": [
+    "The Sculptor",
+    "Wolf",
+    "Prosthetic Arm"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The prosthetic arm was designed by Dogen, a physician and inventor, as a versatile tool platform rather than a simple replacement limb.",
+   "entities": [
+    "Dogen",
+    "Prosthetic Arm"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The prosthetic arm can be fitted with attachments including a grappling hook for traversal, a loaded axe for breaking shields, a flame vent for burning enemies, and a shield made from an ancient creature's shell for deflecting unblockable attacks.",
+   "entities": [
+    "Prosthetic Arm",
+    "Dogen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sculptor's gift of the prosthetic arm is also the instrument he once used himself during his years as a shinobi.",
+   "entities": [
+    "The Sculptor",
+    "Prosthetic Arm"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wolf fights through Ashina's outskirts, an army of soldiers, generals, and war beasts to reach the castle's main tower where Kuro and Isshin Ashina are located.",
+   "entities": [
+    "Wolf",
+    "Kuro",
+    "Isshin Ashina",
+    "Ashina Castle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Isshin Ashina, elderly and dying, gives Wolf the name 'Sekiro, One-Armed Wolf' as an acknowledgment of his loyalty despite failure.",
+   "entities": [
+    "Isshin Ashina",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Dragon rot is a disease that spreads through the land every time Wolf dies and resurrects, draining the life force of people in his orbit.",
+   "entities": [
+    "Dragon Rot",
+    "Wolf"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dragon rot manifests as a persistent wasting cough and gradual weakening, afflicting characters such as the Sculptor and Emma.",
+   "entities": [
+    "Dragon Rot",
+    "The Sculptor",
+    "Emma"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The dragon's heritage does not create life but borrows it, siphoning vitality from nearby living people to fuel Wolf's resurrection.",
+   "entities": [
+    "Dragon Rot",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Kuro wants to sever the dragon's heritage because he has witnessed the suffering dragon rot causes to those around Wolf.",
+   "entities": [
+    "Kuro",
+    "Dragon Rot",
+    "Wolf"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rejuvenating sediment can cure dragon rot by drawing the disease out of the afflicted, but the cure is temporary and does not prevent future infection.",
+   "entities": [
+    "Rejuvenating Waters",
+    "Dragon Rot"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When an NPC is afflicted by dragon rot, their quest line freezes and their story content becomes inaccessible until cured.",
+   "entities": [
+    "Dragon Rot"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Severing the dragon's heritage would end dragon rot but requires Wolf to die permanently.",
+   "entities": [
+    "Dragon Rot",
+    "Wolf",
+    "Kuro"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Mount Kongo housed a monastery, Senpu Temple, where monks originally sought Buddhist enlightenment through meditation and scripture study.",
+   "entities": [
+    "Senpu Temple"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The rejuvenating waters are especially concentrated on Mount Kongo because the mountain sits close to the source of the divine dragon's essence.",
+   "entities": [
+    "Rejuvenating Waters",
+    "Senpu Temple"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The monks of Senpu Temple began drinking the rejuvenating waters, which made them stronger and healthier, leading them to believe the waters were connected to enlightenment.",
+   "entities": [
+    "Senpu Temple",
+    "Rejuvenating Waters"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The monks of Senpu Temple abandoned Buddhist teachings and repurposed their meditation halls into laboratories to study the waters' effects.",
+   "entities": [
+    "Senpu Temple"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The monks discovered that parasitic centipedes native to Mount Kongo, which lived in the rejuvenating waters, could act as conduits for the dragon's power and sustain a host body indefinitely if implanted in a human.",
+   "entities": [
+    "Centipede Parasite",
+    "Senpu Temple"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Monks willingly allowed centipedes to be inserted into their bodies, achieving a twisted immortality while losing their humanity.",
+   "entities": [
+    "Senpu Temple",
+    "Centipede Parasite"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Centipede-infested monks encountered at Senpu Temple move with unnatural, insectile motions and sometimes have visible centipedes protruding from their bodies.",
+   "entities": [
+    "Senpu Temple",
+    "Centipede Parasite"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The monks of Senpu Temple experimented on children from surrounding villages, attempting to turn them into artificial divine heirs carrying the dragon's heritage.",
+   "entities": [
+    "Senpu Temple"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Most children used in the monks' experiments died because their bodies could not contain the forced dragon power, and the monks buried them in shallow graves on the mountainside.",
+   "entities": [
+    "Senpu Temple"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "One child, the Divine Child of Rejuvenation, survived the monks' experiments and stably carries a genuine fragment of the dragon's power.",
+   "entities": [
+    "Divine Child of Rejuvenation",
+    "Senpu Temple"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "The Divine Child of Rejuvenation is kept imprisoned in a shrine at Senpu Temple, worshipped by the monks as a living god while being denied freedom.",
+   "entities": [
+    "Divine Child of Rejuvenation",
+    "Senpu Temple"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "The Divine Child offers Wolf rice grown in Mount Kongo's soil infused with rejuvenating waters, which has a mild healing effect.",
+   "entities": [
+    "Divine Child of Rejuvenation",
+    "Wolf"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Divine Child has studied ancient 'holy chapters' describing the dragon's original journey from the west, suggesting the journey can be reversed.",
+   "entities": [
+    "Divine Child of Rejuvenation"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Divine Child's plan, tied to the game's best ending, requires her to become a vessel for Kuro's soul and carry the heritage back across the sea to its origin.",
+   "entities": [
+    "Divine Child of Rejuvenation",
+    "Kuro"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Genichiro Ashina is portrayed as a patriot who loves Ashina and is desperate to save it from destruction by the Interior Ministry's invasion.",
+   "entities": [
+    "Genichiro Ashina",
+    "Ashina Domain",
+    "Interior Ministry"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Genichiro Ashina plans to use Kuro's blood to create an immortal army to save Ashina from collapse.",
+   "entities": [
+    "Genichiro Ashina",
+    "Kuro"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Genichiro Ashina has been drinking the sacred rejuvenating sediment to enhance his body's strength, speed, and resilience, though it does not grant true immortality.",
+   "entities": [
+    "Genichiro Ashina",
+    "Rejuvenating Waters"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Isshin Ashina disapproves of Genichiro Ashina's obsession with immortality, believing that death gives life meaning and courage.",
+   "entities": [
+    "Isshin Ashina",
+    "Genichiro Ashina"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Isshin Ashina arranged for Emma to warn Wolf and helped set up Wolf's escape, all to protect Kuro from Genichiro Ashina's plans.",
+   "entities": [
+    "Isshin Ashina",
+    "Emma",
+    "Wolf",
+    "Kuro",
+    "Genichiro Ashina"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Genichiro Ashina trains in heretical arts forbidden by the Ashina School of Swordsmanship and acquires the Black Mortal Blade through unexplained means.",
+   "entities": [
+    "Genichiro Ashina",
+    "Black Mortal Blade"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Black Mortal Blade can open a gate to the underworld and pull the souls of the dead back into the world of the living, mirroring the Red Mortal Blade which can kill the immortal.",
+   "entities": [
+    "Black Mortal Blade",
+    "Red Mortal Blade"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Red Mortal Blade is obtained from Senpu Temple.",
+   "entities": [
+    "Red Mortal Blade",
+    "Senpu Temple"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wolf fights Genichiro Ashina three times: on the bridge, at the top of Ashina Castle, and in a final battle at a place called the Fountainhead/Silver field, each time showing further deterioration in Genichiro's methods and composure.",
+   "entities": [
+    "Genichiro Ashina",
+    "Wolf"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "In the second fight at the top of Ashina Castle, Genichiro Ashina tears off his armor and wields a black-bladed bow charged with lightning.",
+   "entities": [
+    "Genichiro Ashina"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "In the final encounter, Genichiro Ashina uses the Black Mortal Blade to cut his own throat, sacrificing his body to open a gate that summons a young, resurrected Isshin Ashina from death.",
+   "entities": [
+    "Genichiro Ashina",
+    "Black Mortal Blade",
+    "Isshin Ashina"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Isshin Ashina, once resurrected by Genichiro Ashina's sacrifice, had already made peace with death and did not want to be brought back.",
+   "entities": [
+    "Isshin Ashina",
+    "Genichiro Ashina"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "There are two distinct Great Serpents in Ashina, both once ordinary animals transformed over centuries by the rejuvenating waters into enormous, ancient beings.",
+   "entities": [
+    "Great Serpent",
+    "Rejuvenating Waters"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Great Serpents react to Wolf with hostility as if sensing that the dragon's heritage in his blood is related to the power within them.",
+   "entities": [
+    "Great Serpent",
+    "Wolf"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Sunken Valley is a deep, narrow gorge where sunlight reaches the bottom only briefly each day, and is home to the Sunken Valley Clan who worship the Great Serpents as gods.",
+   "entities": [
+    "Sunken Valley",
+    "Sunken Valley Clan",
+    "Great Serpent"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sunken Valley Clan reject conventional Ashina society, fight with reckless abandon, and include warriors who use long-barreled rifles from cliffside positions.",
+   "entities": [
+    "Sunken Valley Clan"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Gun Fort is the Sunken Valley Clan's stronghold, fortified into the cliffs and defended by gunfire.",
+   "entities": [
+    "Gun Fort",
+    "Sunken Valley Clan"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Long-armed Centipede Giraffe is a mini boss in the Gun Fort whose body is driven by an internal centipede parasite, causing rapid jerking windmill-like attacks.",
+   "entities": [
+    "Long-armed Centipede Giraffe",
+    "Gun Fort",
+    "Centipede Parasite"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian Ape is an enormous primate sustained unnaturally by the rejuvenating waters, guarding the Lotus of the Palace, an ingredient Kuro needs for the severance ritual.",
+   "entities": [
+    "Guardian Ape",
+    "Rejuvenating Waters",
+    "Kuro"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Wolf decapitates the Guardian Ape, its headless body rises again, picks up its severed head and a sword, and continues attacking, driven by a centipede parasite inside it.",
+   "entities": [
+    "Guardian Ape",
+    "Centipede Parasite"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian Ape has a mate, a second, less corrupted ape, who fights alongside the reanimated first ape in a hidden arena; when Wolf kills her, the headless first ape briefly cradles her body before resuming its attack.",
+   "entities": [
+    "Guardian Ape",
+    "Guardian Ape's Mate"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-2372d505"
+}

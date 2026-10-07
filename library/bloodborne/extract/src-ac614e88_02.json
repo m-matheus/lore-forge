@@ -1,0 +1,598 @@
+{
+ "entities": [
+  {
+   "name": "Maria",
+   "kind": "character",
+   "aliases": [
+    "Lady Maria",
+    "Lady Maria of the Astral Clocktower"
+   ]
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman",
+    "First Hunter",
+    "Good Hunter"
+   ]
+  },
+  {
+   "name": "Rakuyo",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Simon",
+   "kind": "character",
+   "aliases": [
+    "Simon the Harrowed"
+   ]
+  },
+  {
+   "name": "Cainhurst",
+   "kind": "faction",
+   "aliases": [
+    "Cainhurst blood lineage"
+   ]
+  },
+  {
+   "name": "Logarius",
+   "kind": "character",
+   "aliases": [
+    "Loarius"
+   ]
+  },
+  {
+   "name": "Astral Clock Tower",
+   "kind": "location",
+   "aliases": [
+    "Astral Clocktower"
+   ]
+  },
+  {
+   "name": "Research Hall",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": [
+    "the hamlet"
+   ]
+  },
+  {
+   "name": "Kos",
+   "kind": "character",
+   "aliases": [
+    "Costa",
+    "CS",
+    "Kos the Great One"
+   ]
+  },
+  {
+   "name": "Orphan of Kos",
+   "kind": "boss",
+   "aliases": [
+    "the orphan"
+   ]
+  },
+  {
+   "name": "Lawrence",
+   "kind": "boss",
+   "aliases": [
+    "Laurence, the First Vicar",
+    "first cleric beast"
+   ]
+  },
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": [
+    "the church"
+   ]
+  },
+  {
+   "name": "Vicar Amelia",
+   "kind": "boss",
+   "aliases": [
+    "Vicaramelia"
+   ]
+  },
+  {
+   "name": "Grand Cathedral",
+   "kind": "location",
+   "aliases": [
+    "Cathedral Ward nightmare duplicate"
+   ]
+  },
+  {
+   "name": "Old Yharnam",
+   "kind": "location",
+   "aliases": [
+    "old Yannam"
+   ]
+  },
+  {
+   "name": "Burial Blade",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": [
+    "eternal twilight garden"
+   ]
+  },
+  {
+   "name": "Hunter's Nightmare",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "The Doll",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "faction",
+   "aliases": [
+    "Bergenworth"
+   ]
+  },
+  {
+   "name": "Master Willem",
+   "kind": "character",
+   "aliases": [
+    "Master William"
+   ]
+  },
+  {
+   "name": "Pthumerian civilization",
+   "kind": "faction",
+   "aliases": [
+    "Tamrian civilization"
+   ]
+  },
+  {
+   "name": "Choir",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "School of Mensis",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Father Gascoigne",
+   "kind": "boss",
+   "aliases": [
+    "Gascoinne"
+   ]
+  },
+  {
+   "name": "Ludwig",
+   "kind": "boss",
+   "aliases": [
+    "Ludvig"
+   ]
+  },
+  {
+   "name": "Cleric Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Micolash",
+   "kind": "character",
+   "aliases": [
+    "Mgo"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Maria came from the Cainhurst aristocratic bloodline, the tradition the church eventually sent Logarius to destroy.",
+   "entities": [
+    "Maria",
+    "Cainhurst",
+    "Logarius"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 30
+  },
+  {
+   "text": "Maria distanced herself from her Cainhurst heritage by choosing the path of a hunter instead of practicing vile blood arts.",
+   "entities": [
+    "Maria",
+    "Cainhurst"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 30
+  },
+  {
+   "text": "Maria was taught by Gehrman and became skilled enough with the Rakuyo trick weapon to be considered the finest hunter he trained.",
+   "entities": [
+    "Maria",
+    "Gehrman",
+    "Rakuyo"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Maria shared use of the Rakuyo weapon with her companion Simon.",
+   "entities": [
+    "Maria",
+    "Rakuyo",
+    "Simon"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Maria was present at the fishing hamlet when scholars arrived and participated in or failed to prevent the killing of villagers and the desecration of Kos.",
+   "entities": [
+    "Maria",
+    "Fishing Hamlet",
+    "Kos"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 40
+  },
+  {
+   "text": "Before leaving the fishing hamlet, Maria threw her Rakuyo into the village well, symbolically rejecting the person she had been during the massacre.",
+   "entities": [
+    "Maria",
+    "Rakuyo",
+    "Fishing Hamlet"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 41
+  },
+  {
+   "text": "After leaving the hamlet, Maria spent her remaining years at the Research Hall caring for patients, seeking some form of redemption.",
+   "entities": [
+    "Maria",
+    "Research Hall"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Maria died at the Research Hall and was taken into the Hunter's Nightmare after death.",
+   "entities": [
+    "Maria",
+    "Research Hall",
+    "Hunter's Nightmare"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 48
+  },
+  {
+   "text": "In the nightmare, Maria guards the Astral Clock Tower, which leads to the path to the fishing hamlet.",
+   "entities": [
+    "Maria",
+    "Astral Clock Tower",
+    "Fishing Hamlet"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "In the nightmare, Maria's Rakuyo is restored to her despite her having thrown it away in life.",
+   "entities": [
+    "Maria",
+    "Rakuyo"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "In her nightmare boss fight, Maria bleeds from her own body into her attacks, using her Cainhurst blood in a way she would have found repellent in life.",
+   "entities": [
+    "Maria",
+    "Cainhurst"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "When defeated, Maria whispers about failing and not being able to protect people, referring to children, villagers, and patients she could not save.",
+   "entities": [
+    "Maria"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Kos's enormous body lies dead and preserved on the shore of the fishing hamlet nightmare, rendered into an object by the scholars who violated her.",
+   "entities": [
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Orphan of Kos is born from inside the corpse of the great one Kos, emerging in front of the player trailing an umbilical cord.",
+   "entities": [
+    "Orphan of Kos",
+    "Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Orphan of Kos wields a weapon fashioned from its own placenta.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The sound the Orphan of Kos makes when it is born is the same audio file used for Gehrman crying in his sleep, which can be heard resting at the Hunter's Dream later in the story.",
+   "entities": [
+    "Orphan of Kos",
+    "Gehrman"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In its second phase, the Orphan of Kos abandons its placenta weapon and manifests ghostly wings, briefly showing the shape of the great one it might have grown into.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "After the player kills the Orphan of Kos, the doll states that Gehrman is sleeping soundly for the first time in a long while.",
+   "entities": [
+    "Orphan of Kos",
+    "Gehrman",
+    "The Doll"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Lawrence, the First Vicar, appears in the Hunter's Nightmare as a burning cleric beast in the Grand Cathedral, a nightmare duplicate of the cathedral he built.",
+   "entities": [
+    "Lawrence",
+    "Grand Cathedral",
+    "Healing Church"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Lawrence founded the Healing Church after leaving Byrgenwerth with the old blood, against Master Willem's warnings of overreach.",
+   "entities": [
+    "Lawrence",
+    "Healing Church",
+    "Byrgenwerth",
+    "Master Willem"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "Unlike other clerics who gradually transform, Lawrence became the first cleric beast completely and absolutely.",
+   "entities": [
+    "Lawrence",
+    "Cleric Beast"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "The skull displayed on Vicar Amelia's altar in the waking world is not Lawrence's real skull, but a different creature's skull repurposed as a relic.",
+   "entities": [
+    "Lawrence",
+    "Vicar Amelia"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lawrence's actual skull can be found inside the Grand Cathedral in the Hunter's Nightmare.",
+   "entities": [
+    "Lawrence",
+    "Grand Cathedral"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "When the player brings Lawrence's real skull near his burning cleric beast form, the creature reaches toward it in recognition before the fight begins.",
+   "entities": [
+    "Lawrence"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The scholars who violated the fishing hamlet are bound eternally in the Hunter's Nightmare as punishment.",
+   "entities": [
+    "Fishing Hamlet",
+    "Hunter's Nightmare"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Lawrence burns in the nightmare because he ordered the burning of Old Yharnam, incinerating a district and its inhabitants.",
+   "entities": [
+    "Lawrence",
+    "Old Yharnam"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "The item description of Lawrence's skull states it symbolizes his past and what he failed to protect, and that even if he found it, it could never restore his memories.",
+   "entities": [
+    "Lawrence"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman waits in the Hunter's Dream, tending graves and greeting hunters, having done so through roughly 300 hunters according to in-game lore.",
+   "entities": [
+    "Gehrman",
+    "Hunter's Dream"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Burial Blade was forged from caryll runes-adjacent ciderite (a metal that falls from the heavens) and was designed not for combat but for a funeral rite, a dirge of farewell.",
+   "entities": [
+    "Burial Blade"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman offers to use the Burial Blade to end the player's dream and grant them the same mercy he has given hundreds of hunters before.",
+   "entities": [
+    "Gehrman",
+    "Burial Blade",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Gehrman cannot use the Burial Blade's mercy on himself because the Moon Presence requires him to sustain the dream.",
+   "entities": [
+    "Gehrman",
+    "Burial Blade",
+    "Moon Presence",
+    "Hunter's Dream"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "If the player refuses Gehrman's offer, he rises from his wheelchair and fights as the first hunter, using the art of quickening surrounded by blue luminescent fog.",
+   "entities": [
+    "Gehrman"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "When Gehrman is defeated in the boss fight, he reaches upward as if toward Maria, the woman whose loss is tied to his bargain with the dream.",
+   "entities": [
+    "Gehrman",
+    "Maria"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "The doll was made in the likeness of Maria, and Gehrman keeps her hair ornament by the workshop furnace.",
+   "entities": [
+    "The Doll",
+    "Maria",
+    "Gehrman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the player has consumed enough umbilical cord fragments to resist its call, the Moon Presence descends and a final battle begins against it directly.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Defeating the Moon Presence leads to the Childhood's Beginning ending, where the player becomes an infant great one held by the doll.",
+   "entities": [
+    "Moon Presence",
+    "The Doll"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Pthumerian civilization is depicted as having encountered the same cosmic truths explored by the Healing Church, with their answers buried in the chalice dungeons.",
+   "entities": [
+    "Pthumerian civilization"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 5
+  },
+  {
+   "text": "Byrgenwerth scholars uncovered the buried Pthumerian knowledge about the old blood and great ones and ignored its implications.",
+   "entities": [
+    "Byrgenwerth",
+    "Pthumerian civilization"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "The narrator frames every Bloodborne boss as a human story expressing suffering caused by systemic institutional failures rather than simple monster encounters.",
+   "entities": [],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-ac614e88"
+}

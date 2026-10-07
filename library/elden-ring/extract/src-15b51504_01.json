@@ -1,0 +1,1028 @@
+{
+ "entities": [
+  {
+   "name": "Godfrey",
+   "kind": "boss",
+   "aliases": [
+    "First Elden Lord",
+    "Hoarah Loux"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "Marika the Eternal"
+   ]
+  },
+  {
+   "name": "Radagon",
+   "kind": "boss",
+   "aliases": [
+    "Radagon of the Golden Order"
+   ]
+  },
+  {
+   "name": "Elden Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Greater Will",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Astel, Naturalborn of the Void",
+   "kind": "boss",
+   "aliases": [
+    "Astel"
+   ]
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": [
+    "Eternal Cities people"
+   ]
+  },
+  {
+   "name": "Lake of Rot",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Frenzied Flame Proscriber",
+   "kind": "boss",
+   "aliases": [
+    "Three Fingers Servant"
+   ]
+  },
+  {
+   "name": "Three Fingers",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Frenzied Flame",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Crucible Knight Siluria",
+   "kind": "boss",
+   "aliases": [
+    "Siluria the Tail"
+   ]
+  },
+  {
+   "name": "Deeproot Depths",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ulcerated Tree Spirit",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Rennala",
+   "kind": "boss",
+   "aliases": [
+    "Queen of the Full Moon"
+   ]
+  },
+  {
+   "name": "Academy of Raya Lucaria",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Sellen",
+   "kind": "boss",
+   "aliases": [
+    "Master Sorcerer Sellen"
+   ]
+  },
+  {
+   "name": "Glintstone Dragon Smarag",
+   "kind": "boss",
+   "aliases": [
+    "Smarag"
+   ]
+  },
+  {
+   "name": "Glintstone Dragon Adula",
+   "kind": "boss",
+   "aliases": [
+    "Adula"
+   ]
+  },
+  {
+   "name": "Royal Knight Loretta",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Tibia Mariner",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Death Birds",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Grafted Scion",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Godrick",
+   "kind": "character",
+   "aliases": [
+    "Godrick the Grafted"
+   ]
+  },
+  {
+   "name": "Fell Twins",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Morgott",
+   "kind": "boss",
+   "aliases": [
+    "Margit the Fell Omen",
+    "Morgott the Omen King"
+   ]
+  },
+  {
+   "name": "Mohg",
+   "kind": "boss",
+   "aliases": [
+    "Mog, Lord of Blood"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Moghwyn Palace",
+   "kind": "location",
+   "aliases": [
+    "Mohgwyn Palace"
+   ]
+  },
+  {
+   "name": "Night's Cavalry",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Messmer the Impaler",
+   "kind": "boss",
+   "aliases": [
+    "Messmer"
+   ]
+  },
+  {
+   "name": "Land of Shadow",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Romina, Saint of the Bud",
+   "kind": "boss",
+   "aliases": [
+    "Romina"
+   ]
+  },
+  {
+   "name": "Bayle the Dread",
+   "kind": "boss",
+   "aliases": [
+    "Bale the Dread"
+   ]
+  },
+  {
+   "name": "Eygon",
+   "kind": "character",
+   "aliases": [
+    "Eygon of the Golden Order"
+   ]
+  },
+  {
+   "name": "Midra, Lord of Frenzied Flame",
+   "kind": "boss",
+   "aliases": [
+    "Midra"
+   ]
+  },
+  {
+   "name": "Scadutree Avatar",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Scadutree",
+   "kind": "world",
+   "aliases": [
+    "Shadow Tree"
+   ]
+  },
+  {
+   "name": "Commander Gaius",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Black Knife Assassins",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Godwyn",
+   "kind": "character",
+   "aliases": [
+    "Godwin"
+   ]
+  },
+  {
+   "name": "Ranni",
+   "kind": "character",
+   "aliases": [
+    "Ranni the Witch"
+   ]
+  },
+  {
+   "name": "Night of the Black Knives",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Red Wolf of Radagon",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Debate Parlor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Godskin Noble",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Godskin Apostle",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Lichdragon Fortissax",
+   "kind": "boss",
+   "aliases": [
+    "Fortissax"
+   ]
+  },
+  {
+   "name": "Prince of Death",
+   "kind": "boss",
+   "aliases": [
+    "Godwyn's corpse"
+   ]
+  },
+  {
+   "name": "Erdtree Avatar",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Erdtree",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Valiant Gargoyle",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Mimic Tear",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Nokron",
+   "kind": "location",
+   "aliases": [
+    "Eternal City Nokron"
+   ]
+  },
+  {
+   "name": "Crucible",
+   "kind": "world",
+   "aliases": [
+    "Crucible Age"
+   ]
+  },
+  {
+   "name": "Tarnished",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Leyndell",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Maliketh's death allows the Erdtree, previously sealed by golden thorns, to become penetrable, enabling the game's final sequence.",
+   "entities": [
+    "Erdtree"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Godfrey was the first human Marika chose as her consort and the warrior who led the campaigns expanding the Erdtree's dominion across the Lands Between.",
+   "entities": [
+    "Godfrey",
+    "Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Marika deliberately stripped Godfrey of his grace and exiled him beyond the Lands Between with his warriors, commanding him to wage war and become the first Tarnished.",
+   "entities": [
+    "Godfrey",
+    "Marika",
+    "Tarnished"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Marika's exile of Godfrey was part of a larger plan to forge warriors through hardship outside the Erdtree's grace, creating the Tarnished.",
+   "entities": [
+    "Godfrey",
+    "Marika",
+    "Tarnished"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "When Godfrey returns during the Shattering, he first appears as a ghost challenging the player in Leyndell, then later as his full human self after the Erdtree's thorns fall.",
+   "entities": [
+    "Godfrey",
+    "Leyndell"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Godfrey's second phase reveals Hoarah Loux, the berserker name and identity he held before Marika elevated him into the Elden Lord.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Hoarah Loux phase fights bare-armed with grappling and throwing techniques, reflecting a combat style from before civilization formalized it.",
+   "entities": [
+    "Godfrey"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Radagon is the second-to-last boss of the main game, and the fight's revelation is that Radagon and Marika are the same being sharing one divine body.",
+   "entities": [
+    "Radagon",
+    "Marika"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Radagon represents the male identity devoted to repairing the Elden Ring, while Marika as her female identity is the one who shattered it; the same being works simultaneously to destroy and repair the Elden Ring.",
+   "entities": [
+    "Radagon",
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "Radagon fights using holy power drawn from the Golden Order's fundamental energies.",
+   "entities": [
+    "Radagon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The red-gold nails embedded in Radagon's body are self-inflicted, representing his attempt to fuse himself with the Elden Ring through divine will, which ultimately failed.",
+   "entities": [
+    "Radagon"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "The Elden Beast emerges from Radagon's body after his defeat and was sent to the Lands Between by the Greater Will to carry the Elden Ring.",
+   "entities": [
+    "Elden Beast",
+    "Radagon",
+    "Greater Will"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "The Elden Beast is constitutively connected to the Elden Ring, acting as its guardian not by choice but because it and the Ring are the same kind of cosmic instrument of the Greater Will.",
+   "entities": [
+    "Elden Beast",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 96
+  },
+  {
+   "text": "The Elden Beast attacks the player automatically as an expression of enforcing cosmic order, not out of personal malice.",
+   "entities": [
+    "Elden Beast"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 96
+  },
+  {
+   "text": "Astel, Naturalborn of the Void, is an alien being that arrived in the Lands Between inside a meteor and did not originate from the world's own cosmology.",
+   "entities": [
+    "Astel, Naturalborn of the Void"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Two versions of Astel appear in the game: one in the Lake of Rot and one at the end of Ranni's questline.",
+   "entities": [
+    "Astel, Naturalborn of the Void",
+    "Lake of Rot",
+    "Ranni"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Astel's presence is connected to the Nox people and the cosmic catastrophe that created the Lake of Rot.",
+   "entities": [
+    "Astel, Naturalborn of the Void",
+    "Nox",
+    "Lake of Rot"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Astel's body resembles a star-formed crustacean with a vast insectoid face, operating on alien logic unrelated to the Golden Order or Crucible.",
+   "entities": [
+    "Astel, Naturalborn of the Void"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The existence of two identical Astels suggests either multiple meteor arrivals of such beings or that Astel can replicate itself in ways defying normal biology.",
+   "entities": [
+    "Astel, Naturalborn of the Void"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Frenzied Flame Proscriber, also called the Three Fingers Servant, is represented in-game by frenzied flame enemies and the Three Fingers in Leyndell's undercity rather than as a single named boss.",
+   "entities": [
+    "Frenzied Flame Proscriber",
+    "Three Fingers",
+    "Leyndell"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Frenzied Flame is an outer god representing dissolution, seeking to end individual separation and return all things to undifferentiated unity.",
+   "entities": [
+    "Frenzied Flame"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Crucible Knights predate the Erdtree's dominance and carry Crucible aspects, such as tails and wings, that the Golden Order has long tried to suppress.",
+   "entities": [
+    "Crucible Knight Siluria",
+    "Crucible"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Crucible Knight Siluria is found in the Deeproot Depths and is among the most ancient Crucible Knights, guarding a space tied to the oldest history of the Lands Between.",
+   "entities": [
+    "Crucible Knight Siluria",
+    "Deeproot Depths"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ulcerated Tree Spirits are the transformed bodies of beings who offered themselves to the Erdtree's grace but were rejected, yet still had grace energy flow through them, creating animated corruption.",
+   "entities": [
+    "Ulcerated Tree Spirit",
+    "Erdtree"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Sorcery in Elden Ring's mythology draws power from glintstone, crystallized cosmic starlight, making it a source of power independent of the Erdtree.",
+   "entities": [
+    "Golden Order"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Golden Order tolerated sorcery as useful and kept it controlled through the Academy of Raya Lucaria, despite tension between sorcery's cosmic independence and Golden Order theology.",
+   "entities": [
+    "Golden Order",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Before her madness, Rennala was head of the Academy of Raya Lucaria and one of the most celebrated sorcerers of her age, known as Queen of the Full Moon.",
+   "entities": [
+    "Rennala",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Rennala developed moon magic, a school focused on lunar energies amplifying glintstone power, studied through empirical investigation rather than Golden Order faith.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Sellen was expelled from the Academy of Raya Lucaria for conducting heretical research into the primeval currents of sorcery predating the Academy's systematized magic.",
+   "entities": [
+    "Sellen",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sellen's questline involves gathering primal glintstone, crystallized consciousness of ancient powerful sorcerers.",
+   "entities": [
+    "Sellen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sellen's true identity and history with Raya Lucaria are revealed across her questline, showing she is connected to something older than the Academy itself.",
+   "entities": [
+    "Sellen",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The glintstone dragons Smarag and Adula are ancient dragons whose bodies have become partially crystalline through long exposure to glintstone, letting them channel starlight through their breath.",
+   "entities": [
+    "Glintstone Dragon Smarag",
+    "Glintstone Dragon Adula"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Royal Knight Loretta is found guarding the entrance to the Haligtree in the Consecrated Snowfield, and also appears as a summonable spirit ash.",
+   "entities": [
+    "Royal Knight Loretta"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Royal Knight Loretta trained in a Carian royal combat school combining physical skill and magic, and devoted herself to serving Miquella's project.",
+   "entities": [
+    "Royal Knight Loretta",
+    "Miquella"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tibia Mariner is a skeletal boatman found across the Lands Between who commands undead armies and summons an ancient dragon turtle in some fights.",
+   "entities": [
+    "Tibia Mariner"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Tibia Mariner represents a boatman tasked with ferrying souls to the afterlife, still attempting this duty in a world where Marika's removal of the Rune of Death made death inconsistent.",
+   "entities": [
+    "Tibia Mariner",
+    "Marika"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Death Birds are enormous feathered creatures that only appear after dark, belonging to an order of death and time that predates the Golden Order's management of death.",
+   "entities": [
+    "Death Birds"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Grafted Scion, fought at the start of the game, is a creature made entirely of assembled arms and weapons with no original body remaining, reflecting Godrick's grafting philosophy.",
+   "entities": [
+    "Grafted Scion",
+    "Godrick"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fell Twins are enormous Omen bosses found in optional underground areas, representing Omens who grew unmanaged and unprotected unlike demigod Omens such as Morgott and Mohg.",
+   "entities": [
+    "Fell Twins",
+    "Morgott",
+    "Mohg"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Mohg, Lord of Blood, has built a blood dynasty using the Formless Mother's gifts, kidnapping Miquella to use him as a vehicle for his own ascension.",
+   "entities": [
+    "Mohg",
+    "Formless Mother",
+    "Miquella"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Mohg's arena, Moghwyn Palace, is covered in scarlet blood representing the Formless Mother's physical presence spread across his domain.",
+   "entities": [
+    "Mohg",
+    "Moghwyn Palace",
+    "Formless Mother"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "The Night's Cavalry are armored riders appearing only at night, tied to a knightly tradition predating the Golden Order.",
+   "entities": [
+    "Night's Cavalry"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Omen bosses found in Leyndell's sewers represent a community of Omens who built their own culture after being cast out by Golden Order society.",
+   "entities": [
+    "Leyndell"
+   ],
+   "category": "faction",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Margit, the Fell Omen, is actually Morgott in disguise, serving as the game's first major boss and testing the player's worthiness before revealing his true identity as guardian of the throne.",
+   "entities": [
+    "Morgott",
+    "Leyndell"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The Shadow of the Erdtree DLC added a full set of new bosses set in the Land of Shadow, a hidden realm tied to Miquella's great migration and ancient Golden Order history.",
+   "entities": [
+    "Land of Shadow",
+    "Miquella"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Messmer the Impaler is Marika's son, born with an affinity for serpentine flame, who was erased from official history similarly to Godwyn's erasure.",
+   "entities": [
+    "Messmer the Impaler",
+    "Marika",
+    "Godwyn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Messmer was sent to the Land of Shadow to wage a campaign of conquest and was then forgotten, his name removed from records.",
+   "entities": [
+    "Messmer the Impaler",
+    "Land of Shadow"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Messmer remained loyal to Marika throughout his long war, never developing the perspective to question that loyalty.",
+   "entities": [
+    "Messmer the Impaler",
+    "Marika"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 35
+  },
+  {
+   "text": "Romina, Saint of the Bud, is a being of scarlet rot connected to the Land of Shadow's history and the rot's ongoing presence in the world.",
+   "entities": [
+    "Romina, Saint of the Bud",
+    "Land of Shadow"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bayle the Dread is the most powerful ancient dragon encountered outside Farum Azula, pursued by veteran dragon slayer Eygon for vengeance.",
+   "entities": [
+    "Bayle the Dread",
+    "Eygon"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Midra, Lord of Frenzied Flame, was a nobleman who came to the Land of Shadow seeking something and instead encountered the Three Fingers, leading to his dissolution into the Frenzied Flame.",
+   "entities": [
+    "Midra, Lord of Frenzied Flame",
+    "Land of Shadow",
+    "Three Fingers",
+    "Frenzied Flame"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Scadutree Avatar guards the Scadutree, a shadow tree counterpart to the Erdtree that grows in the Land of Shadow, connected to Marika's hidden origins.",
+   "entities": [
+    "Scadutree Avatar",
+    "Scadutree",
+    "Land of Shadow",
+    "Marika",
+    "Erdtree"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Land of Shadow is where Marika originated, before her ascension to godhood.",
+   "entities": [
+    "Land of Shadow",
+    "Marika"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Commander Gaius is a boar-riding general in the Land of Shadow fully devoted to military service under Messmer's campaign without question.",
+   "entities": [
+    "Commander Gaius",
+    "Land of Shadow",
+    "Messmer the Impaler"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Black Knife Assassins are the Numen women who carried out the Night of the Black Knives, which killed Godwyn, after being subverted by Ranni.",
+   "entities": [
+    "Black Knife Assassins",
+    "Night of the Black Knives",
+    "Godwyn",
+    "Ranni"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Black Knife Assassins fight using blades carrying the influence of the Rune of Death.",
+   "entities": [
+    "Black Knife Assassins"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Red Wolf of Radagon guards the Debate Parlor in the Academy of Raya Lucaria and fights using Radagon's own sorcerous techniques.",
+   "entities": [
+    "Red Wolf of Radagon",
+    "Debate Parlor",
+    "Radagon",
+    "Academy of Raya Lucaria"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Godskin Noble and Godskin Apostle belong to a religious order dedicated to slaying gods and wearing their skin, with its founding and theology left unexplained by the game.",
+   "entities": [
+    "Godskin Noble",
+    "Godskin Apostle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lichdragon Fortissax's story is inseparable from Godwyn's, as Fortissax remained loyal to Godwyn through his transformation into the Prince of Death.",
+   "entities": [
+    "Lichdragon Fortissax",
+    "Godwyn",
+    "Prince of Death"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Godwyn was regarded as the kindest and best of the demigods before being killed in a way that destroyed his soul while his body persisted, becoming the Prince of Death.",
+   "entities": [
+    "Godwyn",
+    "Prince of Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Fortissax descended into the Erdtree's roots to fight the Death Blight on Godwyn's behalf, an unwinnable battle that can only be managed, not won.",
+   "entities": [
+    "Lichdragon Fortissax",
+    "Godwyn"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 28
+  },
+  {
+   "text": "Different Crucible Knight variants, such as the Tail Knight and Wing Knight, express different ancient biological lineages made possible during the Crucible Age.",
+   "entities": [
+    "Crucible"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "In Rennala's boss fight, the first phase requires breaking the students carrying her protective golden light, while the second phase has her summon creatures reborn through her Great Rune of rebirth.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rennala's second-phase summons include a reborn Glintstone Dragon and a troll, among other legendary creatures given new forms through her rebirth power.",
+   "entities": [
+    "Rennala"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Erdtree Avatars found at minor Erdtrees grow directly out of the trees themselves, acting as the Erdtree's own ambulatory immune response.",
+   "entities": [
+    "Erdtree Avatar",
+    "Erdtree"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Valiant Gargoyles are stone constructs animated by Golden Order power that guard the coffin leading to the Deeproot Depths and Godwyn's resting place.",
+   "entities": [
+    "Valiant Gargoyle",
+    "Deeproot Depths",
+    "Godwyn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Mimic Tear is a silver tear of living mercury native to the Eternal City of Nokron that copies the player's exact appearance, weapons, and spells.",
+   "entities": [
+    "Mimic Tear",
+    "Nokron"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-15b51504"
+}
