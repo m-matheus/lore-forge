@@ -106,6 +106,12 @@ class EditSpec(BaseModel):
 class MusicSpec(BaseModel):
     file: str = ""                      # relative to the channel dir; per-run override allowed
     lufs: float = -30.0
+    # Gain on the bed in the podcast mix when there is no edited Premiere project to read
+    # it from (podcast_service.premiere_music_gain reads the level set on A2 there).
+    podcast_gain_db: float = 0.0
+    # Attribution owed per track file name, printed in the YouTube and Spotify descriptions
+    # of every video whose bed was built from that track.
+    credits: dict[str, str] = Field(default_factory=dict)
     crossfade: float = 6.0
     fade_in: float = 4.0
     fade_out: float = 12.0
@@ -125,6 +131,17 @@ class ThumbnailSpec(BaseModel):
     badge_template: str = "2+ HOUR | {game_upper} LORE | {channel_upper}"
 
 
+class SpotifyNoticeSpec(BaseModel):
+    """The "also on Spotify" lower third near the start of every video, plus its QR code."""
+    file: str = "assets/spotify/notice.mov"   # the mogrt, exported once from Premiere with alpha
+    qr: str = "assets/spotify/qr.mov"         # built from spotify_url by `loreforge channel brand`
+    start: float = 10.0                       # seconds into the video
+    duration: float = 11.0
+    qr_center: tuple[float, float] = (0.86, 0.75)   # frame fractions
+    qr_height_frac: float = 0.2               # ~216 px at 1080p, readable across a room
+    qr_inverted: bool = True                  # cream modules on dark; False if a phone can't read it
+
+
 class Channel(BaseModel):
     name: str
     slug: str
@@ -139,6 +156,8 @@ class Channel(BaseModel):
     music: MusicSpec = Field(default_factory=MusicSpec)
     thumbnail: ThumbnailSpec = Field(default_factory=ThumbnailSpec)
     base_tags: list[str] = Field(default_factory=list)
+    spotify_url: str = ""   # the podcast feed; empty leaves the Spotify line out of descriptions
+    spotify_notice: SpotifyNoticeSpec = Field(default_factory=SpotifyNoticeSpec)
 
     # Populated by the loader: absolute path to this channel's directory.
     root_dir: Path | None = None
@@ -152,6 +171,13 @@ class Channel(BaseModel):
     def read_text(self, rel: str, default: str = "") -> str:
         p = self.path(rel)
         return p.read_text(encoding="utf-8") if p.exists() else default
+
+    @property
+    def spotify_link(self) -> str:
+        """The public show link, or "" if none is set or it is the creator dashboard
+        (creators.spotify.com only opens for the show's owner)."""
+        url = self.spotify_url.strip()
+        return url if url.startswith("https://open.spotify.com/") else ""
 
     @property
     def style_guide(self) -> str:

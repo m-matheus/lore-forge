@@ -1,0 +1,806 @@
+{
+ "entities": [
+  {
+   "name": "Great Ones",
+   "kind": "concept",
+   "aliases": [
+    "The Great Ones"
+   ]
+  },
+  {
+   "name": "Oedon",
+   "kind": "character",
+   "aliases": [
+    "Uden",
+    "Weeden",
+    "Eden"
+   ]
+  },
+  {
+   "name": "Ebrietas",
+   "kind": "character",
+   "aliases": [
+    "Ebrittas",
+    "Abritus",
+    "Daughter of the Cosmos"
+   ]
+  },
+  {
+   "name": "Rom the Vacuous Spider",
+   "kind": "character",
+   "aliases": [
+    "Rom",
+    "Rohm",
+    "Vacuous Rom"
+   ]
+  },
+  {
+   "name": "Queen Yharnam",
+   "kind": "character",
+   "aliases": [
+    "Ancient Thumerian Queen"
+   ]
+  },
+  {
+   "name": "Mergo",
+   "kind": "character",
+   "aliases": [
+    "Mgo"
+   ]
+  },
+  {
+   "name": "Arianna",
+   "kind": "character",
+   "aliases": [
+    "Ariana"
+   ]
+  },
+  {
+   "name": "Iosefka",
+   "kind": "character",
+   "aliases": [
+    "Yosepha",
+    "Impostor Iosefka"
+   ]
+  },
+  {
+   "name": "Oedon Chapel",
+   "kind": "location",
+   "aliases": [
+    "Edon Chapel"
+   ]
+  },
+  {
+   "name": "Chapel Dweller",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Formless Oedon Rune",
+   "kind": "item",
+   "aliases": [
+    "Formless Uden Rune"
+   ]
+  },
+  {
+   "name": "Oedon Writhe Rune",
+   "kind": "item",
+   "aliases": [
+    "Uden Wri Rune"
+   ]
+  },
+  {
+   "name": "Healing Church",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Choir",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Altar of Despair",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Upper Cathedral Ward",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Land of Is",
+   "kind": "location",
+   "aliases": [
+    "Is"
+   ]
+  },
+  {
+   "name": "Great Is Chalice",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Augur of Ebrietas",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "A Call Beyond",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Celestial Emissaries",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Orphans of Yharnam",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lumenflower Gardens",
+   "kind": "location",
+   "aliases": [
+    "Lumen Flower Gardens"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "location",
+   "aliases": [
+    "Bergenworth"
+   ]
+  },
+  {
+   "name": "Master Willem",
+   "kind": "character",
+   "aliases": [
+    "Master Villim",
+    "Villim"
+   ]
+  },
+  {
+   "name": "Kos",
+   "kind": "character",
+   "aliases": [
+    "CS",
+    "Cosum",
+    "Cos"
+   ]
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Moonside Lake",
+   "kind": "location",
+   "aliases": [
+    "Moonlit Lake"
+   ]
+  },
+  {
+   "name": "Lesser Amygdala",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Micolash",
+   "kind": "character",
+   "aliases": [
+    "Mikash",
+    "Michelash"
+   ]
+  },
+  {
+   "name": "School of Mensis",
+   "kind": "faction",
+   "aliases": [
+    "Menis"
+   ]
+  },
+  {
+   "name": "Lawrence",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Umbilical Cord",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Insight",
+   "kind": "mechanic",
+   "aliases": []
+  },
+  {
+   "name": "Cainhurst",
+   "kind": "location",
+   "aliases": [
+    "Canhurst"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Great Ones are cosmic entities that do not function like gods who hear prayers and respond; they exist on planes of reality too distant from human experience for that kind of relationship.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Every Great One is said to lose its child and then yearn for a surrogate to replace it.",
+   "entities": [
+    "Great Ones"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Oedon has no physical form and exists only as a voice or essence, making him impossible to see or directly encounter at any level of insight.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Formless Oedon Rune's description states that the Great One Oedon lacks form, exists only in voice, and that both Oedon and his inadvertent worshippers secretly seek the precious blood.",
+   "entities": [
+    "Oedon",
+    "Formless Oedon Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Because blood is Oedon's essence, every act involving blood in Yharnam, such as blood ministration, beast blood use, and blood exchange, is interpreted as an inadvertent act of worship toward Oedon.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some lore scholars believe the name Oedon derives from the Norse god Odin, who sacrificed an eye for wisdom, paralleling Bloodborne's themes of eyes and insight.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Other scholars connect Oedon's name to the Greek figure Oedipus, who blinded himself after learning an unbearable truth, relating to the term 'Oedipism' for self-inflicted eye removal.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Worshippers of Oedon in Yharnam are often depicted blindfolded, which may represent either achieved insight beyond physical sight or willful blindness to the truth.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Oedon is the only known Great One to have directly conceived children with mortal women on multiple occasions.",
+   "entities": [
+    "Oedon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Oedon's union with Queen Yharnam, the ancient Pthumerian ruler, produced the infant Great One Mergo.",
+   "entities": [
+    "Oedon",
+    "Queen Yharnam",
+    "Mergo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Queen Yharnam's civilization predates the city of Yharnam by thousands of years.",
+   "entities": [
+    "Queen Yharnam"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "During the night of the hunt, as the blood moon rises, Oedon impregnates Arianna, a woman of Cainhurst vile blood lineage.",
+   "entities": [
+    "Oedon",
+    "Arianna",
+    "Cainhurst"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The impostor posing as the doctor Iosefka in her clinic also shows signs of being impregnated by Oedon during the night of the hunt.",
+   "entities": [
+    "Oedon",
+    "Iosefka"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The unions between Oedon and mortal women produce cosmic, non-human offspring, and umbilical cord fragments from these pregnancies can be collected by the player.",
+   "entities": [
+    "Oedon",
+    "Umbilical Cord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If guided to Oedon Chapel, Arianna becomes pregnant and later gives birth in the sewers beneath the chapel to a cosmic being, dying in or shortly after the process.",
+   "entities": [
+    "Arianna",
+    "Oedon Chapel",
+    "Oedon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The impostor Iosefka experiments on herself and others seeking transcendence, becomes pregnant by Oedon, and gives birth to a celestial embryo-like being.",
+   "entities": [
+    "Iosefka",
+    "Oedon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Oedon Writhe Rune causes enemies to release quicksilver bullets when struck, symbolizing blood's presence in the physical world responding to Oedon's name.",
+   "entities": [
+    "Oedon Writhe Rune",
+    "Oedon"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Oedon Chapel in the Cathedral Ward is managed by the Chapel Dweller, a large, gentle, devout man who guides survivors of the hunt to safety within its walls.",
+   "entities": [
+    "Oedon Chapel",
+    "Chapel Dweller"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Oedon Chapel appears to be specifically consecrated to the formless Great One Oedon rather than to the broader Healing Church communion with the Great Ones.",
+   "entities": [
+    "Oedon Chapel",
+    "Oedon",
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Chapel Dweller never turns hostile toward the player throughout the game and serves faithfully as Oedon's most devoted, if unknowing, worshipper.",
+   "entities": [
+    "Chapel Dweller",
+    "Oedon"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "There is a theory that Oedon and the Moon Presence may be the same entity or deeply related, given their shared formless or shadowy nature.",
+   "entities": [
+    "Oedon",
+    "Moon Presence"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas is first found kneeling at the Altar of Despair in the deepest reaches of the Upper Cathedral Ward, grieving and unresponsive until attacked.",
+   "entities": [
+    "Ebrietas",
+    "Altar of Despair",
+    "Upper Cathedral Ward"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At Ebrietas's feet lies the body of a creature resembling Rom the Vacuous Spider, though whether it is actually Rom or another similar being is ambiguous.",
+   "entities": [
+    "Ebrietas",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas holds the title Daughter of the Cosmos and originates from the Land of Is, a plane within the chalice dungeon labyrinth said to be in contact with the cosmos.",
+   "entities": [
+    "Ebrietas",
+    "Land of Is"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Great Ones who dwelt in the Land of Is could access transcendental planes of thought beyond conventional reality.",
+   "entities": [
+    "Land of Is",
+    "Great Ones"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At some point the other Great Ones in the Land of Is departed, but Ebrietas was left behind or chose to stay, and is referred to as the left-behind Great One.",
+   "entities": [
+    "Ebrietas",
+    "Land of Is"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The scholars of Byrgenwerth first contacted Ebrietas deep in the labyrinth using fantasm slugs, which serve as organs of the Great Ones.",
+   "entities": [
+    "Ebrietas",
+    "Byrgenwerth"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Choir, the Healing Church's scholarly inner circle, built their purpose around communion with Ebrietas, using the Great Is Chalice to reach the Land of Is.",
+   "entities": [
+    "Choir",
+    "Ebrietas",
+    "Great Is Chalice",
+    "Land of Is"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ebrietas wanted to help the Choir because she, like them, was searching for the Great Ones who had left; both were allies in shared grief.",
+   "entities": [
+    "Ebrietas",
+    "Choir"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Choir created weapons and tools infused with Ebrietas's cosmic energy, including the Augur of Ebrietas and A Call Beyond.",
+   "entities": [
+    "Choir",
+    "Ebrietas",
+    "Augur of Ebrietas",
+    "A Call Beyond"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Augur of Ebrietas allows the user to tear open a rift to the Land of Is and drag Ebrietas's tentacles through it to attack.",
+   "entities": [
+    "Augur of Ebrietas",
+    "Ebrietas",
+    "Land of Is"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A Call Beyond channels the arcane force of a dying star, representing the destructive power of a Great One.",
+   "entities": [
+    "A Call Beyond"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Choir used knowledge gained from Ebrietas to experiment on the Orphans of Yharnam, exposing children to fragments of her essence to try to induce transcendence.",
+   "entities": [
+    "Choir",
+    "Ebrietas",
+    "Orphans of Yharnam"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Most children experimented on by the Choir died; survivors became Celestial Emissaries, pale bulbous-headed beings that wander the Upper Cathedral Ward.",
+   "entities": [
+    "Choir",
+    "Celestial Emissaries",
+    "Upper Cathedral Ward"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "There is a theory that the Choir created the Celestial Emissaries partly as surrogate children for Ebrietas to address her grief.",
+   "entities": [
+    "Choir",
+    "Celestial Emissaries",
+    "Ebrietas"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Lumenflower Gardens within the Upper Cathedral Ward feature bioluminescent plants and statues depicting a figure reaching upward, cultivated as a space of meditation tied to Ebrietas.",
+   "entities": [
+    "Lumenflower Gardens",
+    "Ebrietas",
+    "Upper Cathedral Ward"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some theories suggest the statues in the Lumenflower Gardens represent the Moon Presence or an idealized form the Choir aspired to become.",
+   "entities": [
+    "Lumenflower Gardens",
+    "Moon Presence",
+    "Choir"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas is one of the hardest Great One fights in the game, attacking with tentacles, dark wings, and arcane light attacks with unusually long range.",
+   "entities": [
+    "Ebrietas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas is noted by scholars as the only Great One who appears to genuinely want to coexist with and help humanity, unlike the others who are indifferent or alien in agenda.",
+   "entities": [
+    "Ebrietas"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Rom was once a human scholar at Byrgenwerth who joined the expedition to the Fishing Hamlet and came into contact with the Great One Kos.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Byrgenwerth",
+    "Fishing Hamlet",
+    "Kos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "In his ramblings, Micolash recounts praying to Kos, asking if she hears prayers as she once did for 'the vacuous Rom', and asks to be granted eyes.",
+   "entities": [
+    "Micolash",
+    "Kos",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kos granted Rom insight and cosmic awareness, causing Rom to transcend into a form that is neither fully human nor fully a true Great One, classified as kin.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Kos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Rom took the form of a vast spider-like creature found beneath the Moonside Lake at Byrgenwerth, watched over by Master Willem.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Moonside Lake",
+    "Master Willem",
+    "Byrgenwerth"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Rom's title 'vacuous' means empty or devoid of meaning in English, while the original Japanese term is more direct, meaning idiotic or half-witted.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rom maintains an invisible veil over Yharnam using the Lesser Amygdala that cling to the cathedral ward's buildings, hiding the city's true cosmic horror from those without sufficient insight.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Lesser Amygdala"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Rom is killed, the veil drops: the blood moon appears, Lesser Amygdala become visible everywhere, and pregnant women across Yharnam give birth to cosmic horrors.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Lesser Amygdala"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Rom is passive and non-hostile until provoked, residing in the lake surrounded by smaller spider-like offspring that resemble her.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When Rom dies, the blue light characterizing Moonside Lake turns red, signaling that a fundamental, irreversible change has occurred.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Moonside Lake"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "There is a theory that the Rom-like creature mourned by Ebrietas at the Altar of Despair was a Healing Church scholar who underwent a transformation similar to Rom's after too much communion with Ebrietas.",
+   "entities": [
+    "Ebrietas",
+    "Altar of Despair",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Moonside Lake is reached by diving into a well at the center of Byrgenwerth and exists as a liminal space adjacent to Byrgenwerth rather than underground.",
+   "entities": [
+    "Moonside Lake",
+    "Byrgenwerth"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Master Willem was Rom's teacher at Byrgenwerth before her transformation, and he remained at Byrgenwerth, eventually sitting in a rocking chair overlooking the lake where Rom resides.",
+   "entities": [
+    "Master Willem",
+    "Rom the Vacuous Spider",
+    "Byrgenwerth",
+    "Moonside Lake"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Master Willem believed human transcendence should be achieved through insight and gaining 'eyes' rather than through the Healing Church's physical blood-based methods favored by Lawrence.",
+   "entities": [
+    "Master Willem",
+    "Lawrence",
+    "Healing Church"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's most transformative ending requires the player to have consumed three umbilical cords and to have a sufficiently high Insight stat.",
+   "entities": [
+    "Umbilical Cord",
+    "Insight"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rom's own transformation suggests that pushing insight to its limit produces something vast and alien rather than the luminous consciousness Master Willem imagined.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Master Willem",
+    "Insight"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "After Rom's death, the pregnancies of women touched by Oedon during the night resolve and cosmic, non-human babies are born, previously held back by Rom's veil.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Oedon"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Each boss in Bloodborne has a unique musical theme that contributes significant narrative meaning to the encounter.",
+   "entities": [],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-0bc3d2cf"
+}

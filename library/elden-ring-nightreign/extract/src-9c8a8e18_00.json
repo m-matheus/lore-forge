@@ -1,0 +1,1498 @@
+{
+ "entities": [
+  {
+   "name": "Nightreign",
+   "kind": "concept",
+   "aliases": [
+    "Elden Ring Nightreign",
+    "Night Reign"
+   ]
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "event",
+   "aliases": [
+    "Elden Ring (original game)"
+   ]
+  },
+  {
+   "name": "Shadow of the Erdtree",
+   "kind": "event",
+   "aliases": [
+    "Shadow of the Tree DLC"
+   ]
+  },
+  {
+   "name": "The Shattering",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Night Lord",
+   "kind": "boss",
+   "aliases": [
+    "the Night",
+    "the knight"
+   ]
+  },
+  {
+   "name": "Nightfarer",
+   "kind": "concept",
+   "aliases": [
+    "Nightfarers"
+   ]
+  },
+  {
+   "name": "Round Table Hold (Nightreign)",
+   "kind": "location",
+   "aliases": [
+    "the round table"
+   ]
+  },
+  {
+   "name": "Priestess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Formless Master",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Iron Menial",
+   "kind": "character",
+   "aliases": [
+    "the menial",
+    "attendant"
+   ]
+  },
+  {
+   "name": "Wilder",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Duchess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Guardian",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Iron Eye",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Raider",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Revenant",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Recluse",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Executor",
+   "kind": "character",
+   "aliases": [
+    "Executive"
+   ]
+  },
+  {
+   "name": "Cutting-Gifted Tribe",
+   "kind": "faction",
+   "aliases": [
+    "cutting gifted tribe"
+   ]
+  },
+  {
+   "name": "Primordial Night Lord's Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Cord's End",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Wet Stone",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Pocket Watch (Nightreign)",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Earring (Wilder's)",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Wind Whale Null",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Limveld",
+   "kind": "location",
+   "aliases": [
+    "Limbale",
+    "Lynville",
+    "Limville"
+   ]
+  },
+  {
+   "name": "Weather Vain",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Blessed Coin",
+   "kind": "item",
+   "aliases": [
+    "iron coin"
+   ]
+  },
+  {
+   "name": "Larval Tear",
+   "kind": "item",
+   "aliases": [
+    "larval"
+   ]
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Scapular Regiment",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Talon Regiment",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Winged Realm",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Acasturus Blades",
+   "kind": "weapon",
+   "aliases": [
+    "cursed blades",
+    "cursed blade"
+   ]
+  },
+  {
+   "name": "Harmonious Brooch",
+   "kind": "item",
+   "aliases": [
+    "magical brooch"
+   ]
+  },
+  {
+   "name": "Merchant (cursed, Nightreign)",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fellowship (Nightreign)",
+   "kind": "faction",
+   "aliases": [
+    "the fellowship"
+   ]
+  },
+  {
+   "name": "Isolde Day",
+   "kind": "character",
+   "aliases": [
+    "Isold Day",
+    "Asold Day"
+   ]
+  },
+  {
+   "name": "Night Huntsman",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Edge of Order",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Fulghor",
+   "kind": "boss",
+   "aliases": [
+    "Folore"
+   ]
+  },
+  {
+   "name": "Godwyn the Golden",
+   "kind": "character",
+   "aliases": [
+    "Godwin"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "America"
+   ]
+  },
+  {
+   "name": "Ranni the Witch",
+   "kind": "character",
+   "aliases": [
+    "Ronnie"
+   ]
+  },
+  {
+   "name": "Black Knife Assassins",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Maliketh",
+   "kind": "character",
+   "aliases": [
+    "Malikth"
+   ]
+  },
+  {
+   "name": "Deathroot",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Those Who Live in Death",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "White Horn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Black Claw",
+   "kind": "character",
+   "aliases": [
+    "Raider's true identity"
+   ]
+  },
+  {
+   "name": "Gladiator (arena opponent)",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Elder Lion (Nightreign)",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Daphne the Doll",
+   "kind": "character",
+   "aliases": [
+    "Revenant"
+   ]
+  },
+  {
+   "name": "Kloe",
+   "kind": "character",
+   "aliases": [
+    "Khloe"
+   ]
+  },
+  {
+   "name": "Northern Croft Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Edgar Northerncraft",
+   "kind": "character",
+   "aliases": [
+    "Edgar Northerncroft"
+   ]
+  },
+  {
+   "name": "Helen (summon)",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Frederick (summon)",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Sebastian (summon)",
+   "kind": "enemy",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Nightreign and the original Elden Ring (including Shadow of the Erdtree) take place in two separate, alternate timelines rather than a direct sequel relationship.",
+   "entities": [
+    "Nightreign",
+    "Elden Ring",
+    "Shadow of the Erdtree"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Director Hidetaka Miyazaki stated in an IGN interview that Nightreign and Elden Ring share the same history up through the Shattering, but diverge afterward.",
+   "entities": [
+    "Nightreign",
+    "Elden Ring",
+    "The Shattering"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Because the two timelines share a Shattering, locations have similar but different names, such as Elden Ring's Liurnia versus Nightreign's Limveld.",
+   "entities": [
+    "Nightreign",
+    "Elden Ring",
+    "Limveld"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Shattering in Elden Ring was caused by the Night of the Black Knives, when assassins killed Godwyn the Golden, prompting Marika to shatter the Elden Ring.",
+   "entities": [
+    "The Shattering",
+    "Godwyn the Golden",
+    "Marika"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The specific demigod wars following the Shattering in Elden Ring are never acknowledged in Nightreign, so it is unclear if they occurred in this timeline.",
+   "entities": [
+    "Nightreign",
+    "The Shattering"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Nightreign's story begins after a great war called the Shattering, which eventually drew forth an abomination marking the beginning of 'the Night.'",
+   "entities": [
+    "Nightreign",
+    "The Shattering",
+    "Night Lord"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Night in Nightreign brings relentless destructive rain capable of washing away structures and wildlife if left unchecked.",
+   "entities": [
+    "Nightreign"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The leader of the Night is called the Night Lord, described by the Priestess as a 'living cataclysm.'",
+   "entities": [
+    "Night Lord",
+    "Priestess"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Warriors called Nightfarers, unaligned by tribe, clan, region, or era, are united by the goal of defeating the Night Lord and ending the Night.",
+   "entities": [
+    "Nightfarer",
+    "Night Lord"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Priestess states that the Nightfarers were chosen by a Formless Master for their potential to defeat the Night Lord.",
+   "entities": [
+    "Priestess",
+    "Formless Master",
+    "Nightfarer"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nightfarers are known only by titles: the Wilder, Guardian, Iron Eye, Duchess, Raider, Revenant, Recluse, and Executor.",
+   "entities": [
+    "Wilder",
+    "Guardian",
+    "Iron Eye",
+    "Duchess",
+    "Raider",
+    "Revenant",
+    "Recluse",
+    "Executor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to a servant of the Round Table, each Nightfarer committed a grave misdeed, which is why they were chosen as 'seekers of redemption.'",
+   "entities": [
+    "Nightfarer",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Round Table Hold is the place where the Nightfarers stay, plan, and train to fight the Night Lord.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Nightfarer"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nightfarers' attendant at the Round Table is called the Iron Menial, a word meaning servant.",
+   "entities": [
+    "Iron Menial",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial resembles the marionette soldiers created by the Academy of Raya Lucaria in Elden Ring.",
+   "entities": [
+    "Iron Menial"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial was originally a cog of war before being modified for housekeeping duties, which failed, leading to him being discarded and later awakening at the Round Table.",
+   "entities": [
+    "Iron Menial"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike the Iron Menial, the Nightfarers have forgotten much of their past, with memories dissipating the longer they fight the Night.",
+   "entities": [
+    "Nightfarer",
+    "Iron Menial"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Throughout the game, Nightfarers' memories gradually return, allowing players to witness flashbacks of their past.",
+   "entities": [
+    "Nightfarer"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The final boss of Nightreign drops the Primordial Night Lord's Rune, suggesting it is a great rune akin to those of the Elden Ring and may explain the Night Lord's power.",
+   "entities": [
+    "Primordial Night Lord's Rune",
+    "Night Lord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Primordial Night Lord's Rune description states that the Cutting-Gifted Tribe anticipated the coming Night and planned to cheat a god, having glimpsed 'the very sin of the erdtree,' for which they were punished.",
+   "entities": [
+    "Primordial Night Lord's Rune",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Beneath the Round Table Hold lies a crypt containing eight coffins, seemingly corresponding to the eight Nightfarer characters.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Nightfarer"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Inscriptions in the crypt reference the Deep Woods (home of the Recluse) and Wind Whale Null (home of the Wilder and Duchess).",
+   "entities": [
+    "Recluse",
+    "Wilder",
+    "Duchess",
+    "Wind Whale Null"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A crypt inscription reads: 'To atone for the first sin we elect to become the foundation.'",
+   "entities": [
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial explains the crypt holds ancient people who were placed there in anticipation of the Night, enacting a ritual to draw their descendants to the Round Table.",
+   "entities": [
+    "Iron Menial",
+    "Round Table Hold (Nightreign)",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cutting-Gifted Tribe does not appear directly in the game, but its name may relate to 'grafting,' connecting it to themes of combining or splicing in Elden Ring lore.",
+   "entities": [
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Elden Ring games reference an 'original sin,' with Miquella's Great Rune and Mohg's remembrance both alluding to a hidden original sin, possibly tied to Marika's ascension to godhood.",
+   "entities": [
+    "Marika",
+    "Shadow of the Erdtree"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The rare item Cord's End describes a cord belonging to young girls housed in a secret place, sacrificed by the Cutting-Gifted Tribe as part of a ritual, though the girls were too young to willingly comply.",
+   "entities": [
+    "Cord's End",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The ritual implied by Cord's End resembles the fate of Marika's shaman people, who were melded into saints by the Hornsent in Shadow of the Erdtree.",
+   "entities": [
+    "Cord's End",
+    "Marika",
+    "Shadow of the Erdtree"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A Round Table passage states: 'We lie the condemned of the first nightfall who sin is too great for absolution by our own deeds, thus we shall ever guide our progeny until the night breaks,' implying past failed attempts to defeat the Night.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theory is that the Cutting-Gifted Tribe tried and failed to create their own Erdtree-like structure to stop the Night, then became the spiritual foundation of the Round Table to guide future descendants (the Nightfarers) to succeed where they failed.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Round Table Hold (Nightreign)",
+    "Nightfarer"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Wilder is a title (from Old English for 'wild animal'), not a proper name, and he hails from Wind Whale Null.",
+   "entities": [
+    "Wilder",
+    "Wind Whale Null"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder came to fight the Night Lord because the Night came to his home and massacred his tribe.",
+   "entities": [
+    "Wilder",
+    "Wind Whale Null",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder carries a sword, shield, and an earring whose matching counterpart has been lost to time.",
+   "entities": [
+    "Wilder",
+    "Earring (Wilder's)"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder dreams of two horses galloping at Wind Whale Null, hinting at a sibling connection.",
+   "entities": [
+    "Wilder",
+    "Wind Whale Null"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial sends Wilder to retrieve a wet stone from the mines of Limveld, guarded by a crystallian.",
+   "entities": [
+    "Wilder",
+    "Iron Menial",
+    "Wet Stone",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As a reward for the wet stone errand, Wilder receives relics including an earring belonging to the Priestess, which he borrows before returning it.",
+   "entities": [
+    "Wilder",
+    "Earring (Wilder's)",
+    "Priestess"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Holding the earring to light reveals a message: 'Two horses gallop side by side. May the wind spur us on our path,' indicating it is part of a matching set with the Priestess's earring.",
+   "entities": [
+    "Earring (Wilder's)",
+    "Priestess",
+    "Wilder"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating the first boss, Wilder can obtain a Pocket Watch, which is needed to unlock the Duchess as a playable Nightfarer.",
+   "entities": [
+    "Wilder",
+    "Pocket Watch (Nightreign)",
+    "Duchess"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder sustains injuries en route to the Round Table and, according to the Iron Menial and Revenant, will die from them after the Night Lord is defeated.",
+   "entities": [
+    "Wilder",
+    "Iron Menial",
+    "Revenant",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder is seen eating pita bread taught to him by his mother, which the Duchess recognizes, evoking a 'wistful reminder of childhood.'",
+   "entities": [
+    "Wilder",
+    "Duchess"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder and the Duchess are implied to be twins, based on references to twin horses, the Duchess being adopted, and NPC dialogue confirming their familial relation.",
+   "entities": [
+    "Wilder",
+    "Duchess"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Wilder and the Duchess's mother was afflicted by the Night during childbirth, which could only be removed by her death; the Night's affliction then passed to the Duchess.",
+   "entities": [
+    "Wilder",
+    "Duchess",
+    "Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess once left on a journey, and enough time passed that Wilder forgot her face and name before the Night later massacred their tribe, leaving Wilder as the sole survivor.",
+   "entities": [
+    "Wilder",
+    "Duchess",
+    "Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Round Table Hold will cease to exist once the Night Lord is defeated, and since the Duchess is tied to the Round Table's existence, she will disappear along with it.",
+   "entities": [
+    "Duchess",
+    "Round Table Hold (Nightreign)",
+    "Night Lord"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess faces a dilemma: defeating the Night Lord will kill her (tied to the Round Table) while keeping the Night going would save Wilder from his injury-caused death.",
+   "entities": [
+    "Duchess",
+    "Wilder",
+    "Night Lord"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant challenges the Duchess to a duel to test her resolve about continuing to fight the Night Lord despite her personal conflict.",
+   "entities": [
+    "Revenant",
+    "Duchess"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider tells the Duchess about his former navigator Weather Vain, who left the crew after a falling out and was never seen again, advising the Duchess to keep her cool.",
+   "entities": [
+    "Raider",
+    "Weather Vain",
+    "Duchess"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Weather Vain's grave can be found in Limveld; retrieving her notes and returning them to Raider changes his advice to let the Duchess pursue multiple paths.",
+   "entities": [
+    "Weather Vain",
+    "Raider",
+    "Duchess",
+    "Limveld"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess blesses an iron coin given by Wilder, transforming it into the Blessed Coin, which can tie the Iron Menial to Wilder beyond the Round Table.",
+   "entities": [
+    "Duchess",
+    "Wilder",
+    "Blessed Coin",
+    "Iron Menial"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A note from the Iron Menial explains that an object blessed by the Priestess could travel beyond the Round Table Hold to connect with Wilder before his death, functioning as a fetish.",
+   "entities": [
+    "Iron Menial",
+    "Priestess",
+    "Wilder",
+    "Blessed Coin"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess's plan is to have the Iron Menial, bonded via the Blessed Coin, protect Wilder after the Night Lord is defeated, accepting that she herself will disappear.",
+   "entities": [
+    "Duchess",
+    "Iron Menial",
+    "Wilder",
+    "Blessed Coin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Wilder finds a note in the Duchess's belongings suggesting that a 'new knight' might break her link to the Round Table, and seeks the Recluse's advice.",
+   "entities": [
+    "Wilder",
+    "Duchess",
+    "Recluse",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse instructs Wilder to find a Larval Tear, an item created by the Nox to produce silver tears used to create their Lord of Night.",
+   "entities": [
+    "Wilder",
+    "Recluse",
+    "Larval Tear",
+    "Nox"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike the Duchess's story, Wilder's questline leads to an actual game ending.",
+   "entities": [
+    "Wilder"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian is a member of the Pinion Folk, a tribe of bird-like demihumans from the Winged Realm.",
+   "entities": [
+    "Guardian",
+    "Winged Realm"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian belonged to the Scapular Regiment, which used shields to block arrows while the Talon Regiment launched offensive assaults.",
+   "entities": [
+    "Guardian",
+    "Scapular Regiment",
+    "Talon Regiment"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian's homeland was attacked with cursed blades that severed the Pinion Folk's wing joints, permanently preventing them from flying.",
+   "entities": [
+    "Guardian",
+    "Acasturus Blades",
+    "Winged Realm"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Conversations at the Round Table suggest the Raider may have been involved in the attack on the Pinion Folk, though his exact role is unclear.",
+   "entities": [
+    "Raider",
+    "Guardian",
+    "Winged Realm"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "After failing to protect his people, the Guardian became purposeless until arriving at the Round Table, where he became a student of the Recluse.",
+   "entities": [
+    "Guardian",
+    "Recluse",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian refuses a helmet made for him by the Raider because he vowed to never wear one again after failing to protect his flock.",
+   "entities": [
+    "Guardian",
+    "Raider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The lore of the cursed blades is told across three tomes, two of which must be found in the lands between, including one guarded by a Guardian Golem near Limveld.",
+   "entities": [
+    "Acasturus Blades",
+    "Limveld"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "One tome reveals the cursed blades were crafted by a master of curses under contract to an army seeking victory.",
+   "entities": [
+    "Acasturus Blades"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A mysterious merchant visits the Round Table, gifts charms to the Nightfarers, and causes the Guardian to collapse upon receiving his.",
+   "entities": [
+    "Merchant (cursed, Nightreign)",
+    "Guardian",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial instructs the Nightfarers to discard the cursed charms given by the merchant.",
+   "entities": [
+    "Iron Menial",
+    "Merchant (cursed, Nightreign)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian confronts and kills the merchant, discovering a ledger revealing the merchant supplied ancient animals to a demon connected to the cursed blades.",
+   "entities": [
+    "Guardian",
+    "Merchant (cursed, Nightreign)",
+    "Acasturus Blades"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The demon connected to the cursed blades can be found as a boss-type enemy in Limveld.",
+   "entities": [
+    "Acasturus Blades",
+    "Limveld"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The third tome reveals that the Recluse created the cursed blades using the Harmonious Brooch, originally meant to calm winds but repurposed for war.",
+   "entities": [
+    "Recluse",
+    "Acasturus Blades",
+    "Harmonious Brooch"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse accepts responsibility for creating the weapons that maimed the Guardian's people and awaits his judgment without excuse.",
+   "entities": [
+    "Recluse",
+    "Guardian"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian spares the Recluse regardless of player choice, either laying down his weapon or destroying the Harmonious Brooch instead.",
+   "entities": [
+    "Guardian",
+    "Recluse",
+    "Harmonious Brooch"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian ultimately finds a new sense of purpose and belonging among the Nightfarers, considering them his new flock after losing his original one.",
+   "entities": [
+    "Guardian",
+    "Nightfarer"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Eye originates from a group of master assassins called the Fellowship.",
+   "entities": [
+    "Iron Eye",
+    "Fellowship (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Eye receives orders from his custodian Isolde Day, the head of the Fellowship in the lands between, instructing him to await further orders.",
+   "entities": [
+    "Iron Eye",
+    "Isolde Day"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Isolde Day later sends the Iron Eye a note ordering him to root out and retire a traitor connected to the destruction of a boarding house in Dusken Valley.",
+   "entities": [
+    "Iron Eye",
+    "Isolde Day"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Priestess reveals to Iron Eye that the traitor he seeks is another version of himself, a 'Condemned' Nightfarer who failed and succumbed to the Night.",
+   "entities": [
+    "Iron Eye",
+    "Priestess"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "'Condemned' are corrupted Nightfarers from other failed timelines/worlds who succumbed to the Night and can be found at special map locations marked with a green and blue circle.",
+   "entities": [
+    "Nightfarer",
+    "Night Lord"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to the Duchess, Condemned beings can multiply and spread their corruption from world to world.",
+   "entities": [
+    "Duchess"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating a corrupted Iron Eye (the Night Huntsman), the real traitor leaves a note warning that he will come when the Night Lord nears.",
+   "entities": [
+    "Iron Eye",
+    "Night Huntsman"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess stops the real traitor from causing harm but does not kill him, allowing Iron Eye the chance to do so himself.",
+   "entities": [
+    "Duchess",
+    "Iron Eye"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The traitor cannot be killed by normal means; only the Edge of Order, obtained by defeating the Night Lord Fulghor, can kill him.",
+   "entities": [
+    "Edge of Order",
+    "Fulghor"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The traitor and the Fellowship, including Iron Eye, are 'those who live in death,' beings connected to the rune of death from Elden Ring lore.",
+   "entities": [
+    "Iron Eye",
+    "Fellowship (Nightreign)",
+    "Those Who Live in Death"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In Elden Ring lore, the Night of the Black Knives saw Godwyn the Golden killed by Black Knife Assassins at the same moment Ranni slew her own flesh, splitting their bodies and souls.",
+   "entities": [
+    "Godwyn the Golden",
+    "Ranni the Witch",
+    "Black Knife Assassins"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Ranni destroyed her body but preserved her soul in a doll, while Godwyn lost his soul but kept his body, which mutated into a creature in the Deeproot Depths.",
+   "entities": [
+    "Ranni the Witch",
+    "Godwyn the Golden"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The rune of death, stolen from Maliketh and imbued in the Black Knife Assassins' blades, spread corruption across the lands, creating deathroot.",
+   "entities": [
+    "Maliketh",
+    "Black Knife Assassins",
+    "Deathroot"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Those who come into contact with death-related corruption become 'those who live in death,' considered heretical undead by the Golden Order.",
+   "entities": [
+    "Those Who Live in Death"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before his death, the traitor reveals to Iron Eye that the Fellowship members are already dead but cursed to never rest until the Night Lord is defeated.",
+   "entities": [
+    "Iron Eye",
+    "Fellowship (Nightreign)",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Isolde Day sought a way to prevent the Fellowship's Scions (like Iron Eye) from being disposed of once their purpose was fulfilled, by keeping the war against the Night eternal so they would always have purpose.",
+   "entities": [
+    "Isolde Day",
+    "Iron Eye",
+    "Fellowship (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider is a pirate from the coastal waters who came to the lands between seeking to challenge the Night Lord for honor and glory.",
+   "entities": [
+    "Raider",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Iron Menial notices the Raider's love of battle and shows him a stone that summons fireworks, triggering an arena challenge requiring him to fight three opponents.",
+   "entities": [
+    "Iron Menial",
+    "Raider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider's first arena opponent is a Gladiator wearing armor similar to the Warden Duelists, exiled fighters from the coliseum associated with the Golden Order.",
+   "entities": [
+    "Raider",
+    "Gladiator (arena opponent)"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider's second arena opponent is an Elder Lion, after which the Iron Menial learns the Raider's true identity.",
+   "entities": [
+    "Raider",
+    "Elder Lion (Nightreign)",
+    "Iron Menial"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Long ago, the White Horn ruled the western waters while the Black Claw ruled the eastern seas, and the two became rivals vowing to duel one day.",
+   "entities": [
+    "White Horn",
+    "Black Claw"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider is revealed to be the Black Claw, while his final arena opponent, corrupted by the Night, is the White Horn, who also appears as an Ulcerated Tree Spirit during the fight.",
+   "entities": [
+    "Raider",
+    "Black Claw",
+    "White Horn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Raider's journal reveals that he and White Horn exchanged a necklace and helmet as tokens before their planned rematch, which never occurred until White Horn was taken by the Night.",
+   "entities": [
+    "Raider",
+    "White Horn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating the corrupted White Horn, the Raider returns his armor to him, freeing him from the Night's hold and allowing the Raider to reclaim his identity as the Black Claw.",
+   "entities": [
+    "Raider",
+    "White Horn",
+    "Black Claw"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A shop owned by a small jar creature in Limveld sells a Bismerch frame, which allows the player to find and duel a ghost at the Round Table, revealing it to be the Revenant.",
+   "entities": [
+    "Revenant",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant initially shows disdain for the other Nightfarers, believing the Round Table reeks of failure, and is challenged by the Guardian to prove herself by slaying a Night Lord.",
+   "entities": [
+    "Revenant",
+    "Guardian",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant is revealed to be a doll, evidenced by jointed fingers and a crack on her cheek, and her flashbacks take place at the Northern Croft Manor.",
+   "entities": [
+    "Revenant",
+    "Northern Croft Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Northern Croft Manor was a wealthy household known for making puppets before the Night invaded and killed everyone inside.",
+   "entities": [
+    "Northern Croft Manor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the flashback, an unidentified man kills a woman and then a young girl named Kloe, who was hiding; the girl's soul resides in a doll named Daphne.",
+   "entities": [
+    "Kloe",
+    "Daphne the Doll",
+    "Northern Croft Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant is the doll Daphne, who awakened with Kloe's soul or spirit shortly before Kloe's death.",
+   "entities": [
+    "Revenant",
+    "Daphne the Doll",
+    "Kloe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant's final journal entry states she was never human and that 'the mantle of doll no longer fits her' after Kloe's death.",
+   "entities": [
+    "Revenant",
+    "Kloe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The concept of animism, the belief that objects and creatures possess spiritual essence, may underlie the Revenant's origin as a doll gaining a soul.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is unconfirmed whether the Night Lord caused the massacre at Northern Croft Manor, as the killer is never explicitly shown to be the Night itself.",
+   "entities": [
+    "Revenant",
+    "Night Lord",
+    "Northern Croft Manor"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The only named figure associated with Northern Croft Manor is Edgar Northerncraft, an elderly bearded patron, who does not match the younger, beardless assailant seen in the flashback.",
+   "entities": [
+    "Edgar Northerncraft",
+    "Northern Croft Manor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant uses the incantation Triple Rings of Light, a Golden Order Fundamentalist spell gifted by Miquella to Radagon, suggesting a connection to nobility or the royal capital.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant also wields Death Lightning, a spell associated with Godwyn the Golden's battle against the ancient dragons.",
+   "entities": [
+    "Revenant",
+    "Godwyn the Golden"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant can summon Helen, Frederick, and Sebastian using her lyre; her codex describes them as a page, cook, and butler respectively, possibly tied to Northern Croft's noble status.",
+   "entities": [
+    "Revenant",
+    "Helen (summon)",
+    "Frederick (summon)",
+    "Sebastian (summon)"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant's weapon description notes her resonance with the spiritual realm, likely because she is not truly alive, explaining her summoning abilities.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Activating the Revenant's ultimate ability reveals a skull visible behind her facial frame.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-9c8a8e18"
+}

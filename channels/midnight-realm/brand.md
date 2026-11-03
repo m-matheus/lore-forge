@@ -34,6 +34,7 @@ capitals with wide letter spacing; the tagline sits under the name at ~26% of it
 | `assets/brand/banner_art.png` | 1536×1024 | source art for the banner |
 | `assets/brand/avatar.png` | 800×800 | YouTube avatar: the logo art, centre-cropped square (it is masked to a circle) |
 | `assets/brand/banner.png` | 2560×1440 | channel banner, wordmark inside the 1546×423 safe area |
+| `assets/brand/podcast_cover.jpg` | 3000×3000 | Spotify show art: the banner's moon and spires behind the monogram, wordmark and tagline below |
 | `assets/watermark.png` | 1920×1080 | the corner mark burned into every video |
 | `assets/band.png` | 1280×122 | the bottom band behind the thumbnail badge |
 | `assets/thumb_band/` | 1280×720 layers | the thumbnail band for Photoshop: fade, amber rule with the ring's four-point star, gilded length plate, MR seal. `band.jsx` builds the editable PSD; rebuilt with `python scripts/make_thumb_band.py` |

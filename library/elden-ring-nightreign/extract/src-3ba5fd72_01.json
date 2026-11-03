@@ -1,0 +1,646 @@
+{
+ "entities": [
+  {
+   "name": "Limveld",
+   "kind": "location",
+   "aliases": [
+    "Lynvel",
+    "Limveldd",
+    "Limbeld"
+   ]
+  },
+  {
+   "name": "Three Nights",
+   "kind": "concept",
+   "aliases": [
+    "three knights"
+   ]
+  },
+  {
+   "name": "Night Lords",
+   "kind": "faction",
+   "aliases": [
+    "Night Lord"
+   ]
+  },
+  {
+   "name": "Gladius",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Libra",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Maris",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Equilibrian",
+   "kind": "boss",
+   "aliases": [
+    "Equilibrium"
+   ]
+  },
+  {
+   "name": "Balancer",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Dreglord",
+   "kind": "boss",
+   "aliases": [
+    "Dreg Lord",
+    "Drig Lord"
+   ]
+  },
+  {
+   "name": "Forsaken Hollows",
+   "kind": "enemy",
+   "aliases": [
+    "Forsaken Hollow"
+   ]
+  },
+  {
+   "name": "Melina",
+   "kind": "character",
+   "aliases": [
+    "Molina"
+   ]
+  },
+  {
+   "name": "Round Table Hold",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Finger Readers",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Keeper",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Two Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Night Farers",
+   "kind": "faction",
+   "aliases": [
+    "Nightfarer",
+    "Nightfarers"
+   ]
+  },
+  {
+   "name": "Stability Ending",
+   "kind": "event",
+   "aliases": [
+    "temporary stability ending"
+   ]
+  },
+  {
+   "name": "Remaining Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Deeper Understanding Ending",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Forsaken Hollows DLC",
+   "kind": "event",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The three nights of each Nightreign expedition represent an escalating cosmological process that Limveld undergoes, not just a gameplay structure.",
+   "entities": [
+    "Limveld",
+    "Three Nights"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "During the first night, Limveld is in its most restrained state, with ruins still navigable, enemies fighting in comprehensible ways, and sites of grace providing reliable rest.",
+   "entities": [
+    "Limveld",
+    "Three Nights"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "The first night represents the least activated state of the cosmological cycle that the three nights embody.",
+   "entities": [
+    "Three Nights",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "The second night is the most unstable part of the cycle, a transitional state where the world is neither fully its old self nor fully its new post-catastrophe nature.",
+   "entities": [
+    "Three Nights",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": 40
+  },
+  {
+   "text": "Enemies encountered in the second night are versions of first-night enemies that more fully express the forces animating them, rather than the preserved forms of the old civilization.",
+   "entities": [
+    "Three Nights",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 40
+  },
+  {
+   "text": "By the end of the second night, Limveld has mostly transformed into what it currently is, rather than remaining a memory of what it used to be.",
+   "entities": [
+    "Limveld",
+    "Three Nights"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 50
+  },
+  {
+   "text": "The third night is the full revelation and culmination of the escalation that began in the first two nights.",
+   "entities": [
+    "Three Nights",
+    "Night Lords"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": 90
+  },
+  {
+   "text": "The Night Lord encountered at the end of the third night is the full manifestation of the force that shaped the entire expedition, not just a powerful enemy.",
+   "entities": [
+    "Night Lords",
+    "Three Nights"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "The darkness of the third night is described as the presence of something other than light, which is the native medium of the Night Lords and makes them most powerful there.",
+   "entities": [
+    "Night Lords",
+    "Three Nights"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "After each expedition, Limveld's physical state resets to its first-night conditions.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Although Limveld resets physically between expeditions, the Night Lords are implied to carry forward awareness of previous expeditions and challenges by Nightfarers.",
+   "entities": [
+    "Night Lords",
+    "Limveld",
+    "Night Farers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Each expedition is framed as part of an ongoing repeated practice rather than a one-time test, with prior expeditions contributing to future attempts.",
+   "entities": [
+    "Night Farers",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The position of the world within each night (time of day) correlates with changing dangers and accessibility, requiring players to learn to read these shifts.",
+   "entities": [
+    "Limveld",
+    "Three Nights"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gladius is characterized by constant motion, and areas most influenced by it show signs of ongoing conflict even outside direct combat, including unaffiliated creatures fighting each other.",
+   "entities": [
+    "Gladius",
+    "Limveld"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Libra's areas of influence are marked by stillness, conveying a sense of suspended judgment awaiting a verdict.",
+   "entities": [
+    "Libra",
+    "Limveld"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Each Night Lord's combat encounter takes place in an environment that reflects and amplifies its specific principle.",
+   "entities": [
+    "Night Lords",
+    "Limveld"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The weapons left behind by defeated Night Lords are described as intimate objects whose item descriptions contain the richest lore about each Night Lord's nature and history.",
+   "entities": [
+    "Night Lords"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gladius is a being of pure martial expression that reduces all interaction to combat, with no other mode of behavior.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Item descriptions and environmental evidence suggest Gladius was once a warrior whose martial excellence served a purpose beyond combat itself, before becoming what it is now.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 20
+  },
+  {
+   "text": "Gladius embodies the Golden Order's principle of martial excellence with the aspect of service, devotion, and justice stripped away, leaving only the excellence itself as an end.",
+   "entities": [
+    "Gladius",
+    "Golden Order"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Libra embodies absolute, objective judgment taken to a catastrophic extreme, lacking context, intention, and mercy that make judgment meaningfully just.",
+   "entities": [
+    "Libra"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Under Libra's influence, Limveld's civilization developed courts and religious institutions that became mechanisms for producing verdicts and enforcing compliance rather than pursuing justice or wisdom.",
+   "entities": [
+    "Libra",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 30
+  },
+  {
+   "text": "Maris represents the oldest cosmological force among the Night Lords, associated with the deep sea and ancient presences predating the Golden Order.",
+   "entities": [
+    "Maris",
+    "Golden Order"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "Maris is connected to the lands between's mythology of outer gods and the association of water with memory and ancient, persistent forces.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Equilibrian represents the principle of irresolvable opposition, a stasis resulting from two equally matched forces that cannot yield to each other.",
+   "entities": [
+    "Equilibrian"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Equilibrian's catastrophe is one of perfect stalemate rather than defeat, reflecting a world that has lost the capacity to resolve its internal tensions.",
+   "entities": [
+    "Equilibrian",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Balancer and Dreglord are the two Night Lords introduced in the Forsaken Hollows DLC.",
+   "entities": [
+    "Balancer",
+    "Dreglord",
+    "Forsaken Hollows DLC"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Balancer represents a cosmic ledger of accumulated debts that existence maintains and eventually calls due.",
+   "entities": [
+    "Balancer"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Dreglord represents the accumulation of everything discarded, dismissed, or declared insufficient by civilizations and cosmic processes.",
+   "entities": [
+    "Dreglord"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Together, the six Night Lords (Gladius, Libra, Maris, Equilibrian, Balancer, Dreglord) form a complete taxonomy of forces unleashed by Limveld's catastrophe.",
+   "entities": [
+    "Gladius",
+    "Libra",
+    "Maris",
+    "Equilibrian",
+    "Balancer",
+    "Dreglord",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Forsaken Hollow enemies are found amid structures and objects that reflect the specific place and moment where their connection to grace was severed, such as religious sites or residential areas.",
+   "entities": [
+    "Forsaken Hollows",
+    "Limveld"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Some Forsaken Hollows appear near still-functioning sites of grace but are unable to receive its light due to their severed connection, not physical distance.",
+   "entities": [
+    "Forsaken Hollows"
+   ],
+   "category": "enemy",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Unlike classic hollowing in the Dark Souls trilogy and base Elden Ring, which is a gradual erosion of self from lost grace, the Forsaken Hollows were suddenly and deliberately cut off from grace.",
+   "entities": [
+    "Forsaken Hollows"
+   ],
+   "category": "location",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Forsaken Hollows' severance from grace is tied to the destabilization of Limveld's connection to the Greater Will's divine infrastructure as Night Lord influence deepened.",
+   "entities": [
+    "Forsaken Hollows",
+    "Night Lords",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 35
+  },
+  {
+   "text": "The Forsaken Hollows' hostility is interpreted as an expression of sudden, severe loss and pain rather than deliberate malice.",
+   "entities": [
+    "Forsaken Hollows"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Balancer's weapon item descriptions and surrounding environmental evidence encode a specific debt that Limveld's civilization incurred and never repaid.",
+   "entities": [
+    "Balancer",
+    "Limveld"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Balancer is interpreted as a symbolic payment toward the debt rather than its cancellation.",
+   "entities": [
+    "Balancer",
+    "Night Farers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Dreglord's existence implies that Limveld's civilization and the broader cosmic processes shaping the Lands Between generated discarded 'dregs' on a massive scale over a long time.",
+   "entities": [
+    "Dreglord",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The evacuated Round Table Hold in Limveld contains personal items left behind by its former inhabitants, including an open book and unfinished equipment modifications.",
+   "entities": [
+    "Round Table Hold",
+    "Limveld"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Finger Readers appear in Limveld still practicing their interpretive function despite the apparent absence of the Two Fingers, the beings whose gestures they are meant to interpret.",
+   "entities": [
+    "Finger Readers",
+    "Two Fingers",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is ambiguous whether the Finger Readers in Limveld are interpreting nothing out of habit or are receiving guidance from some other source occupying the Two Fingers' role.",
+   "entities": [
+    "Finger Readers",
+    "Two Fingers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Melina appears in Limveld with knowledge of the Night Lords and the three-night cycle that implies a familiarity beyond a single encounter.",
+   "entities": [
+    "Melina",
+    "Night Lords",
+    "Three Nights"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The most compelling interpretation is that Melina has an ongoing relationship with Limveld, returning to it repeatedly in a cycle paralleling the three-night expedition structure, rather than visiting only once.",
+   "entities": [
+    "Melina",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The game does not clarify whether Melina's presence in Limveld is directed by the Greater Will, by something that was once the Greater Will, or by her own choice.",
+   "entities": [
+    "Melina",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Round Table Hold appears in Limveld in a recognizable but empty form, evacuated suddenly rather than abandoned gradually, with displaced objects and open doors suggesting a hurried departure.",
+   "entities": [
+    "Round Table Hold",
+    "Limveld"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Environmental evidence suggests the Round Table Hold's evacuation in Limveld was connected to an escalation of a Night Lord's influence that outpaced the hold's ability to provide safety.",
+   "entities": [
+    "Round Table Hold",
+    "Night Lords"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 55
+  },
+  {
+   "text": "The Keeper, who manages the hub between expeditions, is theorized to have originally been a Night Farer who came to Limveld, experienced the three nights, and chose or was unable to leave.",
+   "entities": [
+    "The Keeper",
+    "Night Farers",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "By staying in Limveld, the Keeper became something distinct from both an ordinary Night Farer and a true native of the world.",
+   "entities": [
+    "The Keeper",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Stability Ending results when the three nights are survived and the third night's Night Lord is defeated, causing Limveld to settle into a quieter, temporarily peaceful state resembling its pre-catastrophe condition.",
+   "entities": [
+    "Stability Ending",
+    "Limveld",
+    "Night Lords"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The Stability Ending is explicitly incomplete, as the forces represented by the Night Lords are not destroyed, only suppressed, persisting in Limveld's cosmological background.",
+   "entities": [
+    "Stability Ending",
+    "Night Lords",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 99
+  },
+  {
+   "text": "The game presents three distinct endings (stability, remaining, and deeper understanding), each with its own emotional tone reflecting the true cost of the choice it represents.",
+   "entities": [
+    "Stability Ending",
+    "Remaining Ending",
+    "Deeper Understanding Ending"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 100
+  }
+ ],
+ "_src": "src-3ba5fd72"
+}

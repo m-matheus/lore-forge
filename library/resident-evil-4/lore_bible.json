@@ -1,0 +1,4017 @@
+{
+ "game": "Resident Evil 4",
+ "updated_at": "2026-10-12T08:24:43",
+ "sources": {
+  "src-1acd4d7c": {
+   "kind": "reference_video",
+   "title": "I Explain The Complete RE4 Story For You",
+   "origin": "https://www.youtube.com/watch?v=TkXkuRQp-bs",
+   "sha": "1acd4d7cab315b90"
+  }
+ },
+ "entities": [
+  {
+   "id": "n0001",
+   "name": "Ada Wong",
+   "kind": "character",
+   "aliases": [
+    "Ada",
+    "Adah",
+    "Adah Wong",
+    "Ida Wong",
+    "the operative",
+    "the spy"
+   ]
+  },
+  {
+   "id": "n0002",
+   "name": "Ashley Graham",
+   "kind": "character",
+   "aliases": [
+    "Ashley",
+    "the first daughter",
+    "the presidential daughter",
+    "the student"
+   ]
+  },
+  {
+   "id": "n0003",
+   "name": "Las Plagas",
+   "kind": "concept",
+   "aliases": [
+    "Lasplagus",
+    "Plaga",
+    "Plagga",
+    "dominant plaga sample",
+    "dominant species Plaga",
+    "parasite",
+    "plaga",
+    "the dominant species plaga",
+    "the parasites",
+    "the prehistoric fire"
+   ]
+  },
+  {
+   "id": "n0004",
+   "name": "Osmund Saddler",
+   "kind": "character",
+   "aliases": [
+    "Osman Saddler",
+    "Osman Sadler",
+    "Saddler",
+    "Sadler",
+    "the master",
+    "the mastermind"
+   ]
+  },
+  {
+   "id": "n0005",
+   "name": "Albert Wesker",
+   "kind": "character",
+   "aliases": [
+    "Wesker",
+    "the master"
+   ]
+  },
+  {
+   "id": "n0006",
+   "name": "Jack Krauser",
+   "kind": "character",
+   "aliases": [
+    "Jack Krower",
+    "Krauser",
+    "Krower",
+    "the fallen partner"
+   ]
+  },
+  {
+   "id": "n0007",
+   "name": "Leon S. Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leon",
+    "Leyon",
+    "Leyon Kennedy",
+    "Lyon",
+    "the federal agent",
+    "the marksman"
+   ]
+  },
+  {
+   "id": "n0008",
+   "name": "Los Illuminados",
+   "kind": "faction",
+   "aliases": [
+    "Loss Illuminardos",
+    "the cult",
+    "the organization"
+   ]
+  },
+  {
+   "id": "n0009",
+   "name": "Luis Sera",
+   "kind": "character",
+   "aliases": [
+    "Louis Sarah",
+    "Lu",
+    "Luis Sarah",
+    "Luish",
+    "the rogue scientist"
+   ]
+  },
+  {
+   "id": "n0010",
+   "name": "Ramon Salazar",
+   "kind": "character",
+   "aliases": [
+    "Ramona Salazar",
+    "Salazar",
+    "the Castellan",
+    "the eighth Castellan"
+   ]
+  },
+  {
+   "id": "n0011",
+   "name": "Bitores Mendez",
+   "kind": "character",
+   "aliases": [
+    "Borres Menddees",
+    "Burausz Menddees",
+    "Burresz Menddees",
+    "Menddees",
+    "Mendez",
+    "the enforcer",
+    "the village chief"
+   ]
+  },
+  {
+   "id": "n0012",
+   "name": "El Gigante",
+   "kind": "boss",
+   "aliases": [
+    "Elgigante",
+    "Eligante",
+    "the quarry juggernaut"
+   ]
+  },
+  {
+   "id": "n0013",
+   "name": "Operation Javier",
+   "kind": "event",
+   "aliases": [
+    "the 2002 mission"
+   ]
+  },
+  {
+   "id": "n0014",
+   "name": "Queen Plaga",
+   "kind": "boss",
+   "aliases": [
+    "Queen Plagger",
+    "the queen"
+   ]
+  },
+  {
+   "id": "n0015",
+   "name": "Salazar Castle",
+   "kind": "location",
+   "aliases": [
+    "Gothic Fortress",
+    "Salazar's Castle",
+    "the Castellan's tower",
+    "the castle"
+   ]
+  },
+  {
+   "id": "n0016",
+   "name": "Verdugo",
+   "kind": "boss",
+   "aliases": [
+    "El Verdugo",
+    "Reaper",
+    "The Vertigo",
+    "the executioner"
+   ]
+  },
+  {
+   "id": "n0017",
+   "name": "Abattoir",
+   "kind": "location",
+   "aliases": [
+    "municipal abattoire",
+    "slaughterhouse"
+   ]
+  },
+  {
+   "id": "n0018",
+   "name": "Armadura",
+   "kind": "enemy",
+   "aliases": [
+    "Armaduras",
+    "living suits of armor"
+   ]
+  },
+  {
+   "id": "n0019",
+   "name": "Colmillos",
+   "kind": "enemy",
+   "aliases": [
+    "Kios",
+    "Kmeidos",
+    "the infected canines"
+   ]
+  },
+  {
+   "id": "n0020",
+   "name": "Del Lago",
+   "kind": "boss",
+   "aliases": [
+    "Delarago",
+    "the aquatic reaper"
+   ]
+  },
+  {
+   "id": "n0021",
+   "name": "Division of Security Operations",
+   "kind": "faction",
+   "aliases": [
+    "DSO"
+   ]
+  },
+  {
+   "id": "n0022",
+   "name": "First Castellan of Salazar family",
+   "kind": "character",
+   "aliases": [
+    "the first Castellan"
+   ]
+  },
+  {
+   "id": "n0023",
+   "name": "Ganados",
+   "kind": "enemy",
+   "aliases": [
+    "the Gennados",
+    "the villagers"
+   ]
+  },
+  {
+   "id": "n0024",
+   "name": "Iron Maidens",
+   "kind": "enemy",
+   "aliases": [
+    "spiked regenerators"
+   ]
+  },
+  {
+   "id": "n0025",
+   "name": "Island Facility",
+   "kind": "location",
+   "aliases": [
+    "Spanish valley island",
+    "the crane platform",
+    "the laboratory"
+   ]
+  },
+  {
+   "id": "n0026",
+   "name": "Island Military Base",
+   "kind": "location",
+   "aliases": [
+    "the offshore island",
+    "the research facility"
+   ]
+  },
+  {
+   "id": "n0027",
+   "name": "Laser Treatment Room",
+   "kind": "location",
+   "aliases": [
+    "the Ganado-curing chamber",
+    "the operating theater"
+   ]
+  },
+  {
+   "id": "n0028",
+   "name": "Leon Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leyon Kennedy",
+    "the federal agent",
+    "the marksman",
+    "the operative"
+   ]
+  },
+  {
+   "id": "n0029",
+   "name": "Los Illuminados Zealots",
+   "kind": "enemy",
+   "aliases": [
+    "Zealots",
+    "lost Illuminado Zealots"
+   ]
+  },
+  {
+   "id": "n0030",
+   "name": "Mike",
+   "kind": "character",
+   "aliases": [
+    "the helicopter pilot"
+   ]
+  },
+  {
+   "id": "n0031",
+   "name": "Novistador",
+   "kind": "enemy",
+   "aliases": [
+    "Noistador",
+    "Noveistador",
+    "Novi Stardust"
+   ]
+  },
+  {
+   "id": "n0032",
+   "name": "Novistadors",
+   "kind": "enemy",
+   "aliases": [
+    "Noveistadors"
+   ]
+  },
+  {
+   "id": "n0033",
+   "name": "Raccoon City Incident",
+   "kind": "event",
+   "aliases": [
+    "Raccoon City outbreak",
+    "the 1998 incident"
+   ]
+  },
+  {
+   "id": "n0034",
+   "name": "Regenerators",
+   "kind": "enemy",
+   "aliases": [
+    "cellular reapers"
+   ]
+  },
+  {
+   "id": "n0035",
+   "name": "Rocket Launcher",
+   "kind": "weapon",
+   "aliases": [
+    "special rocket launcher"
+   ]
+  },
+  {
+   "id": "n0036",
+   "name": "Saddler's Final Form",
+   "kind": "boss",
+   "aliases": [
+    "arachnid monstrosity",
+    "the arachnid god"
+   ]
+  },
+  {
+   "id": "n0037",
+   "name": "Suppression Pills",
+   "kind": "item",
+   "aliases": [
+    "Lu's pills",
+    "chemical shield",
+    "suppression medicine"
+   ]
+  },
+  {
+   "id": "n0038",
+   "name": "Umbrella Corporation",
+   "kind": "faction",
+   "aliases": [
+    "Umbrella"
+   ]
+  },
+  {
+   "id": "n0039",
+   "name": "Underground Mine",
+   "kind": "location",
+   "aliases": [
+    "the mines",
+    "underground excavation tunnels"
+   ]
+  },
+  {
+   "id": "n0040",
+   "name": "United States President",
+   "kind": "character",
+   "aliases": [
+    "Ashley's father"
+   ]
+  },
+  {
+   "id": "n0041",
+   "name": "Valdobos",
+   "kind": "location",
+   "aliases": [
+    "the Spanish Valley",
+    "the village region"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "id": "f0001",
+   "text": "Research notes found around the lake village revealed that Las Plagas could adapt to aquatic and amphibian biology, causing exponential cellular mutation.",
+   "entity_ids": [
+    "n0003",
+    "n0020"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 23,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0002",
+   "text": "Centuries ago, the first Castellan of the Salazar family stripped Los Illuminados of its regional power and entombed the Las Plagas parasites to prevent their use.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0022"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0003",
+   "text": "Los Illuminados remained dormant for generations until a charismatic outsider infiltrated the cult's religious hierarchy in the late 20th century.",
+   "entity_ids": [
+    "n0004",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0004",
+   "text": "The outsider who infiltrated Los Illuminados promised the cult a return to its former glory and began an excavation to unearth the fossilized Las Plagas.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0005",
+   "text": "Osmund Saddler manipulated Ramon Salazar by claiming the first Castellan had been a tyrant who denied the people their true spiritual heritage.",
+   "entity_ids": [
+    "n0004",
+    "n0010",
+    "n0022"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0006",
+   "text": "Osmund Saddler's team successfully revived the prehistoric Las Plagas organisms after unearthing the fossilized parasites.",
+   "entity_ids": [
+    "n0003",
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0007",
+   "text": "Ramon Salazar broke the ancestral seal, allowing Los Illuminados to harvest Las Plagas from the subterranean mines.",
+   "entity_ids": [
+    "n0003",
+    "n0008",
+    "n0010"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0008",
+   "text": "After Umbrella's collapse, Luis Sera returned home and was hired by Osmund Saddler to analyze the unearthed Plagas and refine the strains.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0009",
+   "text": "After escaping Raccoon City, Leon Kennedy was detained by the United States government due to his survival skills and knowledge of the T-virus outbreak.",
+   "entity_ids": [
+    "n0028",
+    "n0033"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0010",
+   "text": "The government gave Leon Kennedy a choice: become a covert federal agent, or Sherry Birkin would remain in indefinite government custody.",
+   "entity_ids": [
+    "n0028"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0011",
+   "text": "Leon Kennedy signed away his personal freedom and entered federal service to protect Sherry Birkin.",
+   "entity_ids": [
+    "n0028"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0012",
+   "text": "Luis Sera betrayed Los Illuminados after learning Osmund Saddler planned mass global infection, stealing a pristine dominant Plaga sample and technical removal data.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0008",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0013",
+   "text": "Generations of local miners were forced by the Salazar family to excavate petrified Las Plagas remains preserved in low-oxygen amber deposits.",
+   "entity_ids": [
+    "n0003",
+    "n0010",
+    "n0039"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0014",
+   "text": "Jack Krauser was a decorated soldier and Leon Kennedy's former partner during Operation Javier in 2002.",
+   "entity_ids": [
+    "n0006",
+    "n0013",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0015",
+   "text": "After a career-ending arm injury, Jack Krauser faked his death and sought Albert Wesker to gain enhanced power.",
+   "entity_ids": [
+    "n0005",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0016",
+   "text": "Leon Kennedy underwent years of tactical and psychological training under the Division of Security Operations, transforming him from a rookie cop into an elite agent.",
+   "entity_ids": [
+    "n0021",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0017",
+   "text": "Albert Wesker sent Jack Krauser to infiltrate Los Illuminados as a secret operative.",
+   "entity_ids": [
+    "n0005",
+    "n0006",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0018",
+   "text": "Leon Kennedy began reporting directly to the U.S. President's secret service, handling missions related to bioterrorism and international security.",
+   "entity_ids": [
+    "n0028",
+    "n0040"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 16,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0019",
+   "text": "Ada Wong was monitored by Albert Wesker via satellite throughout her mission in Spain.",
+   "entity_ids": [
+    "n0001",
+    "n0005"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0020",
+   "text": "Osmund Saddler's ultimate plan was to kidnap Ashley Graham, infect her with a Plaga, and return her to the U.S. as a supposedly rescued victim.",
+   "entity_ids": [
+    "n0002",
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0021",
+   "text": "Jack Krauser's mission was to retrieve a dominant Plaga sample for Wesker's organization, and he orchestrated Ashley Graham's kidnapping to prove his loyalty to Osmund Saddler.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0022",
+   "text": "By 2004, Leon Kennedy was sent to a remote Spanish valley for his highest-stakes mission yet.",
+   "entity_ids": [
+    "n0028",
+    "n0041"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0023",
+   "text": "Leon Kennedy arrived in the remote Spanish valley escorted by two local police officers at the start of his mission.",
+   "entity_ids": [
+    "n0028",
+    "n0041"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0024",
+   "text": "The first villager Leon Kennedy encountered attacked him with a hatchet, showing glazed eyes and immunity to pain, revealing that the region's peace was false.",
+   "entity_ids": [
+    "n0023",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0025",
+   "text": "Leon Kennedy's two police escorts were murdered by the local population and their vehicle pushed into a canyon, leaving him isolated.",
+   "entity_ids": [
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0026",
+   "text": "In the village square, Leon Kennedy witnessed one of his escorts burned at a stake before the Ganados swarmed him with pitchforks, sickles, and chainsaws.",
+   "entity_ids": [
+    "n0023",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0027",
+   "text": "Defeating Del Lago cleared the path toward the castle ruins for Leon Kennedy.",
+   "entity_ids": [
+    "n0020",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0028",
+   "text": "Leon Kennedy found Luis Sera bound in a sack inside a rural farmhouse during his village investigation.",
+   "entity_ids": [
+    "n0009",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0029",
+   "text": "Bitores Mendez knocked Leon Kennedy unconscious before Leon and Luis Sera could talk, chaining them together for execution by the Ganados.",
+   "entity_ids": [
+    "n0009",
+    "n0011",
+    "n0023",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0030",
+   "text": "Leon Kennedy and Luis Sera coordinated to break free from their restraints, after which Luis fled into the woods carrying medical equipment designed to suppress parasitic growth.",
+   "entity_ids": [
+    "n0009",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0031",
+   "text": "After the Del Lago battle, Leon Kennedy encountered a mysterious figure in red at the castle who turned out to be Ada Wong, six years after he believed she died in the Raccoon City sewers/nest facility.",
+   "entity_ids": [
+    "n0001",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0032",
+   "text": "Before the church rescue, Bitores Mendez cornered Leon Kennedy in an isolated cabin and overpowered him by lifting him by the throat.",
+   "entity_ids": [
+    "n0011",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0033",
+   "text": "Bitores Mendez recognized the Plaga larva already bonding with Leon Kennedy's nervous system and chose to spare him, viewing him as a future brother in the cult.",
+   "entity_ids": [
+    "n0003",
+    "n0011",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0034",
+   "text": "Leon Kennedy rescued Ashley Graham from confinement inside the village church.",
+   "entity_ids": [
+    "n0002",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0035",
+   "text": "Osmund Saddler appeared on a balcony in the church and revealed his plot to infect the highest levels of the American government using Ashley Graham.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0040"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0036",
+   "text": "Osmund Saddler revealed that both Leon Kennedy and Ashley Graham had already been injected with Plaga eggs while unconscious.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0037",
+   "text": "Leon Kennedy and Ashley Graham were ambushed by Colmillos while navigating dark forest trails.",
+   "entity_ids": [
+    "n0002",
+    "n0019",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 27,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0038",
+   "text": "Leon Kennedy fought El Gigante in a quarry to reach the castle gates.",
+   "entity_ids": [
+    "n0012",
+    "n0028"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0039",
+   "text": "Bitores Mendez's death marked the transition point from the village section of the story into the castle investigation.",
+   "entity_ids": [
+    "n0011",
+    "n0015"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0040",
+   "text": "Ramon Salazar used local laborers and cult zealots to excavate the petrified remains of ancient parasites beneath the castle.",
+   "entity_ids": [
+    "n0010",
+    "n0039"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0041",
+   "text": "While exploring the castle's ritual chambers, Ashley Graham fell into a hidden wall trap set by Ramon Salazar and was separated from Leon Kennedy.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0010"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0042",
+   "text": "Krauser's journals detailed his psychological breakdown following Operation Javier in 2002, where he first witnessed the power of Las Plagas.",
+   "entity_ids": [
+    "n0003",
+    "n0006",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0043",
+   "text": "Before Luis Sera could deliver the sample and blueprints to Leon Kennedy, Jack Krauser ambushed him in a ritual chamber and fatally stabbed him through the chest.",
+   "entity_ids": [
+    "n0006",
+    "n0007",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0044",
+   "text": "Ada Wong was captured in an industrial chamber equipped with high-voltage equipment and vertical spaces used by the cult to trap her.",
+   "entity_ids": [
+    "n0001",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0045",
+   "text": "Leon Kennedy confronted Osmund Saddler at the highest crane platform of the island facility to finalize his mission.",
+   "entity_ids": [
+    "n0004",
+    "n0007",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0046",
+   "text": "Ada Wong broke free from her containment and provided Leon Kennedy with a special rocket launcher during the final battle.",
+   "entity_ids": [
+    "n0001",
+    "n0007",
+    "n0035"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0047",
+   "text": "The destruction of Osmund Saddler's final form ended the leadership of Los Illuminados.",
+   "entity_ids": [
+    "n0004",
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0048",
+   "text": "Immediately after Saddler's death, Ada Wong held Leon Kennedy at gunpoint to take the pristine dominant Plaga sample from the remains.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0049",
+   "text": "Ada Wong gave Leon Kennedy an apology along with the keys to an aquatic craft before escaping by helicopter.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0050",
+   "text": "As she flew away, Ada Wong triggered a thermal self-destruct sequence that destroyed the entire island facility.",
+   "entity_ids": [
+    "n0001",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 97,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0051",
+   "text": "Leon Kennedy and Ashley Graham had a strict three-minute window to escape to the shoreline before the island's self-destruct sequence completed.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 97,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0052",
+   "text": "Leon Kennedy used an aquatic craft to bypass final security locks and escape the collapsing island facility with Ashley Graham.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0053",
+   "text": "The island facility was completely destroyed, erasing evidence of Los Illuminados' operations.",
+   "entity_ids": [
+    "n0008",
+    "n0025"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0054",
+   "text": "Los Illuminados was an isolated religious cult rooted in a remote Spanish region with an ancient belief system centered on spiritual and physical transcendence.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0055",
+   "text": "Ramon Salazar's relationship with Osmund Saddler was one of subordination, providing logistical infrastructure and regional legitimacy in exchange for a role in the new order.",
+   "entity_ids": [
+    "n0004",
+    "n0010"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0056",
+   "text": "The cult observed the battle with El Gigante from secret monitoring terminals, recording data on the creature's resilience.",
+   "entity_ids": [
+    "n0012",
+    "n0029"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0057",
+   "text": "Ramon Salazar was the eighth Castellan of the region, a physically frail man isolated in his ancestral castle due to lifelong illness.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0058",
+   "text": "Luis Sera was a biologist born in the local Spanish village who had worked for the Umbrella Corporation before its collapse.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0059",
+   "text": "Osmund Saddler was a mastermind of biological weaponry who used the cult's mythology to build a private empire centered on Las Plagas research.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0008"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0060",
+   "text": "Bitores Mendez was the towering village chief and local Catholic priest who initially resisted Osmund Saddler's cult.",
+   "entity_ids": [
+    "n0004",
+    "n0011"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0061",
+   "text": "Bitores Mendez was eventually subdued by the cult and forcibly implanted with a dominant Plaga, turning him into a devoted enforcer for Osmund Saddler.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0011"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0062",
+   "text": "Osmund Saddler ingested a dominant species Plaga, which let him retain his human intelligence while issuing telepathic commands to infected hosts.",
+   "entity_ids": [
+    "n0003",
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0063",
+   "text": "Ramon Salazar willingly ingested a dominant Plaga, which halted his physical aging but corrupted his mind, turning him sadistic.",
+   "entity_ids": [
+    "n0003",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0064",
+   "text": "Bitores Mendez's massive frame granted him superhuman strength and resilience after Plaga infection, and he became the enforcer managing the infected villagers known as Ganados.",
+   "entity_ids": [
+    "n0011",
+    "n0023"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0065",
+   "text": "Jack Krauser gained a mutated arm giving him supernatural speed and strength.",
+   "entity_ids": [
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0066",
+   "text": "Ada Wong operated in Spain on behalf of Albert Wesker's organization with the mission to secure a pristine dominant Plaga sample.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0005"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0067",
+   "text": "Ada Wong was secretly also working for a separate competing faction seeking to maintain the global status quo.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0068",
+   "text": "Ashley Graham, daughter of the U.S. President, was kidnapped to serve as Osmund Saddler's political and biological weapon.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0040"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0069",
+   "text": "Ada Wong used tactical gear and a grapple gun to move through the village and castle, acting as a shadow guardian for Leon Kennedy.",
+   "entity_ids": [
+    "n0001",
+    "n0028"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0070",
+   "text": "Ashley Graham suffered physical decay and mental fragmentation as the Plaga parasite bonded with her nervous system.",
+   "entity_ids": [
+    "n0002",
+    "n0003"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0071",
+   "text": "Ada Wong refused to answer questions about her survival or her current employer, using a smoke bomb to escape after the reunion with Leon Kennedy.",
+   "entity_ids": [
+    "n0001",
+    "n0028"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0072",
+   "text": "Ramon Salazar monitored Leon Kennedy's progress through the castle from his central tower, reporting data to his master Osmund Saddler.",
+   "entity_ids": [
+    "n0004",
+    "n0007",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0073",
+   "text": "Separated and alone, Ashley Graham's advanced Las Plagas growth caused severe hallucinations and left her vulnerable to Osmund Saddler's telepathic control.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 39,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0074",
+   "text": "The journals revealed that a Plaga had taken over Jack Krauser's mind, twisting his sense of military honor into a desire for power.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0075",
+   "text": "Jack Krauser viewed his Plaga-granted power as a way to restore his lost physical abilities after being wounded.",
+   "entity_ids": [
+    "n0003",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0076",
+   "text": "Ada Wong operated secretly within Salazar Castle, hacking the security mainframe to unlock doors and barriers for Leon Kennedy without his knowledge.",
+   "entity_ids": [
+    "n0001",
+    "n0007",
+    "n0015"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0077",
+   "text": "Ada Wong transmitted combat data and biological records to Albert Wesker while operating in the castle.",
+   "entity_ids": [
+    "n0001",
+    "n0005"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0078",
+   "text": "Ada Wong viewed Leon Kennedy as a useful tactical distraction that drew the attention of the cult's security forces while she pursued her own objectives.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0079",
+   "text": "Luis Sera developed the suppression pills using knowledge gained from his former work in Umbrella Corporation laboratories.",
+   "entity_ids": [
+    "n0009",
+    "n0037",
+    "n0038"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 42,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0080",
+   "text": "With his dying breaths, Luis Sera gave Leon Kennedy his personal laboratory key and expressed remorse for his past work with Umbrella Corporation.",
+   "entity_ids": [
+    "n0007",
+    "n0009",
+    "n0038"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0081",
+   "text": "Luis Sera revealed that 30 years of his research had led to the destruction of his home and family.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0082",
+   "text": "Jack Krauser reported the death of Luis Sera and the retrieval of the Plaga sample to his handler, Albert Wesker.",
+   "entity_ids": [
+    "n0005",
+    "n0006",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0083",
+   "text": "Ada Wong intentionally withheld from Leon Kennedy the fact that Luis Sera had been killed by Jack Krauser.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0007",
+    "n0009"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0084",
+   "text": "Jack Krauser and Ada Wong met secretly on the castle battlements to discuss the status of the Spanish mission.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0085",
+   "text": "Jack Krauser questioned Ada Wong's loyalty, suggesting her past connection to Leon Kennedy compromised her objectivity.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0086",
+   "text": "Ada Wong reminded Jack Krauser that Albert Wesker trusted her judgment over his aggressive methods.",
+   "entity_ids": [
+    "n0001",
+    "n0005",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0087",
+   "text": "Osmund Saddler ordered Jack Krauser to kill Leon Kennedy personally as a test of loyalty.",
+   "entity_ids": [
+    "n0004",
+    "n0006",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0088",
+   "text": "Jack Krauser accepted the order to kill Leon Kennedy, seeing it as a step toward securing a position with the organization.",
+   "entity_ids": [
+    "n0006",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0089",
+   "text": "Ada Wong secretly monitored Jack Krauser's plans and gave Leon Kennedy minimal support to keep him alive and useful to her own goals.",
+   "entity_ids": [
+    "n0001",
+    "n0006",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0090",
+   "text": "After Salazar's death, Ada Wong met Leon Kennedy at the castle docks with a speedboat to take him to an offshore military island where Ashley had been taken.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0091",
+   "text": "Leon Kennedy and Ada Wong had not worked together directly for six years before this reunion.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0092",
+   "text": "During the boat trip, Leon Kennedy and Ada Wong remained guarded with each other, each secretly pursuing separate objectives.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0093",
+   "text": "The journals confirmed Jack Krauser intended to help Albert Wesker rule the world after the mission's completion.",
+   "entity_ids": [
+    "n0005",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0094",
+   "text": "The journals revealed Jack Krauser had a secret deal with the organization: he would retrieve the Plaga sample in exchange for a position of power.",
+   "entity_ids": [
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0095",
+   "text": "Jack Krauser built a private laboratory on the island to refine his own physical mutation.",
+   "entity_ids": [
+    "n0006",
+    "n0026"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0096",
+   "text": "A rogue U.S. government pilot named Mike arrived in an attack helicopter to provide Leon Kennedy with air support on the island.",
+   "entity_ids": [
+    "n0007",
+    "n0026",
+    "n0030"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0097",
+   "text": "Mike destroyed anti-aircraft turrets and enemy squads to help clear Leon Kennedy's path to the command center.",
+   "entity_ids": [
+    "n0007",
+    "n0030"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0098",
+   "text": "Leon Kennedy found Ashley Graham held captive inside a stone sanctuary at the center of the island base.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0099",
+   "text": "Osmund Saddler used his telepathic control over the Plaga parasite to force Leon Kennedy to his knees and hand Ashley Graham a gun to execute him.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0100",
+   "text": "Ashley Graham resisted Saddler's mental command at the last moment and refused to shoot Leon Kennedy.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0101",
+   "text": "As Leon Kennedy and Ashley Graham attempted their final escape, Osmund Saddler ambushed them in the primary laboratory chamber.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0102",
+   "text": "Ada Wong used her grapple gun to distract Osmund Saddler and allow Leon Kennedy and Ashley Graham to escape.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0103",
+   "text": "Osmund Saddler overpowered Ada Wong with his enhanced speed and trapped her in a high-voltage containment device to use as bait against Leon Kennedy.",
+   "entity_ids": [
+    "n0001",
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0104",
+   "text": "Leon Kennedy witnessed Ada Wong being captured and felt a strong psychological impact from seeing his partner taken.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0105",
+   "text": "Leon Kennedy felt a mix of relief and heaviness after defeating Osmund Saddler, having outplayed the most dangerous figure in the Spanish valley.",
+   "entity_ids": [
+    "n0004",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0106",
+   "text": "Leon Kennedy was devastated that Ada Wong took the primary evidence, realizing everyone he met in the valley had hidden agendas or contracts.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0107",
+   "text": "Bitores Mendez has an artificial glass eye.",
+   "entity_ids": [
+    "n0011"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0108",
+   "text": "Jack Krauser resented Leon Kennedy for his ongoing loyalty to federal law, viewing him as a relic of a dying era.",
+   "entity_ids": [
+    "n0006",
+    "n0028"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0109",
+   "text": "Salazar Castle is a Gothic fortress built over ancient subterranean caverns where the first Castellan had entombed the parasites centuries earlier.",
+   "entity_ids": [
+    "n0015"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0110",
+   "text": "Ramon Salazar converted parts of his castle into execution chambers and laboratory hubs for Plaga refinement, retrofitting its architecture to support the cult's biological research and eliminate intruders.",
+   "entity_ids": [
+    "n0010",
+    "n0015"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0111",
+   "text": "Leon Kennedy descended into underground mining tunnels beneath the castle, the primary source of the region's parasitic infection.",
+   "entity_ids": [
+    "n0007",
+    "n0015",
+    "n0039"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 44,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0112",
+   "text": "The offshore island was a fortified military complex revealing Saddler's broader international ambitions for Los Illuminados, containing communications arrays, heavy artillery turrets, automated labs, and cold storage zones for mass-producing bioweapons.",
+   "entity_ids": [
+    "n0004",
+    "n0008",
+    "n0026"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0113",
+   "text": "Leon Kennedy found the bodies of mercenaries who had failed the island's brutal physical selection process.",
+   "entity_ids": [
+    "n0007",
+    "n0026"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0114",
+   "text": "Luis Sera created suppression pills to counteract Las Plagas infection and gave them to Leon Kennedy during the village investigation to slow the larvae's development.",
+   "entity_ids": [
+    "n0003",
+    "n0007",
+    "n0009",
+    "n0037"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 9,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0115",
+   "text": "After defeating mutated Bitores Mendez, Leon Kennedy recovered an artificial glass eye containing retinal scan data needed to open the castle's iron gates.",
+   "entity_ids": [
+    "n0007",
+    "n0011",
+    "n0015"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0116",
+   "text": "The suppression pills worked by blocking the parasite's access to the host's central nervous system, delaying loss of free will.",
+   "entity_ids": [
+    "n0003",
+    "n0037"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0117",
+   "text": "Without the suppression pills, Leon Kennedy and Ashley Graham would have reached the terminal stage of plaga infection within hours.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0037"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0118",
+   "text": "Taking the suppression pills caused Leon Kennedy acute side effects including internal hemorrhaging and mental fatigue.",
+   "entity_ids": [
+    "n0007",
+    "n0037"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0119",
+   "text": "Luis Sera obtained a pristine dominant Plaga sample and surgical blueprints needed to remove the parasites.",
+   "entity_ids": [
+    "n0003",
+    "n0009"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 43,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0120",
+   "text": "Leon Kennedy recovered Jack Krauser's personal military journals from the island's command center.",
+   "entity_ids": [
+    "n0006",
+    "n0007",
+    "n0026"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0121",
+   "text": "Using a keycard recovered from researcher Luis Sera, Leon Kennedy bypassed the Iron Maidens with Ashley Graham to access a hidden research wing containing a laboratory with a specialized laser treatment device.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0009",
+    "n0024",
+    "n0027"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0122",
+   "text": "The laser treatment device used targeted high-frequency radiation to destroy Las Plagas parasites inside a host's nervous system without harming the host's body.",
+   "entity_ids": [
+    "n0003",
+    "n0027"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 70,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0123",
+   "text": "Del Lago is a 60-foot aquatic monster that was originally a standard salamander before being fed mutated Plaga test subjects in the lake, as documented in research notes.",
+   "entity_ids": [
+    "n0003",
+    "n0020"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 23,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0124",
+   "text": "Leon Kennedy crossed the lake by motorboat and was attacked by Del Lago, defeating it using a barrage of harpoons.",
+   "entity_ids": [
+    "n0020",
+    "n0028"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 23,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0125",
+   "text": "El Gigante is a deformed humanoid monster created by fusing multiple Las Plagas strains into a single human host; the cult unleashed this massive biological weapon in a mountain quarry within the perimeter.",
+   "entity_ids": [
+    "n0003",
+    "n0012",
+    "n0029"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0126",
+   "text": "El Gigante's thick skin deflected standard ballistic attacks, requiring Leon to force the dominant Plaga core to burst from its back and attack it directly to kill it.",
+   "entity_ids": [
+    "n0003",
+    "n0007",
+    "n0012"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 28,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0127",
+   "text": "Leon Kennedy cornered village chief Bitores Mendez inside an abandoned municipal abattoir on the outskirts of the village.",
+   "entity_ids": [
+    "n0007",
+    "n0011",
+    "n0017"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0128",
+   "text": "Trapped by Leon, Bitores Mendez underwent a full mutation in which his spine elongated into a massive centipede-like structure of wood and bone appendages.",
+   "entity_ids": [
+    "n0011"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0129",
+   "text": "Bitores Mendez's mutated form moved through the abattoir with supernatural speed, using his human torso as a pivot point.",
+   "entity_ids": [
+    "n0011",
+    "n0017"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0130",
+   "text": "Leon Kennedy climbed El Gigante and sliced the exposed parasite core, causing total cellular collapse of the host.",
+   "entity_ids": [
+    "n0007",
+    "n0012"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0131",
+   "text": "In the mine's smelting furnace, Leon Kennedy was forced to fight two El Gigantes simultaneously, using molten lead to defeat them.",
+   "entity_ids": [
+    "n0007",
+    "n0012",
+    "n0039"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 44,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0132",
+   "text": "The center of the castle's insect infestation was a massive stationary organism called the Queen Plaga, anchored to the foundations as the nursery for Novistador swarms.",
+   "entity_ids": [
+    "n0014",
+    "n0015",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0133",
+   "text": "Ramon Salazar unleashed a personal executioner called Verdugo to kill Leon Kennedy within the castle's subterranean tunnels, where it served as the hidden guardian of the Salazar bloodline, unknown to most of the local Ganado.",
+   "entity_ids": [
+    "n0007",
+    "n0010",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0134",
+   "text": "Verdugo was a genetic fusion of human DNA, insect attributes, and a dominant Las Plagas strain, resulting in a biological assassin with supernatural speed.",
+   "entity_ids": [
+    "n0003",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0135",
+   "text": "Verdugo possessed a segmented exoskeleton that was highly resistant, if not completely bulletproof, against standard firearms.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0136",
+   "text": "Leon Kennedy encountered the Verdugo during a standoff in an elevator within the castle's deep cooling chambers.",
+   "entity_ids": [
+    "n0007",
+    "n0015",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0137",
+   "text": "When Leon Kennedy killed Ramon Salazar, the neural link to the Queen Plaga broke, causing catastrophic cellular collapse in the hive and surrounding Novistadors.",
+   "entity_ids": [
+    "n0007",
+    "n0010",
+    "n0014",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0138",
+   "text": "The Verdugo used a bladed tail and claws to move quickly through vertical spaces in the underground facility.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0139",
+   "text": "Leon Kennedy discovered that the Verdugo's exoskeleton became brittle when exposed to extreme cold from liquid nitrogen tanks.",
+   "entity_ids": [
+    "n0007",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0140",
+   "text": "Leon Kennedy froze the Verdugo with liquid nitrogen and then shattered its frozen body with a single powerful shot.",
+   "entity_ids": [
+    "n0007",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0141",
+   "text": "The death of the Verdugo signaled that Salazar's reign as Castellan was nearing its end.",
+   "entity_ids": [
+    "n0010",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 61,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0142",
+   "text": "Ramon Salazar fused his body with the remaining Queen Plaga and a second Verdugo to create a massive final mutated form.",
+   "entity_ids": [
+    "n0010",
+    "n0014",
+    "n0016"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0143",
+   "text": "Salazar's final form was a towering mass of parasitic flesh with tentacles anchored to the tower's structure.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0144",
+   "text": "In his final form, Salazar's human torso remained protected inside a shell near a central eye structure.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0145",
+   "text": "Leon Kennedy used heavy weaponry to break open Salazar's protective shell and fired at his exposed human torso to kill him.",
+   "entity_ids": [
+    "n0007",
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0146",
+   "text": "The destruction of Salazar's final form ended the Salazar bloodline's rule as Castellan.",
+   "entity_ids": [
+    "n0010"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0147",
+   "text": "Jack Krauser ambushed Leon Kennedy in a concrete labyrinth on the island, mutating his left arm into a massive organic blade that functioned as both a weapon and a bulletproof shield.",
+   "entity_ids": [
+    "n0006",
+    "n0007"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0148",
+   "text": "Leon Kennedy exploited a gap in Jack Krauser's footwork to deliver a fatal strike during their final duel.",
+   "entity_ids": [
+    "n0006",
+    "n0007"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0149",
+   "text": "Jack Krauser died acknowledging that Leon Kennedy had proven himself the superior fighter.",
+   "entity_ids": [
+    "n0006",
+    "n0007"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0150",
+   "text": "Cornered and without his political plans, Osmund Saddler transformed into a towering multi-legged arachnid monster with a massive central eye, representing the peak biological potential of the dominant Las Plagas strain.",
+   "entity_ids": [
+    "n0003",
+    "n0004",
+    "n0036"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0151",
+   "text": "During the battle, Saddler's arachnid form moved with superhuman speed and used its massive legs to destroy industrial equipment and isolate Leon.",
+   "entity_ids": [
+    "n0007",
+    "n0036"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0152",
+   "text": "Leon Kennedy used the rocket launcher to deliver a final strike to the central core of the arachnid monster, destroying it in an explosion.",
+   "entity_ids": [
+    "n0007",
+    "n0035",
+    "n0036"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0153",
+   "text": "The Ganados coordinated their attacks and spoke a prehistoric dialect, showing high-level mental coordination unlike typical zombies.",
+   "entity_ids": [
+    "n0023"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 22,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0154",
+   "text": "Colmillos are infected wolves that developed writhing parasitic tentacles lined with bone blades erupting from their spines when threatened.",
+   "entity_ids": [
+    "n0003",
+    "n0019"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 27,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0155",
+   "text": "The castle is defended by the Los Illuminados Zealots, a fanatical paramilitary wing with higher tactical discipline than the village Ganados.",
+   "entity_ids": [
+    "n0029"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0156",
+   "text": "The Zealots wear heavy iron shields and use medieval ballistas to isolate intruders.",
+   "entity_ids": [
+    "n0029"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0157",
+   "text": "Because Zealots willingly accepted their Las Plagas during ritual ceremonies, their parasites are highly aggressive and often burst as blade-wielding tentacles from their decapitated necks, and can survive destruction of the host's brain to continue functioning as independent threats.",
+   "entity_ids": [
+    "n0003",
+    "n0029"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0158",
+   "text": "Leon Kennedy encountered Armaduras, living suits of ancestral armor, in the castle's trophy rooms.",
+   "entity_ids": [
+    "n0007",
+    "n0015",
+    "n0018"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0159",
+   "text": "An Armadura forms when a mature Las Plagas parasite lacking a host crawls inside an empty suit of armor and extends its nervous system into the joints to control it.",
+   "entity_ids": [
+    "n0003",
+    "n0018"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0160",
+   "text": "Because the parasite inside an Armadura is fully encased in iron, standard ballistic weapons are ineffective against it.",
+   "entity_ids": [
+    "n0018"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0161",
+   "text": "In the castle's upper hive structure, Leon Kennedy encountered Novistadors, insect-human hybrid creatures.",
+   "entity_ids": [
+    "n0007",
+    "n0015",
+    "n0031"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0162",
+   "text": "Novistadors were created by Luis Sera's research, under Osmund Saddler's orders, by splicing human genetic material with parasitic insect DNA.",
+   "entity_ids": [
+    "n0004",
+    "n0009",
+    "n0031"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0163",
+   "text": "Novistadors possess active camouflage allowing them to blend into the castle's stone corridors, and represent a shift in Saddler's research toward apex biological assassins.",
+   "entity_ids": [
+    "n0004",
+    "n0031"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0164",
+   "text": "Regenerators are bioweapons created by implanting multiple Plagas into a single human host, granting them instant cellular regeneration including regrowing severed limbs or heads, making them resistant to standard gunfire.",
+   "entity_ids": [
+    "n0034"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0165",
+   "text": "Iron Maidens are an advanced mutation of the Regenerator that erupts with defensive bone spines when threatened.",
+   "entity_ids": [
+    "n0024",
+    "n0034"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0166",
+   "text": "Mike's helicopter was brought down and he was killed by a swarm of flying Novistadors, which can overwhelm armored vehicles through sheer numbers and aerial mobility.",
+   "entity_ids": [
+    "n0030",
+    "n0032"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 67,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0167",
+   "text": "Ada Wong flew toward the horizon as the sun rose, having successfully secured the Plaga sample for her own employer.",
+   "entity_ids": [
+    "n0001",
+    "n0003"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0168",
+   "text": "The village battle ended when a distant church bell rang, triggering an immediate hypnotic trance that made the Ganados drop their weapons and leave.",
+   "entity_ids": [
+    "n0008",
+    "n0023"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 22,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0169",
+   "text": "The church bell's effect was proof that the cult leadership used a telepathic frequency to control the infected population as a single mind.",
+   "entity_ids": [
+    "n0003",
+    "n0008"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 22,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0170",
+   "text": "Salazar Castle features mechanized walls, fire-breathing stone statues, deep pits, and spike-line traps designed to isolate intruders.",
+   "entity_ids": [
+    "n0015"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0171",
+   "text": "Leon Kennedy used the glass eye recovered from Bitores Mendez to bypass a biometric security gate and enter the castle.",
+   "entity_ids": [
+    "n0007",
+    "n0011",
+    "n0015"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0172",
+   "text": "Leon Kennedy discovered that removing an Armadura's helmet and using a flash grenade was the reliable way to destroy the exposed parasite.",
+   "entity_ids": [
+    "n0007",
+    "n0018"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 38,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0173",
+   "text": "Osmund Saddler used the dominant species Plaga to issue mental commands that bypassed an infected host's willpower, including Ashley Graham's.",
+   "entity_ids": [
+    "n0002",
+    "n0003",
+    "n0004"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 39,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0174",
+   "text": "Ramon Salazar's biological connection to the castle network made the Queen Plaga a primary node in the cult's telepathic frequency.",
+   "entity_ids": [
+    "n0010",
+    "n0014"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0175",
+   "text": "Ada Wong used her technical skills to disable security sensors so the speedboat could approach the island undetected.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 64,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0176",
+   "text": "Leon Kennedy used a thermal scope to locate and destroy the individual parasites hidden inside each Regenerator's body to kill them permanently.",
+   "entity_ids": [
+    "n0007",
+    "n0034"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0177",
+   "text": "Leon Kennedy and Ashley Graham used the laser device to remove their own Plagas, restoring their autonomy and ending Saddler's ability to telepathically control them.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0007"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0178",
+   "text": "Osmund Saddler intended to use his telepathic control over an infected Ashley Graham to seize nuclear launch codes and infect the U.S. federal leadership.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0040"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 19,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0179",
+   "text": "Jack Krauser viewed the Las Plagas project as a tool to reclaim his lost honor as a soldier, while Ada Wong viewed it purely as a valuable commodity.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0006"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0180",
+   "text": "Ada Wong intended to use the Plaga sample as leverage, recognizing that delivering it to her employer could enable a global catastrophe.",
+   "entity_ids": [
+    "n0001",
+    "n0003"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-1acd4d7c",
+     "locator": ""
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "e001",
+   "order": 1,
+   "summary": "Centuries ago, the first Castellan of the Salazar family stripped Los Illuminados of power and sealed the Las Plagas parasites beneath the castle, founding Salazar Castle over the caverns.",
+   "fact_ids": [
+    "f0002",
+    "f0109",
+    "f0054"
+   ]
+  },
+  {
+   "id": "e002",
+   "order": 2,
+   "summary": "Los Illuminados lay dormant for generations until Osmund Saddler, a charismatic outsider, infiltrated the cult in the late 20th century, manipulating the frail eighth Castellan Ramon Salazar by discrediting the first Castellan's legacy.",
+   "fact_ids": [
+    "f0003",
+    "f0004",
+    "f0005",
+    "f0057",
+    "f0059"
+   ]
+  },
+  {
+   "id": "e003",
+   "order": 3,
+   "summary": "Bitores Mendez, the village chief and priest who initially resisted the cult, was eventually subdued and forcibly implanted with a dominant Plaga, becoming Saddler's enforcer with an artificial glass eye and superhuman strength over the Ganados.",
+   "fact_ids": [
+    "f0060",
+    "f0061",
+    "f0064",
+    "f0107"
+   ]
+  },
+  {
+   "id": "e004",
+   "order": 4,
+   "summary": "Salazar broke the ancestral seal, excavation of fossilized Plagas began using forced miner labor, and Saddler's team revived the prehistoric parasites; Saddler and Salazar both ingested dominant Plagas, gaining power but corrupting Salazar's mind.",
+   "fact_ids": [
+    "f0006",
+    "f0007",
+    "f0013",
+    "f0040",
+    "f0062",
+    "f0063",
+    "f0110"
+   ]
+  },
+  {
+   "id": "e005",
+   "order": 5,
+   "summary": "Salazar, subordinate to Saddler, retrofitted the castle into execution chambers and research labs, while Saddler experimented with Las Plagas adapting to aquatic life, eventually creating Del Lago in the lake.",
+   "fact_ids": [
+    "f0055",
+    "f0001",
+    "f0123"
+   ]
+  },
+  {
+   "id": "e006",
+   "order": 6,
+   "summary": "After Umbrella's collapse, local biologist Luis Sera was hired by Saddler to refine the unearthed Plaga strains, applying his Umbrella research to create Novistadors and other bioweapons.",
+   "fact_ids": [
+    "f0008",
+    "f0058",
+    "f0162",
+    "f0163"
+   ]
+  },
+  {
+   "id": "e007",
+   "order": 7,
+   "summary": "Jack Krauser, Leon's former partner from Operation Javier, suffered a career-ending injury, faked his death, and sought out Albert Wesker for enhanced power, becoming a secret operative within Los Illuminados.",
+   "fact_ids": [
+    "f0014",
+    "f0015",
+    "f0042",
+    "f0074",
+    "f0075",
+    "f0065",
+    "f0017"
+   ]
+  },
+  {
+   "id": "e008",
+   "order": 8,
+   "summary": "Following Raccoon City, Leon Kennedy was coerced into federal service to protect Sherry Birkin, undergoing years of elite training before reporting directly to the President's secret service.",
+   "fact_ids": [
+    "f0009",
+    "f0010",
+    "f0011",
+    "f0016",
+    "f0018"
+   ]
+  },
+  {
+   "id": "e009",
+   "order": 9,
+   "summary": "Ada Wong was sent to Spain by Wesker's organization to secure a pristine dominant Plaga sample, secretly also serving a rival faction, and was monitored by Wesker via satellite throughout.",
+   "fact_ids": [
+    "f0019",
+    "f0066",
+    "f0067"
+   ]
+  },
+  {
+   "id": "e010",
+   "order": 10,
+   "summary": "Saddler finalized his plan to kidnap Ashley Graham, the President's daughter, infect her with a Plaga, and use her to seize nuclear launch codes and infiltrate the U.S. government; Krauser orchestrated her kidnapping to prove loyalty.",
+   "fact_ids": [
+    "f0020",
+    "f0068",
+    "f0178",
+    "f0021"
+   ]
+  },
+  {
+   "id": "e011",
+   "order": 11,
+   "summary": "Luis Sera, learning of Saddler's plan for mass infection, betrayed the cult and stole a pristine dominant Plaga sample and removal data, developing suppression pills from his Umbrella knowledge.",
+   "fact_ids": [
+    "f0012",
+    "f0079",
+    "f0114",
+    "f0116"
+   ]
+  },
+  {
+   "id": "e012",
+   "order": 12,
+   "summary": "In 2004, Leon Kennedy was dispatched to a remote Spanish valley; his police escorts were murdered by the hypnotized villagers, and he witnessed the village's coordinated, hive-minded violence before the attack ended on a church bell's hypnotic signal.",
+   "fact_ids": [
+    "f0022",
+    "f0023",
+    "f0024",
+    "f0025",
+    "f0026",
+    "f0153",
+    "f0168",
+    "f0169"
+   ]
+  },
+  {
+   "id": "e013",
+   "order": 13,
+   "summary": "Leon defeated the lake monster Del Lago with harpoons, clearing his path toward the castle ruins.",
+   "fact_ids": [
+    "f0124",
+    "f0027"
+   ]
+  },
+  {
+   "id": "e014",
+   "order": 14,
+   "summary": "Leon found Luis Sera captive in a farmhouse, but Mendez knocked them both out and chained them for execution; they broke free together and Luis fled with suppression medicine.",
+   "fact_ids": [
+    "f0028",
+    "f0029",
+    "f0030"
+   ]
+  },
+  {
+   "id": "e015",
+   "order": 15,
+   "summary": "After the lake battle, Leon reunited with Ada Wong at the castle, six years after believing her dead, though she evaded his questions and vanished using a smoke bomb.",
+   "fact_ids": [
+    "f0031",
+    "f0071"
+   ]
+  },
+  {
+   "id": "e016",
+   "order": 16,
+   "summary": "Mendez cornered and overpowered Leon, but recognizing the Plaga already bonding with him, spared him as a potential 'brother' in the cult.",
+   "fact_ids": [
+    "f0032",
+    "f0033",
+    "f0036"
+   ]
+  },
+  {
+   "id": "e017",
+   "order": 17,
+   "summary": "Leon rescued Ashley Graham from the church, where Saddler revealed his plot and confirmed both captives were already infected with Plaga eggs.",
+   "fact_ids": [
+    "f0034",
+    "f0035"
+   ]
+  },
+  {
+   "id": "e018",
+   "order": 18,
+   "summary": "Leon and Ashley faced further dangers—an ambush by mutant Colmillos wolves and a brutal fight against El Gigante in the quarry—while using Luis's suppression pills to delay their infection, despite painful side effects.",
+   "fact_ids": [
+    "f0037",
+    "f0125",
+    "f0126",
+    "f0038",
+    "f0117",
+    "f0118"
+   ]
+  },
+  {
+   "id": "e019",
+   "order": 19,
+   "summary": "Leon cornered the mutated Bitores Mendez in an abattoir, battling his centipede-like transformed body and ultimately destroying the exposed parasite core, ending the village chapter and recovering his glass eye for castle access.",
+   "fact_ids": [
+    "f0127",
+    "f0128",
+    "f0129",
+    "f0130",
+    "f0115",
+    "f0039"
+   ]
+  },
+  {
+   "id": "e020",
+   "order": 20,
+   "summary": "Using the glass eye to bypass castle security, Leon entered Salazar Castle, which was riddled with mechanized traps, Zealot defenders, and animated Armadura suits controlled by hostless Plagas.",
+   "fact_ids": [
+    "f0171",
+    "f0170",
+    "f0155",
+    "f0156",
+    "f0157",
+    "f0158",
+    "f0159",
+    "f0160",
+    "f0172"
+   ]
+  },
+  {
+   "id": "e021",
+   "order": 21,
+   "summary": "Ashley fell into a hidden trap set by Salazar and was separated from Leon, her advanced Plaga growth causing hallucinations and vulnerability to Saddler's telepathic control, while Salazar monitored Leon's progress from his tower.",
+   "fact_ids": [
+    "f0041",
+    "f0073",
+    "f0072",
+    "f0174",
+    "f0173"
+   ]
+  },
+  {
+   "id": "e022",
+   "order": 22,
+   "summary": "Before Luis could deliver the stolen Plaga sample and blueprints to Leon, Jack Krauser ambushed and fatally stabbed him in a ritual chamber; Luis gave Leon his lab key with his dying breath, expressing remorse for his past work.",
+   "fact_ids": [
+    "f0043",
+    "f0080",
+    "f0081",
+    "f0119",
+    "f0082",
+    "f0083"
+   ]
+  },
+  {
+   "id": "e023",
+   "order": 23,
+   "summary": "Operating secretly within the castle, Ada hacked security systems to covertly aid Leon while transmitting intelligence to Wesker, viewing Leon merely as a useful distraction.",
+   "fact_ids": [
+    "f0076",
+    "f0077",
+    "f0078"
+   ]
+  },
+  {
+   "id": "e024",
+   "order": 24,
+   "summary": "Leon ventured into the castle's insect-infested upper hive, fighting camouflaged Novistadors bred from Luis's splicing research, toward the Queen Plaga nursery.",
+   "fact_ids": [
+    "f0161",
+    "f0132"
+   ]
+  },
+  {
+   "id": "e025",
+   "order": 25,
+   "summary": "Deep in cooling chambers and mining tunnels beneath the castle, Leon encountered Salazar's hidden guardian Verdugo, eventually exploiting its cold-brittle exoskeleton with liquid nitrogen to destroy it.",
+   "fact_ids": [
+    "f0111",
+    "f0133",
+    "f0134",
+    "f0135",
+    "f0136",
+    "f0138",
+    "f0139",
+    "f0140",
+    "f0141"
+   ]
+  },
+  {
+   "id": "e026",
+   "order": 26,
+   "summary": "In the mine's smelting furnace, Leon fought two El Gigantes simultaneously, defeating them using molten lead.",
+   "fact_ids": [
+    "f0131"
+   ]
+  },
+  {
+   "id": "e027",
+   "order": 27,
+   "summary": "On the castle battlements, Krauser and Ada secretly met to discuss the mission; Krauser questioned her loyalty, but she reaffirmed Wesker's trust in her, while Saddler ordered Krauser to kill Leon as a loyalty test.",
+   "fact_ids": [
+    "f0084",
+    "f0085",
+    "f0086",
+    "f0087",
+    "f0088",
+    "f0089",
+    "f0179",
+    "f0108"
+   ]
+  },
+  {
+   "id": "e028",
+   "order": 28,
+   "summary": "Leon killed the Queen Plaga's primary node by destroying Salazar; the resulting neural collapse devastated the Novistador hive and ended the Salazar bloodline's rule.",
+   "fact_ids": [
+    "f0137",
+    "f0056"
+   ]
+  },
+  {
+   "id": "e029",
+   "order": 29,
+   "summary": "Salazar fused with the remaining Queen Plaga and a second Verdugo into a massive final form, but Leon broke open its shell and destroyed his exposed human torso, ending the Castellan's reign.",
+   "fact_ids": [
+    "f0142",
+    "f0143",
+    "f0144",
+    "f0145",
+    "f0146"
+   ]
+  },
+  {
+   "id": "e030",
+   "order": 30,
+   "summary": "After Salazar's death, Ada met Leon at the castle docks with a speedboat, disabling island security sensors to ferry him—after six years apart and amid mutual suspicion—toward the offshore military island where Ashley was held.",
+   "fact_ids": [
+    "f0090",
+    "f0091",
+    "f0092",
+    "f0175"
+   ]
+  },
+  {
+   "id": "e031",
+   "order": 31,
+   "summary": "The island was revealed as a fortified bioweapons complex where Krauser had built a private lab to continue his mutation, and where failed mercenaries' bodies littered the brutal selection grounds.",
+   "fact_ids": [
+    "f0112",
+    "f0113",
+    "f0095"
+   ]
+  },
+  {
+   "id": "e032",
+   "order": 32,
+   "summary": "A rogue government pilot, Mike, provided air support for Leon on the island, destroying defenses before being overwhelmed and killed by a swarm of flying Novistadors.",
+   "fact_ids": [
+    "f0096",
+    "f0097",
+    "f0166"
+   ]
+  },
+  {
+   "id": "e033",
+   "order": 33,
+   "summary": "Leon fought through mutated Regenerators and advanced Iron Maidens, using a thermal scope and a keycard from Luis to reach a hidden lab containing a Plaga-removal laser device.",
+   "fact_ids": [
+    "f0164",
+    "f0176",
+    "f0165",
+    "f0121",
+    "f0122"
+   ]
+  },
+  {
+   "id": "e034",
+   "order": 34,
+   "summary": "Leon recovered Krauser's journals from the island command center, revealing his psychological breakdown, his deal to gain power through Wesker's organization, and his intent to help Wesker rule the world.",
+   "fact_ids": [
+    "f0120",
+    "f0093",
+    "f0094"
+   ]
+  },
+  {
+   "id": "e035",
+   "order": 35,
+   "summary": "Krauser ambushed Leon in a concrete labyrinth with his mutated blade-arm, but Leon exploited a gap in his footwork to deliver a fatal blow, with Krauser acknowledging Leon's superiority in death.",
+   "fact_ids": [
+    "f0147",
+    "f0148",
+    "f0149"
+   ]
+  },
+  {
+   "id": "e036",
+   "order": 36,
+   "summary": "Leon found Ashley held in a stone sanctuary; Saddler telepathically forced Leon to his knees and made Ashley aim a gun at him, but she resisted his control at the last moment and spared Leon.",
+   "fact_ids": [
+    "f0098",
+    "f0099",
+    "f0100"
+   ]
+  },
+  {
+   "id": "e037",
+   "order": 37,
+   "summary": "As Leon and Ashley fled, Saddler ambushed them; Ada intervened to distract him, but was overpowered and trapped in a high-voltage containment device as bait, deeply affecting Leon.",
+   "fact_ids": [
+    "f0101",
+    "f0102",
+    "f0103",
+    "f0104",
+    "f0044"
+   ]
+  },
+  {
+   "id": "e038",
+   "order": 38,
+   "summary": "Leon and Ashley used the laser device to remove their own Plagas, restoring their free will and ending Saddler's telepathic hold over them.",
+   "fact_ids": [
+    "f0177"
+   ]
+  },
+  {
+   "id": "e039",
+   "order": 39,
+   "summary": "Cornered without his political plans intact, Saddler transformed into a towering arachnid monster and confronted Leon atop the island's crane platform.",
+   "fact_ids": [
+    "f0045",
+    "f0150",
+    "f0151"
+   ]
+  },
+  {
+   "id": "e040",
+   "order": 40,
+   "summary": "Ada broke free from her containment and supplied Leon with a rocket launcher, which he used to destroy Saddler's monstrous core, ending Los Illuminados' leadership and leaving Leon with mixed relief and exhaustion.",
+   "fact_ids": [
+    "f0046",
+    "f0152",
+    "f0047",
+    "f0105"
+   ]
+  },
+  {
+   "id": "e041",
+   "order": 41,
+   "summary": "Immediately after Saddler's death, Ada held Leon at gunpoint to seize the pristine dominant Plaga sample, apologized, and gave him the keys to an aquatic escape craft before fleeing by helicopter, leaving Leon disillusioned by everyone's hidden agendas.",
+   "fact_ids": [
+    "f0048",
+    "f0049",
+    "f0106"
+   ]
+  },
+  {
+   "id": "e042",
+   "order": 42,
+   "summary": "Ada triggered the island's thermal self-destruct as she escaped, giving Leon and Ashley a three-minute window to flee; they used the aquatic craft to bypass security locks and escape as the facility was obliterated, erasing all evidence of Los Illuminados' operations.",
+   "fact_ids": [
+    "f0050",
+    "f0051",
+    "f0052",
+    "f0053"
+   ]
+  },
+  {
+   "id": "e043",
+   "order": 43,
+   "summary": "Ada Wong flew off toward the sunrise, having secured the Plaga sample for her own employer, intending to use it as leverage despite the risk of enabling a global catastrophe.",
+   "fact_ids": [
+    "f0167",
+    "f0180"
+   ]
+  }
+ ]
+}

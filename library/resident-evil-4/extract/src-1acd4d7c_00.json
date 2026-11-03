@@ -1,0 +1,877 @@
+{
+ "entities": [
+  {
+   "name": "Leon Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leyon Kennedy",
+    "the federal agent",
+    "the marksman",
+    "the operative"
+   ]
+  },
+  {
+   "name": "Ashley Graham",
+   "kind": "character",
+   "aliases": [
+    "the presidential daughter",
+    "the first daughter"
+   ]
+  },
+  {
+   "name": "Los Illuminados",
+   "kind": "faction",
+   "aliases": [
+    "Loss Illuminardos",
+    "the cult"
+   ]
+  },
+  {
+   "name": "Osmund Saddler",
+   "kind": "character",
+   "aliases": [
+    "Osman Sadler",
+    "the mastermind"
+   ]
+  },
+  {
+   "name": "Ramon Salazar",
+   "kind": "character",
+   "aliases": [
+    "Ramona Salazar",
+    "the eighth Castellan"
+   ]
+  },
+  {
+   "name": "Bitores Mendez",
+   "kind": "character",
+   "aliases": [
+    "Burresz Menddees",
+    "the village chief",
+    "the enforcer"
+   ]
+  },
+  {
+   "name": "Luis Sera",
+   "kind": "character",
+   "aliases": [
+    "Luis Sarah",
+    "the rogue scientist"
+   ]
+  },
+  {
+   "name": "Jack Krauser",
+   "kind": "character",
+   "aliases": [
+    "Jack Krower",
+    "the fallen partner"
+   ]
+  },
+  {
+   "name": "Ada Wong",
+   "kind": "character",
+   "aliases": [
+    "Ida Wong",
+    "the spy"
+   ]
+  },
+  {
+   "name": "Albert Wesker",
+   "kind": "character",
+   "aliases": [
+    "Wesker"
+   ]
+  },
+  {
+   "name": "Las Plagas",
+   "kind": "concept",
+   "aliases": [
+    "Lasplagus",
+    "the parasites",
+    "plaga"
+   ]
+  },
+  {
+   "name": "Del Lago",
+   "kind": "boss",
+   "aliases": [
+    "Delarago",
+    "the aquatic reaper"
+   ]
+  },
+  {
+   "name": "Colmillos",
+   "kind": "enemy",
+   "aliases": [
+    "Kios",
+    "Kmeidos",
+    "the infected canines"
+   ]
+  },
+  {
+   "name": "El Gigante",
+   "kind": "boss",
+   "aliases": [
+    "Eligante",
+    "the quarry juggernaut"
+   ]
+  },
+  {
+   "name": "Ganados",
+   "kind": "enemy",
+   "aliases": [
+    "the Gennados",
+    "the villagers"
+   ]
+  },
+  {
+   "name": "Valdobos",
+   "kind": "location",
+   "aliases": [
+    "the Spanish Valley",
+    "the village region"
+   ]
+  },
+  {
+   "name": "First Castellan of Salazar family",
+   "kind": "character",
+   "aliases": [
+    "the first Castellan"
+   ]
+  },
+  {
+   "name": "Raccoon City Incident",
+   "kind": "event",
+   "aliases": [
+    "the 1998 incident",
+    "Raccoon City outbreak"
+   ]
+  },
+  {
+   "name": "Operation Javier",
+   "kind": "event",
+   "aliases": [
+    "the 2002 mission"
+   ]
+  },
+  {
+   "name": "United States President",
+   "kind": "character",
+   "aliases": [
+    "Ashley's father"
+   ]
+  },
+  {
+   "name": "Division of Security Operations",
+   "kind": "faction",
+   "aliases": [
+    "DSO"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "After escaping Raccoon City, Leon Kennedy was detained by the United States government due to his survival skills and knowledge of the T-virus outbreak.",
+   "entities": [
+    "Leon Kennedy",
+    "Raccoon City Incident"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "The government gave Leon Kennedy a choice: become a covert federal agent, or Sherry Birkin would remain in indefinite government custody.",
+   "entities": [
+    "Leon Kennedy"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "Leon Kennedy signed away his personal freedom and entered federal service to protect Sherry Birkin.",
+   "entities": [
+    "Leon Kennedy"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "Leon Kennedy underwent years of tactical and psychological training under the Division of Security Operations, transforming him from a rookie cop into an elite agent.",
+   "entities": [
+    "Leon Kennedy",
+    "Division of Security Operations"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "Leon Kennedy began reporting directly to the U.S. President's secret service, handling missions related to bioterrorism and international security.",
+   "entities": [
+    "Leon Kennedy",
+    "United States President"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 16
+  },
+  {
+   "text": "By 2004, Leon Kennedy was sent to a remote Spanish valley for his highest-stakes mission yet.",
+   "entities": [
+    "Leon Kennedy",
+    "Valdobos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Los Illuminados was an isolated religious cult rooted in a remote Spanish region with an ancient belief system centered on spiritual and physical transcendence.",
+   "entities": [
+    "Los Illuminados"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Centuries ago, the first Castellan of the Salazar family stripped Los Illuminados of its regional power and entombed the Las Plagas parasites to prevent their use.",
+   "entities": [
+    "First Castellan of Salazar family",
+    "Los Illuminados",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Los Illuminados remained dormant for generations until a charismatic outsider infiltrated the cult's religious hierarchy in the late 20th century.",
+   "entities": [
+    "Los Illuminados",
+    "Osmund Saddler"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The outsider who infiltrated Los Illuminados promised the cult a return to its former glory and began an excavation to unearth the fossilized Las Plagas.",
+   "entities": [
+    "Los Illuminados",
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Osmund Saddler was a mastermind of biological weaponry who used the cult's mythology to build a private empire centered on Las Plagas research.",
+   "entities": [
+    "Osmund Saddler",
+    "Las Plagas",
+    "Los Illuminados"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Osmund Saddler's team successfully revived the prehistoric Las Plagas organisms after unearthing the fossilized parasites.",
+   "entities": [
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Osmund Saddler ingested a dominant species Plaga, which let him retain his human intelligence while issuing telepathic commands to infected hosts.",
+   "entities": [
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Osmund Saddler's ultimate plan was to kidnap Ashley Graham, infect her with a Plaga, and return her to the U.S. as a supposedly rescued victim.",
+   "entities": [
+    "Osmund Saddler",
+    "Ashley Graham"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Osmund Saddler intended to use his telepathic control over an infected Ashley Graham to seize nuclear launch codes and infect the U.S. federal leadership.",
+   "entities": [
+    "Osmund Saddler",
+    "Ashley Graham",
+    "United States President"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ramon Salazar was the eighth Castellan of the region, a physically frail man isolated in his ancestral castle due to lifelong illness.",
+   "entities": [
+    "Ramon Salazar"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Osmund Saddler manipulated Ramon Salazar by claiming the first Castellan had been a tyrant who denied the people their true spiritual heritage.",
+   "entities": [
+    "Osmund Saddler",
+    "Ramon Salazar",
+    "First Castellan of Salazar family"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Ramon Salazar broke the ancestral seal, allowing Los Illuminados to harvest Las Plagas from the subterranean mines.",
+   "entities": [
+    "Ramon Salazar",
+    "Los Illuminados",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Ramon Salazar willingly ingested a dominant Plaga, which halted his physical aging but corrupted his mind, turning him sadistic.",
+   "entities": [
+    "Ramon Salazar",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Ramon Salazar converted parts of his castle into execution chambers and laboratory hubs for Plaga refinement.",
+   "entities": [
+    "Ramon Salazar"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Ramon Salazar's relationship with Osmund Saddler was one of subordination, providing logistical infrastructure and regional legitimacy in exchange for a role in the new order.",
+   "entities": [
+    "Ramon Salazar",
+    "Osmund Saddler"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Bitores Mendez was the towering village chief and local Catholic priest who initially resisted Osmund Saddler's cult.",
+   "entities": [
+    "Bitores Mendez",
+    "Osmund Saddler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Bitores Mendez was eventually subdued by the cult and forcibly implanted with a dominant Plaga, turning him into a devoted enforcer for Osmund Saddler.",
+   "entities": [
+    "Bitores Mendez",
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Bitores Mendez's massive frame granted him superhuman strength and resilience after Plaga infection, and he became the enforcer managing the infected villagers known as Ganados.",
+   "entities": [
+    "Bitores Mendez",
+    "Ganados"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Bitores Mendez has an artificial glass eye.",
+   "entities": [
+    "Bitores Mendez"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Luis Sera was a biologist born in the local Spanish village who had worked for the Umbrella Corporation before its collapse.",
+   "entities": [
+    "Luis Sera"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "After Umbrella's collapse, Luis Sera returned home and was hired by Osmund Saddler to analyze the unearthed Plagas and refine the strains.",
+   "entities": [
+    "Luis Sera",
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Luis Sera created a suppression medicine to counteract Plaga infection.",
+   "entities": [
+    "Luis Sera",
+    "Las Plagas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Luis Sera betrayed Los Illuminados after learning Osmund Saddler planned mass global infection, stealing a pristine dominant Plaga sample and technical removal data.",
+   "entities": [
+    "Luis Sera",
+    "Los Illuminados",
+    "Osmund Saddler",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Luis Sera provided Leon Kennedy with suppression pills to stall his infection during the village investigation.",
+   "entities": [
+    "Luis Sera",
+    "Leon Kennedy"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Jack Krauser was a decorated soldier and Leon Kennedy's former partner during Operation Javier in 2002.",
+   "entities": [
+    "Jack Krauser",
+    "Leon Kennedy",
+    "Operation Javier"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "After a career-ending arm injury, Jack Krauser faked his death and sought Albert Wesker to gain enhanced power.",
+   "entities": [
+    "Jack Krauser",
+    "Albert Wesker"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Albert Wesker sent Jack Krauser to infiltrate Los Illuminados as a secret operative.",
+   "entities": [
+    "Jack Krauser",
+    "Albert Wesker",
+    "Los Illuminados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Jack Krauser's mission was to retrieve a dominant Plaga sample for Wesker's organization, and he orchestrated Ashley Graham's kidnapping to prove his loyalty to Osmund Saddler.",
+   "entities": [
+    "Jack Krauser",
+    "Las Plagas",
+    "Ashley Graham",
+    "Osmund Saddler"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Jack Krauser gained a mutated arm giving him supernatural speed and strength.",
+   "entities": [
+    "Jack Krauser"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Jack Krauser resented Leon Kennedy for his ongoing loyalty to federal law, viewing him as a relic of a dying era.",
+   "entities": [
+    "Jack Krauser",
+    "Leon Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ada Wong operated in Spain on behalf of Albert Wesker's organization with the mission to secure a pristine dominant Plaga sample.",
+   "entities": [
+    "Ada Wong",
+    "Albert Wesker",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Ada Wong was secretly also working for a separate competing faction seeking to maintain the global status quo.",
+   "entities": [
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Ada Wong was monitored by Albert Wesker via satellite throughout her mission in Spain.",
+   "entities": [
+    "Ada Wong",
+    "Albert Wesker"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Ada Wong used tactical gear and a grapple gun to move through the village and castle, acting as a shadow guardian for Leon Kennedy.",
+   "entities": [
+    "Ada Wong",
+    "Leon Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ashley Graham, daughter of the U.S. President, was kidnapped to serve as Osmund Saddler's political and biological weapon.",
+   "entities": [
+    "Ashley Graham",
+    "Osmund Saddler",
+    "United States President"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Ashley Graham suffered physical decay and mental fragmentation as the Plaga parasite bonded with her nervous system.",
+   "entities": [
+    "Ashley Graham",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Leon Kennedy arrived in the remote Spanish valley escorted by two local police officers at the start of his mission.",
+   "entities": [
+    "Leon Kennedy",
+    "Valdobos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The first villager Leon Kennedy encountered attacked him with a hatchet, showing glazed eyes and immunity to pain, revealing that the region's peace was false.",
+   "entities": [
+    "Leon Kennedy",
+    "Ganados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Leon Kennedy's two police escorts were murdered by the local population and their vehicle pushed into a canyon, leaving him isolated.",
+   "entities": [
+    "Leon Kennedy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "In the village square, Leon Kennedy witnessed one of his escorts burned at a stake before the Ganados swarmed him with pitchforks, sickles, and chainsaws.",
+   "entities": [
+    "Leon Kennedy",
+    "Ganados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The Ganados coordinated their attacks and spoke a prehistoric dialect, showing high-level mental coordination unlike typical zombies.",
+   "entities": [
+    "Ganados"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The village battle ended when a distant church bell rang, triggering an immediate hypnotic trance that made the Ganados drop their weapons and leave.",
+   "entities": [
+    "Ganados",
+    "Los Illuminados"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "The church bell's effect was proof that the cult leadership used a telepathic frequency to control the infected population as a single mind.",
+   "entities": [
+    "Los Illuminados",
+    "Las Plagas"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": 22
+  },
+  {
+   "text": "Del Lago is a 60-foot aquatic monster that was originally a standard salamander before being fed mutated Plaga test subjects in the lake.",
+   "entities": [
+    "Del Lago",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Leon Kennedy crossed the lake by motorboat and was attacked by Del Lago, defeating it using a barrage of harpoons.",
+   "entities": [
+    "Leon Kennedy",
+    "Del Lago"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Defeating Del Lago cleared the path toward the castle ruins for Leon Kennedy.",
+   "entities": [
+    "Leon Kennedy",
+    "Del Lago"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "After the Del Lago battle, Leon Kennedy encountered a mysterious figure in red at the castle who turned out to be Ada Wong, six years after he believed she died in the Raccoon City sewers/nest facility.",
+   "entities": [
+    "Leon Kennedy",
+    "Ada Wong"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Ada Wong refused to answer questions about her survival or her current employer, using a smoke bomb to escape after the reunion with Leon Kennedy.",
+   "entities": [
+    "Ada Wong",
+    "Leon Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Leon Kennedy found Luis Sera bound in a sack inside a rural farmhouse during his village investigation.",
+   "entities": [
+    "Leon Kennedy",
+    "Luis Sera"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Bitores Mendez knocked Leon Kennedy unconscious before Leon and Luis Sera could talk, chaining them together for execution by the Ganados.",
+   "entities": [
+    "Bitores Mendez",
+    "Leon Kennedy",
+    "Luis Sera",
+    "Ganados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Leon Kennedy and Luis Sera coordinated to break free from their restraints, after which Luis fled into the woods carrying medical equipment designed to suppress parasitic growth.",
+   "entities": [
+    "Leon Kennedy",
+    "Luis Sera"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "Leon Kennedy rescued Ashley Graham from confinement inside the village church.",
+   "entities": [
+    "Leon Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "Osmund Saddler appeared on a balcony in the church and revealed his plot to infect the highest levels of the American government using Ashley Graham.",
+   "entities": [
+    "Osmund Saddler",
+    "Ashley Graham",
+    "United States President"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "Osmund Saddler revealed that both Leon Kennedy and Ashley Graham had already been injected with Plaga eggs while unconscious.",
+   "entities": [
+    "Osmund Saddler",
+    "Leon Kennedy",
+    "Ashley Graham",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 26
+  },
+  {
+   "text": "Before the church rescue, Bitores Mendez cornered Leon Kennedy in an isolated cabin and overpowered him by lifting him by the throat.",
+   "entities": [
+    "Bitores Mendez",
+    "Leon Kennedy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Bitores Mendez recognized the Plaga larva already bonding with Leon Kennedy's nervous system and chose to spare him, viewing him as a future brother in the cult.",
+   "entities": [
+    "Bitores Mendez",
+    "Leon Kennedy",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Research notes found around the lake village revealed that Las Plagas could adapt to aquatic and amphibian biology, causing exponential cellular mutation.",
+   "entities": [
+    "Las Plagas",
+    "Del Lago"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "The lake research notes documented how a salamander was fed mutated human test subjects to grow into the monster designated Del Lago.",
+   "entities": [
+    "Del Lago",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Colmillos are infected wolves that developed writhing parasitic tentacles lined with bone blades erupting from their spines when threatened.",
+   "entities": [
+    "Colmillos",
+    "Las Plagas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 27
+  },
+  {
+   "text": "Leon Kennedy and Ashley Graham were ambushed by Colmillos while navigating dark forest trails.",
+   "entities": [
+    "Leon Kennedy",
+    "Ashley Graham",
+    "Colmillos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 27
+  },
+  {
+   "text": "El Gigante is a deformed humanoid monster created by fusing multiple Las Plagas strains into a single human host, encountered in a mountain quarry.",
+   "entities": [
+    "El Gigante",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "El Gigante's thick skin deflected standard ballistic damage, and the only way to kill it was to force the dominant Plaga core to burst from its back and attack it directly.",
+   "entities": [
+    "El Gigante",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 28
+  },
+  {
+   "text": "Leon Kennedy fought El Gigante in a quarry to reach the castle gates.",
+   "entities": [
+    "Leon Kennedy",
+    "El Gigante"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 28
+  }
+ ],
+ "_src": "src-1acd4d7c"
+}

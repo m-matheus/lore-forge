@@ -1,0 +1,27 @@
+{
+  "facts": 180,
+  "needed": 260,
+  "usable": 179,
+  "by_category": {
+    "world": 1,
+    "history": 52,
+    "faction": 3,
+    "character": 52,
+    "location": 5,
+    "item": 9,
+    "boss": 30,
+    "enemy": 14,
+    "ending": 1,
+    "mechanic": 10,
+    "theme": 3
+  },
+  "by_status": {
+    "canon": 163,
+    "inferred": 16,
+    "theory": 1
+  },
+  "warnings": [
+    "179 canon/inferred facts for ~260 needed at 130 min (history). Add sources (wiki pages, item descriptions) to sources/ and re-run research.",
+    "Only reference-video transcripts were used. Their claims are unverified; add wiki/notes to sources/ to anchor canon."
+  ]
+}

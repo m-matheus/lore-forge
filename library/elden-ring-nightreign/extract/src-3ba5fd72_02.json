@@ -1,0 +1,568 @@
+{
+ "entities": [
+  {
+   "name": "Limveld",
+   "kind": "location",
+   "aliases": [
+    "Lynvel",
+    "Limvel",
+    "Limld",
+    "Limbveldd",
+    "Limbeld",
+    "Limbell"
+   ]
+  },
+  {
+   "name": "Night Lord",
+   "kind": "boss",
+   "aliases": [
+    "Night Lords"
+   ]
+  },
+  {
+   "name": "Wylder",
+   "kind": "character",
+   "aliases": [
+    "Wilder"
+   ]
+  },
+  {
+   "name": "Guardian",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ironeye",
+   "kind": "character",
+   "aliases": [
+    "Ioni"
+   ]
+  },
+  {
+   "name": "Duchess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Raider",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Revenant",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Recluse",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Executor",
+   "kind": "character",
+   "aliases": [
+    "Executive"
+   ]
+  },
+  {
+   "name": "Nightfarers",
+   "kind": "faction",
+   "aliases": [
+    "Night Farers",
+    "Nightfair",
+    "Night Farer"
+   ]
+  },
+  {
+   "name": "Ending of Temporary Stability",
+   "kind": "event",
+   "aliases": [
+    "Stability Ending"
+   ]
+  },
+  {
+   "name": "Ending of Remaining in Limveld",
+   "kind": "event",
+   "aliases": [
+    "Remain Ending"
+   ]
+  },
+  {
+   "name": "Ending of Deeper Understanding",
+   "kind": "event",
+   "aliases": [
+    "Deeper Understanding Ending"
+   ]
+  },
+  {
+   "name": "Sites of Grace",
+   "kind": "concept",
+   "aliases": [
+    "Grace",
+    "sights of grace"
+   ]
+  },
+  {
+   "name": "Pre-Catastrophe Civilization",
+   "kind": "faction",
+   "aliases": [
+    "Lynvel civilization",
+    "the civilization"
+   ]
+  },
+  {
+   "name": "Roads of Limveld",
+   "kind": "location",
+   "aliases": [
+    "the roads"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Every ending in Nightreign answers the same underlying question from different angles: given full understanding of what Limveld is, what do you do about it.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nightreign does not rank its endings or declare any single ending as the correct one.",
+   "entities": [],
+   "category": "ending",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In the ending of temporary stability, three Nightfarers survive and defeat the Night Lord of the third knight, achieving a successful expedition.",
+   "entities": [
+    "Nightfarers",
+    "Night Lord"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "In the stability ending, Limveld becomes quieter, its flickering sites of grace stabilize, and the landscape temporarily resembles its pre-catastrophe state.",
+   "entities": [
+    "Limveld",
+    "Sites of Grace"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "After the stability ending, surviving Nightfarers either return to where they came from or remain in Limveld's relative peace.",
+   "entities": [
+    "Nightfarers",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 96
+  },
+  {
+   "text": "The stability ending is incomplete because the cosmic forces represented by the Night Lords are not destroyed, only suppressed into the background of Limveld.",
+   "entities": [
+    "Night Lord",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The stability achieved at the end of an expedition is real but requires ongoing maintenance and will not last indefinitely without continued effort.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In the ending where a Nightfarer chooses to remain in Limveld, the meaning of staying differs depending on which character makes the choice.",
+   "entities": [
+    "Nightfarers",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "If Wylder remains in Limveld, it may represent finding something worth staying for after a history of not finding anything worth staying for.",
+   "entities": [
+    "Wylder",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "If Guardian remains in Limveld, it may represent committing to ongoing protection of a world that clearly needs it.",
+   "entities": [
+    "Guardian",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "If Revenant remains in Limveld, it may represent accepting that who they are now matters more than whether they are continuous with who they were before death.",
+   "entities": [
+    "Revenant",
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 95
+  },
+  {
+   "text": "The remain-in-Limveld endings share a common theme of accepting impermanence as a condition of existence rather than a problem to solve.",
+   "entities": [
+    "Nightfarers",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The ending of deeper understanding is the rarest and requires sustained attentive engagement with the world across multiple expeditions.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 97
+  },
+  {
+   "text": "The deeper understanding ending occurs when Nightfarers not only defeat the third knight's Night Lord but demonstrate sufficient understanding of the forces that Night Lord represents, addressing the underlying cause rather than just its current manifestation.",
+   "entities": [
+    "Nightfarers",
+    "Night Lord"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 97
+  },
+  {
+   "text": "In the deeper understanding ending, Limveld's underlying cosmological principles are altered, making future cycles' Night Lords different and moving the world toward a new kind of order rather than restoring the old one.",
+   "entities": [
+    "Limveld",
+    "Night Lord"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 98
+  },
+  {
+   "text": "One ending represents the Nightfarers succeeding where the original civilization failed, finding a response to the Night Lords that the civilization's understanding could not produce.",
+   "entities": [
+    "Nightfarers",
+    "Night Lord",
+    "Pre-Catastrophe Civilization"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 98
+  },
+  {
+   "text": "This success-where-civilization-failed ending is framed as the most thematically hopeful conclusion, demonstrating that what was lost in the catastrophe is not permanently beyond recovery.",
+   "entities": [
+    "Nightfarers",
+    "Pre-Catastrophe Civilization"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Limveld is characterized as a world that fundamentally asks to be understood rather than merely survived or conquered.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nightfarers who achieve the deepest endings succeed because of their attentiveness to the world rather than their combat skill alone.",
+   "entities": [
+    "Nightfarers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Limveld persists after every expedition ends, changed by events but never destroyed or fully resolved, remaining ready for future expeditions.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The pre-catastrophe civilization built roads throughout the world that would eventually be unable to maintain the infrastructure connecting it.",
+   "entities": [
+    "Pre-Catastrophe Civilization",
+    "Roads of Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "Nightreign's central thematic question is how to respond to a repeating cycle that one can see clearly but may not be able to escape, framed through the three-night expedition cycle.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Wylder is characterized as finding enough immediate meaning in each task to keep going.",
+   "entities": [
+    "Wylder"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Duchess is characterized as carrying the weight of a tradition that still provides orientation even without the institution that produced it.",
+   "entities": [
+    "Duchess"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Guardian is characterized as trying again at a past failure with the determination that only genuine failure can produce.",
+   "entities": [
+    "Guardian"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Recluse is characterized as applying her understanding to a world that is itself the object of that understanding.",
+   "entities": [
+    "Recluse"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ironeye is characterized as bringing acceptance and peace to a world that needs people able to work within impermanence.",
+   "entities": [
+    "Ironeye"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Raider is characterized as bringing habits of community to a context that needs community to function.",
+   "entities": [
+    "Raider"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Executor is characterized as discovering their own identity when no longer defined by service.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Revenant is characterized as continuing despite uncertainty about their own continuity, because continuation is what they have.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The eight Nightfarers collectively represent a complete set of human responses to loss.",
+   "entities": [
+    "Nightfarers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Wylder represents the response of letting go of a lost thing entirely and finding sufficiency in what remains.",
+   "entities": [
+    "Wylder"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Duchess represents the response of carrying loss as identity, making the loss the foundation of a continued sense of self.",
+   "entities": [
+    "Duchess"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Guardian represents the response of treating loss as obligation, using past failure as the basis for renewed commitment.",
+   "entities": [
+    "Guardian"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Recluse represents the response of treating loss as information, studying what was lost to understand what the losing revealed.",
+   "entities": [
+    "Recluse"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ironeye represents the response of acceptance, incorporating loss into a way of being shaped by but not defined by absence.",
+   "entities": [
+    "Ironeye"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Raider represents the response of continuation, carrying a lost thing forward in practice even after it no longer exists.",
+   "entities": [
+    "Raider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Executor represents the response of interrogation, questioning what the lost thing actually was and whether it deserved the commitment it received.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Revenant represents the response of uncertainty, being unable to determine whether the self that continues after loss is the same self that existed before it.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The sites of grace in Limveld, even flickering or compromised ones, are remnants of a relationship between the world and divine forces that the catastrophe damaged but could not fully sever.",
+   "entities": [
+    "Sites of Grace",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nightfarers resting at uncertain sites of grace are depicted as trusting an unreliable connection in order to receive necessary renewal, a metaphor for faith.",
+   "entities": [
+    "Sites of Grace",
+    "Nightfarers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The architecture of the pre-catastrophe civilization, even in ruin, reflects the values of its builders, such as prioritizing natural light, communal gathering spaces, and sacred spaces.",
+   "entities": [
+    "Pre-Catastrophe Civilization"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "The roads of Limveld were built by a civilization that believed in its own long-term future and invested in infrastructure meant to serve generations.",
+   "entities": [
+    "Roads of Limveld",
+    "Pre-Catastrophe Civilization"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "The roads of the dead civilization still function and are used by the Nightfarers for a new purpose unforeseen by their builders.",
+   "entities": [
+    "Roads of Limveld",
+    "Nightfarers"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 90
+  },
+  {
+   "text": "After each expedition's third night ends, surviving Nightfarers earn a 'morning' that is described as real but provisional, since the Night Lords' forces remain present in the world's cosmological background.",
+   "entities": [
+    "Nightfarers",
+    "Night Lord",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 99
+  },
+  {
+   "text": "During quiet periods between expeditions, Limveld's ambient sounds (wind and water moving through ruined architecture) occasionally mimic what the world sounded like before the catastrophe.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nightfarers who learn to distinguish the sounds of the old world from the transformed world are considered to have the deepest, most embodied understanding of Limveld.",
+   "entities": [
+    "Nightfarers",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-3ba5fd72"
+}

@@ -124,6 +124,56 @@ def compose(project: VideoProject, art_path: Path, title_text: str, out: Path) -
     return out
 
 
+EPISODE_ART = 1400   # Spotify's minimum for square art; the key art has no detail beyond it
+
+
+def compose_episode_art(project: VideoProject, art_path: Path, title_text: str,
+                        out: Path) -> Path:
+    """Square Spotify episode art from the same key art: the game's name over a dark
+    foot, the channel tagline in amber beneath, matching the show cover."""
+    ch = project.channel
+    tpl = ch.thumbnail
+    side = EPISODE_ART
+    art = Image.open(art_path).convert("RGBA")
+    crop = min(art.size)
+    art = art.crop(((art.width - crop) // 2, (art.height - crop) // 2,
+                    (art.width + crop) // 2, (art.height + crop) // 2))
+    img = art.resize((side, side), Image.LANCZOS)   # full colour, as on the published thumbnail
+
+    foot = np.clip((np.linspace(0, 1, side) - 0.5) / 0.35, 0, 1)[:, None] * 235
+    shade = np.zeros((side, side, 4), dtype=np.uint8)
+    shade[..., :3] = (7, 8, 10)
+    shade[..., 3] = np.repeat(foot, side, axis=1).astype(np.uint8)
+    img.alpha_composite(Image.fromarray(shade, "RGBA"))
+
+    draw = ImageDraw.Draw(img)
+    lines = [title_text.upper()]
+    title_font = _fit_font(draw, lines[0], ch.path(tpl.title_font), side * 0.86, 230)
+    words = lines[0].split()
+    if title_font.size < 150 and len(words) > 1:     # long names read better on two lines
+        cut = min(range(1, len(words)), key=lambda i: abs(len(" ".join(words[:i]))
+                                                          - len(" ".join(words[i:]))))
+        lines = [" ".join(words[:cut]), " ".join(words[cut:])]
+        title_font = min((_fit_font(draw, ln, ch.path(tpl.title_font), side * 0.86, 200)
+                          for ln in lines), key=lambda f: f.size)
+    tag_font = (_fit_font(draw, ch.tagline.upper(), ch.path(tpl.title_font), side * 0.74, 60)
+                if ch.tagline else None)
+
+    # Stack from the bottom up so the block always ends at the same margin.
+    line_h = title_font.size * 1.05
+    y = side * 0.93 - (tag_font.size * 1.6 if tag_font else 0) - line_h * len(lines)
+    for ln in lines:
+        _shadowed_text(img, (side // 2, int(y + line_h / 2)), ln, title_font,
+                       tpl.title_color, anchor="mm")
+        y += line_h
+    if tag_font:
+        _shadowed_text(img, (side // 2, int(y + tag_font.size)), ch.tagline.upper(),
+                       tag_font, tpl.badge_color, anchor="mm")
+    out.parent.mkdir(parents=True, exist_ok=True)
+    img.convert("RGB").save(out, quality=92, optimize=True)
+    return out
+
+
 # First try: the references go to the image tool as a mood board (REF_REQUEST below), which
 # keeps their look closest. But they are usually official key art or other channels'
 # thumbnails, and the tool may refuse anything that reads as a copy of them. Blurring their
@@ -421,8 +471,12 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
         title_text = params.get("title_text") or direction.get("title_text") or project.game
         compose(project, chosen, title_text, project.thumbnail_path)
 
+    episode_title = (params.get("title_text") or project.game) if ref_mode else title_text
+    compose_episode_art(project, chosen, episode_title, project.episode_art_path)
+
     size_kb = project.thumbnail_path.stat().st_size / 1024
     log(f"Thumbnail: {project.thumbnail_path.name} from {chosen.name} ({size_kb:.0f} KB, "
         f"{'reference' if ref_mode else 'key art'} mode).")
+    log(f"Spotify episode art: {project.episode_art_path.name}")
     return {"thumbnail": str(project.thumbnail_path), "art": chosen.name,
             "mode": "reference" if ref_mode else "keyart", "kb": round(size_kb)}

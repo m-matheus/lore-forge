@@ -1,0 +1,782 @@
+{
+ "entities": [
+  {
+   "name": "Aldrich",
+   "kind": "boss",
+   "aliases": [
+    "Devourer of Gods",
+    "Saint of the Deep"
+   ]
+  },
+  {
+   "name": "Gwyndolin",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Anri of Astora",
+   "kind": "character",
+   "aliases": [
+    "Anri"
+   ]
+  },
+  {
+   "name": "Yhorm the Giant",
+   "kind": "boss",
+   "aliases": [
+    "Yhorm"
+   ]
+  },
+  {
+   "name": "Siegward of Catarina",
+   "kind": "character",
+   "aliases": [
+    "Siegward"
+   ]
+  },
+  {
+   "name": "Storm Ruler",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Profaned Capital",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Profaned Flame",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Irithyll Dungeon",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "High Priestess Emma",
+   "kind": "character",
+   "aliases": [
+    "Emma"
+   ]
+  },
+  {
+   "name": "Basin of Vows",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Pontiff Sulyvahn",
+   "kind": "character",
+   "aliases": [
+    "Sulyvahn"
+   ]
+  },
+  {
+   "name": "Dancer of the Boreal Valley",
+   "kind": "boss",
+   "aliases": [
+    "the Dancer"
+   ]
+  },
+  {
+   "name": "Vordt",
+   "kind": "boss",
+   "aliases": [
+    "Vordt of the Boreal Valley"
+   ]
+  },
+  {
+   "name": "Lothric Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Dragon Slayer Armor",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Pilgrim Butterflies",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Grand Archives",
+   "kind": "location",
+   "aliases": [
+    "Lothric's Grand Archives"
+   ]
+  },
+  {
+   "name": "Crystal Sage",
+   "kind": "boss",
+   "aliases": [
+    "the Sage"
+   ]
+  },
+  {
+   "name": "Lion Knight Albert",
+   "kind": "boss",
+   "aliases": [
+    "Albert"
+   ]
+  },
+  {
+   "name": "Black Hand Kamui",
+   "kind": "boss",
+   "aliases": [
+    "Kamui"
+   ]
+  },
+  {
+   "name": "Cream Hild",
+   "kind": "boss",
+   "aliases": [
+    "Daughter of Crystal Cream Hild"
+   ]
+  },
+  {
+   "name": "Prince Lothric",
+   "kind": "boss",
+   "aliases": [
+    "Lothric"
+   ]
+  },
+  {
+   "name": "Lorian",
+   "kind": "boss",
+   "aliases": [
+    "Prince Lorian"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Unkindled",
+    "the player"
+   ]
+  },
+  {
+   "name": "Firelink Shrine",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "After Aldrich's death, his monstrous form dissolved, revealing Gwyndolin's remains had finally stopped moving inside him.",
+   "entities": [
+    "Aldrich",
+    "Gwyndolin"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Among Aldrich's remains lay a cleric's staff, hinting at his origins before becoming a monster.",
+   "entities": [
+    "Aldrich"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": 92
+  },
+  {
+   "text": "The cinders of a lord found within Aldrich's remains proved he had once linked the first flame.",
+   "entities": [
+    "Aldrich"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Ashen One found a sword belonging to Anri of Astora among the ruins near Aldrich, suggesting Anri had tried to confront Aldrich before the Ashen One arrived.",
+   "entities": [
+    "Anri of Astora",
+    "Aldrich"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92
+  },
+  {
+   "text": "After defeating Aldrich, two Lords of Cinder (the Abyss Watchers and Aldrich) had been put to rest, leaving Yhorm the Giant and Prince Lothric unaccounted for.",
+   "entities": [
+    "Yhorm the Giant",
+    "Prince Lothric"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Irithyll Dungeon is a network of cells and torture chambers beneath Irithyll where Pontiff Sulyvahn's regime imprisoned and disposed of threats to its authority.",
+   "entities": [
+    "Irithyll Dungeon",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Profaned Capital is a ruined city covered in ash, with streets sunk into poisonous swamps, once ruled by Yhorm the Giant.",
+   "entities": [
+    "Profaned Capital",
+    "Yhorm the Giant"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yhorm the Giant was descended from an ancient conqueror whose lineage predated the current crisis by generations.",
+   "entities": [
+    "Yhorm the Giant"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Yhorm the Giant ruled over a population of humans in the Profaned Capital and tried to protect and stabilize them despite his massive size compared to them.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Capital"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "A curse combined with the interference of unscrupulous court sorcerers caused the eruption of the Profaned Flame in Yhorm's capital.",
+   "entities": [
+    "Profaned Flame",
+    "Profaned Capital"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Profaned Flame could not be extinguished, burned without fuel, and seemed to actively seek out human life.",
+   "entities": [
+    "Profaned Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Profaned Flame destroyed every human being in the Profaned Capital, while Yhorm the Giant survived because giants were hardier than humans.",
+   "entities": [
+    "Profaned Flame",
+    "Yhorm the Giant",
+    "Profaned Capital"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "In grief over his people's destruction, Yhorm the Giant chose to link the first flame, hoping his sacrifice would subdue the Profaned Flame.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Yhorm the Giant possessed two identical Storm Ruler greatswords capable of channeling the power of storms.",
+   "entities": [
+    "Yhorm the Giant",
+    "Storm Ruler"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Before linking the flame, Yhorm the Giant gave one Storm Ruler to his trusted friend, Siegward of Catarina, with instructions to use it against him if he ever returned as a threat.",
+   "entities": [
+    "Yhorm the Giant",
+    "Siegward of Catarina",
+    "Storm Ruler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Yhorm the Giant became a Lord of Cinder by linking the first flame, but the Profaned Flame continued to rain down and devastate his capital regardless.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "When the Lords of Cinder were resurrected by the tolling of the emergency bell, Yhorm the Giant returned to find his capital unchanged, still in ruins.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Capital"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Yhorm the Giant retreated to his throne room, sitting with his great machete across his knees, waiting without purpose.",
+   "entities": [
+    "Yhorm the Giant"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "When the Ashen One confronted Yhorm the Giant, a Storm Ruler greatsword lay near his throne, possibly placed deliberately by Yhorm himself.",
+   "entities": [
+    "Yhorm the Giant",
+    "Storm Ruler",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Storm Ruler greatsword can unleash gusts of thunderous wind capable of staggering Yhorm the Giant, who is otherwise resistant to conventional weapons.",
+   "entities": [
+    "Storm Ruler",
+    "Yhorm the Giant"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In some versions of the fight, Siegward of Catarina arrives to help the Ashen One defeat Yhorm the Giant, honoring his old promise.",
+   "entities": [
+    "Siegward of Catarina",
+    "Yhorm the Giant",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Ashen One defeated Yhorm the Giant and claimed his cinders of a lord, marking the third Lord of Cinder dealt with.",
+   "entities": [
+    "Ashen One",
+    "Yhorm the Giant"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "After three Lords of Cinder (Abyss Watchers, Aldrich, Yhorm) were defeated, only Prince Lothric remained unaccounted for.",
+   "entities": [
+    "Prince Lothric"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "High Priestess Emma, dying at the altar in the chapel, delivered her final message to the Ashen One, urging them to make Prince Lothric become a lord and save the world.",
+   "entities": [
+    "High Priestess Emma",
+    "Prince Lothric",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "High Priestess Emma gave the Ashen One the Basin of Vows, an artifact needed to access Lothric Castle.",
+   "entities": [
+    "High Priestess Emma",
+    "Basin of Vows",
+    "Ashen One",
+    "Lothric Castle"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "High Priestess Emma died immediately after giving the Ashen One the Basin of Vows and her final message.",
+   "entities": [
+    "High Priestess Emma"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Dancer of the Boreal Valley, one of Pontiff Sulyvahn's Outrider Knights, appeared in the chapel after Emma's death to stop the Ashen One.",
+   "entities": [
+    "Dancer of the Boreal Valley",
+    "Pontiff Sulyvahn",
+    "High Priestess Emma",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Dancer of the Boreal Valley was, like Vordt, once an Irithyllian Outrider Knight of old royal lineage before being transformed by Sulyvahn's cursed eye rings.",
+   "entities": [
+    "Dancer of the Boreal Valley",
+    "Vordt",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Pontiff Sulyvahn stationed the Dancer of the Boreal Valley and a division of Outriders in Lothric for unclear purposes.",
+   "entities": [
+    "Dancer of the Boreal Valley",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "The Dancer of the Boreal Valley wields one sword burning with phantom flame and another emanating cold dark mist.",
+   "entities": [
+    "Dancer of the Boreal Valley"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dancer of the Boreal Valley alternates between slow, elegant attacks and a wild spinning spiral attack that sets the floor ablaze.",
+   "entities": [
+    "Dancer of the Boreal Valley"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One defeated the Dancer of the Boreal Valley, who collapsed into black ash.",
+   "entities": [
+    "Ashen One",
+    "Dancer of the Boreal Valley"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Placing the Basin of Vows on the altar statue in the chapel activated a hidden mechanism, lowering a ladder up into Lothric Castle.",
+   "entities": [
+    "Basin of Vows",
+    "Lothric Castle"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Lothric Castle is filled with hollowed knights who continue to fight with the discipline they had in life, despite having lost their minds.",
+   "entities": [
+    "Lothric Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Shrieking stone gargoyles that once served as architectural decorations in Lothric Castle have been animated and attack intruders from above.",
+   "entities": [
+    "Lothric Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Two ancient wyverns guard a balcony in Lothric Castle, breathing fire and blocking passage to the upper reaches.",
+   "entities": [
+    "Lothric Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One killed one wyvern in Lothric Castle by leaping from higher ground and stabbing it through the skull.",
+   "entities": [
+    "Ashen One",
+    "Lothric Castle"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The second wyvern in Lothric Castle was controlled by a parasitic pilgrim insect; killing the insect caused the wyvern to stop moving.",
+   "entities": [
+    "Lothric Castle"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Pilgrim butterflies in Lothric Castle are the corrupted remains of pilgrims who once sought the castle or its archives, now transformed into ghostly floating creatures.",
+   "entities": [
+    "Pilgrim Butterflies",
+    "Lothric Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Some knights in Lothric Castle exhibit abyssal growths on their armor, showing that the Abyss's corruption has spread into the castle.",
+   "entities": [
+    "Lothric Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dragon Slayer Armor, an ancient relic from the age of dragon-hunting knights, is animated by pilgrim butterflies and guards the bridge to the Grand Archives.",
+   "entities": [
+    "Dragon Slayer Armor",
+    "Pilgrim Butterflies",
+    "Grand Archives"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Dragon Slayer Armor wields a massive great axe and shield, both crackling with lightning.",
+   "entities": [
+    "Dragon Slayer Armor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One defeated the Dragon Slayer Armor, causing it to collapse and the controlling pilgrim butterflies to scatter.",
+   "entities": [
+    "Ashen One",
+    "Dragon Slayer Armor",
+    "Pilgrim Butterflies"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Grand Archives of Lothric house generations of accumulated knowledge, but the books themselves are cursed and attack intruders.",
+   "entities": [
+    "Grand Archives"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pools of melted wax in the Grand Archives can be used to coat the head, creating a protective barrier against the cursed spirits inhabiting the books.",
+   "entities": [
+    "Grand Archives"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cursed wax scholars, former researchers of the Grand Archives, now attack intruders rather than pursue knowledge.",
+   "entities": [
+    "Grand Archives"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Living bookshelves in the Grand Archives detach from walls and attack intruders.",
+   "entities": [
+    "Grand Archives"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A surviving Crystal Sage, the sibling of the one fought in the Cathedral of the Deep's woods, appears in the Grand Archives allied with Lothric.",
+   "entities": [
+    "Crystal Sage"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Ashen One defeated the surviving Crystal Sage in the Grand Archives.",
+   "entities": [
+    "Ashen One",
+    "Crystal Sage"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "At the top of the Grand Archives, three elite warriors called the Three Pillars of the king's rule - Lion Knight Albert, Black Hand Kamui, and Cream Hild - guard the path to Prince Lothric.",
+   "entities": [
+    "Lion Knight Albert",
+    "Black Hand Kamui",
+    "Cream Hild",
+    "Prince Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Lion Knight Albert fights with disciplined, precise sword and shield technique in service to the king.",
+   "entities": [
+    "Lion Knight Albert"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Black Hand Kamui is a royal assassin who fights with twin blades and extreme speed.",
+   "entities": [
+    "Black Hand Kamui"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cream Hild is a sorceress who provides magical support with crystal projectiles and energy bolts.",
+   "entities": [
+    "Cream Hild"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One defeated the Three Pillars (Albert, Kamui, and Cream Hild) one at a time on a balcony above the Grand Archives.",
+   "entities": [
+    "Ashen One",
+    "Lion Knight Albert",
+    "Black Hand Kamui",
+    "Cream Hild"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "After the Three Pillars fell, the Ashen One ascended via lift through a garden and bridge to the highest tower where Prince Lothric and Lorian waited.",
+   "entities": [
+    "Ashen One",
+    "Prince Lothric",
+    "Lorian"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Prince Lothric sits on a throne, pale, sickly, and physically weak, but possesses arcane abilities.",
+   "entities": [
+    "Prince Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Lorian is Prince Lothric's elder brother, once a renowned knight, who knelt before the throne, having lost the use of his legs and voice.",
+   "entities": [
+    "Lorian",
+    "Prince Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Lorian willingly took on part of Prince Lothric's curse to share his burden, losing his own legs and voice as the price.",
+   "entities": [
+    "Lorian",
+    "Prince Lothric"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "An unnamed mentor encouraged Prince Lothric to question the necessity of the endless cycle of sacrifice, fueling his decision to reject the flame.",
+   "entities": [
+    "Prince Lothric"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Lorian supported Prince Lothric's decision to reject the flame and followed him into isolation in the tower.",
+   "entities": [
+    "Lorian",
+    "Prince Lothric"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The emergency bell that resurrected the Lords of Cinder tolled because of Prince Lothric and Lorian's joint refusal to link the flame.",
+   "entities": [
+    "Prince Lothric",
+    "Lorian"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 80
+  },
+  {
+   "text": "In the final battle, Lorian fights using a flaming greatsword and teleports via bursts of flame despite being unable to walk.",
+   "entities": [
+    "Lorian"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96
+  }
+ ],
+ "_src": "src-3fa39680"
+}

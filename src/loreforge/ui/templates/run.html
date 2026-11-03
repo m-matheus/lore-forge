@@ -154,6 +154,19 @@
             </div>
           </template>
 
+          <!-- PREMIERE: where the video's QR code will point -->
+          <template x-if="step.id === 'premiere'">
+            <p class="muted">
+              <template x-if="state.podcast?.episode_link">
+                <span>QR code → this episode: <a target="_blank" :href="state.podcast.episode_link" x-text="state.podcast.episode_link"></a></span>
+              </template>
+              <template x-if="!state.podcast?.episode_link">
+                <span>QR code → the show, not this episode yet. Post the
+                  <a href="#" @click.prevent="openStep='podcast'">podcast episode</a> and paste its link there first.</span>
+              </template>
+            </p>
+          </template>
+
           <!-- Actions -->
           <div class="pane-actions">
             <button @click="run(step, false)" x-show="step.status !== 'done'"
@@ -219,6 +232,52 @@
             </div>
           </template>
 
+          <!-- PODCAST: ready to paste into Spotify for Creators, in its field order -->
+          <template x-if="step.id === 'podcast' && state.podcast">
+            <div class="pane-section">
+              <strong>Spotify upload <small class="muted">(New episode: copy each field as is)</small></strong>
+              <div class="output-preview">
+                <div class="yt-field-head">
+                  <strong>Audio file</strong>
+                  <a class="secondary outline copy-btn" role="button" download
+                     :href="`/runs/${runId}/files/audio/podcast.mp3`">Download</a>
+                </div>
+              </div>
+              <template x-for="f in spotifyFields()" :key="f.label">
+                <div class="output-preview">
+                  <div class="yt-field-head">
+                    <strong x-text="f.label"></strong>
+                    <small class="muted" :class="f.max && f.text.length > f.max ? 'yt-over' : ''"
+                           x-text="f.max ? `${f.text.length} / ${f.max}` : `${f.text.length}`"></small>
+                    <button class="secondary outline copy-btn" @click="copy(f.text, f.label)" :disabled="!f.text">Copy</button>
+                  </div>
+                  <pre class="output-text" :class="f.label === 'Description' ? 'yt-desc' : 'small'"
+                       x-text="f.text || f.missing"></pre>
+                </div>
+              </template>
+              <div class="output-preview">
+                <div class="yt-field-head">
+                  <strong>Episode art</strong>
+                  <small class="muted" x-show="!state.podcast.art">run the thumbnail step</small>
+                  <a class="secondary outline copy-btn" role="button" download x-show="state.podcast.art"
+                     :href="`/runs/${runId}/files/thumbnail/episode_art.jpg?t=${stamp}`">Download</a>
+                </div>
+              </div>
+              <div class="output-preview">
+                <div class="yt-field-head"><strong>Settings</strong></div>
+                <pre class="output-text small">Explicit content: No · Promotional content: No · Episode type: Full
+Season / episode number: empty · Auto-generated chapters: Off · Comments: On</pre>
+              </div>
+              <label>Spotify episode link <small class="muted">(after publishing: Share → Copy link; the video's QR code will open it)</small>
+                <input x-model="brief.spotify_episode_url" @input="dirty=true" @change="saveBrief(true)"
+                       placeholder="https://open.spotify.com/episode/..."></label>
+              <small class="muted yt-over" x-show="brief.spotify_episode_url && !brief.spotify_episode_url.trim().startsWith('https://open.spotify.com/episode/')">
+                Not an open.spotify.com/episode/ link: the QR code would point to the show.</small>
+              <small class="muted" x-show="state.podcast.episode_link && steps.find(s => s.id === 'premiere')?.status === 'done'">
+                Changed the link after the Premiere export? Redo the premiere step to rebuild the QR code.</small>
+            </div>
+          </template>
+
           <!-- Output files -->
           <template x-if="(state.outputs?.[step.id] || []).length">
             <div class="pane-section">
@@ -261,7 +320,8 @@ const LEADS = {
   music: 'Builds a music bed matching the narration length.',
   thumbnail: 'With reference thumbnails: sent as a mood board for a new scene (described in words if the image tool refuses them), title composited where they had it. Without one: AI key art with the title and band drawn from the channel template.',
   metadata: 'Title, description, tags and chapters from real timings.',
-  premiere: 'Exports the Premiere XML timeline.',
+  podcast: "Mixes the narration and the music bed into the Spotify episode. Post it, then paste the episode link below so the video's QR code opens it.",
+  premiere: "Exports the Premiere XML timeline, with the Spotify QR code pointing to this video's episode.",
 };
 
 function runPage(runId, initialSteps) {
@@ -297,7 +357,8 @@ function runPage(runId, initialSteps) {
         const p = this.state.project;
         this.brief = {game: p.game, format: p.format, target_minutes: p.target_minutes,
           scope: p.scope, publisher: p.publisher, notes: p.notes, channel_slug: p.channel_slug,
-          reference_urls: p.reference_urls.join('\n'), footage_urls: p.footage_urls.join('\n')};
+          reference_urls: p.reference_urls.join('\n'), footage_urls: p.footage_urls.join('\n'),
+          spotify_episode_url: p.spotify_episode_url || ''};
       }
     },
 
@@ -364,6 +425,15 @@ function runPage(runId, initialSteps) {
         {label: 'Title', text: m.title, max: 100},
         {label: 'Description', text: m.description, max: 5000},
         {label: 'Tags', text: (m.tags || []).join(', '), max: 500},
+      ];
+    },
+    // Spotify for Creators' episode fields (description: 4000 chars).
+    spotifyFields() {
+      const pod = this.state.podcast;
+      return [
+        {label: 'Title', text: pod.title},
+        {label: 'Description', text: pod.description, max: 4000,
+         missing: 'No podcast description yet: run the metadata step, then redo this one.'},
       ];
     },
     copy(text, label) {

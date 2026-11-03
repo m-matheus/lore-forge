@@ -1,5 +1,7 @@
 {seo_paragraph}
 
+{spotify_line}
+
 Perfect for fans of {fans_of}, and for anyone who wants a calm, detailed sleep documentary about {game}.
 
 In this video:
@@ -15,6 +17,8 @@ ABOUT {channel_upper}
 {channel_name} tells the stories of video game worlds slowly and quietly, in long-form narrations you can fall asleep to. No jump scares, no loud sound design: just the lore, the rain and a steady voice.
 
 {game} is the property of {publisher}. All rights to the game, its footage and its music belong to their respective owners.
+
+{music_credit}
 
 If this helped you rest, subscribe for a new long night of lore every week.
 Leave a like so others can find their way here too.

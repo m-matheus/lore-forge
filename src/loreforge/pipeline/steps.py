@@ -99,6 +99,10 @@ STEPS: list[Step] = [
          is_done=lambda p: p.thumbnail_path.exists(), requires=(GAME,)),
     Step("metadata", "Metadata + chapters", "metadata_service",
          is_done=lambda p: p.metadata_path.exists(), requires=(OUTLINE, SECTIONS)),
+    # Before the edit: once the episode is posted, its link goes in the brief and the
+    # premiere step points the video's QR code at it.
+    Step("podcast", "Podcast episode (Spotify)", "podcast_service",
+         is_done=lambda p: p.podcast_mp3_path.exists(), requires=(NARRATION,)),
     Step("premiere", "Premiere XML", "premiere_service",
          is_done=lambda p: p.premiere_project_path.exists(), requires=(SCENES, SECTIONS)),
 ]

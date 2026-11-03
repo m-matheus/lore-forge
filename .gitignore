@@ -24,3 +24,7 @@ channels/*/assets/music/*
 Thumbs.db
 .idea/
 .vscode/
+
+
+channels/*/assets/*.mogrt
+channels/*/assets/spotify/notice.mov

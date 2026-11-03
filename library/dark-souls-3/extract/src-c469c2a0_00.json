@@ -1,0 +1,1308 @@
+{
+ "entities": [
+  {
+   "name": "Gwyn",
+   "kind": "character",
+   "aliases": [
+    "Lord of Sunlight",
+    "Lord of Cinder Gwyn"
+   ]
+  },
+  {
+   "name": "Everlasting Dragons",
+   "kind": "faction",
+   "aliases": [
+    "Ancient Dragons"
+   ]
+  },
+  {
+   "name": "First Flame",
+   "kind": "concept",
+   "aliases": [
+    "the Flame"
+   ]
+  },
+  {
+   "name": "Hollows",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Nito",
+   "kind": "character",
+   "aliases": [
+    "Graalord Neato",
+    "Gravelord Nito"
+   ]
+  },
+  {
+   "name": "Witch of Izalith",
+   "kind": "character",
+   "aliases": [
+    "Witch of Isizelith"
+   ]
+  },
+  {
+   "name": "Furtive Pygmy",
+   "kind": "character",
+   "aliases": [
+    "fertive pygmy"
+   ]
+  },
+  {
+   "name": "Dark Soul",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Seath the Scaleless",
+   "kind": "character",
+   "aliases": [
+    "Seath",
+    "Saith"
+   ]
+  },
+  {
+   "name": "Anor Londo",
+   "kind": "location",
+   "aliases": [
+    "Anorlando",
+    "Anorondo"
+   ]
+  },
+  {
+   "name": "Gwyn's Firstborn",
+   "kind": "character",
+   "aliases": [
+    "god of war",
+    "the Nameless King"
+   ]
+  },
+  {
+   "name": "Gwynevere",
+   "kind": "character",
+   "aliases": [
+    "Gwynever"
+   ]
+  },
+  {
+   "name": "Gwyndolin",
+   "kind": "character",
+   "aliases": [
+    "Gwindelyn",
+    "Gwindelin",
+    "Gwinderin"
+   ]
+  },
+  {
+   "name": "Dragon Slayer Ornstein",
+   "kind": "character",
+   "aliases": [
+    "Ornstein"
+   ]
+  },
+  {
+   "name": "Hawkeye Gough",
+   "kind": "character",
+   "aliases": [
+    "Hawkeye G"
+   ]
+  },
+  {
+   "name": "Lord's Blade Ciaran",
+   "kind": "character",
+   "aliases": [
+    "Lord's Blade Sirin"
+   ]
+  },
+  {
+   "name": "Artorias of the Abyss",
+   "kind": "character",
+   "aliases": [
+    "Artorius"
+   ]
+  },
+  {
+   "name": "Sif",
+   "kind": "character",
+   "aliases": [
+    "Sith"
+   ]
+  },
+  {
+   "name": "Four Kings",
+   "kind": "character",
+   "aliases": [
+    "four kings of New Londo"
+   ]
+  },
+  {
+   "name": "New Londo",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Dark Sign",
+   "kind": "concept",
+   "aliases": [
+    "dark sane"
+   ]
+  },
+  {
+   "name": "Undead Curse",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "King Vendrick",
+   "kind": "character",
+   "aliases": [
+    "King Vendrich"
+   ]
+  },
+  {
+   "name": "Drangleic",
+   "kind": "location",
+   "aliases": [
+    "Drangle"
+   ]
+  },
+  {
+   "name": "Kingdom of Lothric",
+   "kind": "location",
+   "aliases": [
+    "Lothric"
+   ]
+  },
+  {
+   "name": "Lords of Cinder",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Unkindled",
+   "kind": "faction",
+   "aliases": [
+    "unckindled"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "the player character",
+    "unckindled one"
+   ]
+  },
+  {
+   "name": "Firelink Shrine",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Way of White",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Dark Wraiths",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Darkstalker Kaathe",
+   "kind": "character",
+   "aliases": [
+    "dark stalker Koti"
+   ]
+  },
+  {
+   "name": "Sable Church of Londor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Undead Settlement",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lothric Prince",
+   "kind": "character",
+   "aliases": [
+    "Prince Lothric"
+   ]
+  },
+  {
+   "name": "Prince Lorian",
+   "kind": "character",
+   "aliases": [
+    "Laurian"
+   ]
+  },
+  {
+   "name": "Demon Prince",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Pontiff Sulyvahn",
+   "kind": "character",
+   "aliases": [
+    "Pontiff Sulivan",
+    "Sulivon",
+    "Sullean"
+   ]
+  },
+  {
+   "name": "Lothric Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lothric, Younger Prince of",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lothric of Carim",
+   "kind": "character",
+   "aliases": [
+    "Llath of Corand",
+    "Ludlath",
+    "Lleth"
+   ]
+  },
+  {
+   "name": "Abyss Watchers",
+   "kind": "boss",
+   "aliases": [
+    "the Abyss Watchers"
+   ]
+  },
+  {
+   "name": "Farron Keep",
+   "kind": "location",
+   "aliases": [
+    "Faren Keep"
+   ]
+  },
+  {
+   "name": "Yhorm the Giant",
+   "kind": "character",
+   "aliases": [
+    "Yor the Giant",
+    "Yor"
+   ]
+  },
+  {
+   "name": "Profaned Capital",
+   "kind": "location",
+   "aliases": [
+    "profained capital"
+   ]
+  },
+  {
+   "name": "Profaned Flame",
+   "kind": "concept",
+   "aliases": [
+    "profained flame"
+   ]
+  },
+  {
+   "name": "Siegward of Catarina",
+   "kind": "character",
+   "aliases": [
+    "Seward of Katarina",
+    "Sewood"
+   ]
+  },
+  {
+   "name": "Storm Ruler",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Aldrich, Saint of the Deep",
+   "kind": "character",
+   "aliases": [
+    "Uldrich",
+    "Aldrich"
+   ]
+  },
+  {
+   "name": "Cathedral of the Deep",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Archdeacon McDonnell",
+   "kind": "character",
+   "aliases": [
+    "Arch Deacon Macdonald"
+   ]
+  },
+  {
+   "name": "Irithyll of the Boreal Valley",
+   "kind": "location",
+   "aliases": [
+    "Ithl of the boreal valley",
+    "Irithyll"
+   ]
+  },
+  {
+   "name": "Painted World of Ariandel",
+   "kind": "location",
+   "aliases": [
+    "painted world of Arendelle"
+   ]
+  },
+  {
+   "name": "Dark Moon Blades",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Outrider Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vordt of the Boreal Valley",
+   "kind": "boss",
+   "aliases": [
+    "Vault of the Boreal Valley"
+   ]
+  },
+  {
+   "name": "Dancer of the Boreal Valley",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Grand Archives",
+   "kind": "location",
+   "aliases": [
+    "grand archives"
+   ]
+  },
+  {
+   "name": "Cemetery of Ash",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "In the Age of Ancients, the world was formless, gray, and shrouded in fog with no life, death, heat, cold, light, or dark.",
+   "entities": [
+    "Everlasting Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Everlasting dragons, immortal stone-scaled beings, ruled the unchanging world of the Age of Ancients.",
+   "entities": [
+    "Everlasting Dragons"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "The appearance of the First Flame introduced disparity into the world: heat and cold, life and death, light and dark.",
+   "entities": [
+    "First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Hollows were humanoid creatures who emerged from the darkness around the First Flame, drawn to its warmth.",
+   "entities": [
+    "Hollows",
+    "First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Four beings discovered Lord Souls within the First Flame, transforming them from hollow vessels into beings of great power.",
+   "entities": [
+    "First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Nito, called the first of the dead, claimed a Lord Soul that gave him dominion over death.",
+   "entities": [
+    "Nito"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The Witch of Izalith found the Soul of Life, becoming mother to the Flame Sorcerers and eventually the Daughters of Chaos.",
+   "entities": [
+    "Witch of Izalith"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Gwyn seized a Lord Soul of great brilliance that granted him power over lightning, becoming Lord of Sunlight.",
+   "entities": [
+    "Gwyn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The Furtive Pygmy found the fourth Lord Soul, the Dark Soul, a being so insignificant that history rarely mentions them.",
+   "entities": [
+    "Furtive Pygmy",
+    "Dark Soul"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Unlike the other Lord Souls, the Dark Soul did not grant immediate power; the Furtive Pygmy split it apart and distributed fragments to create humanity.",
+   "entities": [
+    "Furtive Pygmy",
+    "Dark Soul"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Every human carries a fragment of the original Dark Soul, a piece of darkness that grows stronger as the First Flame weakens.",
+   "entities": [
+    "Dark Soul"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The four Lord Soul-bearers waged war against the everlasting dragons, with Gwyn using lightning to shear stone scales from the dragons.",
+   "entities": [
+    "Gwyn",
+    "Everlasting Dragons"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The Witch of Izalith used firestorms and Nito unleashed death itself against the dragons during the war.",
+   "entities": [
+    "Witch of Izalith",
+    "Nito",
+    "Everlasting Dragons"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Seath the Scaleless, a dragon born without scales and an outcast among his kind, betrayed the dragons by teaching the gods how to kill immortal dragons.",
+   "entities": [
+    "Seath the Scaleless",
+    "Everlasting Dragons"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The gods won the war against the dragons, ending the Age of Ancients and beginning the Age of Fire.",
+   "entities": [
+    "Everlasting Dragons"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Gwyn established his seat of power at Anor Londo, a city of white stone bathed in eternal sunlight.",
+   "entities": [
+    "Gwyn",
+    "Anor Londo"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Gwyn had three children: a firstborn son whose name was struck from history, Gwynevere, and Gwyndolin.",
+   "entities": [
+    "Gwyn",
+    "Gwyn's Firstborn",
+    "Gwynevere",
+    "Gwyndolin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Gwynevere was called the Princess of Sunlight and was beloved and radiant.",
+   "entities": [
+    "Gwynevere"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Gwyndolin was born a son but raised as a daughter, possessing an affinity for the moon rather than his father's sunlight.",
+   "entities": [
+    "Gwyndolin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Gwyn commanded four legendary knights: Dragon Slayer Ornstein, Hawkeye Gough, Lord's Blade Ciaran, and Artorias of the Abyss.",
+   "entities": [
+    "Gwyn",
+    "Dragon Slayer Ornstein",
+    "Hawkeye Gough",
+    "Lord's Blade Ciaran",
+    "Artorias of the Abyss"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Dragon Slayer Ornstein had served under Gwyn's firstborn son during the war against the dragons.",
+   "entities": [
+    "Dragon Slayer Ornstein",
+    "Gwyn's Firstborn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Artorias of the Abyss walked alongside a great wolf companion named Sif.",
+   "entities": [
+    "Artorias of the Abyss",
+    "Sif"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Gwyn rewarded Seath for his betrayal of the dragons by naming him a duke, giving him a fragment of his own Lord Soul, and granting him the archives to research immortality.",
+   "entities": [
+    "Gwyn",
+    "Seath the Scaleless"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Seath eventually went mad in his research, creating abominations out of jealousy over scaled dragons.",
+   "entities": [
+    "Seath the Scaleless"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "The Four Kings of New Londo received a fragment of Gwyn's Lord Soul for building a great underground civilization, a gift that later caused their downfall when the Abyss consumed New Londo.",
+   "entities": [
+    "Four Kings",
+    "New Londo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "As the First Flame began to fade, the power of the gods weakened along with it, while humanity's inner darkness grew stronger.",
+   "entities": [
+    "First Flame",
+    "Gwyn"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Gwyn chose to link the First Flame, sacrificing himself by splitting his Lord Soul among trusted servants and Seath, then walking into the Kiln of the First Flame as kindling.",
+   "entities": [
+    "Gwyn",
+    "First Flame",
+    "Seath the Scaleless"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Gwyn's sacrifice created the Dark Sign, a curse marking certain humans as undead who resurrect at bonfires after death instead of dying permanently.",
+   "entities": [
+    "Gwyn",
+    "Dark Sign"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Undead who die repeatedly gradually lose their minds and memories, eventually becoming mindless Hollows.",
+   "entities": [
+    "Undead Curse",
+    "Hollows"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Afflicted undead were gathered and locked away in remote asylums by the gods, who feared them.",
+   "entities": [
+    "Undead Curse"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Gwyn's linking of the flame set a precedent: whenever the flame faded again, a new champion would be found to link it anew, willing or not.",
+   "entities": [
+    "Gwyn",
+    "First Flame"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The repeating cycle of the Age of Fire fading and being relinked became progressively weaker, with each linking buying less time than the last.",
+   "entities": [
+    "First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Gwyn's death, Gwynevere left Anor Londo, presumably with her husband, the flame god Flann.",
+   "entities": [
+    "Gwynevere"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Gwyndolin remained in Anor Londo, maintaining an illusion of Gwynevere's presence to keep humanity's hope and continue his father's mission of perpetuating the Age of Fire.",
+   "entities": [
+    "Gwyndolin",
+    "Gwynevere",
+    "Gwyn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "In Drangleic, King Vendrick sought to break the curse of the undead and end the cycle, but failed and eventually went hollow, wandering his own kingdom's crypts.",
+   "entities": [
+    "King Vendrick",
+    "Drangleic"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Successful champions who linked the flame became Lords of Cinder, their bodies burned to ash while their souls fueled the flame for another age.",
+   "entities": [
+    "Lords of Cinder"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Champions who failed to become Lords of Cinder became Unkindled, ash lacking even the strength to be proper kindling.",
+   "entities": [
+    "Unkindled"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Kingdom of Lothric became a place where the transitory lands of past Lords of Cinder converge, causing time and space to break down so different eras exist in the same location.",
+   "entities": [
+    "Kingdom of Lothric"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Dragon Slayer Ornstein eventually left Anor Londo in search of the Nameless King, Gwyn's disgraced firstborn son.",
+   "entities": [
+    "Dragon Slayer Ornstein",
+    "Gwyn's Firstborn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The Way of White is a religious order dedicated to preserving the Age of Fire, teaching that linking the flame is a sacred, noble sacrifice.",
+   "entities": [
+    "Way of White"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Dark Wraiths serve Darkstalker Kaathe and believe the Age of Dark is humanity's birthright, stolen by Gwyn's fear and pride.",
+   "entities": [
+    "Dark Wraiths",
+    "Darkstalker Kaathe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Sable Church of Londor seeks to usurp the First Flame's power for humanity's own use rather than simply letting it die.",
+   "entities": [
+    "Sable Church of Londor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Undead Settlement and Firelink Shrine became recurring way stations across the ages where undead gather before journeying to link the flame.",
+   "entities": [
+    "Undead Settlement",
+    "Firelink Shrine"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lothric of Carim, also called Lleth, linked the flame and became a Lord of Cinder despite being a pygmy naturally aligned with darkness.",
+   "entities": [
+    "Lothric of Carim"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Aldrich earned the title of Lord of Cinder through sheer power despite never intending to serve the flame.",
+   "entities": [
+    "Aldrich, Saint of the Deep"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Yhorm the Giant linked the flame for a specific reason and was horrified to be awakened and asked to do it again.",
+   "entities": [
+    "Yhorm the Giant"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Kingdom of Lothric was built with the singular purpose of breeding and preparing the perfect vessel to link the First Flame.",
+   "entities": [
+    "Kingdom of Lothric"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Prince Lothric, called the last hope of his line, was the culmination of generations of bloodline refinement, born frail but possessing tremendous magical power.",
+   "entities": [
+    "Lothric Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Prince Lothric's older brother Lorian was once the kingdom's greatest champion who slew the Demon Prince.",
+   "entities": [
+    "Prince Lorian",
+    "Lothric Prince",
+    "Demon Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "Lorian's victory over the Demon Prince left his great sword wreathed in flame but the demon's curse crippled him, leaving him unable to walk.",
+   "entities": [
+    "Prince Lorian",
+    "Demon Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "Lorian chose to share his younger brother Lothric's frailty curse so Lothric would not bear it alone, and the two became inseparable, with Lorian carrying Lothric and Lothric guiding Lorian with magic and strategy.",
+   "entities": [
+    "Prince Lorian",
+    "Lothric Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56
+  },
+  {
+   "text": "Prince Lothric and Prince Lorian together refused to link the first flame, choosing to let the Age of Fire die rather than sacrifice themselves for a few more years.",
+   "entities": [
+    "Lothric Prince",
+    "Prince Lorian"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 57
+  },
+  {
+   "text": "In response to Lothric's refusal, the bells tolled and summoned the old Lords of Cinder from their graves instead of new champions.",
+   "entities": [
+    "Lords of Cinder"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Four Lords of Cinder rose from death: Lothric of Carim, Aldrich Saint of the Deep, the Abyss Watchers, and Yhorm the Giant.",
+   "entities": [
+    "Lothric of Carim",
+    "Aldrich, Saint of the Deep",
+    "Abyss Watchers",
+    "Yhorm the Giant"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "All the raised Lords of Cinder except Lothric of Carim abandoned their thrones and refused to link the flame again.",
+   "entities": [
+    "Lords of Cinder",
+    "Lothric of Carim"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "When even the proven Lords of Cinder refused to link the flame, the bells tolled once more, summoning the Unkindled, failed undead champions who had never become proper cinder.",
+   "entities": [
+    "Unkindled"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59
+  },
+  {
+   "text": "The Ashen One is one such Unkindled, awakening in the Cemetery of Ash where they previously failed and died in a past age.",
+   "entities": [
+    "Ashen One",
+    "Cemetery of Ash"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Ashen One's task is to hunt down and slay the Lords of Cinder and forcibly return their cinders to their thrones at Firelink Shrine to open the path to the Kiln of the First Flame.",
+   "entities": [
+    "Ashen One",
+    "Lords of Cinder",
+    "Firelink Shrine"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Lothric of Carim is the only Lord of Cinder who sits willingly on his throne at Firelink Shrine without being hunted down.",
+   "entities": [
+    "Lothric of Carim",
+    "Firelink Shrine"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Lothric of Carim has had his legs cut off, possibly as punishment, sacrifice, or to prevent him from walking away like the other Lords of Cinder.",
+   "entities": [
+    "Lothric of Carim"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Lothric of Carim teaches the Ashen One the skill of transposing souls, allowing them to forge weapons and miracles from boss souls.",
+   "entities": [
+    "Lothric of Carim",
+    "Ashen One"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Lothric of Carim genuinely believes the Age of Fire must continue and fears the darkness and hollowing that would follow its end.",
+   "entities": [
+    "Lothric of Carim"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Abyss Watchers were an entire legion of warriors who drank from the blood of the wolf, linking their souls into one shared entity across many bodies.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Abyss Watchers modeled themselves after Artorias and took up his mission of hunting down the Abyss wherever it appeared.",
+   "entities": [
+    "Abyss Watchers",
+    "Artorias of the Abyss"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Abyss Watchers were headquartered at Farron Keep, a poisonous swamp that once was something greater.",
+   "entities": [
+    "Abyss Watchers",
+    "Farron Keep"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Abyss Watchers eventually became corrupted by the Abyss they hunted, turning some of them against each other in an endless internal battle.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Abyss Watchers linked the flame together as a legion, their combined strength sufficient to kindle it, but became too consumed by infighting to remember their duty afterward.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58
+  },
+  {
+   "text": "Yhorm the Giant was the king of the Profaned Capital, a ruler who genuinely loved his people despite fear of giants.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Capital"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Yhorm linked the first flame hoping to gain power to protect his people from the corruption of the Profaned Flame.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Before linking the flame, Yhorm gave his friend Siegward of Catarina the Storm Ruler, a great sword designed to kill giants, with instructions to use it on Yhorm if he ever went mad or hollow.",
+   "entities": [
+    "Yhorm the Giant",
+    "Siegward of Catarina",
+    "Storm Ruler"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Despite Yhorm's sacrifice, the Profaned Capital was destroyed by the Profaned Flame anyway, and his people died.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Capital",
+    "Profaned Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Upon being raised again as a Lord of Cinder, Yhorm returned to his own throne room in the ruined Profaned Capital rather than Firelink Shrine, waiting for Siegward to fulfill his promise and end him.",
+   "entities": [
+    "Yhorm the Giant",
+    "Profaned Capital",
+    "Siegward of Catarina"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Aldrich was originally a cleric who developed a taste for human flesh, becoming a bloated mass of sludge and darkness after consuming many people.",
+   "entities": [
+    "Aldrich, Saint of the Deep"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Aldrich believed an Age of the Deep Sea was coming and decided to accelerate its arrival by devouring gods to hasten the end of the Age of Fire.",
+   "entities": [
+    "Aldrich, Saint of the Deep"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Cathedral of the Deep imprisoned Aldrich but could not execute him due to his immense power, so they forced him to become a Lord of Cinder as a means of control.",
+   "entities": [
+    "Aldrich, Saint of the Deep",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Archdeacon McDonnell and other Cathedral of the Deep leaders became corrupted by Aldrich's prophetic vision, turning the cathedral into a temple dedicated to him.",
+   "entities": [
+    "Archdeacon McDonnell",
+    "Cathedral of the Deep",
+    "Aldrich, Saint of the Deep"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "After being raised again, Aldrich marched on Irithyll of the Boreal Valley with Pontiff Sulyvahn's help and captured Anor Londo.",
+   "entities": [
+    "Aldrich, Saint of the Deep",
+    "Irithyll of the Boreal Valley",
+    "Pontiff Sulyvahn",
+    "Anor Londo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Aldrich found Gwyndolin imprisoned by Sulyvahn in Anor Londo and slowly devoured him over what must have been an agonizing period.",
+   "entities": [
+    "Aldrich, Saint of the Deep",
+    "Gwyndolin",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "As a boss, Aldrich wears Gwyndolin's partially eaten corpse as a puppet while his true slug-like form writhes beneath it.",
+   "entities": [
+    "Aldrich, Saint of the Deep",
+    "Gwyndolin"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Pontiff Sulyvahn was born in the Painted World of Ariandel, a realm accessible only through a scrap of canvas, meant to be a gentle refuge.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Painted World of Ariandel"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Sulyvahn's sorcery description states he had little use for his frigid homeland since he had not yet experienced loss, suggesting an innate coldness.",
+   "entities": [
+    "Pontiff Sulyvahn"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "As a young sorcerer, Sulyvahn left the Painted World and discovered the Profaned Capital and its unfading Profaned Flame, which ignited a burning ambition in him.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Profaned Capital",
+    "Profaned Flame"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Sulyvahn traveled to Irithyll of the Boreal Valley, a once-glorious city of moon-worshipping sorcerers connected to Gwyndolin and the old gods.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Irithyll of the Boreal Valley",
+    "Gwyndolin"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Sulyvahn joined the Dark Moon Blades, a covenant dedicated to protecting Gwyndolin, rising through the ranks while planning betrayal.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Dark Moon Blades",
+    "Gwyndolin"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "Sulyvahn weakened or incapacitated Gwyndolin through unclear means, then seized power, imprisoned him in the Cathedral of Anor Londo, and proclaimed himself Pontiff.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Gwyndolin",
+    "Anor Londo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 34
+  },
+  {
+   "text": "Sulyvahn created the Outrider Knights, warriors wearing rings that grant power while slowly transforming them into beasts and eroding their sanity.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Outrider Knights"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Sulyvahn sent his Outrider Knights to sow chaos and guard against interference with his plans, including Vordt of the Boreal Valley guarding the High Wall of Lothric and the Dancer of the Boreal Valley guarding Lothric Castle.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Outrider Knights",
+    "Vordt of the Boreal Valley",
+    "Dancer of the Boreal Valley",
+    "Lothric Castle"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Some scholars believe Sulyvahn influenced or advised Prince Lothric, possibly contributing to the prince's decision to refuse linking the flame.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Lothric Prince"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Sulyvahn facilitated Aldrich's march on Anor Londo rather than opposing him, personally imprisoning Gwyndolin and offering him to Aldrich.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Aldrich, Saint of the Deep",
+    "Gwyndolin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Pontiff Sulyvahn wields two great swords simultaneously: the Profaned Greatsword burning with unfading flame, and the Greatsword of Judgment representing his false loyalty to the Dark Moon Blades.",
+   "entities": [
+    "Pontiff Sulyvahn"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During his boss fight, Pontiff Sulyvahn can summon a phantom copy of himself that mirrors his movements.",
+   "entities": [
+    "Pontiff Sulyvahn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One's defeat of Pontiff Sulyvahn in his cathedral is portrayed as one of the few unambiguous victories in the game, removing a tyrant rather than ending a tragic figure.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Ashen One"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 62
+  }
+ ],
+ "_src": "src-c469c2a0"
+}

@@ -1,0 +1,595 @@
+{
+ "entities": [
+  {
+   "name": "Kos",
+   "kind": "character",
+   "aliases": [
+    "Cos",
+    "CS",
+    "Kos of the Fishing Hamlet"
+   ]
+  },
+  {
+   "name": "Orphan of Kos",
+   "kind": "boss",
+   "aliases": [
+    "Orphan of Cos"
+   ]
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": [
+    "Coastal Village"
+   ]
+  },
+  {
+   "name": "Scholars of the Healing Church",
+   "kind": "faction",
+   "aliases": [
+    "Byrgenwerth Scholars"
+   ]
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman"
+   ]
+  },
+  {
+   "name": "Lady Maria",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Kos Parasite",
+   "kind": "weapon",
+   "aliases": [
+    "CS Parasite"
+   ]
+  },
+  {
+   "name": "Rom, the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom"
+   ]
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": [
+    "Flora of the Moon of the Dream"
+   ]
+  },
+  {
+   "name": "Doll",
+   "kind": "character",
+   "aliases": [
+    "The Doll"
+   ]
+  },
+  {
+   "name": "Hunter's Nightmare",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Hunter's Dream",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Mergo",
+   "kind": "character",
+   "aliases": [
+    "MGO"
+   ]
+  },
+  {
+   "name": "Mergo's Wet Nurse",
+   "kind": "boss",
+   "aliases": [
+    "Wet Nurse"
+   ]
+  },
+  {
+   "name": "Ebrietas",
+   "kind": "boss",
+   "aliases": [
+    "Ebritus",
+    "Abriotus"
+   ]
+  },
+  {
+   "name": "Amygdala",
+   "kind": "boss",
+   "aliases": [
+    "Amydala"
+   ]
+  },
+  {
+   "name": "Micolash",
+   "kind": "character",
+   "aliases": [
+    "Michelash"
+   ]
+  },
+  {
+   "name": "Umbilical Cord (item)",
+   "kind": "item",
+   "aliases": [
+    "Umbilical Cord Fragment"
+   ]
+  },
+  {
+   "name": "Blood Moon",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Willem",
+   "kind": "character",
+   "aliases": [
+    "Villim"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Scholars, including Gehrman, Lady Maria, and church officials, cut into Kos's dead body and took tissue samples from her corpse.",
+   "entities": [
+    "Kos",
+    "Gehrman",
+    "Lady Maria"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The parasites that Kos had given to the fishing hamlet villagers were extracted from the villagers' bodies and studied by the scholars.",
+   "entities": [
+    "Kos",
+    "Fishing Hamlet",
+    "Scholars of the Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Kos Parasite item description describes it as a creature that writhed inside the surrogate of a great one and gained its characteristics over time.",
+   "entities": [
+    "Kos Parasite",
+    "Kos"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Kos Parasite is a trick weapon that channels arcane energy, but it only functions effectively when the wielder has high Insight, allowing them to perceive the great ones' wavelengths.",
+   "entities": [
+    "Kos Parasite"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Kos's own body was dissected by scholars who extracted and catalogued her blood and tissue to study her biological connection to the cosmos.",
+   "entities": [
+    "Kos",
+    "Scholars of the Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The entire system built around blood ministration, the Healing Church, the hunter's workshops, and the chalice dungeon research ultimately originates from what the scholars extracted from Kos's body.",
+   "entities": [
+    "Kos"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Kos was pregnant when she died, and the unborn child inside her became the entity later encountered as the Orphan of Kos in the Hunter's Nightmare.",
+   "entities": [
+    "Kos",
+    "Orphan of Kos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Orphan of Kos was present inside its mother's body during the scholars' desecration of Kos's corpse.",
+   "entities": [
+    "Orphan of Kos",
+    "Kos"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 40
+  },
+  {
+   "text": "The fishing hamlet villagers' skin had a leathery, roughened texture different from residents of Yharnam, suggesting generations of gradual change from living near Kos.",
+   "entities": [
+    "Fishing Hamlet",
+    "Kos"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The fishing hamlet villagers' transformation by proximity to Kos occurred gradually over generations, unlike the violent and traumatic transformation caused by blood ministration.",
+   "entities": [
+    "Fishing Hamlet",
+    "Kos"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "After the scholars left the fishing hamlet, the villagers who were not killed outright had their parasites extracted for study and their bodies treated as research resources.",
+   "entities": [
+    "Fishing Hamlet",
+    "Scholars of the Healing Church"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The dead of the fishing hamlet rose again as ghosts and twisted shades rather than remaining at rest, and they now haunt the Hunter's Nightmare.",
+   "entities": [
+    "Fishing Hamlet",
+    "Hunter's Nightmare"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "One interpretation holds that the Hunter's Nightmare is a curse set by Kos in her dying act, trapping the hunters responsible for the atrocity in endless purposeless hunting.",
+   "entities": [
+    "Kos",
+    "Hunter's Nightmare"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Kos Parasite item description states that the coastal folk offered to Kos were born with intrinsic parasites, and that when Kos perished she left these creatures to her people.",
+   "entities": [
+    "Kos Parasite",
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating the Orphan of Kos, a voice recites an incantation: \"Oh, Kos, or some say Kosm, as you once did for the vacuous Rom, grant us eyes. Grant us eyes. Plant eyes on our brains, to cleanse our beastly idiocy.\"",
+   "entities": [
+    "Orphan of Kos",
+    "Kos",
+    "Rom, the Vacuous Spider"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Rom received her eyes from Kos before the scholars committed their atrocity against Kos and the fishing hamlet, before trust between Kos and humanity was broken.",
+   "entities": [
+    "Rom, the Vacuous Spider",
+    "Kos"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 30
+  },
+  {
+   "text": "Kos is interpreted as uniquely creating a nightmare as an act of consequence or justice rather than deliberate revenge, trapping the hunters responsible in the place of their crime alongside the villagers' ghosts.",
+   "entities": [
+    "Kos",
+    "Hunter's Nightmare"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "After the incantation following the Orphan of Kos's defeat, no response comes to the prayer for eyes, implying that Kos, the one who might answer, is gone.",
+   "entities": [
+    "Orphan of Kos",
+    "Kos"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "Kos is considered the most human of the great ones in that she lived among a human community and was personally known to them.",
+   "entities": [
+    "Kos"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Orphan of Kos is not officially classified among the named great ones but functions as one and its story is deeply tied to Kos.",
+   "entities": [
+    "Orphan of Kos",
+    "Kos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Orphan of Kos is fought at the end of the Hunter's Nightmare on the shore where Kos's rotting body lies.",
+   "entities": [
+    "Orphan of Kos",
+    "Kos",
+    "Hunter's Nightmare"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Orphan of Kos wields the placenta it emerged with as an improvised weapon during its fight with the hunter.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Orphan of Kos's attacks are erratic and flailing, reflecting trauma rather than trained combat technique.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "After being defeated, the Orphan of Kos falls to its knees and looks out at the ocean where its mother once lived, and the game displays the message \"Nightmare Slain.\"",
+   "entities": [
+    "Orphan of Kos",
+    "Kos"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "When the Orphan of Kos dies, it is said to be released from the nightmare and freed to the cosmos, though whether this ends its suffering is left unstated.",
+   "entities": [
+    "Orphan of Kos"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Moon Presence is the final great one encountered in the game and has been secretly central to the Hunter's Dream throughout the player's journey.",
+   "entities": [
+    "Moon Presence",
+    "Hunter's Dream"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The Doll refers to the Moon Presence by the name \"Flora of the Moon of the Dream.\"",
+   "entities": [
+    "Moon Presence",
+    "Doll"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Ebrietas's massive alien form or Amygdala's spindly many-armed form, the Moon Presence is assembled from human-like parts such as a spine, ribs, and elongated multiplied limbs, with a void filled with tentacles where its face should be.",
+   "entities": [
+    "Moon Presence",
+    "Ebrietas",
+    "Amygdala"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Moon Presence is associated with or embodies the blood moon seen in the game's late stages.",
+   "entities": [
+    "Moon Presence",
+    "Blood Moon"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Gehrman, grieving the loss of Lady Maria, created a doll in her likeness using a fragment of an umbilical cord and a piece of a great one's biological connection, reaching out into the cosmos and making contact with the Moon Presence.",
+   "entities": [
+    "Gehrman",
+    "Lady Maria",
+    "Doll",
+    "Moon Presence",
+    "Umbilical Cord (item)"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "The Moon Presence bound Gehrman to the Hunter's Dream, giving him companionship with the Doll while taking away his freedom, his ability to age normally, and his chance to die and be released.",
+   "entities": [
+    "Moon Presence",
+    "Gehrman",
+    "Doll",
+    "Hunter's Dream"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 15
+  },
+  {
+   "text": "A supported interpretation holds that the Moon Presence created the Hunter's Dream to use hunters as weapons to eliminate other great ones it could not or would not confront directly.",
+   "entities": [
+    "Moon Presence",
+    "Hunter's Dream"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A note found in the Lecture Hall indicates that the Moon Presence is actively seeking to eliminate other great ones.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The game's mandatory boss progression mirrors the elimination of great ones and their proxies: Rom's death ends the veil, Ebrietas's/Micolash's death ends the Mensis ritual, and Mergo's Wet Nurse's death silences Mergo's cry and ends the hunt.",
+   "entities": [
+    "Rom, the Vacuous Spider",
+    "Micolash",
+    "Mergo's Wet Nurse",
+    "Mergo"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "When Mergo's cry stops after the Wet Nurse is defeated, the Hunter's Dream begins to burn, signaling the hunt's end.",
+   "entities": [
+    "Mergo",
+    "Mergo's Wet Nurse",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "After the hunt ends, Gehrman offers the hunter the choice to be released from the dream, waking in the real Yharnam with no memory of the dream.",
+   "entities": [
+    "Gehrman",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "If the hunter refuses Gehrman's offer and defeats him instead, the Moon Presence itself descends and binds the hunter as the new Gehrman, continuing the dream cycle in the second ending.",
+   "entities": [
+    "Moon Presence",
+    "Gehrman",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "If the hunter has consumed three Umbilical Cord fragments before the final fight, their altered nature causes the Moon Presence's attempt to bind them to fail, leading to a boss fight against the Moon Presence.",
+   "entities": [
+    "Umbilical Cord (item)",
+    "Moon Presence"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The Moon Presence can reduce the player's health to a single point but needs time to recharge this ability afterward.",
+   "entities": [
+    "Moon Presence"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Upon defeating the Moon Presence, the hunter transforms into a small, pale, infant-like cosmic being, and the Doll picks up and cradles this new being, asking if it is cold and promising to care for it.",
+   "entities": [
+    "Moon Presence",
+    "Doll"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the third ending, the Hunter's Dream continues, but the transformed hunter in the Doll's arms, rather than being a prisoner, may have the potential to change the dream's purpose.",
+   "entities": [
+    "Doll",
+    "Hunter's Dream"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 100
+  },
+  {
+   "text": "Willem is quoted with the phrase \"Fear the old blood,\" warning that the danger lies not in the old blood being evil but in not understanding what one touches when reaching into it.",
+   "entities": [
+    "Willem"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ebrietas is characterized as being left behind by her own kind, still searching the cosmos for them and allowing the Healing Church to commune with her.",
+   "entities": [
+    "Ebrietas"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Rom is characterized as the most passive great one, maintaining a veil that protects people from truths they could not survive, without ever speaking to them.",
+   "entities": [
+    "Rom, the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Mergo is described as an infant that was never truly born, crying within a nightmare built from grief, and laughing when freed before falling silent.",
+   "entities": [
+    "Mergo"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  }
+ ],
+ "_src": "src-0bc3d2cf"
+}

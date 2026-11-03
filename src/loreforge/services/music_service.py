@@ -12,6 +12,7 @@ work out what it is.
 """
 from __future__ import annotations
 
+import json
 import subprocess
 from pathlib import Path
 
@@ -130,6 +131,7 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
     run_ffmpeg(inputs + ["-filter_complex", ";".join(filters), "-map", "[out]",
                          "-ar", str(SAMPLE_RATE), "-ac", "2", "-c:a", "pcm_s16le",
                          str(project.music_bed_path)])
+    project.music_source_path.write_text(json.dumps({"track": src.name}), encoding="utf-8")
     made = probe(project.music_bed_path).duration
     log(f"Music bed: {made / 60:.1f} min -> {project.music_bed_path.name}")
     return {"minutes": round(made / 60, 1), "source": src.name}

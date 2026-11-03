@@ -11,6 +11,7 @@ Chapters come from ``sections.json``, so they match the narration to the second.
 from __future__ import annotations
 
 import json
+import re
 from datetime import date
 
 from loreforge.integrations import anthropic_client as ai
@@ -24,6 +25,9 @@ TITLE_PATTERNS = {
     "catalog": "Every {thing} in {game} Explained To Fall Asleep To",
 }
 
+SPOTIFY_LINE = ("Rather listen with the screen off? Every night of lore is also a podcast "
+                "on Spotify: {url}")
+
 COPY_SYSTEM = """\
 You write YouTube copy for a sleep channel that narrates video game lore. You write only
 the parts that change per video, in the channel's calm voice: no hype, no emoji, no
@@ -36,6 +40,7 @@ COPY_SCHEMA = ai.obj({
     "covers": ai.STR_LIST,
     "tags": ai.STR_LIST,
     "hashtags": ai.STR_LIST,
+    "catalog_noun": ai.STR,
 })
 
 
@@ -59,6 +64,11 @@ def build_chapters(sections: list[dict], total: float) -> list[str]:
     return lines
 
 
+def _render(template: str, fields: dict) -> str:
+    """Fill a channel template; an empty optional field leaves no blank gap behind."""
+    return re.sub(r"\n{3,}", "\n\n", template.format(**fields)).strip() + "\n"
+
+
 def run(project: VideoProject, params: dict, on_log) -> dict:
     log = on_log
     ch = project.channel
@@ -67,13 +77,17 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
     total = probe(project.narration_wav_path).duration
     hours = int(total // 3600)
 
-    thing = project.scope.replace("every ", "").rstrip("s").title() or "Boss"
-    title = params.get("title") or TITLE_PATTERNS[project.format].format(
-        game=project.game, hours=max(1, hours), thing=thing)
+    # A catalog title needs the noun the video goes through ("Every Boss in ..."). Scopes
+    # are free text ("all bosses in the game", "the entire game"), so Claude names it.
+    pattern = TITLE_PATTERNS[project.format]
+    title = params.get("title") or ("" if "{thing}" in pattern else pattern.format(
+        game=project.game, hours=max(1, hours)))
 
     covers = "\n".join(f"- {s.title}: {s.goal}" for s in outline.sections if s.kind == "body")
+    title_line = title or pattern.format(game=project.game, hours=max(1, hours),
+                                         thing="<catalog_noun>")
     user = (f"Game: {project.game}\nScope: {project.scope}\nFormat: {project.format}\n"
-            f"Title: {title}\nDuration: {total / 60:.0f} minutes\n"
+            f"Title: {title_line}\nDuration: {total / 60:.0f} minutes\n"
             f"Similar games the outline suggested: {', '.join(outline.flavor.fans_of)}\n"
             f"Sections:\n{covers}\n\n"
             "Return: seo_paragraph (2-3 sentences describing this sleep documentary, using "
@@ -81,24 +95,34 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
             "relaxing narration); fans_of (one line listing similar games, comma separated); "
             "covers (6-10 short lines naming what the video covers, no timestamps); "
             "tags (13 YouTube tags, lowercase, no '#'); hashtags (exactly 3, each starting "
-            "with '#').")
+            "with '#'); catalog_noun (one singular noun in Title Case for what the sections "
+            "go through one by one, e.g. Boss, Weapon, Demigod).")
     data, comp = ai.complete_json(COPY_SYSTEM, user, schema=COPY_SCHEMA,
                                   max_tokens=8000, effort="medium")
     project.add_costs(**comp.cost_deltas())
+    title = title or pattern.format(game=project.game, hours=max(1, hours),
+                                    thing=data.get("catalog_noun", "").strip() or "Boss")
 
     chapters = build_chapters(sections, total)
     tags = list(dict.fromkeys([*data.get("tags", []), *ch.base_tags]))[:15]
-    description = ch.template("description").format(
+    fields = dict(
         seo_paragraph=data["seo_paragraph"].strip(),
         fans_of=data["fans_of"].strip().rstrip("."),
         covers_list="\n".join(f"- {c}" for c in data.get("covers", [])),
         chapters="\n".join(chapters),
         game=project.game,
-        publisher=project.publisher or "its publisher",
+        # The template ends the sentence itself: "FromSoftware Inc." must not become "Inc.."
+        publisher=project.publisher.strip().rstrip(".") or "its publisher",
         channel_name=ch.name, channel_upper=ch.name.upper(),
         farewell=outline.flavor.farewell,
         year=date.today().year,
-        hashtags=" ".join(data.get("hashtags", [])[:3]))
+        hashtags=" ".join(data.get("hashtags", [])[:3]),
+        spotify_line=SPOTIFY_LINE.format(url=ch.spotify_link) if ch.spotify_link else "",
+        music_credit=project.music_credit())
+    if ch.spotify_url and not ch.spotify_link:
+        log("WARNING: spotify_url is not a public open.spotify.com link; the Spotify line "
+            "was left out of the description.")
+    description = _render(ch.template("description"), fields)
 
     meta = {"title": title, "description": description, "tags": tags,
             "chapters": chapters, "duration_minutes": round(total / 60, 1),
@@ -106,6 +130,9 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
     project.script_dir.mkdir(parents=True, exist_ok=True)
     project.metadata_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
     project.description_path.write_text(description, encoding="utf-8")
+    if podcast_template := ch.template("podcast_description"):
+        project.podcast_description_path.write_text(_render(podcast_template, fields),
+                                                    encoding="utf-8")
     project.title = title
     project.save()
     log(f"Title: {title}")

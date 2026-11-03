@@ -13,7 +13,7 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -e ".[dev]"
 copy .env.example .env        # fill in the keys + YOUTUBE_COOKIES_FILE
-loreforge channel prepare     # one-time: LUT, rain/film overlays, vignette
+loreforge channel prepare     # one-time: LUT, film overlay, vignette
 loreforge channel brand       # avatar, banner, watermark, thumbnail band
 ```
 
@@ -50,7 +50,8 @@ Formats: `history` (chronological "Entire Lore of X"), `facts` ("N Hours of X Fa
 | `music` | One ambient bed as long as the narration, looped and levelled | A royalty-free track (see below) |
 | `thumbnail` | AI key art with no text + title and badge drawn locally | Optional references in `thumbnail/refs/`: sent to the image tool as a mood board; on a refusal Claude describes them and the art is generated from that text alone (`--set reference=mood` skips straight to that) |
 | `metadata` | Title, description, tags and chapters from the real timings | — |
-| `premiere` | The full FCP7 XML timeline | — |
+| `podcast` | `audio/podcast.mp3` for Spotify (narration + music bed at `music.podcast_gain_db`, or at the level set on A2 if a saved Premiere project already exists) and `script/podcast_upload.md`, every field of the episode form (the UI shows them with Copy buttons, like the YouTube ones). The description comes from `metadata`, the square episode art from `thumbnail` | Post the episode, then paste its link (`https://open.spotify.com/episode/...`) in the step's **Spotify episode link** field |
+| `premiere` | The full FCP7 XML timeline, with the Spotify QR code pointing to this video's episode (the show until the link is set) | — |
 
 **Music:** put a royalty-free ambient loop (a few minutes is enough) in
 `channels/{slug}/assets/music/`, or drop one at `output/{run}/audio/music.mp3` for a
@@ -84,8 +85,8 @@ channels/{slug}/                    # channel.json, brand.md, style_guide.md, ba
 
 ## The look in Premiere
 
-The XML brings V1 scenes, V2 rain, V3 film damage (both with alpha, *Normal* blend),
-V4 vignette and V5 watermark. The colour grade can't be expressed in FCP7 XML, so it goes
+The XML brings V1 scenes, V2 film damage (with alpha, *Normal* blend),
+V3 vignette and V4 watermark. The colour grade can't be expressed in FCP7 XML, so it goes
 on an adjustment layer. **One-time setup per channel:**
 
 1. In any project: *New Item → Adjustment Layer*, put it on a track above V1 and below V2.
@@ -97,6 +98,27 @@ on an adjustment layer. **One-time setup per channel:**
 Per video: import the XML, add an adjustment layer spanning the sequence, drop the
 preset on it. `loreforge look preview` renders the same grade + overlays with ffmpeg, so
 what you tune in `channel.json` (`look.grade`) matches Premiere after `channel prepare --force`.
+
+## The Spotify notice
+
+With a public `spotify_url` (`https://open.spotify.com/show/...`, not the creators
+dashboard) in `channel.json`, every description gets a Spotify line and every timeline
+gets two clips on the top tracks at `spotify_notice.start` (10 s): the "also on Spotify"
+lower third and a QR code. FCP7 XML can't carry a Motion Graphics template, so the lower
+third is exported from Premiere **once per channel**:
+
+1. New sequence 1920×1080, 30 fps, containing only the configured mogrt (11 s).
+2. *File → Export → Media*: Format **QuickTime**, Video Codec **Apple ProRes 4444**,
+   Depth **8-bpc + alpha**, *Render at Maximum Depth* on.
+3. Save it as `channels/{slug}/assets/spotify/notice.mov`.
+
+The QR code opens the video's own episode: run `podcast` before `premiere`, post the MP3,
+paste the episode link in the podcast step (or `spotify_episode_url` in `project.json`)
+and the premiere step builds `premiere/spotify_qr.mov` from it (share tracking `?si=...`
+is dropped so the code stays sparse). Redo `premiere` if the link changes. Without an
+episode link it falls back to the show's QR clip (`assets/spotify/qr.mov`), rebuilt by
+`loreforge channel brand` whenever `spotify_url` changes. Set `spotify_notice.qr_inverted`
+to `false` if a phone can't read the cream-on-dark code.
 
 ## Tests
 

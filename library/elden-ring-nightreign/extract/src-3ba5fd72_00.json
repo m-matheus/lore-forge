@@ -1,0 +1,650 @@
+{
+ "entities": [
+  {
+   "name": "Limveld",
+   "kind": "location",
+   "aliases": [
+    "Limld",
+    "Lynvel",
+    "Limvel"
+   ]
+  },
+  {
+   "name": "Lands Between",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Night Lords",
+   "kind": "faction",
+   "aliases": [
+    "night lords"
+   ]
+  },
+  {
+   "name": "Night Farers",
+   "kind": "faction",
+   "aliases": [
+    "Nightfarers",
+    "knigh farers"
+   ]
+  },
+  {
+   "name": "Greater Will",
+   "kind": "character",
+   "aliases": [
+    "outer god"
+   ]
+  },
+  {
+   "name": "Elden Ring",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": [
+    "the urgy"
+   ]
+  },
+  {
+   "name": "Crucible",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Gladius",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Libra",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Maris",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Equilibrian",
+   "kind": "boss",
+   "aliases": [
+    "An equilibrian"
+   ]
+  },
+  {
+   "name": "The Wylder",
+   "kind": "character",
+   "aliases": [
+    "The Wilder"
+   ]
+  },
+  {
+   "name": "The Duchess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Guardian",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Recluse",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Ironeye",
+   "kind": "character",
+   "aliases": [
+    "The Ioni"
+   ]
+  },
+  {
+   "name": "The Raider",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Executor",
+   "kind": "character",
+   "aliases": [
+    "The executive"
+   ]
+  },
+  {
+   "name": "The Revenant",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Three Nights",
+   "kind": "event",
+   "aliases": [
+    "three knights"
+   ]
+  },
+  {
+   "name": "Forsaken Hollows",
+   "kind": "event",
+   "aliases": [
+    "Forsaken Hollows DLC"
+   ]
+  },
+  {
+   "name": "Sites of Grace",
+   "kind": "mechanic",
+   "aliases": [
+    "sights of grace"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Limveld and the Lands Between appear to be two expressions of a shared cosmological template rather than simple alternate worlds or identical copies.",
+   "entities": [
+    "Limveld",
+    "Lands Between"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Before the Golden Order's dominance, the world that became the Lands Between existed in a primordial state called the Crucible, where living things were interconnected without fixed hierarchy or identity.",
+   "entities": [
+    "Crucible",
+    "Golden Order"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 0
+  },
+  {
+   "text": "The Greater Will, an outer god, imposed the Elden Ring as a new law, bringing the Golden Order, sites of grace, and the promise of near-immortality, displacing the Crucible's fluid order.",
+   "entities": [
+    "Greater Will",
+    "Elden Ring",
+    "Golden Order",
+    "Crucible",
+    "Sites of Grace"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The Crucible's influence did not disappear after the Golden Order's rise; it persisted underground, at the margins, and within creatures that still bore crucible traits.",
+   "entities": [
+    "Crucible",
+    "Golden Order"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 6
+  },
+  {
+   "text": "In Limveld, the suppression of Crucible forces by the Golden Order was resolved differently than in the Lands Between, leaving those old forces more active and less contained.",
+   "entities": [
+    "Limveld",
+    "Crucible",
+    "Golden Order"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 10
+  },
+  {
+   "text": "Pre-catastrophe Limveld was a civilization structurally similar to the Lands Between, with an earth tree-like structure, sites of grace, roads, cities, and Golden Order hierarchies.",
+   "entities": [
+    "Limveld",
+    "Golden Order",
+    "Sites of Grace"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 12
+  },
+  {
+   "text": "The outer gods influencing Limveld were distributed differently than those influencing the Lands Between, with different points of entry into the world.",
+   "entities": [
+    "Limveld",
+    "Lands Between"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 12
+  },
+  {
+   "text": "The Night Lords were either drawn to Limveld or created specifically for it, because Limveld's cosmological structure made it uniquely vulnerable to them.",
+   "entities": [
+    "Night Lords",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 14
+  },
+  {
+   "text": "Pre-catastrophe Limveld's civilization was not weak or foolish, but was structurally brittle due to being built entirely on principles of order, making it vulnerable to forces of disorder.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 14
+  },
+  {
+   "text": "Ruins explored by Night Farers in Limveld are physical remnants of the pre-catastrophe civilization, including still-standing roads, cathedral outlines, and flickering sites of grace.",
+   "entities": [
+    "Limveld",
+    "Night Farers",
+    "Sites of Grace"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The catastrophe transformed Limveld rather than erasing it: the world still bears the shape of its former civilization while being organized by entirely different principles.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 18
+  },
+  {
+   "text": "Ruins most thoroughly marked by Gladius's influence are the oldest, representing the earliest stage of the civilization's collapse.",
+   "entities": [
+    "Gladius",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 20
+  },
+  {
+   "text": "Ruins shaped by Libra's influence are layered on top of Gladius-era ruins, representing a slightly later stage of the collapse.",
+   "entities": [
+    "Libra",
+    "Gladius",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 22
+  },
+  {
+   "text": "Maris's presence is evident in underground spaces and coastal areas where the sea has encroached far beyond natural limits.",
+   "entities": [
+    "Maris",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 24
+  },
+  {
+   "text": "Equilibrian's marks are the most recent and widespread, adding irresolvable opposition on top of the destabilization caused by the other Night Lords.",
+   "entities": [
+    "Equilibrian",
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 26
+  },
+  {
+   "text": "The catastrophe that created modern Limveld unfolded gradually across multiple stages rather than as a single event, and in some sense continues into the game's present.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 10
+  },
+  {
+   "text": "The first stage of Limveld's catastrophe was cosmological: the Greater Will's attention and golden light grew less consistent, causing sites of grace to flicker, initially dismissed as maintenance issues.",
+   "entities": [
+    "Limveld",
+    "Greater Will",
+    "Sites of Grace"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 11
+  },
+  {
+   "text": "The second stage of Limveld's catastrophe was biological: Crucible-aspected flora and fauna began reappearing in civilized areas, and the civilization's response of stricter containment proved insufficient.",
+   "entities": [
+    "Limveld",
+    "Crucible"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 13
+  },
+  {
+   "text": "The third stage of Limveld's catastrophe was the arrival or full manifestation of the Night Lords, who exploited rather than created the world's existing vulnerabilities.",
+   "entities": [
+    "Limveld",
+    "Night Lords"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 15
+  },
+  {
+   "text": "Gladius represents the principle of pure martial force and conflict without resolution; fighting against Gladius's influence only strengthened it, since resistance fed the force itself.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": 16
+  },
+  {
+   "text": "Libra represents the principle of absolute judgment, turning Limveld's courts and religious authorities into instruments of rigid verdict lacking flexibility or context.",
+   "entities": [
+    "Libra"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": 18
+  },
+  {
+   "text": "Maris represents ancient forces from the sea and depths that had been contained since before the Golden Order's dominance, which began pressing into inland and underground spaces.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": 20
+  },
+  {
+   "text": "Equilibrian represents the principle of opposing forces locked in permanent stasis, turning political and personal conflicts in Limveld into irreconcilable standoffs.",
+   "entities": [
+    "Equilibrian"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": 22
+  },
+  {
+   "text": "As Limveld's catastrophe progressed, roads stopped being maintained, cathedrals were abandoned, and sites of grace went dark as their connection to divine attention became unreliable.",
+   "entities": [
+    "Limveld",
+    "Sites of Grace"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 24
+  },
+  {
+   "text": "The Wylder and the Executor share a relationship that is neither pure friendship nor rivalry, shaped by their different histories with institutional authority.",
+   "entities": [
+    "The Wylder",
+    "The Executor"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess and the Recluse have a dynamic contrasting inherited authority with earned, empirically-grounded knowledge.",
+   "entities": [
+    "The Duchess",
+    "The Recluse"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Night Farers' cooperative dynamics suggest each character's traits are completed or balanced by another's, such as the Wylder's pragmatism being sharpened by the Executor's judgment.",
+   "entities": [
+    "The Wylder",
+    "The Executor",
+    "The Duchess",
+    "The Recluse",
+    "The Guardian",
+    "The Raider",
+    "The Revenant",
+    "The Ironeye"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night Farers arrived in Limveld at different times or in clusters rather than all at once, with some more experienced and adapted to the world than others.",
+   "entities": [
+    "Night Farers",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Night Farers did not choose to come to Limveld; they were compelled by an irresistible calling that they could not decline or fully explain.",
+   "entities": [
+    "Night Farers",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "What unites all Night Farers is not power, destiny, or virtue, but a shared experience of loss, failure, or incompleteness that mirrors Limveld's own unfinished, interrupted nature.",
+   "entities": [
+    "Night Farers",
+    "Limveld"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Wylder is a warrior who served many causes and suffered repeated disappointments discovering those causes were unworthy, leaving them skilled but disillusioned.",
+   "entities": [
+    "The Wylder"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "In Limveld, the Wylder finds not a cause to believe in but a context where their combat competence has immediate value through survival and protecting companions.",
+   "entities": [
+    "The Wylder",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess comes from an ancient lineage of the Golden Order's civilization, and markings on her weapons place her heritage at a point in Golden Order history predating the events of the base Elden Ring game.",
+   "entities": [
+    "The Duchess",
+    "Golden Order",
+    "Elden Ring"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "It is unresolved whether the Duchess is literally ancient or whether her lineage has been preserved across time through some unexplained means.",
+   "entities": [
+    "The Duchess"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Guardian entered Limveld burdened by guilt after failing to protect something entrusted to them, and their heavy armor functions as a physical form of penance.",
+   "entities": [
+    "The Guardian"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse was a scholar expelled from a sorceress institution connected to the Lands Between after conducting forbidden research into cosmological instability and worlds adjacent to the Lands Between.",
+   "entities": [
+    "The Recluse",
+    "Lands Between"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse's backstory and research into Limveld-like phenomena is elaborated further in the Forsaken Hollows DLC content.",
+   "entities": [
+    "The Recluse",
+    "Forsaken Hollows"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse had theorized about Limveld's existence before arriving there, making her presence in the world a direct confirmation of her prior research.",
+   "entities": [
+    "The Recluse",
+    "Limveld"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Ironeye has endured enough hardship that impermanence has become something navigated rather than merely survived, producing a calm that is not quite peace.",
+   "entities": [
+    "The Ironeye"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Ironeye's calm stems from having released a relationship, community, or belief that once defined them, a loss hinted at through item descriptions.",
+   "entities": [
+    "The Ironeye"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Raider came from a close-knit, egalitarian community valuing collective strength, a community type marginalized under the Golden Order's hierarchies, which was later destroyed while the Raider survived.",
+   "entities": [
+    "The Raider",
+    "Golden Order"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Raider's fighting style reflects ingrained habits of fighting alongside others, even when fighting alone, due to years shaped by collective combat.",
+   "entities": [
+    "The Raider"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Executor built their identity entirely around serving as the instrument of another authority's judgment, but has come to realize that some of the judgments they carried out were not righteous.",
+   "entities": [
+    "The Executor"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant died and returned, but is uncertain whether their returned self retains full continuity with who they were before death.",
+   "entities": [
+    "The Revenant"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant's uncertainty about their own continuity mirrors Limveld's own unresolved relationship to the Lands Between, both being defined by an ambiguous answer to whether resemblance equals sameness.",
+   "entities": [
+    "The Revenant",
+    "Limveld",
+    "Lands Between"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Some item locations in Limveld are only populated during the early hours of the first night and disappear by the second night, implying their origin forces are tied to the world's most dormant state.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Certain NPC encounters in Limveld are only accessible during the transition between the second and third nights, when normally fixed world boundaries become temporarily permeable.",
+   "entities": [
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The transition from the second to third night features a brief, complete silence in the game's ambient soundscape before the third night's sounds begin.",
+   "entities": [
+    "Three Nights",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Three Nights structure represents not just a gameplay loop but a cosmological process Limveld is continuously undergoing since its catastrophe began.",
+   "entities": [
+    "Three Nights",
+    "Limveld"
+   ],
+   "category": "mechanic",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The first night in Limveld represents the world at its most restrained, where Night Lord forces are present but not fully manifest, and ruins, enemies, and sites of grace remain more stable and comprehensible.",
+   "entities": [
+    "Three Nights",
+    "Night Lords",
+    "Limveld",
+    "Sites of Grace"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-3ba5fd72"
+}

@@ -50,6 +50,9 @@ class VideoProject(BaseModel):
     reference_urls: list[str] = Field(default_factory=list)
     footage_urls: list[str] = Field(default_factory=list)
     notes: str = ""                     # free-text direction for outline/script
+    # The episode's public link, pasted once the podcast step's MP3 is posted on Spotify.
+    # The video's QR code points to it (the channel's show link until then).
+    spotify_episode_url: str = ""
 
     # --- Filled by later steps ---
     title: str = ""
@@ -119,6 +122,14 @@ class VideoProject(BaseModel):
         return self.script_dir / "description.txt"
 
     @property
+    def podcast_description_path(self) -> Path:
+        return self.script_dir / "podcast_description.txt"
+
+    @property
+    def podcast_upload_path(self) -> Path:
+        return self.script_dir / "podcast_upload.md"
+
+    @property
     def audio_dir(self) -> Path:
         return self.run_dir / "audio"
 
@@ -157,6 +168,21 @@ class VideoProject(BaseModel):
         return self.audio_dir / "music_bed.wav"
 
     @property
+    def music_source_path(self) -> Path:
+        """Which track the bed was built from, so its credit can follow it."""
+        return self.audio_dir / "music_source.json"
+
+    def music_credit(self) -> str:
+        if not self.music_source_path.exists():
+            return ""
+        track = json.loads(self.music_source_path.read_text(encoding="utf-8"))["track"]
+        return self.channel.music.credits.get(track, "")
+
+    @property
+    def podcast_mp3_path(self) -> Path:
+        return self.audio_dir / "podcast.mp3"
+
+    @property
     def footage_dir(self) -> Path:
         return self.run_dir / "footage"
 
@@ -193,12 +219,28 @@ class VideoProject(BaseModel):
         return self.thumbnail_dir / "thumbnail.jpg"
 
     @property
+    def episode_art_path(self) -> Path:
+        return self.thumbnail_dir / "episode_art.jpg"
+
+    @property
     def premiere_dir(self) -> Path:
         return self.run_dir / "premiere"
 
     @property
     def premiere_project_path(self) -> Path:
         return self.premiere_dir / f"{self.run_id}.xml"
+
+    @property
+    def spotify_qr_path(self) -> Path:
+        """This video's QR clip, built from ``spotify_episode_url``."""
+        return self.premiere_dir / "spotify_qr.mov"
+
+    @property
+    def spotify_episode_link(self) -> str:
+        """The public episode link without its share tracking (``?si=...``), which only
+        makes the QR code denser; "" if unset or not an open.spotify.com episode link."""
+        url = self.spotify_episode_url.strip().split("?")[0]
+        return url if url.startswith("https://open.spotify.com/episode/") else ""
 
     # --- Library (per game) ---
     @property

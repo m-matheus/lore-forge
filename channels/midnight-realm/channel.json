@@ -53,11 +53,6 @@
     "lut": "assets/look.cube",
     "overlays": [
       {
-        "name": "rain",
-        "file": "assets/overlays/rain.mov",
-        "opacity": 0.85
-      },
-      {
         "name": "film",
         "file": "assets/overlays/film.mov",
         "opacity": 1.0
@@ -85,6 +80,10 @@
   "music": {
     "file": "",
     "lufs": -30.0,
+    "podcast_gain_db": -20.0,
+    "credits": {
+      "europa-tecnosine-main-version-07-43-13869.mp3": "Music: 'Europa' by Tecnosine on #Uppbeat https://uppbeat.io/c/tecnosine\nLicense code: L0TZYPMOS83XQ4AB"
+    },
     "crossfade": 6.0,
     "fade_in": 4.0,
     "fade_out": 12.0
@@ -104,5 +103,6 @@
     "sleep story",
     "bedtime lore",
     "midnight realm"
-  ]
+  ],
+  "spotify_url": "https://open.spotify.com/show/18uPK5rsKIwou9Z1SkSLOR"
 }

@@ -1,0 +1,559 @@
+{
+ "entities": [
+  {
+   "name": "Dreg Heap",
+   "kind": "location",
+   "aliases": [
+    "The Heap"
+   ]
+  },
+  {
+   "name": "Demon Prince",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Witch of Izalith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ringed City",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Gwyn",
+   "kind": "character",
+   "aliases": [
+    "Lord of Sunlight"
+   ]
+  },
+  {
+   "name": "Furtive Pygmy",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Pygmy Lords",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Filianore",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ringed Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Gwyn's firstborn son",
+   "kind": "character",
+   "aliases": [
+    "Gwyn's exiled son"
+   ]
+  },
+  {
+   "name": "Darkeater Midir",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Filianore's Rest",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Slave Knight Gael",
+   "kind": "boss",
+   "aliases": [
+    "Uncle Gael"
+   ]
+  },
+  {
+   "name": "Painter",
+   "kind": "character",
+   "aliases": [
+    "Ariandel Painter"
+   ]
+  },
+  {
+   "name": "Dark Soul",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Ash (painted world)",
+   "kind": "location",
+   "aliases": [
+    "Painted World of Ash"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Unkindled",
+    "Player Character"
+   ]
+  },
+  {
+   "name": "Age of Fire",
+   "kind": "world",
+   "aliases": []
+  },
+  {
+   "name": "Ariandel",
+   "kind": "location",
+   "aliases": [
+    "Painted World of Ariandel"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Dreg Heap is a chaotic landscape formed from the collapsed ruins of many different eras and kingdoms piled on top of each other.",
+   "entities": [
+    "Dreg Heap"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Fragments of Lothric Castle and pieces of Anor Londo can be found jutting from the wreckage of the Dreg Heap.",
+   "entities": [
+    "Dreg Heap"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "In the Dreg Heap, everything that ever existed is slowly sinking toward a common grave at the bottom of reality.",
+   "entities": [
+    "Dreg Heap"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "Deformed angelic spirits in the Dreg Heap attack with beams of energy and are controlled by small insects that can be targeted to stop them.",
+   "entities": [
+    "Dreg Heap"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Demon Prince is the last demon born from the chaos flame that originally resulted from the Witch of Izalith's failed attempt to recreate the First Flame.",
+   "entities": [
+    "Demon Prince",
+    "Witch of Izalith"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Demon Prince first appears as two demons fighting together before merging into a single more powerful being after their lesser forms are defeated.",
+   "entities": [
+    "Demon Prince"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Defeating the Demon Prince ends the legacy of the chaos flame, ensuring no more demons can spawn from that corrupted fire.",
+   "entities": [
+    "Demon Prince",
+    "Witch of Izalith"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 96
+  },
+  {
+   "text": "Gwyn built the Ringed City as a dwelling for the Pygmy Lords, descendants of the Furtive Pygmy who claimed the Dark Soul at the dawn of disparity.",
+   "entities": [
+    "Gwyn",
+    "Ringed City",
+    "Pygmy Lords",
+    "Furtive Pygmy",
+    "Dark Soul"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Ringed City functioned more as a prison than a gift, encircled by a protective sigil meant to confine the abyss and contain the Dark Soul's darkness at the edge of the world.",
+   "entities": [
+    "Ringed City",
+    "Dark Soul"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Gwyn sent his daughter Filianore to the Ringed City to watch over the Pygmies, a gesture that primarily served to keep the darkness locked away.",
+   "entities": [
+    "Gwyn",
+    "Filianore",
+    "Ringed City"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Ringed Knights are warriors who once served Gwyn's firstborn son before he was exiled and erased from history.",
+   "entities": [
+    "Ringed Knights",
+    "Gwyn's firstborn son"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Ringed Knights are branded with rings of fire meant to seal the darkness within them.",
+   "entities": [
+    "Ringed Knights"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Darkeater Midir was originally tasked with protecting the Ringed City from the abyss, but was eventually corrupted by the darkness he guarded against.",
+   "entities": [
+    "Darkeater Midir",
+    "Ringed City"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Filianore's Rest is a sanctum at the heart of the Ringed City where Filianore has slept for ages since her father placed her there.",
+   "entities": [
+    "Filianore's Rest",
+    "Filianore",
+    "Gwyn"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Filianore's prolonged sleep sustained a kind of magic or illusion that kept the Ringed City in its current state.",
+   "entities": [
+    "Filianore",
+    "Ringed City"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "Filianore holds an ancient cracked egg in her arms while she sleeps, which serves as the key to the illusions sustaining the Ringed City.",
+   "entities": [
+    "Filianore",
+    "Ringed City"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "When the Ashen One touches and crumbles Filianore's egg, time unravels and reality shifts forward into the far future.",
+   "entities": [
+    "Filianore",
+    "Ashen One"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Beyond Filianore's egg breaking, the Ashen One arrives in a far future ashen desert where the Age of Fire has ended through exhaustion rather than choice or ritual.",
+   "entities": [
+    "Ashen One",
+    "Age of Fire"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "In this far future wasteland, the sun appears as a dark, bleeding dark sign providing light without warmth.",
+   "entities": [
+    "Ashen One"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The ashen desert of the far future contains the thrones where Pygmy Kings once ruled, now buried in dunes of gray ash.",
+   "entities": [
+    "Pygmy Lords"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Once Filianore's egg crumbles, the illusion sustaining the Ringed City vanishes entirely, revealing the true future wasteland beneath it.",
+   "entities": [
+    "Filianore",
+    "Ringed City"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 99
+  },
+  {
+   "text": "In the far future wasteland, Slave Knight Gael waits among the corpses of the Pygmy Lords he has slaughtered.",
+   "entities": [
+    "Slave Knight Gael",
+    "Pygmy Lords"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Slave Knight Gael originally begged the Ashen One to enter the Painted World of Ariandel and bring flame to its rotting canvas.",
+   "entities": [
+    "Slave Knight Gael",
+    "Ariandel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "By the time the Ashen One finds him in the future wasteland, Gael's body has grown huge, twisted, and skeletal, with his red cape in tatters.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "A dark sign is branded onto Gael's flesh, marking him as someone who has consumed power never meant for mortal beings.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Gael's mission was to find the Pygmy Lords and claim the Dark Soul within them to bring its pigment to the Painter so she could create a new world.",
+   "entities": [
+    "Slave Knight Gael",
+    "Pygmy Lords",
+    "Dark Soul",
+    "Painter"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Because the Pygmy Lords' blood had dried into dust, Gael slaughtered them and devoured their dried blood in an attempt to extract the Dark Soul's pigment.",
+   "entities": [
+    "Slave Knight Gael",
+    "Pygmy Lords",
+    "Dark Soul"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Consuming the Dark Soul did not strengthen Gael but instead broke his mind and body, as the power was too great for any being to carry.",
+   "entities": [
+    "Slave Knight Gael",
+    "Dark Soul"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Gael's wounds would not close and the blood of the Dark Soul continually dripped from them.",
+   "entities": [
+    "Slave Knight Gael",
+    "Dark Soul"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Gael greets the Ashen One by demanding their Dark Soul, beginning the final boss battle of the game.",
+   "entities": [
+    "Slave Knight Gael",
+    "Ashen One",
+    "Dark Soul"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Gael fights using sword combinations from his long life of battle experience and fires bolts from a repeating crossbow between sword strikes.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "As the fight progresses, a crack opens in Gael's chest and glowing red blood infused with the Dark Soul's essence begins pouring out.",
+   "entities": [
+    "Slave Knight Gael",
+    "Dark Soul"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In his later phase, Gael gains dark blood magic attacks, including corrupted blood explosions from jumping slams and homing bolts of tracking blood.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Ashen One defeats Slave Knight Gael using skills and lessons learned from every previous battle of the journey.",
+   "entities": [
+    "Ashen One",
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "After being defeated, Gael's monstrous form fades, leaving behind simply an old knight who sacrificed everything for an unfulfilled goal.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Gael's blood pools around his fallen body, glowing with the power of the Dark Soul that has shaped humanity since the Furtive Pygmy first claimed it.",
+   "entities": [
+    "Slave Knight Gael",
+    "Dark Soul",
+    "Furtive Pygmy"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Ashen One collects Gael's Dark Soul-infused blood after his death, marking the end of Gael's quest.",
+   "entities": [
+    "Ashen One",
+    "Slave Knight Gael",
+    "Dark Soul"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Ashen One returns to Ariandel and delivers the collected blood to the Painter, who does not know what happened to Gael.",
+   "entities": [
+    "Ashen One",
+    "Ariandel",
+    "Painter",
+    "Slave Knight Gael"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Painter recognizes the dark soul-veined blood as Uncle Gael's final gift to her, though she does not ask what became of him.",
+   "entities": [
+    "Painter",
+    "Slave Knight Gael"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Painter begins mixing the Dark Soul's pigment into her paints to create a world unlike any previous painted world.",
+   "entities": [
+    "Painter",
+    "Dark Soul"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Painter describes the world she is creating as cold but very gentle, one that will eventually make someone a good home.",
+   "entities": [
+    "Painter"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Painter names her new painted world 'Ash,' honoring the Ashen One, Gael, and the ashen wasteland where the Dark Soul was claimed.",
+   "entities": [
+    "Painter",
+    "Ash (painted world)",
+    "Ashen One",
+    "Slave Knight Gael"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The painted world of Ash is intended to break the repeating cycle of linking the flame, with no First Flame, Lords of Cinder, or unkindled required to sustain it.",
+   "entities": [
+    "Ash (painted world)"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 100
+  },
+  {
+   "text": "The creation of the painted world Ash is presented as a quiet alternative ending to Dark Souls 3, separate from the fire-linking, usurpation, or dark-ushering endings available at the Kiln of the First Flame.",
+   "entities": [
+    "Ash (painted world)",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 100
+  }
+ ],
+ "_src": "src-3fa39680"
+}

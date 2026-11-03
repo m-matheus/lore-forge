@@ -3,6 +3,7 @@
 V1  scene clips cut to the channel's rhythm (fast in the opening, slower in the body)
 V2+ the look's overlays (rain, film damage), looped, with alpha
 Vn  vignette and watermark stills spanning the sequence
+    then the Spotify notice and its QR code (to this video's episode), a few seconds in
 A1  the narration, one clip per section of the same WAV (so sections can be nudged)
 A2  the music bed
     plus a marker at each section start
@@ -20,6 +21,7 @@ from loreforge.config.channels import Channel
 from loreforge.integrations.media import probe
 from loreforge.models.project import VideoProject
 from loreforge.services import xmeml
+from loreforge.services.brand_service import build_spotify_qr
 
 
 def _media_file(path, fps: int, kind: str = "video", frames: int | None = None) -> xmeml.MediaFile:
@@ -96,6 +98,43 @@ def build_video_track(project: VideoProject, scenes: list[dict], total: int, fps
     return track
 
 
+def spotify_notice_tracks(project: VideoProject, total: int, fps: int,
+                          log) -> list[xmeml.Track]:
+    """The "also on Spotify" lower third and its QR code, one track each, at the top.
+
+    FCP7 XML can't carry a Motion Graphics template, so the lower third is the mogrt
+    exported once from Premiere with alpha. The QR code opens this video's own episode
+    once its link is in the brief, else the channel's show (``spotify_url``).
+    """
+    ch = project.channel
+    if not (project.spotify_episode_link or ch.spotify_link):
+        return []
+    spec = ch.spotify_notice
+    if project.spotify_episode_link:
+        qr = build_spotify_qr(ch, project.spotify_episode_link, project.spotify_qr_path)
+        log(f"Spotify QR: this episode ({project.spotify_episode_link})")
+    else:
+        qr = ch.path(spec.qr)
+        if project.spotify_episode_url.strip():
+            log("WARNING: the Spotify episode link is not an open.spotify.com/episode/ link; "
+                "the QR code points to the show instead.")
+        else:
+            log("Spotify QR: the show. Post the podcast episode, paste its link in the "
+                "podcast step and redo this step to point it at the episode.")
+    start = int(spec.start * fps)
+    tracks = []
+    for path, name in ((ch.path(spec.file), "spotify notice"), (qr, "spotify qr")):
+        if not path.exists():
+            log(f"{name} missing ({path}); "
+                + ("export the mogrt from Premiere (see README)" if name == "spotify notice"
+                   else "run: loreforge channel brand"))
+            continue
+        f = _media_file(path, fps)
+        end = min(total, start + f.duration)
+        tracks.append(xmeml.Track(clips=[xmeml.Clip(file=f, start=start, end=end, name=name)]))
+    return tracks
+
+
 def run(project: VideoProject, params: dict, on_log) -> dict:
     log = on_log
     ch = project.channel
@@ -126,6 +165,7 @@ def run(project: VideoProject, params: dict, on_log) -> dict:
             f = _media_file(still, fps, kind="still", frames=total)
             video_tracks.append(xmeml.Track(clips=[
                 xmeml.Clip(file=f, start=0, end=total, opacity=opacity, name=still.stem)]))
+    video_tracks += spotify_notice_tracks(project, total, fps, log)
 
     a1 = xmeml.Track()
     markers = []

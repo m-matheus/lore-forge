@@ -30,6 +30,7 @@ dependencies = [
     "python-dotenv>=1.0.0",
     # Media / images
     "Pillow>=10.0.0",
+    "segno>=1.6",
     # Local web UI
     "fastapi>=0.110.0",
     "uvicorn>=0.29.0",

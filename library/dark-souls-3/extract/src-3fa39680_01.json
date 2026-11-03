@@ -1,0 +1,651 @@
+{
+ "entities": [
+  {
+   "name": "Cathedral of the Deep",
+   "kind": "location",
+   "aliases": [
+    "Cathedral"
+   ]
+  },
+  {
+   "name": "The Deep",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Way of White",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Aldrich",
+   "kind": "character",
+   "aliases": [
+    "Saint of the Deep",
+    "Devourer of Gods"
+   ]
+  },
+  {
+   "name": "Deacons of the Deep",
+   "kind": "enemy",
+   "aliases": [
+    "Archdeacon Royce",
+    "Deacons"
+   ]
+  },
+  {
+   "name": "Farron Keep",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Abyss Watchers",
+   "kind": "boss",
+   "aliases": [
+    "Undead Legion"
+   ]
+  },
+  {
+   "name": "Artorias",
+   "kind": "character",
+   "aliases": [
+    "Artorias the Abysswalker"
+   ]
+  },
+  {
+   "name": "Carthus",
+   "kind": "location",
+   "aliases": [
+    "Catacombs of Carthus"
+   ]
+  },
+  {
+   "name": "Highlord Wolnir",
+   "kind": "boss",
+   "aliases": [
+    "High Lord Wolnir"
+   ]
+  },
+  {
+   "name": "Irithyll of the Boreal Valley",
+   "kind": "location",
+   "aliases": [
+    "Irithyll"
+   ]
+  },
+  {
+   "name": "Pontiff Sulyvahn",
+   "kind": "boss",
+   "aliases": [
+    "Sulyvahn"
+   ]
+  },
+  {
+   "name": "Gwyndolin",
+   "kind": "character",
+   "aliases": [
+    "Dark Sun Gwyndolin"
+   ]
+  },
+  {
+   "name": "Anor Londo",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lord Gwyn",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Unkindled",
+    "The Ashen One"
+   ]
+  },
+  {
+   "name": "Yhorm the Giant",
+   "kind": "character",
+   "aliases": [
+    "Yhorm"
+   ]
+  },
+  {
+   "name": "Prince Lothric",
+   "kind": "character",
+   "aliases": [
+    "Lothric"
+   ]
+  },
+  {
+   "name": "Pontiff Knights",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Outriders",
+   "kind": "enemy",
+   "aliases": [
+    "Outrider Knights"
+   ]
+  },
+  {
+   "name": "Cinders of a Lord",
+   "kind": "item",
+   "aliases": [
+    "Lord of Cinder soul"
+   ]
+  },
+  {
+   "name": "Small Doll",
+   "kind": "item",
+   "aliases": [
+    "doll key to Irithyll"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Cathedral of the Deep was once a place of genuine faith, home to the Way of White religion.",
+   "entities": [
+    "Cathedral of the Deep",
+    "Way of White"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Deep is an ancient, stagnant dark force connected to the abyss lurking beneath reality.",
+   "entities": [
+    "The Deep"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Priests of the Cathedral of the Deep initially performed holy rites and used flame to seal and purify the corruption of the Deep.",
+   "entities": [
+    "Cathedral of the Deep",
+    "The Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Deep gradually corrupted the clergy, who abandoned the Way of White and began worshipping the darkness instead.",
+   "entities": [
+    "Cathedral of the Deep",
+    "The Deep",
+    "Way of White"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Aldrich was interred within the Cathedral of the Deep before becoming a Lord of Cinder, and his presence accelerated the Deep's corruption there.",
+   "entities": [
+    "Aldrich",
+    "Cathedral of the Deep",
+    "The Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The priests who tended Aldrich's resting place began venerating him as the Saint of the Deep.",
+   "entities": [
+    "Aldrich",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "By the time Aldrich rose and left for Irithyll, the Cathedral of the Deep had already fully fallen to corruption.",
+   "entities": [
+    "Aldrich",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Cathedral of the Deep is inhabited by undead deacons, reanimated corpses used as offerings, devourers, and madmen driven insane by the Deep.",
+   "entities": [
+    "Cathedral of the Deep"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Flooded crypts beneath the Cathedral of the Deep are inhabited by giant slaves, massive humanoid creatures with chains, originally brought as laborers or prisoners.",
+   "entities": [
+    "Cathedral of the Deep"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The inner sanctum of the Cathedral of the Deep is guarded by the Deacons of the Deep, a congregation led by Archdeacon Royce.",
+   "entities": [
+    "Deacons of the Deep",
+    "Cathedral of the Deep"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the fight with the Deacons of the Deep, a red glow representing a possessing evil soul jumps between deacon bodies, and only destroying the possessed body permanently ends the threat.",
+   "entities": [
+    "Deacons of the Deep"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When the possessing evil soul animating the Deacons of the Deep is destroyed, the rest of the congregation collapses lifelessly.",
+   "entities": [
+    "Deacons of the Deep"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Among the remains of the Deacons of the Deep, the Ashen One finds a small doll that serves as the key to unlock the barrier protecting Irithyll.",
+   "entities": [
+    "Small Doll",
+    "Irithyll of the Boreal Valley",
+    "Ashen One"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Aldrich's coffin behind the altar of the Cathedral of the Deep is found empty, since he departed for Irithyll immediately after rising.",
+   "entities": [
+    "Aldrich",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Farron Keep is a poisonous swamp region that acts as a natural barrier protecting the Undead Legion's fortress.",
+   "entities": [
+    "Farron Keep"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Three great flame beacons stand in the Farron swamp, representing the Undead Legion's vigilance; relighting them in an old ritual of Farron opens the path to Farron Keep.",
+   "entities": [
+    "Farron Keep",
+    "Abyss Watchers"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Farron Keep is the home of the Undead Legion, the headquarters of the Abyss Watchers.",
+   "entities": [
+    "Farron Keep",
+    "Abyss Watchers"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Abyss Watchers were an elite order of Undead warriors dedicated to destroying the abyss wherever it appeared.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Abyss Watchers partook of the wolf essence of Artorias, an ancient knight who had battled the abyss long ago, binding them into sharing a single soul.",
+   "entities": [
+    "Abyss Watchers",
+    "Artorias"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Abyss Watchers linked the first flame together as one, becoming Lords of Cinder through their shared soul.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "After linking the flame, the Abyss Watchers' shared essence began to dry up, and the abyss started corrupting their fortress and ranks.",
+   "entities": [
+    "Abyss Watchers",
+    "Farron Keep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "When the Abyss Watchers were resurrected by the tolling bell, some had resisted abyssal corruption while others succumbed, leading the order into civil war with itself.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "The Ashen One fights through the chaotic civil war of the Abyss Watchers in the great hall of Farron Keep.",
+   "entities": [
+    "Ashen One",
+    "Abyss Watchers",
+    "Farron Keep"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the last Abyss Watcher falls, the order's shared soul coalesces into him, and he rises again empowered with the cinder's fire as a second phase of the boss fight.",
+   "entities": [
+    "Abyss Watchers"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating the empowered Abyss Watcher yields Cinders of a Lord, one of the four Lord of Cinder souls needed to fill the thrones at Firelink Shrine.",
+   "entities": [
+    "Abyss Watchers",
+    "Cinders of a Lord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The catacombs of Carthus lie beneath Farron Keep and are the remains of the fallen kingdom of Carthus, once famous for warriors and pyromancers.",
+   "entities": [
+    "Carthus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The catacombs of Carthus feature collapsing bridges, traps, reanimated skeleton warriors that reassemble after being destroyed, and giant rolling bone wheels.",
+   "entities": [
+    "Carthus"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Deep within the catacombs of Carthus, the architecture gives way to a natural cavern filled with a physical manifestation of the Abyss.",
+   "entities": [
+    "Carthus"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Highlord Wolnir was once the conqueror of Carthus who sought more power from the Abyss, which slowly consumed him.",
+   "entities": [
+    "Highlord Wolnir",
+    "Carthus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Highlord Wolnir's golden bracelets hold back the Abyss's corruption and are his only vulnerability in battle.",
+   "entities": [
+    "Highlord Wolnir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When all of Highlord Wolnir's bracelets are destroyed, the Abyss fully claims him and drags him down into darkness, ending his existence.",
+   "entities": [
+    "Highlord Wolnir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Beyond the Carthus catacombs lies a passage leading to the frozen valley of Irithyll of the Boreal Valley.",
+   "entities": [
+    "Carthus",
+    "Irithyll of the Boreal Valley"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A magic barrier blocked Irithyll of the Boreal Valley until the Ashen One used the small doll obtained from the Deacons of the Deep.",
+   "entities": [
+    "Irithyll of the Boreal Valley",
+    "Small Doll",
+    "Ashen One"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Irithyll of the Boreal Valley is a frozen city with silver spires, patrolled by Pontiff Knights and Outriders.",
+   "entities": [
+    "Irithyll of the Boreal Valley",
+    "Pontiff Knights",
+    "Outriders"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pontiff Sulyvahn crowned himself ruler of Irithyll of the Boreal Valley through force and cunning, wielding two enchanted greatswords imbued with fire and ghostly magic.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Irithyll of the Boreal Valley"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Irithyll of the Boreal Valley was once protected by the old gods ruling from Anor Londo, with Gwyndolin as the last active deity maintaining order.",
+   "entities": [
+    "Irithyll of the Boreal Valley",
+    "Gwyndolin",
+    "Anor Londo"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Pontiff Sulyvahn imprisoned Gwyndolin, removing the last obstacle to his rule and then declared himself Pontiff of Irithyll.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Gwyndolin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Before becoming a Lord of Cinder, Aldrich was a cleric with an uncontrollable hunger for human flesh, and Pontiff Sulyvahn exiled him to the Cathedral of the Deep to contain the problem.",
+   "entities": [
+    "Aldrich",
+    "Pontiff Sulyvahn",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33
+  },
+  {
+   "text": "After Aldrich was resurrected as a Lord of Cinder and returned to Irithyll with greater power, Pontiff Sulyvahn struck a deal offering him Gwyndolin to feast on in exchange for leaving Irithyll alone.",
+   "entities": [
+    "Aldrich",
+    "Pontiff Sulyvahn",
+    "Gwyndolin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Pontiff Sulyvahn gave Aldrich a doll to ensure his safe passage through Irithyll's barriers to reach Anor Londo.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Aldrich",
+    "Anor Londo"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Pontiff Sulyvahn fights the Ashen One with twin greatswords and can summon a phantom shadow clone of himself mid-battle.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One defeats Pontiff Sulyvahn, ending his tyrannical rule over Irithyll of the Boreal Valley.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Ashen One",
+    "Irithyll of the Boreal Valley"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Anor Londo was once the legendary city of the gods where Lord Gwyn ruled during the Age of Fire, but the gods have long since abandoned it.",
+   "entities": [
+    "Anor Londo",
+    "Lord Gwyn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "While burning within the first flame after being forced to link it, Aldrich experienced visions of an age of the deep sea and decided to embrace the Deep as its champion.",
+   "entities": [
+    "Aldrich",
+    "The Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "After the emergency bell tolled, Aldrich journeyed to Anor Londo specifically to consume the imprisoned god Gwyndolin.",
+   "entities": [
+    "Aldrich",
+    "Anor Londo",
+    "Gwyndolin"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "By the time the Ashen One reaches Anor Londo, Aldrich's lower body has dissolved into a sludge mass and he wields Gwyndolin's still-animate torso as a weapon.",
+   "entities": [
+    "Aldrich",
+    "Gwyndolin",
+    "Anor Londo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the fight against Aldrich, he uses stolen abilities from Gwyndolin including soul spears and twisted miracles, plus a manifested lifehunt scythe inspired by dream-visions of a hidden pale girl.",
+   "entities": [
+    "Aldrich",
+    "Gwyndolin"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Aldrich causes him to dissolve, leaving behind a cleric's staff and the Cinders of a Lord, confirming his status as a Lord of Cinder.",
+   "entities": [
+    "Aldrich",
+    "Cinders of a Lord"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating Aldrich, two Lords of Cinder (Abyss Watchers and Aldrich) have fallen, leaving Yhorm the Giant and Prince Lothric still unaccounted for.",
+   "entities": [
+    "Aldrich",
+    "Abyss Watchers",
+    "Yhorm the Giant",
+    "Prince Lothric"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Among the debris of the Anor Londo cathedral, a familiar sword can be found that belongs to neither Aldrich nor Gwyndolin.",
+   "entities": [
+    "Anor Londo"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-3fa39680"
+}

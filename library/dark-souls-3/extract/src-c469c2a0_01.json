@@ -1,0 +1,791 @@
+{
+ "entities": [
+  {
+   "name": "Pontiff Sulyvahn",
+   "kind": "character",
+   "aliases": [
+    "Sulivan"
+   ]
+  },
+  {
+   "name": "Prince Lothric",
+   "kind": "character",
+   "aliases": [
+    "Lothric"
+   ]
+  },
+  {
+   "name": "Prince Lorian",
+   "kind": "character",
+   "aliases": [
+    "Laurian",
+    "Lauren"
+   ]
+  },
+  {
+   "name": "Twin Princes",
+   "kind": "boss",
+   "aliases": [
+    "Lorian, Elder Prince",
+    "Lothric, Younger Prince"
+   ]
+  },
+  {
+   "name": "Grand Archives",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lothric Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Demon Prince",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Witch of Izalith",
+   "kind": "character",
+   "aliases": [
+    "Witch of Iselith"
+   ]
+  },
+  {
+   "name": "Nameless King",
+   "kind": "boss",
+   "aliases": [
+    "Gwyn's firstborn son"
+   ]
+  },
+  {
+   "name": "Gwyn",
+   "kind": "character",
+   "aliases": [
+    "Lord of Sunlight"
+   ]
+  },
+  {
+   "name": "Ornstein",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Warriors of Sunlight",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "King of the Storm",
+   "kind": "boss",
+   "aliases": [
+    "Storm Drake"
+   ]
+  },
+  {
+   "name": "Arch Dragon Peak",
+   "kind": "location",
+   "aliases": [
+    "Archdragon Peak"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "player",
+    "Unkindled"
+   ]
+  },
+  {
+   "name": "Soul of Cinder",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Champion Gundyr",
+   "kind": "boss",
+   "aliases": [
+    "Champion Gundere"
+   ]
+  },
+  {
+   "name": "Fire Keeper",
+   "kind": "character",
+   "aliases": [
+    "Firekeeper"
+   ]
+  },
+  {
+   "name": "Untended Graves",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Cemetery of Ash",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Yoel of Londor",
+   "kind": "character",
+   "aliases": [
+    "Yol of Londor"
+   ]
+  },
+  {
+   "name": "Yuria of Londor",
+   "kind": "character",
+   "aliases": [
+    "Ura of Londor"
+   ]
+  },
+  {
+   "name": "Anri of Astora",
+   "kind": "character",
+   "aliases": [
+    "Enri of Ator",
+    "Henri"
+   ]
+  },
+  {
+   "name": "Sable Church of Londor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Kaathe",
+   "kind": "character",
+   "aliases": [
+    "law of Kate"
+   ]
+  },
+  {
+   "name": "Lord of Hollows",
+   "kind": "concept",
+   "aliases": [
+    "Usurpation of Fire ending"
+   ]
+  },
+  {
+   "name": "Painted World of Ariandel",
+   "kind": "location",
+   "aliases": [
+    "Painted World of Arendelle"
+   ]
+  },
+  {
+   "name": "Father Ariandel",
+   "kind": "character",
+   "aliases": [
+    "Father Arendelle"
+   ]
+  },
+  {
+   "name": "Sister Friede",
+   "kind": "character",
+   "aliases": [
+    "Sister Freda"
+   ]
+  },
+  {
+   "name": "Slave Knight Gael",
+   "kind": "character",
+   "aliases": [
+    "Gale"
+   ]
+  },
+  {
+   "name": "The Painter",
+   "kind": "character",
+   "aliases": [
+    "painter girl"
+   ]
+  },
+  {
+   "name": "Ashes of Ariandel",
+   "kind": "event",
+   "aliases": [
+    "Ashes of Arendelle"
+   ]
+  },
+  {
+   "name": "The Ringed City",
+   "kind": "location",
+   "aliases": [
+    "Ring City"
+   ]
+  },
+  {
+   "name": "Filianore",
+   "kind": "character",
+   "aliases": [
+    "Fyonora"
+   ]
+  },
+  {
+   "name": "Halflight, Spear of the Church",
+   "kind": "boss",
+   "aliases": [
+    "Halflight"
+   ]
+  },
+  {
+   "name": "Darkeater Midir",
+   "kind": "boss",
+   "aliases": [
+    "Dark Eater Media"
+   ]
+  },
+  {
+   "name": "Pygmy Lords",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dreg Heap",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Pontiff Sulyvahn's death is portrayed as the removal of a tyrant, but it does not solve the underlying crisis of the dying flame, the curse, or the endless cycle.",
+   "entities": [
+    "Pontiff Sulyvahn"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Prince Lothric and Prince Lorian are called the Twin Princes, though they are not literal twins.",
+   "entities": [
+    "Prince Lothric",
+    "Prince Lorian"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lorian is the elder brother and was once the kingdom's greatest warrior, while Lothric is the younger, frail prince born to link the flame.",
+   "entities": [
+    "Prince Lorian",
+    "Prince Lothric"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lorian's greatest triumph was defeating the Demon Prince, one of the last remnants of the chaos demons born from the Witch of Izalith's failed attempt to recreate the first flame.",
+   "entities": [
+    "Prince Lorian",
+    "Demon Prince",
+    "Witch of Izalith"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The battle with the Demon Prince scorched Lorian's greatsword, leaving it permanently wreathed in flame.",
+   "entities": [
+    "Prince Lorian",
+    "Demon Prince"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Demon Prince's curse crippled Lorian's legs, leaving him unable to walk, and also left him mute.",
+   "entities": [
+    "Prince Lorian",
+    "Demon Prince"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "When Lorian learned his younger brother Lothric was born cursed with eternal frailty, he used magic or a soul bond to take on Lothric's curse as well, sharing his suffering.",
+   "entities": [
+    "Prince Lorian",
+    "Prince Lothric"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Lorian and Lothric became inseparable, with Lorian carrying Lothric on his back while Lothric guided and supported him with magic.",
+   "entities": [
+    "Prince Lorian",
+    "Prince Lothric"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The kingdom of Lothric was built around a prophecy and generations of bloodline management meant to produce a prince who would link the flame.",
+   "entities": [
+    "Prince Lothric",
+    "Lothric Castle"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 30
+  },
+  {
+   "text": "Lothric was educated by the finest scholars in the Grand Archives, possibly including Pontiff Sulyvahn, who taught him doubts about the necessity of linking the flame.",
+   "entities": [
+    "Prince Lothric",
+    "Grand Archives",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": 46
+  },
+  {
+   "text": "Lothric learned that the curse of the undead originated from Gwyn's first linking of the flame, and began questioning whether sacrificing himself would truly help the dying world.",
+   "entities": [
+    "Prince Lothric",
+    "Gwyn"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 46
+  },
+  {
+   "text": "Prince Lothric ultimately refused to link the flame, retreating with Lorian to the highest chamber of Lothric Castle, which triggered the crisis requiring the Lords of Cinder to be raised.",
+   "entities": [
+    "Prince Lothric",
+    "Prince Lorian",
+    "Lothric Castle"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "In the boss fight, Lorian teleports around the arena wielding his flaming greatsword while Lothric supports him with healing and augmenting spells, and Lothric revives Lorian when he falls.",
+   "entities": [
+    "Twin Princes"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Twin Princes are defeated, the Ashen One places their cinders on an empty throne at Firelink Shrine, conscripting them into service as Lords of Cinder.",
+   "entities": [
+    "Twin Princes",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Archdragon Peak is accessible only through meditation and a specific gesture, and is home to the Dragon Covenant, whose members seek to transcend humanity and become dragons.",
+   "entities": [
+    "Arch Dragon Peak"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Gwyn's firstborn son was a god of war who fought alongside Gwyn against the everlasting dragons, wielding lightning spears capable of piercing dragon scales.",
+   "entities": [
+    "Nameless King",
+    "Gwyn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Gwyn's firstborn son founded the Warriors of Sunlight, a covenant dedicated to cooperation and mutual aid, and trained Ornstein, who became his first knight.",
+   "entities": [
+    "Nameless King",
+    "Warriors of Sunlight",
+    "Ornstein"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "Gwyn's firstborn son was exiled, stripped of his deific status, and had his name erased from all records after betraying Gwyn by allying with the everlasting dragons, becoming known only as the Nameless King.",
+   "entities": [
+    "Nameless King",
+    "Gwyn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "After his exile, the Nameless King allied with storm drakes, descendants of the ancient dragons, and tamed one known as the King of the Storm.",
+   "entities": [
+    "Nameless King",
+    "King of the Storm"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Nameless King created a sanctuary at Archdragon Peak for those who wished to follow the dragons.",
+   "entities": [
+    "Nameless King",
+    "Arch Dragon Peak"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Ringing the great bell at Archdragon Peak summons the Nameless King for a boss battle with two phases: first riding the King of the Storm, then fighting alone after absorbing his dragon's soul.",
+   "entities": [
+    "Nameless King",
+    "King of the Storm",
+    "Arch Dragon Peak"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating the King of the Storm, the Nameless King dismounts and absorbs his dragon companion's soul before continuing the fight alone.",
+   "entities": [
+    "Nameless King",
+    "King of the Storm"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating the Nameless King clears the perpetual storm over Archdragon Peak and reveals Ornstein's armor in the arena, suggesting Ornstein once searched for his original master.",
+   "entities": [
+    "Nameless King",
+    "Ornstein",
+    "Arch Dragon Peak"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Dark Souls III offers four main endings: Link the Fire, End of Fire (Age of Dark), the Usurpation of Fire (Lord of Hollows), and the Unkindled/betrayal ending.",
+   "entities": [
+    "Ashen One",
+    "Soul of Cinder"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the Link the Fire ending, the Ashen One touches the bonfire after defeating the Soul of Cinder and is consumed by a weak, flickering flame, extending the Age of Fire only briefly.",
+   "entities": [
+    "Ashen One",
+    "Soul of Cinder"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "To unlock the End of Fire ending, the Ashen One must defeat Champion Gundyr in the Untended Graves and retrieve the Eyes of a Fire Keeper hidden in a dark version of Firelink Shrine.",
+   "entities": [
+    "Ashen One",
+    "Champion Gundyr",
+    "Untended Graves",
+    "Fire Keeper"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Giving the Eyes of a Fire Keeper to the Fire Keeper lets her see a vision of darkness containing tiny dancing flames, implying fire would not vanish completely even without the first flame.",
+   "entities": [
+    "Fire Keeper"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the End of Fire ending, the Fire Keeper draws the last embers from the dying flame into herself at the Kiln of the First Flame, extinguishing the Age of Fire completely.",
+   "entities": [
+    "Fire Keeper",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "A secret variant of the End of Fire ending lets the player kill the Fire Keeper after she draws out the flame, allowing the Ashen One to steal the last spark of fire for themselves, resulting in the Unkindled ending with no achievement.",
+   "entities": [
+    "Fire Keeper",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The Usurpation of Fire (Lord of Hollows) ending requires a quest line involving Yoel of Londor, Yuria of Londor, and Anri of Astora.",
+   "entities": [
+    "Yoel of Londor",
+    "Yuria of Londor",
+    "Anri of Astora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yoel of Londor offers the Ashen One free levels in exchange for accepting Dark Sigils, marks of the hollowing curse, until he dies after granting five levels and five sigils.",
+   "entities": [
+    "Yoel of Londor",
+    "Ashen One"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After Yoel's death, Yuria of Londor appears at Firelink Shrine representing the Sable Church of Londor, a group that has long planned to usurp the first flame.",
+   "entities": [
+    "Yuria of Londor",
+    "Sable Church of Londor"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Lord of Hollows quest culminates in a dark wedding ceremony in Anor Londo where the Ashen One symbolically marries Anri by killing them, gaining Anri's dark sigils.",
+   "entities": [
+    "Ashen One",
+    "Anri of Astora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the Usurpation of Fire ending, the Ashen One absorbs the first flame into their body via the dark sigils rather than linking or extinguishing it, becoming the Lord of Hollows with a dark eclipse following them.",
+   "entities": [
+    "Ashen One",
+    "Lord of Hollows"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "The Lord of Hollows ending is tied to Kaathe, a primordial serpent who previously sought an Age of Dark and learned that simply letting the flame die was not enough since it would always relight; instead the flame needed to be usurped and controlled by humanity.",
+   "entities": [
+    "Kaathe",
+    "Lord of Hollows"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Painted World of Ariandel is a realm created on canvas, meant as a refuge for outcasts, but is found rotting with a corruption resembling scarlet rot.",
+   "entities": [
+    "Painted World of Ariandel"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Painted World of Ariandel is ruled by Father Ariandel, who flagellates himself to maintain the painting, and Sister Friede, who wields a scythe and claims to protect the painting.",
+   "entities": [
+    "Painted World of Ariandel",
+    "Father Ariandel",
+    "Sister Friede"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Sister Friede was once an Ashen One who sought to link the first flame but fled to the Painted World instead.",
+   "entities": [
+    "Sister Friede"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Painted World operates on a cycle where it rots over time and must eventually be burned away and repainted to renew itself, but Friede has stopped this cycle by keeping the painting alive through Ariandel's suffering.",
+   "entities": [
+    "Painted World of Ariandel",
+    "Father Ariandel",
+    "Sister Friede"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Slave Knight Gael brings the Ashen One to the Painted World and introduces them to the Painter, a girl who needs fire, the dark soul of man as pigment, and help to create a new painting.",
+   "entities": [
+    "Slave Knight Gael",
+    "The Painter",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ashen One fights Father Ariandel and Sister Friede in a three-phase battle, ending with Friede transforming into Black Flame Friede after being revived twice.",
+   "entities": [
+    "Father Ariandel",
+    "Sister Friede"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Ashen One ignites the painting, it begins its cycle of renewal, and the Painter promises to create a new painting that will be cold, dark, and gentle.",
+   "entities": [
+    "The Painter",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ringed City takes place at the literal end of time and space, where all ages of the world collapse together in the Dreg Heap.",
+   "entities": [
+    "The Ringed City",
+    "Dreg Heap"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Ringed City was created by Gwyn to contain the pygmies, descendants of the furtive pygmy who found the dark soul, acting as both prison and sanctuary.",
+   "entities": [
+    "The Ringed City",
+    "Gwyn",
+    "Pygmy Lords"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Gwyn sent his youngest daughter Filianore to live with the pygmies, holding a mysterious egg whose seal kept the Ringed City separate from the rest of the world, guarded by the Ringed Knights.",
+   "entities": [
+    "Filianore",
+    "The Ringed City"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "The Ashen One battles Halflight, Spear of the Church, and the optional superboss Darkeater Midir, a dragon corrupted by the abyss he long consumed.",
+   "entities": [
+    "Halflight, Spear of the Church",
+    "Darkeater Midir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When the Ashen One touches Filianore's egg, it shatters, she awakens, and the world shifts to a true end-time wasteland where the first flame has completely died.",
+   "entities": [
+    "Filianore",
+    "The Ringed City"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Ashen Wasteland, Slave Knight Gael is found covered in blood among the desiccated Pygmy Lords, having drunk their dried blood in a mad attempt to gather fragments of the dark soul for the Painter's pigment.",
+   "entities": [
+    "Slave Knight Gael",
+    "Pygmy Lords"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The dark soul corrupts Gael, transforming him into a monstrous being with a wound resembling the Dark Sign, as he fights the Ashen One across the largest arena in the series.",
+   "entities": [
+    "Slave Knight Gael",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The battle with Slave Knight Gael has three phases: a beastial first phase, a more human and flame-empowered second phase, and a final phase with falling red lightning.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After defeating Gael, the Ashen One claims his blood containing the concentrated dark soul of man, which can be given to the Painter as pigment for her new painting.",
+   "entities": [
+    "Slave Knight Gael",
+    "The Painter",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The Painter promises to name her new painting 'Ash' in honor of those who helped her, and fans speculate it could connect to Bloodborne, Demon's Souls, or an entirely new world.",
+   "entities": [
+    "The Painter"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Ringed City DLC ends with the Ashen One sitting on a dune in the Ashen Wasteland, marking the point where the first flame has truly died and the Dark Souls cycle is broken.",
+   "entities": [
+    "Ashen One",
+    "The Ringed City"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  }
+ ],
+ "_src": "src-c469c2a0"
+}

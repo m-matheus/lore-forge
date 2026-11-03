@@ -1,0 +1,105 @@
+{
+ "entities": [
+  {
+   "name": "Slave Knight Gael",
+   "kind": "character",
+   "aliases": [
+    "Gael",
+    "Gail",
+    "Gale"
+   ]
+  },
+  {
+   "name": "The Painter",
+   "kind": "character",
+   "aliases": [
+    "Little Girl Painter",
+    "Child Painter"
+   ]
+  },
+  {
+   "name": "Age of Fire",
+   "kind": "concept",
+   "aliases": [
+    "First Flame"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Slave Knight Gael never aspired to be a hero and knew he wasn't strong enough to save the world, but tried anyway because someone he cared about needed help.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 90
+  },
+  {
+   "text": "Slave Knight Gael's journey took him through vast ages and impossible battles, all the way to the end of time itself.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92
+  },
+  {
+   "text": "In the end, Slave Knight Gael was corrupted and transformed into the very type of monster he had fought for so long to prevent.",
+   "entities": [
+    "Slave Knight Gael"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Because of Slave Knight Gael's persistence through madness and corruption, the painter received the pigment she needed.",
+   "entities": [
+    "Slave Knight Gael",
+    "The Painter"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 96
+  },
+  {
+   "text": "The pigment obtained through Slave Knight Gael's sacrifice allowed the painter to create a new world.",
+   "entities": [
+    "Slave Knight Gael",
+    "The Painter"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 97
+  },
+  {
+   "text": "Dark Souls III never explicitly tells the player what the right choice is regarding the fate of the first flame, only showing the consequences of past choices.",
+   "entities": [
+    "Age of Fire"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The overall theme of Dark Souls III is that tragedy and hope are intertwined, with sacrifices that seem futile but ultimately matter.",
+   "entities": [
+    "Age of Fire"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The series conveys that endings are not the same as extinction, and that letting go of the old is necessary to make room for the new.",
+   "entities": [
+    "Age of Fire"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-c469c2a0"
+}

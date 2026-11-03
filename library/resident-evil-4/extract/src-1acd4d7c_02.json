@@ -1,0 +1,728 @@
+{
+ "entities": [
+  {
+   "name": "Verdugo",
+   "kind": "boss",
+   "aliases": [
+    "Reaper",
+    "El Verdugo"
+   ]
+  },
+  {
+   "name": "Leon S. Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leon",
+    "the federal agent",
+    "the marksman"
+   ]
+  },
+  {
+   "name": "Ramon Salazar",
+   "kind": "character",
+   "aliases": [
+    "Salazar",
+    "the Castellan"
+   ]
+  },
+  {
+   "name": "Jack Krauser",
+   "kind": "character",
+   "aliases": [
+    "Krauser",
+    "Krower"
+   ]
+  },
+  {
+   "name": "Ada Wong",
+   "kind": "character",
+   "aliases": [
+    "Ada",
+    "the spy",
+    "the operative"
+   ]
+  },
+  {
+   "name": "Osmund Saddler",
+   "kind": "character",
+   "aliases": [
+    "Saddler",
+    "the mastermind"
+   ]
+  },
+  {
+   "name": "Ashley Graham",
+   "kind": "character",
+   "aliases": [
+    "Ashley",
+    "the presidential daughter",
+    "the student"
+   ]
+  },
+  {
+   "name": "Mike",
+   "kind": "character",
+   "aliases": [
+    "the helicopter pilot"
+   ]
+  },
+  {
+   "name": "Regenerators",
+   "kind": "enemy",
+   "aliases": [
+    "cellular reapers"
+   ]
+  },
+  {
+   "name": "Iron Maidens",
+   "kind": "enemy",
+   "aliases": [
+    "spiked regenerators"
+   ]
+  },
+  {
+   "name": "Las Plagas",
+   "kind": "concept",
+   "aliases": [
+    "the prehistoric fire",
+    "the dominant species plaga"
+   ]
+  },
+  {
+   "name": "Queen Plaga",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Los Illuminados",
+   "kind": "faction",
+   "aliases": [
+    "the cult",
+    "the organization"
+   ]
+  },
+  {
+   "name": "Albert Wesker",
+   "kind": "character",
+   "aliases": [
+    "the master",
+    "Wesker"
+   ]
+  },
+  {
+   "name": "Operation Javier",
+   "kind": "event",
+   "aliases": []
+  },
+  {
+   "name": "Novistadors",
+   "kind": "enemy",
+   "aliases": [
+    "Noveistadors"
+   ]
+  },
+  {
+   "name": "Island Military Base",
+   "kind": "location",
+   "aliases": [
+    "the offshore island",
+    "the research facility"
+   ]
+  },
+  {
+   "name": "Laser Treatment Room",
+   "kind": "location",
+   "aliases": [
+    "the operating theater",
+    "the Ganado-curing chamber"
+   ]
+  },
+  {
+   "name": "Luis Sera",
+   "kind": "character",
+   "aliases": [
+    "Luis Sarah"
+   ]
+  },
+  {
+   "name": "Salazar's Castle",
+   "kind": "location",
+   "aliases": [
+    "the castle",
+    "the Castellan's tower"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Verdugo was a bioweapon created by fusing human DNA with the dominant Las Plagas strain, giving it insect-like traits.",
+   "entities": [
+    "Verdugo",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Verdugo served as the hidden guardian of the Salazar bloodline, unknown to most of the local Ganado.",
+   "entities": [
+    "Verdugo",
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 60
+  },
+  {
+   "text": "The Verdugo possessed a segmented exoskeleton that was resistant to standard firearms.",
+   "entities": [
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Verdugo used a bladed tail and claws to move quickly through vertical spaces in the underground facility.",
+   "entities": [
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Leon Kennedy confronted the Verdugo during an elevator standoff in the facility's cooling chambers.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Leon Kennedy discovered that the Verdugo's exoskeleton became brittle when exposed to extreme cold from liquid nitrogen tanks.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Leon Kennedy froze the Verdugo with liquid nitrogen and then shattered its frozen body with a single powerful shot.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "The death of the Verdugo signaled that Salazar's reign as Castellan was nearing its end.",
+   "entities": [
+    "Verdugo",
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 61
+  },
+  {
+   "text": "Jack Krauser and Ada Wong met secretly on the castle battlements to discuss the status of the Spanish mission.",
+   "entities": [
+    "Jack Krauser",
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Jack Krauser questioned Ada Wong's loyalty, suggesting her past connection to Leon Kennedy compromised her objectivity.",
+   "entities": [
+    "Jack Krauser",
+    "Ada Wong",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Ada Wong reminded Jack Krauser that Albert Wesker trusted her judgment over his aggressive methods.",
+   "entities": [
+    "Ada Wong",
+    "Jack Krauser",
+    "Albert Wesker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Jack Krauser viewed the Las Plagas project as a tool to reclaim his lost honor as a soldier, while Ada Wong viewed it purely as a valuable commodity.",
+   "entities": [
+    "Jack Krauser",
+    "Ada Wong",
+    "Las Plagas"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 62
+  },
+  {
+   "text": "Osmund Saddler ordered Jack Krauser to kill Leon Kennedy personally as a test of loyalty.",
+   "entities": [
+    "Osmund Saddler",
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Jack Krauser accepted the order to kill Leon Kennedy, seeing it as a step toward securing a position with the organization.",
+   "entities": [
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Ada Wong secretly monitored Jack Krauser's plans and gave Leon Kennedy minimal support to keep him alive and useful to her own goals.",
+   "entities": [
+    "Ada Wong",
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 62
+  },
+  {
+   "text": "Ramon Salazar fused his body with the remaining Queen Plaga and a second Verdugo to create a massive final mutated form.",
+   "entities": [
+    "Ramon Salazar",
+    "Queen Plaga",
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Salazar's final form was a towering mass of parasitic flesh with tentacles anchored to the tower's structure.",
+   "entities": [
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "In his final form, Salazar's human torso remained protected inside a shell near a central eye structure.",
+   "entities": [
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Leon Kennedy used heavy weaponry to break open Salazar's protective shell and fired at his exposed human torso to kill him.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "The destruction of Salazar's final form ended the Salazar bloodline's rule as Castellan.",
+   "entities": [
+    "Ramon Salazar"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "After Salazar's death, Ada Wong met Leon Kennedy at the castle docks with a speedboat to take him to an offshore military island where Ashley had been taken.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "Leon Kennedy and Ada Wong had not worked together directly for six years before this reunion.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "During the boat trip, Leon Kennedy and Ada Wong remained guarded with each other, each secretly pursuing separate objectives.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 64
+  },
+  {
+   "text": "Ada Wong used her technical skills to disable security sensors so the speedboat could approach the island undetected.",
+   "entities": [
+    "Ada Wong"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "The offshore island was a fortified military complex revealing Saddler's broader international ambitions for Los Illuminados.",
+   "entities": [
+    "Island Military Base",
+    "Osmund Saddler",
+    "Los Illuminados"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "The island base contained communications arrays, heavy artillery turrets, automated labs, and cold storage zones for mass-producing bioweapons.",
+   "entities": [
+    "Island Military Base"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Leon Kennedy found the bodies of mercenaries who had failed the island's brutal physical selection process.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Island Military Base"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Leon Kennedy recovered Jack Krauser's personal military journals from the island's command center.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Jack Krauser",
+    "Island Military Base"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Krauser's journals detailed his psychological breakdown following Operation Javier in 2002, where he first witnessed the power of Las Plagas.",
+   "entities": [
+    "Jack Krauser",
+    "Operation Javier",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The journals revealed that a Plaga had taken over Jack Krauser's mind, twisting his sense of military honor into a desire for power.",
+   "entities": [
+    "Jack Krauser",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The journals confirmed Jack Krauser intended to help Albert Wesker rule the world after the mission's completion.",
+   "entities": [
+    "Jack Krauser",
+    "Albert Wesker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Jack Krauser viewed his Plaga-granted power as a way to restore his lost physical abilities after being wounded.",
+   "entities": [
+    "Jack Krauser",
+    "Las Plagas"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The journals revealed Jack Krauser had a secret deal with the organization: he would retrieve the Plaga sample in exchange for a position of power.",
+   "entities": [
+    "Jack Krauser"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Jack Krauser built a private laboratory on the island to refine his own physical mutation.",
+   "entities": [
+    "Jack Krauser",
+    "Island Military Base"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "A rogue U.S. government pilot named Mike arrived in an attack helicopter to provide Leon Kennedy with air support on the island.",
+   "entities": [
+    "Mike",
+    "Leon S. Kennedy",
+    "Island Military Base"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Mike destroyed anti-aircraft turrets and enemy squads to help clear Leon Kennedy's path to the command center.",
+   "entities": [
+    "Mike",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Mike's helicopter was brought down by a swarm of Novistadors, killing him.",
+   "entities": [
+    "Mike",
+    "Novistadors"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Novistadors are flying parasitic creatures capable of overwhelming armored vehicles through sheer numbers and aerial mobility.",
+   "entities": [
+    "Novistadors"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Leon Kennedy found Ashley Graham held captive inside a stone sanctuary at the center of the island base.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Osmund Saddler used his telepathic control over the Plaga parasite to force Leon Kennedy to his knees and hand Ashley Graham a gun to execute him.",
+   "entities": [
+    "Osmund Saddler",
+    "Leon S. Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Ashley Graham resisted Saddler's mental command at the last moment and refused to shoot Leon Kennedy.",
+   "entities": [
+    "Ashley Graham",
+    "Osmund Saddler",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 68
+  },
+  {
+   "text": "Regenerators are bioweapons created by implanting multiple Plagas into a single human host, granting them instant cellular regeneration including regrowing severed limbs or heads.",
+   "entities": [
+    "Regenerators"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Standard gunfire was ineffective against Regenerators because of their regenerative abilities.",
+   "entities": [
+    "Regenerators"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Leon Kennedy used a thermal scope to locate and destroy the individual parasites hidden inside each Regenerator's body to kill them permanently.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Regenerators"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Iron Maidens are an advanced mutation of the Regenerator that erupts with defensive bone spines when threatened.",
+   "entities": [
+    "Iron Maidens",
+    "Regenerators"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Leon Kennedy used a keycard recovered from a researcher to bypass the Iron Maidens and access a hidden research wing.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Iron Maidens",
+    "Luis Sera"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "Jack Krauser ambushed Leon Kennedy in a concrete labyrinth on the island, mutating his left arm into a massive organic blade.",
+   "entities": [
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Jack Krauser's mutated blade arm functioned as both a weapon and a bulletproof shield.",
+   "entities": [
+    "Jack Krauser"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Leon Kennedy exploited a gap in Jack Krauser's footwork to deliver a fatal strike during their final duel.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Jack Krauser"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Jack Krauser died acknowledging that Leon Kennedy had proven himself the superior fighter.",
+   "entities": [
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 69
+  },
+  {
+   "text": "Using a keycard provided by researcher Luis Sera, Leon Kennedy and Ashley Graham accessed a hidden laboratory containing a specialized laser treatment device.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham",
+    "Luis Sera",
+    "Laser Treatment Room"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "The laser treatment device used targeted high-frequency radiation to destroy Las Plagas parasites inside a host's nervous system without harming the host's body.",
+   "entities": [
+    "Laser Treatment Room",
+    "Las Plagas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Leon Kennedy and Ashley Graham used the laser device to remove their own Plagas, restoring their autonomy and ending Saddler's ability to telepathically control them.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham",
+    "Osmund Saddler"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "As Leon Kennedy and Ashley Graham attempted their final escape, Osmund Saddler ambushed them in the primary laboratory chamber.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham",
+    "Osmund Saddler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Ada Wong used her grapple gun to distract Osmund Saddler and allow Leon Kennedy and Ashley Graham to escape.",
+   "entities": [
+    "Ada Wong",
+    "Osmund Saddler",
+    "Leon S. Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  },
+  {
+   "text": "Osmund Saddler overpowered Ada Wong with his enhanced speed and trapped her in a high-voltage containment device to use as bait against Leon Kennedy.",
+   "entities": [
+    "Osmund Saddler",
+    "Ada Wong",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 71
+  }
+ ],
+ "_src": "src-1acd4d7c"
+}

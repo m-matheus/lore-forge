@@ -1,0 +1,276 @@
+{
+ "entities": [
+  {
+   "name": "Osmund Saddler",
+   "kind": "character",
+   "aliases": [
+    "Sadler",
+    "Saddler",
+    "the mastermind"
+   ]
+  },
+  {
+   "name": "Leon S. Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leon",
+    "Leyon Kennedy"
+   ]
+  },
+  {
+   "name": "Ada Wong",
+   "kind": "character",
+   "aliases": [
+    "Adah Wong",
+    "Ada"
+   ]
+  },
+  {
+   "name": "Ashley Graham",
+   "kind": "character",
+   "aliases": [
+    "Ashley"
+   ]
+  },
+  {
+   "name": "Las Plagas",
+   "kind": "item",
+   "aliases": [
+    "Plaga",
+    "Plagga",
+    "dominant plaga sample"
+   ]
+  },
+  {
+   "name": "Los Illuminados",
+   "kind": "faction",
+   "aliases": [
+    "the cult",
+    "the organization"
+   ]
+  },
+  {
+   "name": "Saddler's Final Form",
+   "kind": "boss",
+   "aliases": [
+    "the arachnid god",
+    "arachnid monstrosity"
+   ]
+  },
+  {
+   "name": "Island Facility",
+   "kind": "location",
+   "aliases": [
+    "the laboratory",
+    "the crane platform",
+    "Spanish valley island"
+   ]
+  },
+  {
+   "name": "Rocket Launcher",
+   "kind": "weapon",
+   "aliases": [
+    "special rocket launcher"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Ada Wong was captured in an industrial chamber equipped with high-voltage equipment and vertical spaces used by the cult to trap her.",
+   "entities": [
+    "Ada Wong",
+    "Los Illuminados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Leon Kennedy witnessed Ada Wong being captured and felt a strong psychological impact from seeing his partner taken.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92
+  },
+  {
+   "text": "Leon Kennedy confronted Osmund Saddler at the highest crane platform of the island facility to finalize his mission.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Osmund Saddler",
+    "Island Facility"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Cornered and without his political plans, Osmund Saddler transformed into a towering multi-legged arachnid monster with a massive central eye.",
+   "entities": [
+    "Osmund Saddler",
+    "Saddler's Final Form"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Saddler's arachnid form represented the peak biological potential of the dominant Las Plagas strain.",
+   "entities": [
+    "Saddler's Final Form",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 94
+  },
+  {
+   "text": "During the battle, Saddler's arachnid form moved with superhuman speed and used its massive legs to destroy industrial equipment and isolate Leon.",
+   "entities": [
+    "Saddler's Final Form",
+    "Leon S. Kennedy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Ada Wong broke free from her containment and provided Leon Kennedy with a special rocket launcher during the final battle.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy",
+    "Rocket Launcher"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Leon Kennedy used the rocket launcher to deliver a final strike to the central core of the arachnid monster, destroying it in an explosion.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Saddler's Final Form",
+    "Rocket Launcher"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The destruction of Osmund Saddler's final form ended the leadership of Los Illuminados.",
+   "entities": [
+    "Osmund Saddler",
+    "Los Illuminados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Leon Kennedy felt a mix of relief and heaviness after defeating Osmund Saddler, having outplayed the most dangerous figure in the Spanish valley.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Osmund Saddler"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 95
+  },
+  {
+   "text": "Immediately after Saddler's death, Ada Wong held Leon Kennedy at gunpoint to take the pristine dominant Plaga sample from the remains.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy",
+    "Las Plagas"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Ada Wong gave Leon Kennedy an apology along with the keys to an aquatic craft before escaping by helicopter.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "As she flew away, Ada Wong triggered a thermal self-destruct sequence that destroyed the entire island facility.",
+   "entities": [
+    "Ada Wong",
+    "Island Facility"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Ada Wong intended to use the Plaga sample as leverage, recognizing that delivering it to her employer could enable a global catastrophe.",
+   "entities": [
+    "Ada Wong",
+    "Las Plagas"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 96
+  },
+  {
+   "text": "Leon Kennedy was devastated that Ada Wong took the primary evidence, realizing everyone he met in the valley had hidden agendas or contracts.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ada Wong"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 96
+  },
+  {
+   "text": "Leon Kennedy and Ashley Graham had a strict three-minute window to escape to the shoreline before the island's self-destruct sequence completed.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham",
+    "Island Facility"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Leon Kennedy used an aquatic craft to bypass final security locks and escape the collapsing island facility with Ashley Graham.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ashley Graham",
+    "Island Facility"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "The island facility was completely destroyed, erasing evidence of Los Illuminados' operations.",
+   "entities": [
+    "Island Facility",
+    "Los Illuminados"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Ada Wong flew toward the horizon as the sun rose, having successfully secured the Plaga sample for her own employer.",
+   "entities": [
+    "Ada Wong",
+    "Las Plagas"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99
+  }
+ ],
+ "_src": "src-1acd4d7c"
+}

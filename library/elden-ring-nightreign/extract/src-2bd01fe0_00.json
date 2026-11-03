@@ -1,0 +1,1079 @@
+{
+ "entities": [
+  {
+   "name": "Nightreign",
+   "kind": "event",
+   "aliases": [
+    "Night Rain",
+    "Elden Ring Nightreign"
+   ]
+  },
+  {
+   "name": "The Night",
+   "kind": "concept",
+   "aliases": [
+    "the Knight (mistranscription)"
+   ]
+  },
+  {
+   "name": "Night Lord",
+   "kind": "concept",
+   "aliases": [
+    "Nightlord"
+   ]
+  },
+  {
+   "name": "Heolstor the Nameless Night Lord",
+   "kind": "character",
+   "aliases": [
+    "Holto",
+    "Heolstor",
+    "Namaras",
+    "Nameless King of Night",
+    "Primordial Night Lord"
+   ]
+  },
+  {
+   "name": "Golden Order",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Erdtree",
+   "kind": "location",
+   "aliases": [
+    "Ode Tree",
+    "the tree"
+   ]
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": [
+    "Nox race"
+   ]
+  },
+  {
+   "name": "Trace of Night",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Outer God of Night",
+   "kind": "concept",
+   "aliases": [
+    "the outer god of night"
+   ]
+  },
+  {
+   "name": "Recluse's Remembrance",
+   "kind": "item",
+   "aliases": [
+    "bone-like stone of the night"
+   ]
+  },
+  {
+   "name": "Primordial Night Lord's Rune",
+   "kind": "item",
+   "aliases": [
+    "Rune of the Coming Night"
+   ]
+  },
+  {
+   "name": "The Shattering",
+   "kind": "history",
+   "aliases": []
+  },
+  {
+   "name": "Gladius, Beast of Night",
+   "kind": "boss",
+   "aliases": [
+    "Gladius"
+   ]
+  },
+  {
+   "name": "Night of the Beast relic",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Nightfarers",
+   "kind": "faction",
+   "aliases": [
+    "Night Farers",
+    "Nightfarer"
+   ]
+  },
+  {
+   "name": "Ancients of the First Nightfall",
+   "kind": "faction",
+   "aliases": [
+    "Ancients of the Crypt",
+    "condemned of the first nightfall"
+   ]
+  },
+  {
+   "name": "Round Table Hold (Nightreign)",
+   "kind": "location",
+   "aliases": [
+    "the Round Table",
+    "Roundtable Hold"
+   ]
+  },
+  {
+   "name": "Cutting-Gifted Tribe",
+   "kind": "faction",
+   "aliases": [
+    "the Tribe"
+   ]
+  },
+  {
+   "name": "Cord End",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Sacrificial Twig",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Sacred Tree (Nightreign)",
+   "kind": "location",
+   "aliases": [
+    "Spirit Shelter",
+    "divine dried white spirit tree"
+   ]
+  },
+  {
+   "name": "Duchess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Recluse",
+   "kind": "character",
+   "aliases": [
+    "the Menial"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": [
+    "America"
+   ]
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "concept",
+   "aliases": [
+    "Formless Master"
+   ]
+  },
+  {
+   "name": "Godrick the Grafted",
+   "kind": "character",
+   "aliases": [
+    "Godric"
+   ]
+  },
+  {
+   "name": "Wylder",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Limgrave (Nightreign)",
+   "kind": "location",
+   "aliases": [
+    "Limveld"
+   ]
+  },
+  {
+   "name": "Director Hidetaka Miyazaki",
+   "kind": "character",
+   "aliases": [
+    "Ishazaki"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "In the main ending cutscene of Nightreign, a giant embodying the night is granted grace, looks toward the Lands Between, then turns away and walks into the dawn instead.",
+   "entities": [
+    "Nightreign"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Nightreign recontextualizes the base game by revealing that the eternal cities were banished underground in a single night.",
+   "entities": [
+    "Nightreign"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Director Hidetaka Miyazaki has stated in interviews that Nightreign takes place on a separate branching timeline that diverges from the events of the Shattering in the original Elden Ring.",
+   "entities": [
+    "Nightreign",
+    "The Shattering"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nightreign depicts an alternate reality within the Lands Between where the Night managed to take hold.",
+   "entities": [
+    "Nightreign",
+    "The Night"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Nox were a race in the base Elden Ring game who foresaw an age of stars and a Lord of Night, and waited underground in eternal anticipation of it.",
+   "entities": [
+    "Nox"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Miyazaki described the Night in an IGN interview as a kind of natural disaster, a cataclysm that occurred without design or intent.",
+   "entities": [
+    "The Night",
+    "Director Hidetaka Miyazaki"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist suggests the Night is a natural force that was suppressed by the Golden Order for a long time, similar to how Rot was once an accepted force before being sealed away and vilified.",
+   "entities": [
+    "The Night",
+    "Golden Order"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night is associated with darkness, which the ever-burning light of the Erdtree has long kept at bay.",
+   "entities": [
+    "The Night",
+    "Erdtree"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Night is associated with fate as read in the stars, a fate obscured by the Golden Order's bright light.",
+   "entities": [
+    "The Night",
+    "Golden Order"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Night represents equanimity, coming to all beings equally, contrasting with the Golden Order's selective bestowal of grace.",
+   "entities": [
+    "The Night",
+    "Golden Order"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Albinaurics mutter that the stars will punish the world in flame, speaking to those who have forsaken them.",
+   "entities": [
+    "The Night"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist believes the Night Lord is a calamity caused by the suppression of grace, a natural reckoning that was long overdue.",
+   "entities": [
+    "Night Lord",
+    "The Night"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Trace of Night item, obtained after defeating a Night Lord, is described as dimly revealing the contours of a greater being beyond the Night Lord.",
+   "entities": [
+    "Trace of Night"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist speculates that the Trace of Night depicts the silhouette of a cosmic Outer God of Night.",
+   "entities": [
+    "Trace of Night",
+    "Outer God of Night"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "On the second day of an expedition in Nightreign, a distant dead tree glows white and makes contact with something swirling in the night sky.",
+   "entities": [
+    "Nightreign"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "On the third day of an expedition, the dead tree splits open into a chalice shape as cosmic light pours down from the sky.",
+   "entities": [
+    "Nightreign"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The theorist proposes that this white light manifesting from the tree could literally be the Outer God of Night appearing in the world.",
+   "entities": [
+    "Outer God of Night"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Nightfarers are shown opposing this white light during the expedition's climax, suggesting hostility toward this cosmic manifestation.",
+   "entities": [
+    "Nightfarers",
+    "Outer God of Night"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse's Remembrance item, called a bone-like stone bestowed by the Night Lord, is described as the bone of an Outer God capable of expunging divine essence while also being destructible by that same essence.",
+   "entities": [
+    "Recluse's Remembrance",
+    "Night Lord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist believes the Recluse's Remembrance bone-like stone belongs to the Outer God of Night specifically, since the Night can also snuff out grace and is weak to holy damage.",
+   "entities": [
+    "Recluse's Remembrance",
+    "Outer God of Night",
+    "The Night"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night Lord did not create the power of the Night himself; rather it came to him in the dead of night, embodied in the Primordial Night Lord's Rune.",
+   "entities": [
+    "Heolstor the Nameless Night Lord",
+    "Primordial Night Lord's Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Primordial Night Lord's Rune is described as possessing the same nature as a Great Rune, though it is never explicitly called a Great Rune of the Elden Ring.",
+   "entities": [
+    "Primordial Night Lord's Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist speculates the Rune of the Coming Night may have been removed from the Elden Ring, always been separate from it, or broken away during the Shattering.",
+   "entities": [
+    "Primordial Night Lord's Rune",
+    "The Shattering"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Shattering was a great war in the Lands Between's past that destroyed the established order and eventually gave rise to an abomination.",
+   "entities": [
+    "The Shattering"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "During the Shattering, the Elden Ring's timeline split, giving rise to the new branching dimension in which Nightreign takes place.",
+   "entities": [
+    "The Shattering",
+    "Nightreign"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 20
+  },
+  {
+   "text": "The Shattering encompasses not just the ring's breaking but also the subsequent wars in which demigods, each bearing a Great Rune, fought across the Lands Between.",
+   "entities": [
+    "The Shattering"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "It was the war of the Shattering that eventually drew forth the Night Lord.",
+   "entities": [
+    "The Shattering",
+    "Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "A nameless former knight, defeated in battle during the Shattering, crawled out from under a pile of corpses after being struck down by a hero, and cursed the world during a night of heavy rain.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "This nameless man became the Primordial Night Lord as a result of his curse during that rainy night.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "In the Japanese version, the Primordial Night Lord's name is Namaras, meaning 'nameless.'",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In the English version, the Night Lord's name Heolstor is an Old English word meaning darkness or concealment, referring to what he became rather than who he was.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The imagery of the Night Lord crawling from a pile of bodies evokes the Divine Gate or the Jar Saints' conglomerations of bodies used to touch the divine via the Crucible.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The theorist compares the Night Lord harboring the Primordial Night Lord's Rune within himself to how Marika harbors the Elden Ring.",
+   "entities": [
+    "Heolstor the Nameless Night Lord",
+    "Marika",
+    "Primordial Night Lord's Rune"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Heolstor is identified as the first Night Lord, as the word 'primordial' means original or ancient.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Over time the power of the Night spread from Heolstor to other beings, creating additional Night Lords.",
+   "entities": [
+    "Heolstor the Nameless Night Lord",
+    "Night Lord"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Gladius, the Beast of Night, is one being who welcomed the touch of the Night rather than fearing it.",
+   "entities": [
+    "Gladius, Beast of Night"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "The Night of the Beast relic describes a three-headed wolf pup named Gladius, feared and driven from its pack, who seized a man's sword in its jaws but was shown kindness instead of harm, and has remained at the man's side ever since.",
+   "entities": [
+    "Gladius, Beast of Night",
+    "Night of the Beast relic"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "The theorist believes the man who took in Gladius on a rainswept night was Heolstor, the Nameless Night Lord.",
+   "entities": [
+    "Gladius, Beast of Night",
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 24
+  },
+  {
+   "text": "Every Night Lord carries a piece of Heolstor's Night, making them all in some sense aspects of the original Night Lord.",
+   "entities": [
+    "Night Lord",
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "On the third day of an expedition, the Erdtree is absent entirely, and Limgrave has become distorted and at risk of disappearing due to the Night Lord's power over fate.",
+   "entities": [
+    "Limgrave (Nightreign)",
+    "Night Lord"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Nightfarers are a group of individuals brought together by circumstance, sharing no common station, era, or purpose, but united by a shared will to resist the Night.",
+   "entities": [
+    "Nightfarers"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A text at the Round Table Hold's underground crypt states that the 'condemned of the first nightfall' bear a sin too great for absolution and are fated to guide their progeny until the night breaks.",
+   "entities": [
+    "Ancients of the First Nightfall",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The underground crypt beneath the Round Table Hold contains eight coffins, matching the number of playable Nightfarers.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Nightfarers"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the fight with Heolstor, he appears restrained, with a dagger and a greatsword thrust into him and bound by a chanted incantation, implying prior conflict with him.",
+   "entities": [
+    "Heolstor the Nameless Night Lord"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse reveals she knows the incantation that seals the Night Lord and is familiar with the ancient people buried in the crypt, having watched over them long ago since she does not experience mortality.",
+   "entities": [
+    "Recluse",
+    "Ancients of the First Nightfall"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The ancient souls in the crypt were laid to rest as part of a ritual meant to draw their descendants to the Round Table Hold in anticipation of the coming threat of the Night.",
+   "entities": [
+    "Ancients of the First Nightfall",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Primordial Night Lord's Rune text states that the Cutting-Gifted Tribe foresaw the coming night and planned for many moons to prevent it, concluding their only chance was to cheat a god, having glimpsed the sin of the Erdtree and being punished for their trespass.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Primordial Night Lord's Rune",
+    "Erdtree"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The theorist believes the people buried in the Round Table crypt belonged to, or inherited the burden of, the Cutting-Gifted Tribe.",
+   "entities": [
+    "Ancients of the First Nightfall",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The theorist draws a parallel between the Cutting-Gifted Tribe and the base game's prophets who foresaw the burning of the Erdtree and were persecuted and forced to wear shackles as a warning.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Erdtree"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Both the prophets and the Cutting-Gifted Tribe remained loyal to the Erdtree despite being punished for their foresight about its fall or sin.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Erdtree"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The theorist suggests the cross-legged commoner figure seen at the end of the game belongs to the Cutting-Gifted Tribe, based on his common garb.",
+   "entities": [
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Cutting-Gifted Tribe's punishment was not exile or death, but an eternal duty to prevent the coming of the Night.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "The Night"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The word 'cutting' in the Cutting-Gifted Tribe's name is a horticultural term (confirmed by the Japanese word 'sashiki'), referring to plant propagation rather than violence.",
+   "entities": [
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A horticultural cutting is a piece of a parent plant used to grow a genetically identical clone, distinct from grafting, which combines two different plants.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Godrick the Grafted"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The theorist concludes the Cutting-Gifted Tribe were given a cutting of a tree so significant it became central to their tribal identity.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Erdtree"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Cord End is one of the rarest items in Limgrave, with a drop rate of about 0.035%, found inside boxes located in churches.",
+   "entities": [
+    "Cord End"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Cord End's description states it belonged to young girls housed in a place meant to be an eternal secret, and that the Cutting-Gifted Tribe vowed to sacrifice their flesh while concealing the truth, though the girls were too young to comply.",
+   "entities": [
+    "Cord End",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "The Cord End leads to a hidden door in a ravine that can only be opened by whoever holds it.",
+   "entities": [
+    "Cord End"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist believes the Cord End is the frayed end of a sacrificed girl's hand bindings, left behind as a quiet act of rebellion to lead others to the secret location.",
+   "entities": [
+    "Cord End"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The secret cave reached via the Cord End contains the remains of one girl along with three Sacrificial Twigs.",
+   "entities": [
+    "Cord End",
+    "Sacrificial Twig"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Sacrificial Twigs are talismans consumed instead of losing runes upon death, fashioned from a slender dried twig believed to have been pruned from the Erdtree long ago.",
+   "entities": [
+    "Sacrificial Twig",
+    "Erdtree"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist suggests the sacrificial twigs implicate the Erdtree in the ritual sacrifice of the young girls, since Cord Ends are found exclusively in Erdtree churches.",
+   "entities": [
+    "Sacrificial Twig",
+    "Cord End",
+    "Erdtree",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The theorist speculates that the 'cuttings' gifted to the tribe may have been people rather than plant matter, specifically the young sacrificed girls, described as 'cuttings of Marika.'",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The theorist compares this idea to known examples of people merged with great trees, such as Miquella watering the Haligtree with his blood and embedding himself within it, and Miranda of the Flower Crucible being a woman merged with a plant.",
+   "entities": [
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The theorist proposes that the sacrificed girl surrounded by dried branches became or created the divine dried white spirit tree that defies the Night, found in Nightreign's Round Table Hold area.",
+   "entities": [
+    "Sacred Tree (Nightreign)",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Sacred Tree, coiled around a divine tower, is the location where players fight at the end of each day in Nightreign, serving as the last bastion against the Night.",
+   "entities": [
+    "Sacred Tree (Nightreign)"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the end of the second night, the Sacred Tree beckons the Nightfarers upward into a white tower called the Spirit Shelter, known in Japanese as the Sacred Tree.",
+   "entities": [
+    "Sacred Tree (Nightreign)",
+    "Nightfarers"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike other great trees in Elden Ring lore, the Sacred Tree in Nightreign is not physically rooted to one place, but appears wherever it is needed, since it is a spiritual manifestation.",
+   "entities": [
+    "Sacred Tree (Nightreign)"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The upper branches of the Sacred Tree culminate in two tree-like hands, differing from the hands seen in the Spiral Tree Seal of the Shadow of the Erdtree DLC.",
+   "entities": [
+    "Sacred Tree (Nightreign)"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nightfarers take shelter in the Sacred Tree area during the third day before facing the Night Lord, since the land will fall if a third night passes.",
+   "entities": [
+    "Sacred Tree (Nightreign)",
+    "Nightfarers",
+    "Night Lord"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist compares this scheme to Marika's past behavior, noting it would be like her to prepare contingencies against the Night, condemning the ancients just as she condemned the Tarnished, only to recall them when needed to her Round Table Hold.",
+   "entities": [
+    "Marika",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Inscriptions in the Round Table Hold's crypt, called the 'ways of cutting' (guidance of cutting in Japanese), describe sending cuttings or branches to distant lands.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Cutting-Gifted Tribe"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cut content from version 1.0 of Nightreign mentions a literal golden branch bestowed upon the Recluse, drawing her to Limveld.",
+   "entities": [
+    "Recluse",
+    "Nightreign"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist theorizes that the 'branches' sent to distant lands were actually the progeny of the Cutting-Gifted Tribe, who became the bloodline of the Nightfarers scattered across many peoples.",
+   "entities": [
+    "Cutting-Gifted Tribe",
+    "Nightfarers"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "One coffin inscription states that the 'ways of cutting' point to Windwhalenull, bestowing branches to those who wander and roam, which the theorist connects to Wylder and the Duchess's adoptive clan.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Wylder",
+    "Duchess"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Another coffin inscription states that the 'ways of cutting' point to the deep woods, bestowing branches to those who are worthy and wise, which the theorist connects to the Recluse's people.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Recluse"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "An inscription states that once the Night is broken, the Hold shall crumble and those bound to it shall be freed.",
+   "entities": [
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Round Table Hold functions as a refuge outside of time and space that Nightfarers return to between expeditions.",
+   "entities": [
+    "Round Table Hold (Nightreign)",
+    "Nightfarers"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Duchess, called back from her foster home, becomes the priestess of the Round Table Hold, described as a navigator even though the ship (the Hold) does not move.",
+   "entities": [
+    "Duchess",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "According to the game's founders/designers, the priestess is rooted to the Round Table Hold and must share its fate.",
+   "entities": [
+    "Duchess",
+    "Round Table Hold (Nightreign)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "When asked about the 'formless master' she serves, the Duchess replies that the seekers of redemption must on the third night band together and prepare to claim the life of the Night Lord.",
+   "entities": [
+    "Duchess",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist considers that the 'formless master' could be an Outer God given the term's resemblance to other formless entities like Bloodborne's Formless Oedon and Elden Ring's Formless Mother, but ultimately suggests it is more likely the grace within the Hold, interpreted by the Duchess as Marika.",
+   "entities": [
+    "Duchess",
+    "Formless Mother",
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Just as Marika binds Hugh (Hoarah Loux) to the Roundtable Hold until he forges a god-slaying weapon in the base game, the Nightfarers are similarly bound to their Hold until the Night Lord is defeated, at which point the Hold ceases to exist.",
+   "entities": [
+    "Marika",
+    "Nightfarers",
+    "Round Table Hold (Nightreign)",
+    "Night Lord"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "While most Nightfarers eventually escape as wisps of grace once the Night Lord falls, the priestess (Duchess) is fated to cease existing along with the Hold.",
+   "entities": [
+    "Duchess",
+    "Round Table Hold (Nightreign)",
+    "Night Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A torn scrap of paper written by an ancient people describes a loophole: if the Round Table Hold is remade through the creation of a new Night Lord, the priestess might be freed from her binding when that new Night Lord's power is lost.",
+   "entities": [
+    "Ancients of the First Nightfall",
+    "Round Table Hold (Nightreign)",
+    "Duchess",
+    "Night Lord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The theorist frames the Erdtree's unexplained original sin as a recurring FromSoftware plot device, paralleling how Gwyn suppressed the dark and Marika suppressed death, suggesting the suppression of the Night is the Erdtree's original sin.",
+   "entities": [
+    "Erdtree",
+    "Marika",
+    "The Night"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In Limveld's final days, the encroachment of the Night is heralded by tree-like titans setting off across the land.",
+   "entities": [
+    "Limgrave (Nightreign)",
+    "The Night"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "In the main ending, rather than the Night falling upon the Lands Between, grace is shown reaching out toward the Night, and the Nightfarers rise from the Round Table Hold as wisps of grace, freed at last.",
+   "entities": [
+    "Nightfarers",
+    "Round Table Hold (Nightreign)",
+    "The Night"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The song that plays during the ending scene where grace reaches out to the Night is titled 'Dawn,' and thanks to the Nightfarers, the Night ends as though it never existed.",
+   "entities": [
+    "Nightfarers",
+    "The Night"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  }
+ ],
+ "_src": "src-2bd01fe0"
+}

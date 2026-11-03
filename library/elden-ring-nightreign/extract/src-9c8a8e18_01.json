@@ -1,0 +1,1555 @@
+{
+ "entities": [
+  {
+   "name": "Revenant",
+   "kind": "character",
+   "aliases": [
+    "Northern Croft"
+   ]
+  },
+  {
+   "name": "Helen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Frederick",
+   "kind": "character",
+   "aliases": [
+    "Mad Pumpkin"
+   ]
+  },
+  {
+   "name": "Sebastian",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Recluse",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Menial",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Night Shard",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Vestige of Night",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Witch of the Wheel",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Executor",
+   "kind": "character",
+   "aliases": [
+    "the Executive"
+   ]
+  },
+  {
+   "name": "Painter",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Crucible Knight",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Suncatcher Sword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Gladius",
+   "kind": "boss",
+   "aliases": [
+    "Night Lord"
+   ]
+  },
+  {
+   "name": "Adel",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Noster",
+   "kind": "boss",
+   "aliases": [
+    "Wisdom of Night"
+   ]
+  },
+  {
+   "name": "Maris",
+   "kind": "boss",
+   "aliases": [
+    "Augur",
+    "Fathom of Night"
+   ]
+  },
+  {
+   "name": "Libra",
+   "kind": "boss",
+   "aliases": [
+    "Demon of Night"
+   ]
+  },
+  {
+   "name": "Fulgor",
+   "kind": "boss",
+   "aliases": [
+    "Champion of Nightglow"
+   ]
+  },
+  {
+   "name": "Caligo",
+   "kind": "boss",
+   "aliases": [
+    "Miasma of Night"
+   ]
+  },
+  {
+   "name": "Heolstor",
+   "kind": "boss",
+   "aliases": [
+    "the Night Lord",
+    "Primordial Night Lord",
+    "Shape of Night"
+   ]
+  },
+  {
+   "name": "Priestess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Nox",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Round Table",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Iron Eye",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Wylder",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Duchess",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Fell Omen",
+   "kind": "boss",
+   "aliases": [
+    "Margit"
+   ]
+  },
+  {
+   "name": "Grafted Monarch",
+   "kind": "boss",
+   "aliases": [
+    "Godrick"
+   ]
+  },
+  {
+   "name": "Nokstella",
+   "kind": "location",
+   "aliases": [
+    "the Shrouded City",
+    "Eternal City"
+   ]
+  },
+  {
+   "name": "Marika",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Two Fingers",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Greater Will",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Miquella",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Formless Mother",
+   "kind": "concept",
+   "aliases": [
+    "Formless Master"
+   ]
+  },
+  {
+   "name": "Elden Beast",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Golden Hippo",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Bone of an Outer God",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Great Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Larval Tear",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Fell Omen Fetish",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Dark Moon Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Land of Reeds",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Specimen Storehouse",
+   "kind": "location",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Revenant possesses a spell tied to the Golden Order, suggesting a possible connection to nobility from Leyndell.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant also wields Death Lightning, a spell historically used by Godwyn during the war against the ancient dragons.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant is the only Nightfarer able to summon allies into battle: Helen, Frederick, and Sebastian.",
+   "entities": [
+    "Revenant",
+    "Helen",
+    "Frederick",
+    "Sebastian"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Helen wears the Page's attire, a noble outfit seen following perfumers in both Nightreign and Elden Ring.",
+   "entities": [
+    "Helen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Frederick is likely a Mad Pumpkin, an enemy type in both games whose lore describes them as former gladiators, fitting Leyndell's coliseum.",
+   "entities": [
+    "Frederick"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Sebastian is a large skeleton summon, similar to those called by the Tibia Mariner or found at grave sites like the Mountaintops of the Giants.",
+   "entities": [
+    "Sebastian"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant's visual codex labels Helen as a page, Frederick as a cook, and Sebastian as a butler, implying her household held high noble status.",
+   "entities": [
+    "Revenant",
+    "Helen",
+    "Frederick",
+    "Sebastian"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Revenant's weapon description states she has resonance with the spiritual world, likely because she is not truly alive.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the Revenant's ultimate attack, a skull is briefly visible behind her face, implying her puppet body may be built from actual human bones.",
+   "entities": [
+    "Revenant"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse originates from a place called the Deep Woods, where she searched for a being described as coiled in shadow, her lost infant.",
+   "entities": [
+    "Recluse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The Menial doubts the Recluse's loyalty, fearing she may be planning something against the Round Table's cause.",
+   "entities": [
+    "Menial",
+    "Recluse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Menial asks the Recluse to slay Night-tainted enemies, specifically a Night-swallowed Golden Hippo, to prove her allegiance.",
+   "entities": [
+    "Menial",
+    "Recluse",
+    "Golden Hippo"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The Golden Hippo drops a Night Shard upon its death.",
+   "entities": [
+    "Golden Hippo",
+    "Night Shard"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The Recluse recognizes the Night Shard as a means to reconnect with her lost infant child, believed to still be somewhere in the region.",
+   "entities": [
+    "Recluse",
+    "Night Shard"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "After receiving the Night Shard, the Menial apologizes for doubting the Recluse and vows to help her search more earnestly.",
+   "entities": [
+    "Menial",
+    "Recluse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "The Menial later notices the Night Shard pointing in a direction and recounts a legend of a beast that devoured soldiers during a conflict between two realms.",
+   "entities": [
+    "Menial",
+    "Night Shard"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "The tooth marks on the Night Shard match those left by the ancient beast from the legend, suggesting a link to the Night Lord's origin.",
+   "entities": [
+    "Night Shard",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "The Recluse finds a Vestige of Night on a bed, serving as proof of the Night Lord's past presence.",
+   "entities": [
+    "Recluse",
+    "Vestige of Night",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Vestige of Night once bore an engraving that is no longer legible, though the Menial seemed to know of its existence before seeing it, raising suspicion.",
+   "entities": [
+    "Menial",
+    "Vestige of Night"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": 19
+  },
+  {
+   "text": "The Recluse senses the magic of her sister, the Witch of the Wheel, within the Vestige of Night.",
+   "entities": [
+    "Recluse",
+    "Witch of the Wheel",
+    "Vestige of Night"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "The Night Lord is revealed to have resurrected the Witch of the Wheel, who the Recluse believed had died.",
+   "entities": [
+    "Heolstor",
+    "Witch of the Wheel"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Witch of the Wheel reveals that the Recluse's infant grew into a creature that devoured armies and even consumed the Witch herself, leaving the Recluse the sole survivor.",
+   "entities": [
+    "Witch of the Wheel",
+    "Recluse"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "The Witch of the Wheel warns the Recluse to abandon her pursuit of the Night Lord, asking if she could truly slay her own child.",
+   "entities": [
+    "Witch of the Wheel",
+    "Recluse"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "It is implied that the infant created by the Recluse eventually became the Night Lord, though its growth afterward may have been driven by its own choices.",
+   "entities": [
+    "Recluse",
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night Lord may be an amalgamation of multiple beings, suggested by its three arms and unusual design seen in one of the game's endings.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night Shard bears teeth marks implying the infant bit it and was empowered by the essence of night.",
+   "entities": [
+    "Night Shard",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Recluse is given a relic described as the bone of an Outer God, capable of expunging divine essence yet destructible by that same essence.",
+   "entities": [
+    "Recluse",
+    "Bone of an Outer God"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The Menial recalls dreaming that the Night Lord personally gave him the bone relic, as if wanting him and the Recluse to find it.",
+   "entities": [
+    "Menial",
+    "Heolstor",
+    "Bone of an Outer God"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The Recluse ultimately resolves to confront the Night Lord in order to atone for her past actions.",
+   "entities": [
+    "Recluse",
+    "Heolstor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Executor is a silent character often found painting or observing a painting of the Erdtree, and keeps poetic journal entries.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executor hails from the Land of Reeds, a war-torn, isolated region briefly referenced in Elden Ring that is home to a samurai warrior caste.",
+   "entities": [
+    "Executor",
+    "Land of Reeds"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Given his skill with a katana, the Executor is likely a former samurai from the Land of Reeds.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Executor existed in the Lands Between before the Erdtree's destruction and the fall of the Golden Order caused by the Night.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "The Duchess tasks the Executor with retrieving an Altus Bloom and a Golden Seed, items renamed from the Grace of Gold, which no longer exists due to the Night's spread.",
+   "entities": [
+    "Executor",
+    "Duchess"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "A Golden Sprout is found growing in a snowy tundra despite the Night's dominance, symbolizing that the Erdtree's light endures even under corruption.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 22
+  },
+  {
+   "text": "Upon returning the retrieved items, the Executor experiences a flashback showing the Erdtree intact before the era of the Round Table.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "After defeating a guardian called the Executor's Cry, a cutscene reveals a dead Crucible Knight, a dead woman, and a second Crucible Knight who stabs himself with a katana.",
+   "entities": [
+    "Executor",
+    "Painter",
+    "Crucible Knight"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "The Executor's journal entries appear to be written from both his and the painter's perspectives, creating ambiguity between a guest, an executioner, and a painter.",
+   "entities": [
+    "Executor",
+    "Painter"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Chapter 4 of the journal contains the line 'I am a guest, or perhaps an executioner,' followed by 'I will wait until your tree is complete,' implying the Crucible Knight delayed killing the painter until her work was finished.",
+   "entities": [
+    "Executor",
+    "Painter"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "Chapter 5 reveals the painting remains unfinished, so the painter sketches an old, silent friend from the Land of Reeds and entrusts the sketch to her guest.",
+   "entities": [
+    "Painter",
+    "Executor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "The journal warns that another executioner will arrive before the painting is complete.",
+   "entities": [
+    "Painter",
+    "Executor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 23
+  },
+  {
+   "text": "The sketch accompanying Chapter 5 depicts the Suncatcher Sword, implying the painter once owned it or was simply sketching the blade wielded by the Executor.",
+   "entities": [
+    "Painter",
+    "Suncatcher Sword"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": 23
+  },
+  {
+   "text": "One theory holds that the Executor killed the first Crucible Knight but failed to protect the painter, or chose to kill her himself rather than let another executioner do so.",
+   "entities": [
+    "Executor",
+    "Painter",
+    "Crucible Knight"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is unclear whether the Executor or the painter was truly from the Land of Reeds, since Chapter 2's line about being 'an artist from the distant land of Reeds' may belong to the painter instead.",
+   "entities": [
+    "Executor",
+    "Painter"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "If the painter was from the Land of Reeds, this could explain her connection to the Suncatcher Sword, since no Crucible Knight in Elden Ring wields anything similar.",
+   "entities": [
+    "Painter",
+    "Suncatcher Sword"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Suncatcher Sword's description calls it a living sword that lost its voice but remains loyal to its master, implying the Executor is its true owner.",
+   "entities": [
+    "Suncatcher Sword",
+    "Executor"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executor's ultimate transforms him into a beast form, reflecting a Crucible aspect called 'Beast,' reminiscent of the massive creature in the Specimen Storehouse beneath the Shadow of the Erdtree region.",
+   "entities": [
+    "Executor",
+    "Specimen Storehouse"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Other Crucible Knights, such as Devonia, also gain unusual body parts like wings, tails, or altered lower halves, though the Executor's transformation is more extreme than most.",
+   "entities": [
+    "Crucible Knight",
+    "Executor"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executor's description notes his armor is fused into his body and that he vanished after being imprisoned in the Lands Between, implying he survived his apparent suicide.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 24
+  },
+  {
+   "text": "The Executor's fragmented memory and his fight against the Executor's Cry are tied to unresolved guilt over the painter's death and the Erdtree's destruction.",
+   "entities": [
+    "Executor",
+    "Painter"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Chapter 7 of the Executor's journal states he has 'two faces in a soul drenched in blood,' hinting at guilt over past killings.",
+   "entities": [
+    "Executor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Executor appears to seek redemption by defeating the Night Lord responsible for destroying the Erdtree's light, symbolically completing his unfinished painting of the tree.",
+   "entities": [
+    "Executor",
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The first Night Lord fought by the Nightfarers is Gladius, a wolf born uniquely with three heads.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Gladius was driven out of its wolf pack due to its abnormal three-headed birth.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Gladius once bit and stole a man's sword, but the man showed no fear, impressing the wolf.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The man raised Gladius, who remained loyal to him ever after, always carrying the man's sword.",
+   "entities": [
+    "Gladius"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "After Gladius's defeat, the Priestess reveals that the true Night Lord still lives and that more Night Lord traces must be found.",
+   "entities": [
+    "Priestess",
+    "Gladius",
+    "Heolstor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The Round Table identifies six other Night Lord traces; defeating these beasts yields Essence of Night, and collecting four reveals the true Night Lord.",
+   "entities": [
+    "Round Table",
+    "Heolstor"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "The second Night Lord is Adel, a dragon that was once the apex predator of its region.",
+   "entities": [
+    "Adel"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "When the Night's influence reached Adel's territory, it killed off all its prey, leaving it starving and eventually driving it mad.",
+   "entities": [
+    "Adel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "The third Night Lord, Noster, is composed of two insects resembling a white satin moth and a scorpion.",
+   "entities": [
+    "Noster"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Noster's lore states the duo's original forest habitat was consumed by surrounding desert, forcing them to flee and band together.",
+   "entities": [
+    "Noster"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "In the boss fight, Noster's moth and scorpion work together and eventually merge partway through the battle.",
+   "entities": [
+    "Noster"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Noster's moth has a grab attack that leaves behind a poisoning parasite, hinting it may exploit its scorpion partner as well.",
+   "entities": [
+    "Noster"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Noster's full title is 'Wisdom of Night,' and its name may derive from Greek roots related to knowledge, matching this title.",
+   "entities": [
+    "Noster"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The fourth Night Lord is known as Augur, battled under the name Maris, Fathom of Night.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "In Roman tradition, augurs studied birds to interpret omens and divine messages from the gods.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Maris's lore describes it as an unknown entity that drifted through the skies, blending with its surroundings as if in a dream.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Maris's relic states the being was roused from an aimless existence by curiosity about the strange taste of the Night.",
+   "entities": [
+    "Maris",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Maris's name likely derives from the Latin 'Stella Maris,' meaning star of the sea, and its title 'Fathom of Night' references measuring ocean depth.",
+   "entities": [
+    "Maris"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The fifth Night Lord is Libra, called the Demon of Night, a goat-headed being disguised as a man who practices dubious alchemy.",
+   "entities": [
+    "Libra"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Libra's relic states it became obsessed with the concept of impartiality and viewed the Night as a champion of balance.",
+   "entities": [
+    "Libra",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The sixth Night Lord is Fulgor, titled Champion of Nightglow, an ancient centaur consumed by battle fervor who wields a sacred form of the Night's power.",
+   "entities": [
+    "Fulgor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Fulgor was once considered the left arm of the gods he served but was betrayed and maimed by his companions, losing that arm.",
+   "entities": [
+    "Fulgor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "In exchange for his loss, the Night gifted Fulgor a new left arm.",
+   "entities": [
+    "Fulgor",
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "The seventh Night Lord is Caligo, Miasma of Night, a prehistoric dragon that watched the world from atop a fog-shrouded mountain.",
+   "entities": [
+    "Caligo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Caligo noticed a calamity from its mountain, likely the rise of the Night Lord, and descended to investigate.",
+   "entities": [
+    "Caligo",
+    "Heolstor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Several Night Lord enemies, such as Libra, Fulgor, Maris, Gladius, and Noster, appear thematically connected to astrology and constellations.",
+   "entities": [
+    "Libra",
+    "Fulgor",
+    "Maris",
+    "Gladius",
+    "Noster"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Libra directly references the zodiac sign of the scale, symbolizing balance.",
+   "entities": [
+    "Libra"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fulgor's centaur design may reference the constellation Sagittarius, though Fulgor wields a sword rather than a bow.",
+   "entities": [
+    "Fulgor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Maris's cosmic, otherworldly appearance may parallel the Elden Beast's design.",
+   "entities": [
+    "Maris",
+    "Elden Beast"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The constellations Canis Major and Scorpius may tie to Gladius (the Dog Star) and Noster (linked to a bug nebula in Scorpius), respectively.",
+   "entities": [
+    "Gladius",
+    "Noster"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Adel and Caligo, both dragons, lack clear ties to star signs or constellations unlike the other Night Lords.",
+   "entities": [
+    "Adel",
+    "Caligo"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Night seems to both harm and help these creatures, starving Adel and displacing Noster while giving purpose to Libra and Maris.",
+   "entities": [
+    "Adel",
+    "Noster",
+    "Libra",
+    "Maris",
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Fulgor, despite serving the Night, uses Holy-aligned attacks, a contradiction that remains unexplained.",
+   "entities": [
+    "Fulgor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The final boss is Heolstor, the Night Lord, who first appears as the Shape of Night before his true name is revealed.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Heolstor's description states that beyond the boundless night lies the hazy figure of a person, called the Night's origin and an enemy to the world.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Heolstor's relic describes a ruined country where 'the man who once was the Knight' challenged a hero and lost, falling among a pile of bodies, only to awaken and curse the world beneath a dark rainy sky.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Heolstor is called the primordial Night Lord, implying he is the very first Night Lord to exist.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "After his defeat, Heolstor tears open a hole in the fabric of time.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Heolstor shares color palette and elemental traits with the other Night Lords, suggesting he encompasses aspects of them all.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Heolstor may be the physical embodiment of the concept of Night, paralleling how the Elden Beast embodies the Greater Will's concept of Order.",
+   "entities": [
+    "Heolstor",
+    "Elden Beast",
+    "Greater Will"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "During the Shape of Night phase, cloth bearing golden scripture, similar to the Cipher Pata weapon, appears to restrain the black essence within Heolstor before bursting free after a killing blow.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Heolstor's body is hollow, containing only black essence and a Great Rune, reminiscent of how Radagon's body was incomplete in Elden Ring.",
+   "entities": [
+    "Heolstor",
+    "Great Rune"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "This suggests the Night Lord functions as a vessel for the darkness of Night rather than its true source.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The legend of the Knight who died to a hero may represent the infant created by the Recluse eventually becoming the Night Lord.",
+   "entities": [
+    "Heolstor",
+    "Recluse"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Alternatively, the Night Lord could be an amalgamation of multiple beings, supported by his wielding of the Dark Moon Greatsword among other weapons.",
+   "entities": [
+    "Heolstor",
+    "Dark Moon Greatsword"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Dark Moon Greatsword is the weapon obtained at the end of Ranni's questline in Elden Ring, implying a possible connection to Carian descent.",
+   "entities": [
+    "Dark Moon Greatsword"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Night Shard from the Recluse's questline states that the Night's reach is limitless and its touch indiscriminate, implying the Night existed as a concept before the infant bit it, since the shard already bore bite marks.",
+   "entities": [
+    "Night Shard",
+    "Heolstor"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nox, a race from Elden Ring, were defeated by the Golden Order and forced to live under a false night sky after invoking the Eye of the Greater Will.",
+   "entities": [
+    "Nox",
+    "Greater Will"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "The Nox now live underground awaiting a new Lord of Night, which may be connected to Nightreign's Night Lord.",
+   "entities": [
+    "Nox",
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "After Heolstor's defeat, a different, possibly truer version of the Round Table is revealed.",
+   "entities": [
+    "Round Table",
+    "Heolstor"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "The default ending action is to take the primordial Night Lord's Great Rune and give it to an unidentified corpse seated at the Round Table.",
+   "entities": [
+    "Round Table",
+    "Great Rune",
+    "Heolstor"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In the Recluse's ending, she finds her infant lying on the bed and cradles it lovingly, writing that 'the crying hath now ceased' as the child finds peaceful slumber.",
+   "entities": [
+    "Recluse"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In Iron Eye's ending, he kills the mysterious corpse with a knife, but the Night is stated to continue regardless, as 'the night is far from over.'",
+   "entities": [
+    "Iron Eye"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Iron Eye's ending grants him freedom from the Round Table's fellowship, as the Night is said to never cease.",
+   "entities": [
+    "Iron Eye"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "In Wylder's ending, after killing the Night Lord, he inserts a Larval Tear into himself and collapses, while the Night Lord wanders off.",
+   "entities": [
+    "Wylder",
+    "Larval Tear",
+    "Heolstor"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Wylder's action appears intended to save his sister, since the Night Lord's death would otherwise end the Round Table and the Priestess, his sister.",
+   "entities": [
+    "Wylder",
+    "Priestess"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 100
+  },
+  {
+   "text": "Wylder seemingly becomes a new Night Lord himself, prolonging his failing body and saving his sister, with his armor remaining unchanged, supporting the amalgamation theory of the Night Lord.",
+   "entities": [
+    "Wylder",
+    "Heolstor"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 100
+  },
+  {
+   "text": "For any other Nightfarer's ending, the Great Rune is given to the mysterious corpse seated at the Round Table.",
+   "entities": [
+    "Great Rune",
+    "Round Table"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "This mysterious corpse is never explained in any in-game text, leaving its identity a complete mystery.",
+   "entities": [
+    "Round Table"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The corpse wears noble clothing rather than armor, suggesting a background of high status.",
+   "entities": [
+    "Round Table"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the Great Rune is given to the corpse, the chosen Nightfarer dissolves into yellow essence that circles the Round Table, implying a return to the Erdtree or their original world.",
+   "entities": [
+    "Round Table",
+    "Great Rune"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "Both the Duchess's journal and the Menial's dialogue reference an 'outside world,' implying the Round Table exists apart from the main Lands Between.",
+   "entities": [
+    "Duchess",
+    "Menial"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "This suggests the Nightfarers survive their ordeal and are returned to their respective worlds once their quests are complete.",
+   "entities": [
+    "Round Table"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In the ending cutscene, a giant awakens and walks away after an Erdtree petal touches it, resembling giants seen during Day 2 of expeditions who head toward the boss room on Day 3.",
+   "entities": [
+    "Round Table"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100
+  },
+  {
+   "text": "This giant's face resembles the Night Lord's helmet, suggesting it may be the Night Lord or another aspect of the Night, implying the Erdtree's presence had suppressed its total destruction.",
+   "entities": [
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The ending implies the Nightfarers have restored the Lands Between to its original, undestroyed state, free of the Night's corruption.",
+   "entities": [
+    "Round Table"
+   ],
+   "category": "ending",
+   "status": "theory",
+   "chrono": 100
+  },
+  {
+   "text": "This may suggest Nightreign's story represents the Nightfarers resetting the timeline so that the Night's conquest of the Lands Between never truly happened.",
+   "entities": [
+    "Round Table",
+    "Heolstor"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Formless Mother may be connected to the Two Fingers, Miquella, or the Greater Will, any of whom could be the true force communicating through the Duchess.",
+   "entities": [
+    "Formless Mother",
+    "Two Fingers",
+    "Miquella",
+    "Greater Will",
+    "Duchess"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Numerous fingerprints appear on the Night Giant's body, which may hint at an in-world connection to the Fingers from Elden Ring lore.",
+   "entities": [
+    "Two Fingers"
+   ],
+   "category": "secret",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Marika may be the 'cheated god' referenced in Nightreign's lore, tying the original sin from Elden Ring to the first sin referenced in Nightreign.",
+   "entities": [
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "This would imply Marika punished a tribe for uncovering a hidden truth, though this concept may be entirely unique to Nightreign without basis in Elden Ring.",
+   "entities": [
+    "Marika"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Margit and Godrick appear as bosses in Nightreign under the names Fell Omen and Grafted Monarch, respectively.",
+   "entities": [
+    "Fell Omen",
+    "Grafted Monarch"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fell Omen (Margit) can be fought during the game's intro, assumed to be unwinnable at first, but can be rematched through the Visual Codex.",
+   "entities": [
+    "Fell Omen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating Fell Omen grants the Fell Omen Fetish, a withered version of Margit's Shackle used to subdue him in his boss fight.",
+   "entities": [
+    "Fell Omen",
+    "Fell Omen Fetish"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fell Omen Fetish's description states its magic has faded, leaving only a dark stain, and that 'the protector of gold yet stands guard over the realm, even after being swallowed by the Night.'",
+   "entities": [
+    "Fell Omen Fetish"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "This implies Margit continues to protect the Erdtree and Elden Throne even in Nightreign's altered timeline, despite being an Omen.",
+   "entities": [
+    "Fell Omen"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Grafted Monarch (Godrick) wields his axe and a dragon head in a second phase but has gained new Crucible powers not present in Elden Ring.",
+   "entities": [
+    "Grafted Monarch"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "This suggests Godrick grafted a Crucible Knight or being with Crucible traits onto himself at some point, though the victim's identity is unknown.",
+   "entities": [
+    "Grafted Monarch",
+    "Crucible Knight"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Nokstella, the Shrouded City, is one of the new locations introduced in Nightreign.",
+   "entities": [
+    "Nokstella"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In-game text refers to Nokstella as an 'Eternal City,' once part of a greater whole.",
+   "entities": [
+    "Nokstella"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Elden Ring features three known Eternal Cities: Nokron, Nokstella, and an unnamed destroyed city within the Deeproot Depths.",
+   "entities": [
+    "Nokstella"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Nightreign's Nokstella could be the same Eternal City referenced in Elden Ring's lore.",
+   "entities": [
+    "Nokstella"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  }
+ ],
+ "_src": "src-9c8a8e18"
+}

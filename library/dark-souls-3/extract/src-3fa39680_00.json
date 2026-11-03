@@ -1,0 +1,628 @@
+{
+ "entities": [
+  {
+   "name": "Prince Lothric",
+   "kind": "character",
+   "aliases": [
+    "Lothric"
+   ]
+  },
+  {
+   "name": "Lords of Cinder",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Firelink Shrine",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Aldrich",
+   "kind": "boss",
+   "aliases": [
+    "Saint of the Deep",
+    "Aldrich, Devourer of Gods"
+   ]
+  },
+  {
+   "name": "Abyss Watchers",
+   "kind": "boss",
+   "aliases": [
+    "Undead Legion"
+   ]
+  },
+  {
+   "name": "Yhorm the Giant",
+   "kind": "boss",
+   "aliases": [
+    "Yhorm"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Unkindled",
+    "Player Character",
+    "Lord Seeker"
+   ]
+  },
+  {
+   "name": "Fire Keeper",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ludleth of Courland",
+   "kind": "character",
+   "aliases": [
+    "Ludleth"
+   ]
+  },
+  {
+   "name": "Iudex Gundyr",
+   "kind": "boss",
+   "aliases": [
+    "Gundyr"
+   ]
+  },
+  {
+   "name": "High Priestess Emma",
+   "kind": "character",
+   "aliases": [
+    "Emma"
+   ]
+  },
+  {
+   "name": "Vordt of the Boreal Valley",
+   "kind": "boss",
+   "aliases": [
+    "Vordt"
+   ]
+  },
+  {
+   "name": "Pontiff Sulyvahn",
+   "kind": "character",
+   "aliases": [
+    "Sulyvahn"
+   ]
+  },
+  {
+   "name": "Undead Settlement",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Cursed Greatwood",
+   "kind": "boss",
+   "aliases": [
+    "the Greatwood"
+   ]
+  },
+  {
+   "name": "Transposing Kiln",
+   "kind": "item",
+   "aliases": [
+    "the Kiln"
+   ]
+  },
+  {
+   "name": "Road of Sacrifices",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Halfway Fortress",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Anri of Astora",
+   "kind": "character",
+   "aliases": [
+    "Anri"
+   ]
+  },
+  {
+   "name": "Horace the Hushed",
+   "kind": "character",
+   "aliases": [
+    "Horace"
+   ]
+  },
+  {
+   "name": "Cathedral of the Deep",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Farron Keep",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "the Deep",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Crucifixion Woods",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Way of White",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Cemetery of Ash",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "High Wall of Lothric",
+   "kind": "location",
+   "aliases": [
+    "Lothric Castle"
+   ]
+  },
+  {
+   "name": "First Flame",
+   "kind": "concept",
+   "aliases": [
+    "the flame"
+   ]
+  },
+  {
+   "name": "Evangelists",
+   "kind": "faction",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Prince Lothric was expected to sacrifice himself in the First Flame but refused to do so.",
+   "entities": [
+    "Prince Lothric",
+    "First Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Lothric's refusal to link the fire caused the First Flame to begin fading rapidly.",
+   "entities": [
+    "Prince Lothric",
+    "First Flame"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 86
+  },
+  {
+   "text": "An ancient bell tolled across the land to summon the Lords of Cinder back to link the fire again.",
+   "entities": [
+    "Lords of Cinder"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "The Lords of Cinder are heroes who previously linked the fire and had their souls fused with it, to be called upon again when the flame fades.",
+   "entities": [
+    "Lords of Cinder",
+    "First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Aldrich, Abyss Watchers, and Yhorm the Giant are among the Lords of Cinder who were resurrected by the bell's toll.",
+   "entities": [
+    "Aldrich",
+    "Abyss Watchers",
+    "Yhorm the Giant",
+    "Lords of Cinder"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "After being resurrected, most of the Lords of Cinder remembered the pain of linking the fire and refused to return to their thrones.",
+   "entities": [
+    "Lords of Cinder"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "Firelink Shrine contains five great thrones meant to hold the Lords of Cinder before their final sacrifice.",
+   "entities": [
+    "Firelink Shrine",
+    "Lords of Cinder"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Unkindled are undead who previously attempted to link the fire and failed because their souls were too weak.",
+   "entities": [
+    "Ashen One"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Unkindled, also called Ashen Ones, are tasked with hunting down the Lords of Cinder, defeating them, and forcibly bringing their Cinders back to Firelink Shrine.",
+   "entities": [
+    "Ashen One",
+    "Lords of Cinder",
+    "Firelink Shrine"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 89
+  },
+  {
+   "text": "The player's character is an Unkindled who rises from a grave in the Cemetery of Ash at the start of the game.",
+   "entities": [
+    "Ashen One",
+    "Cemetery of Ash"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Iudex Gundyr was once a champion who sought to link the fire but arrived too late, as it had already been linked by another.",
+   "entities": [
+    "Iudex Gundyr"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Iudex Gundyr serves as a sentry who tests Unkindled travelers at the end of the Cemetery of Ash.",
+   "entities": [
+    "Iudex Gundyr",
+    "Cemetery of Ash"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "A coiled sword is lodged in Iudex Gundyr's chest, pinning him in place until it is removed.",
+   "entities": [
+    "Iudex Gundyr"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Ashen One defeats Iudex Gundyr after pulling the coiled sword from his body, which releases him from his dormant state.",
+   "entities": [
+    "Ashen One",
+    "Iudex Gundyr"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Ashen One uses the coiled sword to light the first bonfire in the Cemetery of Ash, opening the path to Firelink Shrine.",
+   "entities": [
+    "Ashen One",
+    "Cemetery of Ash",
+    "Firelink Shrine"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The transitory land of Lothric is a place where multiple kingdoms and ages have converged, containing the homes of all the Lords of Cinder.",
+   "entities": [
+    "Prince Lothric"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fire Keeper tends the flame at Firelink Shrine, maintaining the connection to the First Flame and allowing bonfires to function.",
+   "entities": [
+    "Fire Keeper",
+    "Firelink Shrine",
+    "First Flame"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Fire Keeper channels souls gathered by the Ashen One into power to help them grow stronger.",
+   "entities": [
+    "Fire Keeper",
+    "Ashen One"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludleth of Courland is the only Lord of Cinder who willingly returned to his throne at Firelink Shrine after being resurrected.",
+   "entities": [
+    "Ludleth of Courland",
+    "Firelink Shrine"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "Ludleth of Courland is frail and unable to walk or fight due to the toll of having linked the fire previously.",
+   "entities": [
+    "Ludleth of Courland"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ludleth of Courland acts as a transposer who can reshape the souls of powerful beings into weapons, shields, and spells using the Transposing Kiln.",
+   "entities": [
+    "Ludleth of Courland",
+    "Transposing Kiln"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "High Priestess Emma is an elderly steward who served Prince Lothric and the royal family.",
+   "entities": [
+    "High Priestess Emma",
+    "Prince Lothric"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "High Priestess Emma gives the Ashen One the title of Lord Seeker and the Small Lothric Banner, which grants passage to the Undead Settlement.",
+   "entities": [
+    "High Priestess Emma",
+    "Ashen One",
+    "Undead Settlement"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Vordt of the Boreal Valley was once an Outrider Knight of Irithyll serving under Pontiff Sulyvahn.",
+   "entities": [
+    "Vordt of the Boreal Valley",
+    "Pontiff Sulyvahn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Pontiff Sulyvahn gave his Outrider Knights cursed rings that gradually transformed them into beasts.",
+   "entities": [
+    "Pontiff Sulyvahn",
+    "Vordt of the Boreal Valley"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 55
+  },
+  {
+   "text": "Vordt of the Boreal Valley guards the gate beneath the High Wall of Lothric, having become a beast-like creature due to the curse.",
+   "entities": [
+    "Vordt of the Boreal Valley",
+    "High Wall of Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Defeating Vordt of the Boreal Valley opens the gate leading from the High Wall of Lothric to the Undead Settlement.",
+   "entities": [
+    "Vordt of the Boreal Valley",
+    "High Wall of Lothric",
+    "Undead Settlement"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "The Undead Settlement is a place where kingdoms exile cursed and afflicted undead away from normal society.",
+   "entities": [
+    "Undead Settlement"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Evangelists are clergy women from the Cathedral of the Deep who torment and harvest the undead in the Undead Settlement.",
+   "entities": [
+    "Evangelists",
+    "Undead Settlement",
+    "Cathedral of the Deep"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Evangelists send captured undead from the Undead Settlement to the Cathedral of the Deep as food for Aldrich.",
+   "entities": [
+    "Evangelists",
+    "Undead Settlement",
+    "Cathedral of the Deep",
+    "Aldrich"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Cursed Greatwood is a massive tree in the Undead Settlement that has absorbed the curses of countless undead, worshipped by villagers as a way to remove their afflictions.",
+   "entities": [
+    "Cursed Greatwood",
+    "Undead Settlement"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Ashen One defeats the Cursed Greatwood by destroying its cursed core after falling into a hidden altar pit beneath the village plaza.",
+   "entities": [
+    "Ashen One",
+    "Cursed Greatwood"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Transposing Kiln, needed by Ludleth of Courland to reshape boss souls, is found hidden within the remains of the Cursed Greatwood.",
+   "entities": [
+    "Transposing Kiln",
+    "Cursed Greatwood",
+    "Ludleth of Courland"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "From the Undead Settlement, one path leads to the Cathedral of the Deep and another leads through swamps to Farron Keep, home of the Abyss Watchers.",
+   "entities": [
+    "Undead Settlement",
+    "Cathedral of the Deep",
+    "Farron Keep",
+    "Abyss Watchers"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Road of Sacrifices was historically used to march condemned undead to the Cathedral of the Deep as food for Aldrich.",
+   "entities": [
+    "Road of Sacrifices",
+    "Cathedral of the Deep",
+    "Aldrich"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Crucifixion Woods surrounding the Road of Sacrifices are inhabited by insane undead who ambush travelers.",
+   "entities": [
+    "Crucifixion Woods",
+    "Road of Sacrifices"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "At the Halfway Fortress on the Road of Sacrifices, the Ashen One meets Anri of Astora and the silent warrior Horace the Hushed.",
+   "entities": [
+    "Halfway Fortress",
+    "Anri of Astora",
+    "Horace the Hushed",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Anri of Astora is also hunting the Lords of Cinder, like the Ashen One.",
+   "entities": [
+    "Anri of Astora",
+    "Ashen One",
+    "Lords of Cinder"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Anri of Astora and Horace the Hushed are specifically seeking to kill Aldrich, whom Anri calls a man-eating fiend, for his crimes.",
+   "entities": [
+    "Anri of Astora",
+    "Horace the Hushed",
+    "Aldrich"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Cathedral of the Deep was formerly a holy site of the Way of White religion before being corrupted by a force called the Deep.",
+   "entities": [
+    "Cathedral of the Deep",
+    "Way of White",
+    "the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The Deep is an ancient corrupting force connected to the Abyss that gradually seduced the priests of the Cathedral of the Deep.",
+   "entities": [
+    "the Deep",
+    "Cathedral of the Deep"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Priests of the Cathedral of the Deep originally tried to seal away the Deep using holy rites and fire before eventually succumbing to its influence.",
+   "entities": [
+    "Cathedral of the Deep",
+    "the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "Aldrich accelerated the corruption and transformation of the Cathedral of the Deep's clergy.",
+   "entities": [
+    "Aldrich",
+    "Cathedral of the Deep"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  }
+ ],
+ "_src": "src-3fa39680"
+}

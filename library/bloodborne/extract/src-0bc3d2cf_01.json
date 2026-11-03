@@ -1,0 +1,969 @@
+{
+ "entities": [
+  {
+   "name": "Rom the Vacuous Spider",
+   "kind": "boss",
+   "aliases": [
+    "Rom",
+    "Vacuous Rom"
+   ]
+  },
+  {
+   "name": "Great Ones",
+   "kind": "concept",
+   "aliases": [
+    "Great One"
+   ]
+  },
+  {
+   "name": "Amygdala",
+   "kind": "boss",
+   "aliases": [
+    "Amygdalae"
+   ]
+  },
+  {
+   "name": "Patches the Spider",
+   "kind": "character",
+   "aliases": [
+    "Patches"
+   ]
+  },
+  {
+   "name": "Nightmare Frontier",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ailing Loran Chalice",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Loran",
+   "kind": "location",
+   "aliases": [
+    "Lauren"
+   ]
+  },
+  {
+   "name": "Lecture Hall",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Yahar'gul",
+   "kind": "location",
+   "aliases": [
+    "Yaharul",
+    "Yahar Ghoul",
+    "the Unseen Village"
+   ]
+  },
+  {
+   "name": "School of Mensis",
+   "kind": "faction",
+   "aliases": [
+    "Mensis"
+   ]
+  },
+  {
+   "name": "Mergo",
+   "kind": "boss",
+   "aliases": [
+    "MGO",
+    "Mgo"
+   ]
+  },
+  {
+   "name": "Queen Yharnam",
+   "kind": "character",
+   "aliases": [
+    "Thumerian Queen",
+    "Pthumerian Queen"
+   ]
+  },
+  {
+   "name": "Oedon",
+   "kind": "concept",
+   "aliases": [
+    "Uidon",
+    "Weeden"
+   ]
+  },
+  {
+   "name": "Pthumeru",
+   "kind": "location",
+   "aliases": [
+    "Thumeru",
+    "Thumemeru"
+   ]
+  },
+  {
+   "name": "Mergo's Wet Nurse",
+   "kind": "boss",
+   "aliases": [
+    "Wet Nurse"
+   ]
+  },
+  {
+   "name": "Mensis Ritual",
+   "kind": "item",
+   "aliases": [
+    "Umbilical Cord"
+   ]
+  },
+  {
+   "name": "Micolash",
+   "kind": "character",
+   "aliases": [
+    "Michelash"
+   ]
+  },
+  {
+   "name": "Mensis Cage",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Nightmare of Mensis",
+   "kind": "location",
+   "aliases": [
+    "Nightmare of Menses"
+   ]
+  },
+  {
+   "name": "Fantasms",
+   "kind": "enemy",
+   "aliases": [
+    "fantasm"
+   ]
+  },
+  {
+   "name": "Ebrietas, Daughter of the Cosmos",
+   "kind": "boss",
+   "aliases": [
+    "Ebrietas",
+    "Ibrietus",
+    "Abriatus"
+   ]
+  },
+  {
+   "name": "Byrgenwerth",
+   "kind": "faction",
+   "aliases": [
+    "Bergenworth"
+   ]
+  },
+  {
+   "name": "Messengers",
+   "kind": "character",
+   "aliases": [
+    "Hunter's Dream Messengers"
+   ]
+  },
+  {
+   "name": "Celestial Emissary",
+   "kind": "enemy",
+   "aliases": [
+    "Celestial Emissaries"
+   ]
+  },
+  {
+   "name": "Communion Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Brain of Mensis",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Moon Rune",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Kos",
+   "kind": "character",
+   "aliases": [
+    "Kosm"
+   ]
+  },
+  {
+   "name": "Fishing Hamlet",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kos Parasite",
+   "kind": "weapon",
+   "aliases": [
+    "Kos Parasite trick weapon"
+   ]
+  },
+  {
+   "name": "Healing Church Choir",
+   "kind": "faction",
+   "aliases": [
+    "the Choir"
+   ]
+  },
+  {
+   "name": "Master Willem",
+   "kind": "character",
+   "aliases": [
+    "Master Villim"
+   ]
+  },
+  {
+   "name": "Lady Maria",
+   "kind": "character",
+   "aliases": [
+    "Maria of the Astral Clocktower"
+   ]
+  },
+  {
+   "name": "Gehrman",
+   "kind": "character",
+   "aliases": [
+    "Gman"
+   ]
+  },
+  {
+   "name": "Tonsil Stone",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Moon Presence",
+   "kind": "boss",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Rom the Vacuous Spider maintained a veil that hid the full cosmic truth of Yharnam from its people.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Killing Rom does not reveal truth as a gift; it removes a protective barrier, exposing Yharnam to the full horror of its cosmic condition.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": 60
+  },
+  {
+   "text": "The pregnant women of Yharnam, who had been impregnated by Oedon's influence and were carrying cosmic children, give birth only after the blood moon rises following Rom's death.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Oedon"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 65
+  },
+  {
+   "text": "None of the babies born after Rom's death and the blood moon are human.",
+   "entities": [
+    "Rom the Vacuous Spider"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": 66
+  },
+  {
+   "text": "Rom's veil held back several phenomena simultaneously: the inhuman births, the blood moon, and the visibility of the Amygdala.",
+   "entities": [
+    "Rom the Vacuous Spider",
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "An Amygdala's body resembles something vast and multi-limbed clinging to architecture, with a head shaped like a tonsil, dozens of lidless eyes, seven arms each ending in six-fingered hands, and mantis-like bent legs.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "There are many Amygdala, not just one, and they appear on the buildings of Cathedral Ward, in the Nightmare realms, and in the Chalice Dungeons, often invisible without sufficient insight.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Amygdala iconography appears throughout Yharnam's religious architecture, including statues in the grand cathedral and shrines in Hypogean Gaol.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The name Amygdala comes from the Greek/Latin word for almond, but also references the amygdala, the fear-processing structure in the human brain.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "When an Amygdala grabs and squeezes a person, it triggers the Frenzy status, representing a mind breaking down from proximity to cosmic horror.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Amygdala is also the Greek word for tonsils, which are immune organs that serve as the body's first defense against pathogens entering through the mouth and nose.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "The Tonsil Stone item, shaped like an Amygdala's head, is required to access the Nightmare Frontier where the Great One Amygdala resides.",
+   "entities": [
+    "Tonsil Stone",
+    "Amygdala",
+    "Nightmare Frontier"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "One theory suggests Amygdala function as guardians or immune defenses protecting the nightmare realms or cosmic order from unworthy intruders.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Patches the Spider is a devoted worshipper of Amygdala and calls it 'the godhead,' a term referencing the supreme nature of God in Judeo-Christian theology.",
+   "entities": [
+    "Patches the Spider",
+    "Amygdala"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Patches the Spider uses the Tonsil Stone to lure unsuspecting travelers into the Nightmare Frontier as sacrifices to Amygdala.",
+   "entities": [
+    "Patches the Spider",
+    "Tonsil Stone",
+    "Nightmare Frontier",
+    "Amygdala"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the player kills Amygdala, Patches reacts with shock then says, in effect, that the player bestowed salvation upon the 'piteous bastard.'",
+   "entities": [
+    "Patches the Spider",
+    "Amygdala"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Nightmare Frontier is a place of poison swamps, yeti-like creatures that throw boulders, and Winter Lanterns whose exposed brain heads induce frenzy at a glance.",
+   "entities": [
+    "Nightmare Frontier"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Defeating the boss Amygdala in the Nightmare Frontier drops the Ailing Loran Chalice.",
+   "entities": [
+    "Amygdala",
+    "Ailing Loran Chalice"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ailing Loran Chalice is a key connected to Loran, an ancient city that predated Yharnam and was consumed by the beast scourge in an earlier age.",
+   "entities": [
+    "Ailing Loran Chalice",
+    "Loran"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Lesser Amygdala appear more frequently after Rom's death, suggesting they gather where Great One influence intensifies.",
+   "entities": [
+    "Amygdala",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "One theory holds Amygdala are resonance structures drawn to places of concentrated Great One energy, like iron filings to a magnet.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Another theory holds Amygdala are themselves a kind of lesser Great One, waiting in places where Great Ones once walked.",
+   "entities": [
+    "Amygdala"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A lesser Amygdala, if seen by a hunter with sufficiently high insight standing beneath it, can grab the hunter and transport them to the Lecture Hall.",
+   "entities": [
+    "Amygdala",
+    "Lecture Hall"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Lecture Hall functions as an intermediate space between Yharnam and the Nightmare of Mensis.",
+   "entities": [
+    "Lecture Hall",
+    "Nightmare of Mensis"
+   ],
+   "category": "location",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Yahar'gul is a district of Yharnam under the influence of the School of Mensis, where the veil between reality and the nightmare is especially thin.",
+   "entities": [
+    "Yahar'gul",
+    "School of Mensis"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Yahar'gul's church architecture is covered in Amygdala iconography, including statues, reliefs, and carvings of its elongated, many-eyed form.",
+   "entities": [
+    "Yahar'gul",
+    "Amygdala"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The School of Mensis captured people and brought them to Yahar'gul, where bell-ringing women summoned Black Phantoms as part of rituals to draw Amygdala's attention.",
+   "entities": [
+    "School of Mensis",
+    "Yahar'gul",
+    "Amygdala"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After the blood moon rises, full-sized Amygdala become openly visible standing among the buildings of Yahar'gul.",
+   "entities": [
+    "Amygdala",
+    "Yahar'gul"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 70
+  },
+  {
+   "text": "Enormous golden chains with no apparent source hang throughout Yahar'gul and its surroundings, possibly holding the physical world together.",
+   "entities": [
+    "Yahar'gul",
+    "Amygdala"
+   ],
+   "category": "world",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The Great One Mergo is never shown visibly in the game; only an empty crib and a cry are presented as evidence of its presence.",
+   "entities": [
+    "Mergo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mergo is formless, inheriting the nature of its father Oedon, who exists without physical form.",
+   "entities": [
+    "Mergo",
+    "Oedon"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Mergo was the child of Oedon and Queen Yharnam, ruler of the ancient Pthumerian civilization.",
+   "entities": [
+    "Mergo",
+    "Oedon",
+    "Queen Yharnam"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "Mergo appears to have been stillborn or pulled from the womb prematurely, leaving Queen Yharnam chained in blood-soaked white garments in the deepest Chalice Dungeons for countless years.",
+   "entities": [
+    "Mergo",
+    "Queen Yharnam"
+   ],
+   "category": "history",
+   "status": "theory",
+   "chrono": 6
+  },
+  {
+   "text": "Queen Yharnam appears as a ghost after Rom's death and the rise of the blood moon, silent and sorrowful, with a visible wound at her abdomen.",
+   "entities": [
+    "Queen Yharnam",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Queen Yharnam appears again outside the Nightmare of Mensis, watching the door where her child exists in a formless half-life.",
+   "entities": [
+    "Queen Yharnam",
+    "Mergo",
+    "Nightmare of Mensis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "After the player defeats Mergo's Wet Nurse and silences the crying, Queen Yharnam bows in apparent gratitude or relief before disappearing.",
+   "entities": [
+    "Queen Yharnam",
+    "Mergo's Wet Nurse"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Queen Yharnam ruled the Pthumerian civilization at its height and was central to its religious practices of blood communion with the Great Ones.",
+   "entities": [
+    "Queen Yharnam",
+    "Pthumeru"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4
+  },
+  {
+   "text": "Pthumeru predates Yharnam by thousands of years.",
+   "entities": [
+    "Pthumeru"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "The School of Mensis, through their ritual, succeeded in contacting Mergo but did so to exploit its cosmic power rather than to offer it peace.",
+   "entities": [
+    "School of Mensis",
+    "Mergo"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": 40
+  },
+  {
+   "text": "The game's ending text after defeating Mergo's Wet Nurse reads 'Nightmare Slain.'",
+   "entities": [
+    "Mergo's Wet Nurse"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The School of Mensis, led by Micolash, established contact with Mergo using the Mensis Cage, a metal lattice headpiece, and an umbilical cord relic.",
+   "entities": [
+    "School of Mensis",
+    "Micolash",
+    "Mensis Cage",
+    "Mensis Ritual"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The item description for the Umbilical Cord states it granted Mensis audience with Mergo but resulted in 'the stillbirth of their brains.'",
+   "entities": [
+    "Mensis Ritual",
+    "Mergo",
+    "School of Mensis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Mensis scholars who made contact with Mergo had their minds emptied, becoming mindless shuffling bodies encountered in the Nightmare of Mensis.",
+   "entities": [
+    "School of Mensis",
+    "Mergo",
+    "Nightmare of Mensis"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "The Nightmare of Mensis, with its impossible geometry and spiked towers, is depicted as a manifestation of Mergo's grief and distress rather than a prison built to contain it.",
+   "entities": [
+    "Nightmare of Mensis",
+    "Mergo"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Mergo's Wet Nurse is a tall, skeletal, robed being wielding six blades that guards Mergo's crib and does not attack unless provoked.",
+   "entities": [
+    "Mergo's Wet Nurse"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mergo's Wet Nurse may be a Pthumerian noblewoman twisted by Great One power, or a spirit created specifically to protect the unborn child.",
+   "entities": [
+    "Mergo's Wet Nurse"
+   ],
+   "category": "boss",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The fight against Mergo's Wet Nurse takes place under the blood moon in a circular arena, accompanied by constant crying, and summons shadow clones if prolonged.",
+   "entities": [
+    "Mergo's Wet Nurse"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "After defeating Mergo's Wet Nurse, a faint giggle can be heard with sufficient insight, suggesting the infant Mergo is pleased or released.",
+   "entities": [
+    "Mergo's Wet Nurse",
+    "Mergo"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Fantasms are slug-like creatures appearing throughout Bloodborne, found in Chalice Dungeons, the Fishing Hamlet, and embedded in certain enemies and items.",
+   "entities": [
+    "Fantasms"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fantasms served as organic intermediaries, or living antennae, used by the scholars of Byrgenwerth in their initial partially successful summoning of Ebrietas.",
+   "entities": [
+    "Fantasms",
+    "Byrgenwerth",
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "The Augur of Ebrietas ritual, which opens a rift and draws forth Ebrietas's tentacles, is built on the same connective properties that fantasms naturally possess.",
+   "entities": [
+    "Fantasms",
+    "Ebrietas, Daughter of the Cosmos"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Healing Church Choir learned to actively use fantasms as keys to open connections to the Great Ones, rather than using them passively as receivers.",
+   "entities": [
+    "Healing Church Choir",
+    "Fantasms"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The small pale messengers in the Hunter's Dream deliver items, serve the hunter, and behave with cheerful, non-threatening purposefulness.",
+   "entities": [
+    "Messengers"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "One theory holds that the messengers are the spirits of children who died in the Healing Church's experiments, released through the Moon Presence's dream.",
+   "entities": [
+    "Messengers",
+    "Moon Presence"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Another theory holds that the messengers are fantasms in humanoid form, or that fantasms and messengers are two expressions of the same principle.",
+   "entities": [
+    "Messengers",
+    "Fantasms"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Celestial Emissaries are found wandering the Upper Cathedral Ward and were originally orphan children taken from the streets of Yharnam by the Healing Church Choir for experiments in cosmic ascension.",
+   "entities": [
+    "Celestial Emissary",
+    "Healing Church Choir"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "The Healing Church Choir believed children's more flexible minds would be better suited to forced cosmic evolution, lining their brains with eyes similar to Master Willem's method.",
+   "entities": [
+    "Healing Church Choir",
+    "Celestial Emissary",
+    "Master Willem"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": 35
+  },
+  {
+   "text": "The experiments on the children succeeded in granting cosmic perception but destroyed their personalities and memories, transforming them into Celestial Emissaries.",
+   "entities": [
+    "Celestial Emissary",
+    "Healing Church Choir"
+   ],
+   "category": "enemy",
+   "status": "theory",
+   "chrono": 35
+  },
+  {
+   "text": "Some scholars theorize the Healing Church Choir created the Celestial Emissaries partly as surrogate children for Ebrietas, who had lost her own offspring.",
+   "entities": [
+    "Celestial Emissary",
+    "Ebrietas, Daughter of the Cosmos",
+    "Healing Church Choir"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A larger Celestial Emissary boss can disguise itself among smaller emissaries before revealing itself violently when approached.",
+   "entities": [
+    "Celestial Emissary"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The large Celestial Emissary boss drops the Communion Rune when defeated.",
+   "entities": [
+    "Celestial Emissary",
+    "Communion Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Brain of Mensis is a genuine full Great One found lost in the Nightmare realms and brought back by the Mensis scholars to serve as a guardian sentinel in their tower.",
+   "entities": [
+    "Brain of Mensis",
+    "School of Mensis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "The Brain of Mensis has eyes described in its item/enemy description as 'evil in nature,' and its brain has rotted, suggesting it is a compromised or diminished Great One.",
+   "entities": [
+    "Brain of Mensis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Brain of Mensis causes the Frenzy status with its gaze, similar to other Great Ones.",
+   "entities": [
+    "Brain of Mensis"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Using the Make Contact gesture on the Brain of Mensis rewards the player with three points of Insight.",
+   "entities": [
+    "Brain of Mensis"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "If the Brain of Mensis is knocked into a chasm and approached again with the Make Contact gesture instead of attacking, it grants the Moon Rune, which increases Blood Echoes earned.",
+   "entities": [
+    "Brain of Mensis",
+    "Moon Rune"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Micolash repeats the name 'Kos' or 'Kosm' in his looping nightmare monologue, asking if she hears their prayers as she once did for Rom.",
+   "entities": [
+    "Micolash",
+    "Kos",
+    "Rom the Vacuous Spider"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike other Great Ones, Kos lived physically in the ocean beside the Fishing Hamlet village and had a direct, reciprocal relationship with its human inhabitants.",
+   "entities": [
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": 15
+  },
+  {
+   "text": "The Fishing Hamlet villagers worshipped Kos and incorporated parasites she gave them into their bodies, granting abilities and a biological connection to her cosmic nature.",
+   "entities": [
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Some Fishing Hamlet villagers wore shells and sea-themed garments in honor of Kos.",
+   "entities": [
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "The Byrgenwerth scholars, including Gehrman and Lady Maria, came to the Fishing Hamlet and found Kos already on the shore, then cut into her body and took samples, in what became known as the Fishing Hamlet massacre.",
+   "entities": [
+    "Byrgenwerth",
+    "Gehrman",
+    "Lady Maria",
+    "Kos",
+    "Fishing Hamlet"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "The Kos Parasite is a trick weapon item described as a creature that writhed inside a surrogate of a Great One and gained her characteristics over time.",
+   "entities": [
+    "Kos Parasite",
+    "Kos"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Kos Parasite weapon only functions effectively when the user has high Insight, requiring the wielder to perceive Great One wavelengths like the Fishing Hamlet villagers did.",
+   "entities": [
+    "Kos Parasite"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-0bc3d2cf"
+}

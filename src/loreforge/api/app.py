@@ -23,7 +23,7 @@ UI_DIR = Path(__file__).resolve().parents[1] / "ui"
 
 # Brief fields editable from the run page.
 _BRIEF_FIELDS = ("game", "game_slug", "format", "scope", "target_minutes", "publisher",
-                 "notes", "channel_slug")
+                 "notes", "channel_slug", "spotify_episode_url")
 _LIST_FIELDS = ("reference_urls", "footage_urls")
 
 
@@ -47,10 +47,24 @@ def _step_outputs(p: VideoProject) -> dict[str, list[str]]:
         "music": [p.music_bed_path],
         "thumbnail": [p.thumbnail_path],
         "metadata": [p.metadata_path, p.description_path],
-        "premiere": [p.premiere_project_path],
+        "podcast": [p.podcast_mp3_path, p.podcast_description_path, p.podcast_upload_path],
+        "premiere": [p.premiere_project_path, p.spotify_qr_path],
     }
     return {step: [str(f.relative_to(p.run_dir)).replace("\\", "/") for f in files if f.is_file()]
             for step, files in candidates.items()}
+
+
+def _podcast_fields(p: VideoProject) -> dict | None:
+    """Spotify for Creators' episode form, as far as it takes text, plus the QR target."""
+    if not p.podcast_mp3_path.exists():
+        return None
+    from loreforge.services.podcast_service import episode_title
+    desc = p.podcast_description_path
+    return {"title": episode_title(p),
+            "description": desc.read_text(encoding="utf-8") if desc.exists() else "",
+            "art": p.episode_art_path.exists(),
+            "episode_link": p.spotify_episode_link,
+            "show_link": p.channel.spotify_link}
 
 
 def create_app() -> FastAPI:
@@ -113,6 +127,7 @@ def create_app() -> FastAPI:
             "outputs": _step_outputs(p),
             "metadata": json.loads(p.metadata_path.read_text(encoding="utf-8"))
                 if p.metadata_path.exists() else None,
+            "podcast": _podcast_fields(p),
         }
 
     @app.post("/api/runs/{run_id}/brief")

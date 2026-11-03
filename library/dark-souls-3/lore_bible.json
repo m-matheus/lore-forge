@@ -1,0 +1,7773 @@
+{
+ "game": "Dark Souls 3",
+ "updated_at": "2026-10-08T15:46:43",
+ "sources": {
+  "src-c469c2a0": {
+   "kind": "reference_video",
+   "title": "The Entire Dark Souls 3 Lore Explained To Fall Asleep To",
+   "origin": "https://www.youtube.com/watch?v=WlJqz8RYRu8",
+   "sha": "c469c2a03bd5b0f6"
+  },
+  "src-3fa39680": {
+   "kind": "reference_video",
+   "title": "The COMPLETE Dark Souls 3 Timeline, Story & World Explained (Main Game + DLCs)",
+   "origin": "https://www.youtube.com/watch?v=c6GulutcBOM",
+   "sha": "3fa39680de49213a"
+  }
+ },
+ "entities": [
+  {
+   "id": "n0001",
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Lord Seeker",
+    "Player Character",
+    "The Ashen One",
+    "Unkindled",
+    "Unkindled One",
+    "player",
+    "the Ashen One",
+    "the player",
+    "the player character",
+    "unckindled",
+    "unckindled one"
+   ]
+  },
+  {
+   "id": "n0002",
+   "name": "Prince Lothric",
+   "kind": "character",
+   "aliases": [
+    "Kingdom of Lothric",
+    "Lothric",
+    "Lothric Prince",
+    "Lothric, Younger Prince"
+   ]
+  },
+  {
+   "id": "n0003",
+   "name": "Painted World of Ariandel",
+   "kind": "location",
+   "aliases": [
+    "Ariandel",
+    "Father Arendelle",
+    "Father Ariandel",
+    "Painted World of Arendelle",
+    "painted world of Arendelle"
+   ]
+  },
+  {
+   "id": "n0004",
+   "name": "Aldrich",
+   "kind": "boss",
+   "aliases": [
+    "Aldrich, Devourer of Gods",
+    "Aldrich, Saint of the Deep",
+    "Devourer of Gods",
+    "Saint of the Deep",
+    "Uldrich"
+   ]
+  },
+  {
+   "id": "n0005",
+   "name": "Lord Gwyn",
+   "kind": "character",
+   "aliases": [
+    "Gwyn",
+    "Lord of Cinder Gwyn",
+    "Lord of Sunlight"
+   ]
+  },
+  {
+   "id": "n0006",
+   "name": "Lorian",
+   "kind": "boss",
+   "aliases": [
+    "Lauren",
+    "Laurian",
+    "Lorian, Elder Prince",
+    "Lothric, Younger Prince",
+    "Prince Lorian",
+    "Twin Princes"
+   ]
+  },
+  {
+   "id": "n0007",
+   "name": "Pontiff Sulyvahn",
+   "kind": "character",
+   "aliases": [
+    "Pontiff Sulivan",
+    "Sulivan",
+    "Sulivon",
+    "Sullean",
+    "Sulyvahn"
+   ]
+  },
+  {
+   "id": "n0008",
+   "name": "Yhorm the Giant",
+   "kind": "boss",
+   "aliases": [
+    "Yhorm",
+    "Yor",
+    "Yor the Giant"
+   ]
+  },
+  {
+   "id": "n0009",
+   "name": "Abyss Watchers",
+   "kind": "boss",
+   "aliases": [
+    "Undead Legion",
+    "the Abyss Watchers"
+   ]
+  },
+  {
+   "id": "n0010",
+   "name": "Anri of Astora",
+   "kind": "character",
+   "aliases": [
+    "Anri",
+    "Enri of Ator",
+    "Henri"
+   ]
+  },
+  {
+   "id": "n0011",
+   "name": "Demon Prince",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0012",
+   "name": "Firelink Shrine",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0013",
+   "name": "High Wall of Lothric",
+   "kind": "location",
+   "aliases": [
+    "Lothric Castle"
+   ]
+  },
+  {
+   "id": "n0014",
+   "name": "Slave Knight Gael",
+   "kind": "character",
+   "aliases": [
+    "Gael",
+    "Gail",
+    "Gale",
+    "Uncle Gael"
+   ]
+  },
+  {
+   "id": "n0015",
+   "name": "Witch of Izalith",
+   "kind": "character",
+   "aliases": [
+    "Witch of Iselith",
+    "Witch of Isizelith"
+   ]
+  },
+  {
+   "id": "n0016",
+   "name": "Age of Fire",
+   "kind": "concept",
+   "aliases": [
+    "First Flame"
+   ]
+  },
+  {
+   "id": "n0017",
+   "name": "Cathedral of the Deep",
+   "kind": "location",
+   "aliases": [
+    "Cathedral"
+   ]
+  },
+  {
+   "id": "n0018",
+   "name": "Cemetery of Ash",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0019",
+   "name": "Dreg Heap",
+   "kind": "location",
+   "aliases": [
+    "The Heap",
+    "the Dreg Heap"
+   ]
+  },
+  {
+   "id": "n0020",
+   "name": "Farron Keep",
+   "kind": "location",
+   "aliases": [
+    "Faren Keep"
+   ]
+  },
+  {
+   "id": "n0021",
+   "name": "Fire Keeper",
+   "kind": "character",
+   "aliases": [
+    "Firekeeper"
+   ]
+  },
+  {
+   "id": "n0022",
+   "name": "Grand Archives",
+   "kind": "location",
+   "aliases": [
+    "Lothric's Grand Archives"
+   ]
+  },
+  {
+   "id": "n0023",
+   "name": "Gwyndolin",
+   "kind": "character",
+   "aliases": [
+    "Dark Sun Gwyndolin",
+    "Gwindelin",
+    "Gwindelyn",
+    "Gwinderin"
+   ]
+  },
+  {
+   "id": "n0024",
+   "name": "Ringed City",
+   "kind": "location",
+   "aliases": [
+    "Ring City",
+    "The Ringed City",
+    "the Ringed City"
+   ]
+  },
+  {
+   "id": "n0025",
+   "name": "Sable Church of Londor",
+   "kind": "faction",
+   "aliases": [
+    "Sable Church"
+   ]
+  },
+  {
+   "id": "n0026",
+   "name": "The Painter",
+   "kind": "character",
+   "aliases": [
+    "Child Painter",
+    "Little Girl Painter",
+    "painter girl",
+    "painter of Ariandel"
+   ]
+  },
+  {
+   "id": "n0027",
+   "name": "Vordt of the Boreal Valley",
+   "kind": "boss",
+   "aliases": [
+    "Vault of the Boreal Valley",
+    "Vordt"
+   ]
+  },
+  {
+   "id": "n0028",
+   "name": "Way of White",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0029",
+   "name": "Anor Londo",
+   "kind": "location",
+   "aliases": [
+    "Anorlando",
+    "Anorondo"
+   ]
+  },
+  {
+   "id": "n0030",
+   "name": "Dancer of the Boreal Valley",
+   "kind": "boss",
+   "aliases": [
+    "the Dancer"
+   ]
+  },
+  {
+   "id": "n0031",
+   "name": "Dark Soul",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0032",
+   "name": "Darkeater Midir",
+   "kind": "boss",
+   "aliases": [
+    "Dark Eater Media"
+   ]
+  },
+  {
+   "id": "n0033",
+   "name": "Dragon Slayer Ornstein",
+   "kind": "character",
+   "aliases": [
+    "Ornstein"
+   ]
+  },
+  {
+   "id": "n0034",
+   "name": "Filianore",
+   "kind": "character",
+   "aliases": [
+    "Fyonora"
+   ]
+  },
+  {
+   "id": "n0035",
+   "name": "First Flame",
+   "kind": "concept",
+   "aliases": [
+    "the Flame",
+    "the flame"
+   ]
+  },
+  {
+   "id": "n0036",
+   "name": "Furtive Pygmy",
+   "kind": "character",
+   "aliases": [
+    "fertive pygmy"
+   ]
+  },
+  {
+   "id": "n0037",
+   "name": "Gwyn's firstborn son",
+   "kind": "character",
+   "aliases": [
+    "Gwyn's exiled son",
+    "Nameless King"
+   ]
+  },
+  {
+   "id": "n0038",
+   "name": "High Priestess Emma",
+   "kind": "character",
+   "aliases": [
+    "Emma"
+   ]
+  },
+  {
+   "id": "n0039",
+   "name": "Irithyll of the Boreal Valley",
+   "kind": "location",
+   "aliases": [
+    "Irithyll",
+    "Ithl of the boreal valley"
+   ]
+  },
+  {
+   "id": "n0040",
+   "name": "Iudex Gundyr",
+   "kind": "boss",
+   "aliases": [
+    "Gundyr"
+   ]
+  },
+  {
+   "id": "n0041",
+   "name": "Lord of Hollows",
+   "kind": "concept",
+   "aliases": [
+    "Dark Lord",
+    "Usurpation of Fire ending"
+   ]
+  },
+  {
+   "id": "n0042",
+   "name": "Lords of Cinder",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0043",
+   "name": "Ludleth of Courland",
+   "kind": "character",
+   "aliases": [
+    "Ludleth"
+   ]
+  },
+  {
+   "id": "n0044",
+   "name": "Outriders",
+   "kind": "enemy",
+   "aliases": [
+    "Outrider Knights"
+   ]
+  },
+  {
+   "id": "n0045",
+   "name": "Profaned Capital",
+   "kind": "location",
+   "aliases": [
+    "profained capital"
+   ]
+  },
+  {
+   "id": "n0046",
+   "name": "Profaned Flame",
+   "kind": "world",
+   "aliases": [
+    "profained flame"
+   ]
+  },
+  {
+   "id": "n0047",
+   "name": "Pygmy Lords",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0048",
+   "name": "Siegward of Catarina",
+   "kind": "character",
+   "aliases": [
+    "Seward of Katarina",
+    "Sewood",
+    "Siegward"
+   ]
+  },
+  {
+   "id": "n0049",
+   "name": "Soul of Cinder",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0050",
+   "name": "Storm Ruler",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "id": "n0051",
+   "name": "Transposing Kiln",
+   "kind": "item",
+   "aliases": [
+    "Kiln of the First Flame",
+    "the Kiln"
+   ]
+  },
+  {
+   "id": "n0052",
+   "name": "Undead Settlement",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0053",
+   "name": "Yuria of Londor",
+   "kind": "character",
+   "aliases": [
+    "Ura of Londor",
+    "Yuria"
+   ]
+  },
+  {
+   "id": "n0054",
+   "name": "the Deep",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0055",
+   "name": "Age of Dark",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0056",
+   "name": "Arch Dragon Peak",
+   "kind": "location",
+   "aliases": [
+    "Archdragon Peak"
+   ]
+  },
+  {
+   "id": "n0057",
+   "name": "Archdeacon McDonnell",
+   "kind": "character",
+   "aliases": [
+    "Arch Deacon Macdonald"
+   ]
+  },
+  {
+   "id": "n0058",
+   "name": "Artorias",
+   "kind": "character",
+   "aliases": [
+    "Artorias the Abysswalker"
+   ]
+  },
+  {
+   "id": "n0059",
+   "name": "Artorias of the Abyss",
+   "kind": "character",
+   "aliases": [
+    "Artorius"
+   ]
+  },
+  {
+   "id": "n0060",
+   "name": "Ash (painted world)",
+   "kind": "location",
+   "aliases": [
+    "Painted World of Ash"
+   ]
+  },
+  {
+   "id": "n0061",
+   "name": "Ashes of Ariandel",
+   "kind": "event",
+   "aliases": [
+    "Ashes of Arendelle"
+   ]
+  },
+  {
+   "id": "n0062",
+   "name": "Basin of Vows",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0063",
+   "name": "Black Hand Kamui",
+   "kind": "boss",
+   "aliases": [
+    "Kamui"
+   ]
+  },
+  {
+   "id": "n0064",
+   "name": "Carthus",
+   "kind": "location",
+   "aliases": [
+    "Catacombs of Carthus"
+   ]
+  },
+  {
+   "id": "n0065",
+   "name": "Champion Gundyr",
+   "kind": "boss",
+   "aliases": [
+    "Champion Gundere"
+   ]
+  },
+  {
+   "id": "n0066",
+   "name": "Cinders of a Lord",
+   "kind": "item",
+   "aliases": [
+    "Lord of Cinder soul"
+   ]
+  },
+  {
+   "id": "n0067",
+   "name": "Coiled Sword",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0068",
+   "name": "Corvian Knights",
+   "kind": "enemy",
+   "aliases": [
+    "Corvians"
+   ]
+  },
+  {
+   "id": "n0069",
+   "name": "Cream Hild",
+   "kind": "boss",
+   "aliases": [
+    "Daughter of Crystal Cream Hild"
+   ]
+  },
+  {
+   "id": "n0070",
+   "name": "Crucifixion Woods",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0071",
+   "name": "Crystal Sage",
+   "kind": "boss",
+   "aliases": [
+    "the Sage"
+   ]
+  },
+  {
+   "id": "n0072",
+   "name": "Cursed Greatwood",
+   "kind": "boss",
+   "aliases": [
+    "the Greatwood"
+   ]
+  },
+  {
+   "id": "n0073",
+   "name": "Dark Moon Blades",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0074",
+   "name": "Dark Sign",
+   "kind": "concept",
+   "aliases": [
+    "dark sane"
+   ]
+  },
+  {
+   "id": "n0075",
+   "name": "Dark Soul of Man",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "id": "n0076",
+   "name": "Dark Wraiths",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0077",
+   "name": "Darkstalker Kaathe",
+   "kind": "character",
+   "aliases": [
+    "dark stalker Koti"
+   ]
+  },
+  {
+   "id": "n0078",
+   "name": "Deacons of the Deep",
+   "kind": "enemy",
+   "aliases": [
+    "Archdeacon Royce",
+    "Deacons"
+   ]
+  },
+  {
+   "id": "n0079",
+   "name": "Dragon Slayer Armor",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "id": "n0080",
+   "name": "Drangleic",
+   "kind": "location",
+   "aliases": [
+    "Drangle"
+   ]
+  },
+  {
+   "id": "n0081",
+   "name": "Evangelists",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0082",
+   "name": "Everlasting Dragons",
+   "kind": "faction",
+   "aliases": [
+    "Ancient Dragons"
+   ]
+  },
+  {
+   "id": "n0083",
+   "name": "Filianore's Rest",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0084",
+   "name": "Firelink Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "id": "n0085",
+   "name": "Four Kings",
+   "kind": "character",
+   "aliases": [
+    "four kings of New Londo"
+   ]
+  },
+  {
+   "id": "n0086",
+   "name": "Gwyn's Firstborn",
+   "kind": "character",
+   "aliases": [
+    "god of war",
+    "the Nameless King"
+   ]
+  },
+  {
+   "id": "n0087",
+   "name": "Gwynevere",
+   "kind": "character",
+   "aliases": [
+    "Gwynever"
+   ]
+  },
+  {
+   "id": "n0088",
+   "name": "Halflight, Spear of the Church",
+   "kind": "boss",
+   "aliases": [
+    "Halflight"
+   ]
+  },
+  {
+   "id": "n0089",
+   "name": "Halfway Fortress",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0090",
+   "name": "Hawkeye Gough",
+   "kind": "character",
+   "aliases": [
+    "Hawkeye G"
+   ]
+  },
+  {
+   "id": "n0091",
+   "name": "Highlord Wolnir",
+   "kind": "boss",
+   "aliases": [
+    "High Lord Wolnir"
+   ]
+  },
+  {
+   "id": "n0092",
+   "name": "Hollows",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0093",
+   "name": "Horace the Hushed",
+   "kind": "character",
+   "aliases": [
+    "Horace"
+   ]
+  },
+  {
+   "id": "n0094",
+   "name": "Irithyll Dungeon",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0095",
+   "name": "Kaathe",
+   "kind": "character",
+   "aliases": [
+    "law of Kate"
+   ]
+  },
+  {
+   "id": "n0096",
+   "name": "King Vendrick",
+   "kind": "character",
+   "aliases": [
+    "King Vendrich"
+   ]
+  },
+  {
+   "id": "n0097",
+   "name": "King of the Storm",
+   "kind": "boss",
+   "aliases": [
+    "Storm Drake"
+   ]
+  },
+  {
+   "id": "n0098",
+   "name": "Lion Knight Albert",
+   "kind": "boss",
+   "aliases": [
+    "Albert"
+   ]
+  },
+  {
+   "id": "n0099",
+   "name": "Londor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0100",
+   "name": "Lord's Blade Ciaran",
+   "kind": "character",
+   "aliases": [
+    "Lord's Blade Sirin"
+   ]
+  },
+  {
+   "id": "n0101",
+   "name": "Lothric of Carim",
+   "kind": "character",
+   "aliases": [
+    "Llath of Corand",
+    "Lleth",
+    "Ludlath"
+   ]
+  },
+  {
+   "id": "n0102",
+   "name": "Lothric, Younger Prince of",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "id": "n0103",
+   "name": "New Londo",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0104",
+   "name": "Nito",
+   "kind": "character",
+   "aliases": [
+    "Graalord Neato",
+    "Gravelord Nito"
+   ]
+  },
+  {
+   "id": "n0105",
+   "name": "Painter",
+   "kind": "character",
+   "aliases": [
+    "Ariandel Painter"
+   ]
+  },
+  {
+   "id": "n0106",
+   "name": "Pilgrim Butterflies",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0107",
+   "name": "Pontiff Knights",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "id": "n0108",
+   "name": "Pygmies",
+   "kind": "faction",
+   "aliases": [
+    "humanity's oldest ancestors"
+   ]
+  },
+  {
+   "id": "n0109",
+   "name": "Ringed Knights",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0110",
+   "name": "Road of Sacrifices",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0111",
+   "name": "Seath the Scaleless",
+   "kind": "character",
+   "aliases": [
+    "Saith",
+    "Seath"
+   ]
+  },
+  {
+   "id": "n0112",
+   "name": "Sif",
+   "kind": "character",
+   "aliases": [
+    "Sith"
+   ]
+  },
+  {
+   "id": "n0113",
+   "name": "Sir Vilhelm",
+   "kind": "boss",
+   "aliases": [
+    "Vilhelm"
+   ]
+  },
+  {
+   "id": "n0114",
+   "name": "Sister Frieda",
+   "kind": "boss",
+   "aliases": [
+    "Black Flame Frieda",
+    "Frieda"
+   ]
+  },
+  {
+   "id": "n0115",
+   "name": "Sister Friede",
+   "kind": "character",
+   "aliases": [
+    "Sister Freda"
+   ]
+  },
+  {
+   "id": "n0116",
+   "name": "Small Doll",
+   "kind": "item",
+   "aliases": [
+    "doll key to Irithyll"
+   ]
+  },
+  {
+   "id": "n0117",
+   "name": "Undead Curse",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "id": "n0118",
+   "name": "Untended Graves",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "id": "n0119",
+   "name": "Warriors of Sunlight",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "id": "n0120",
+   "name": "Yoel of Londor",
+   "kind": "character",
+   "aliases": [
+    "Yol of Londor"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "id": "f0001",
+   "text": "In the Age of Ancients, the world was formless, gray, and shrouded in fog with no life, death, heat, cold, light, or dark.",
+   "entity_ids": [
+    "n0082"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0002",
+   "text": "Everlasting dragons, immortal stone-scaled beings, ruled the unchanging world of the Age of Ancients.",
+   "entity_ids": [
+    "n0082"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0003",
+   "text": "The appearance of the First Flame introduced disparity into the world: heat and cold, life and death, light and dark.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0004",
+   "text": "Hollows were humanoid creatures who emerged from the darkness around the First Flame, drawn to its warmth.",
+   "entity_ids": [
+    "n0016",
+    "n0092"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0005",
+   "text": "Four beings discovered Lord Souls within the First Flame, transforming them from hollow vessels into beings of great power.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0006",
+   "text": "Unlike the other Lord Souls, the Dark Soul did not grant immediate power; the Furtive Pygmy split it apart and distributed fragments to create humanity.",
+   "entity_ids": [
+    "n0031",
+    "n0036"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0007",
+   "text": "As the First Flame began to fade, the power of the gods weakened along with it, while humanity's inner darkness grew stronger.",
+   "entity_ids": [
+    "n0005",
+    "n0016"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0008",
+   "text": "The Ringed City functioned more as a prison than a gift, encircled by a protective sigil meant to confine the abyss and contain the Dark Soul's darkness at the edge of the world.",
+   "entity_ids": [
+    "n0024",
+    "n0031"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0009",
+   "text": "The Profaned Flame could not be extinguished, burned without fuel, and seemed to actively seek out human life.",
+   "entity_ids": [
+    "n0046"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0010",
+   "text": "The transitory land of Lothric is a place where multiple kingdoms and ages have converged, containing the homes of all the Lords of Cinder, causing time and space to break down so different eras exist in the same location.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0011",
+   "text": "The Kingdom of Lothric was built with the singular purpose of breeding and preparing the perfect vessel to link the First Flame.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0012",
+   "text": "An ancient bell tolled across the land to summon the Lords of Cinder back to link the fire again.",
+   "entity_ids": [
+    "n0042"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0013",
+   "text": "Aldrich, Abyss Watchers, and Yhorm the Giant are among the Lords of Cinder who were resurrected by the bell's toll.",
+   "entity_ids": [
+    "n0004",
+    "n0008",
+    "n0009",
+    "n0042"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0014",
+   "text": "By the time the Ashen One arrives, the Kiln of the First Flame resembles a graveyard of ash covering the ruins of fallen kingdoms from past cycles.",
+   "entity_ids": [
+    "n0051"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0015",
+   "text": "At the center of the Kiln, the first flame itself has been reduced to a barely burning ember.",
+   "entity_ids": [
+    "n0051"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0016",
+   "text": "Filianore's prolonged sleep sustained a kind of magic or illusion that kept the Ringed City in its current state.",
+   "entity_ids": [
+    "n0024",
+    "n0034"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0017",
+   "text": "The Painted World of Ariandel is a frozen, snow-covered realm created as a refuge for forlorn and lost souls.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0018",
+   "text": "The Dreg Heap is a chaotic landscape where entire collapsed worlds and eras, including fragments of Lothric Castle and Anor Londo, have physically piled atop one another.",
+   "entity_ids": [
+    "n0019"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0019",
+   "text": "In this far future wasteland, the sun appears as a dark, bleeding dark sign providing light without warmth.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0020",
+   "text": "Once Filianore's egg crumbles, the illusion sustaining the Ringed City vanishes entirely, revealing the true future wasteland beneath it.",
+   "entity_ids": [
+    "n0024",
+    "n0034"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0021",
+   "text": "The Lords of Cinder are heroes who previously linked the fire and had their souls fused with it, to be called upon again when the flame fades.",
+   "entity_ids": [
+    "n0016",
+    "n0042"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0022",
+   "text": "The Unkindled are undead who previously attempted to link the fire and failed because their souls were too weak.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0023",
+   "text": "From the Undead Settlement, one path leads to the Cathedral of the Deep and another leads through swamps to Farron Keep, home of the Abyss Watchers.",
+   "entity_ids": [
+    "n0009",
+    "n0017",
+    "n0020",
+    "n0052"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0024",
+   "text": "The Deep is an ancient, stagnant corrupting force connected to the Abyss that lurks beneath reality and gradually seduced the priests of the Cathedral of the Deep.",
+   "entity_ids": [
+    "n0017",
+    "n0054"
+   ],
+   "category": "world",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0025",
+   "text": "The repeating cycle of the Age of Fire fading and being relinked became progressively weaker, with each linking buying less time than the last.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0026",
+   "text": "The Painted World operates on a cycle where it rots over time and must eventually be burned away and repainted to renew itself, but Friede has stopped this cycle by keeping the painting alive through Ariandel's suffering.",
+   "entity_ids": [
+    "n0003",
+    "n0115"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0027",
+   "text": "The Kiln of the First Flame is the original place where Lord Gwyn first became a Lord of Cinder, sacrificing himself by splitting his Lord Soul among trusted servants and Seath before walking into the dying flame as kindling.",
+   "entity_ids": [
+    "n0005",
+    "n0051",
+    "n0111"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0028",
+   "text": "Lord Gwyn sent those whose dark souls he feared most—the Pygmy Lords, descendants of the Furtive Pygmy who claimed the Dark Soul at the dawn of disparity—to the Ringed City, which he built to serve as both prison and sanctuary.",
+   "entity_ids": [
+    "n0005",
+    "n0024",
+    "n0031",
+    "n0036",
+    "n0047"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0029",
+   "text": "The four Lord Soul-bearers waged war against the everlasting dragons, with Gwyn using lightning to shear stone scales from the dragons.",
+   "entity_ids": [
+    "n0005",
+    "n0082"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0030",
+   "text": "The Witch of Izalith used firestorms and Nito unleashed death itself against the dragons during the war.",
+   "entity_ids": [
+    "n0015",
+    "n0082",
+    "n0104"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0031",
+   "text": "Seath the Scaleless, a dragon born without scales and an outcast among his kind, betrayed the dragons by teaching the gods how to kill immortal dragons.",
+   "entity_ids": [
+    "n0082",
+    "n0111"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0032",
+   "text": "The gods won the war against the dragons, ending the Age of Ancients and beginning the Age of Fire.",
+   "entity_ids": [
+    "n0082"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0033",
+   "text": "Gwyn sent his youngest daughter Filianore to the Ringed City to watch over the Pygmies, a gesture that primarily served to keep the darkness locked away; she held a mysterious egg whose seal kept the Ringed City separate from the rest of the world, guarded by the Ringed Knights.",
+   "entity_ids": [
+    "n0005",
+    "n0024",
+    "n0034"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0034",
+   "text": "The Four Kings of New Londo received a fragment of Gwyn's Lord Soul for building a great underground civilization, a gift that later caused their downfall when the Abyss consumed New Londo.",
+   "entity_ids": [
+    "n0085",
+    "n0103"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 4,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0035",
+   "text": "Anor Londo was once the legendary city of the gods where Lord Gwyn ruled during the Age of Fire, but the gods have long since abandoned it.",
+   "entity_ids": [
+    "n0005",
+    "n0029"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0036",
+   "text": "Gwyn's sacrifice in linking the First Flame created the Dark Sign, a curse marking certain humans as undead who resurrect at bonfires after death instead of dying permanently.",
+   "entity_ids": [
+    "n0005",
+    "n0074"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0037",
+   "text": "Gwyn's firstborn son was a god of war who fought alongside Gwyn against the everlasting dragons, wielding lightning spears capable of piercing dragon scales.",
+   "entity_ids": [
+    "n0005",
+    "n0037"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0038",
+   "text": "Afflicted undead were gathered and locked away in remote asylums by the gods, who feared them.",
+   "entity_ids": [
+    "n0117"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0039",
+   "text": "Gwyn's firstborn son was exiled, stripped of his deific status, and had his name erased from all records after betraying Gwyn by allying with the everlasting dragons, becoming known only as the Nameless King.",
+   "entity_ids": [
+    "n0005",
+    "n0037"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0040",
+   "text": "The Abyss Watchers partook of the wolf essence of Artorias, an ancient knight who had battled the abyss long ago, binding them into sharing a single soul.",
+   "entity_ids": [
+    "n0009",
+    "n0058"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0041",
+   "text": "After his exile, the Nameless King allied with storm drakes, descendants of the ancient dragons, and tamed one known as the King of the Storm.",
+   "entity_ids": [
+    "n0037",
+    "n0097"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0042",
+   "text": "Irithyll of the Boreal Valley was once protected by the old gods ruling from Anor Londo, with Gwyndolin as the last active deity maintaining order.",
+   "entity_ids": [
+    "n0023",
+    "n0029",
+    "n0039"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0043",
+   "text": "The catacombs of Carthus lie beneath Farron Keep and are the remains of the fallen kingdom of Carthus, once famous for warriors and pyromancers.",
+   "entity_ids": [
+    "n0064"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0044",
+   "text": "Highlord Wolnir was once the conqueror of Carthus who sought more power from the Abyss, which slowly consumed him.",
+   "entity_ids": [
+    "n0064",
+    "n0091"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0045",
+   "text": "Yhorm the Giant was descended from an ancient conqueror whose lineage predated the current crisis by generations.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0046",
+   "text": "Ludleth of Courland had linked the first flame once before of his own free will, prior to the events of the game.",
+   "entity_ids": [
+    "n0043"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0047",
+   "text": "The Cathedral of the Deep was formerly a holy site of the Way of White religion; its priests originally performed holy rites and used flame to seal and purify the corruption known as the Deep before eventually succumbing to its influence.",
+   "entity_ids": [
+    "n0017",
+    "n0028",
+    "n0054"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 25,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0048",
+   "text": "The Deep gradually corrupted the clergy of the Cathedral, who abandoned the Way of White and began worshipping the darkness instead.",
+   "entity_ids": [
+    "n0017",
+    "n0028",
+    "n0054"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0049",
+   "text": "The kingdom of Lothric was built around a prophecy and generations of bloodline management meant to produce a prince who would link the flame.",
+   "entity_ids": [
+    "n0002",
+    "n0013"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0050",
+   "text": "Before becoming a Lord of Cinder, Aldrich was a cleric with an uncontrollable hunger for human flesh, and Pontiff Sulyvahn exiled him to the Cathedral of the Deep to contain the problem.",
+   "entity_ids": [
+    "n0004",
+    "n0007",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 33,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0051",
+   "text": "Aldrich was interred within the Cathedral of the Deep before becoming a Lord of Cinder, and his presence there accelerated the Deep's corruption and transformation of the clergy.",
+   "entity_ids": [
+    "n0004",
+    "n0017",
+    "n0054"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0052",
+   "text": "A curse combined with the interference of unscrupulous court sorcerers caused the eruption of the Profaned Flame in Yhorm's capital.",
+   "entity_ids": [
+    "n0045",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0053",
+   "text": "The priests who tended Aldrich's resting place began venerating him as the Saint of the Deep.",
+   "entity_ids": [
+    "n0004",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0054",
+   "text": "The Cathedral of the Deep imprisoned Aldrich but could not execute him due to his immense power, so they forced him to become a Lord of Cinder as a means of control.",
+   "entity_ids": [
+    "n0004",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0055",
+   "text": "The Profaned Flame destroyed every human being in the Profaned Capital, while Yhorm the Giant survived because giants were hardier than humans.",
+   "entity_ids": [
+    "n0008",
+    "n0045",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0056",
+   "text": "The Abyss Watchers linked the First Flame together as one legion, their combined strength sufficient to kindle it, becoming Lords of Cinder through their shared soul.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0057",
+   "text": "In grief over his people's destruction, Yhorm the Giant chose to link the first flame, hoping the power gained would protect his people and subdue the Profaned Flame.",
+   "entity_ids": [
+    "n0008",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0058",
+   "text": "In Drangleic, King Vendrick sought to break the curse of the undead and end the cycle, but failed and eventually went hollow, wandering his own kingdom's crypts.",
+   "entity_ids": [
+    "n0080",
+    "n0096"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0059",
+   "text": "Lorian's greatest triumph was defeating the Demon Prince, one of the last remnants of the chaos demons born from the Witch of Izalith's failed attempt to recreate the first flame.",
+   "entity_ids": [
+    "n0006",
+    "n0011",
+    "n0015"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0060",
+   "text": "While burning within the first flame after being forced to link it, Aldrich experienced visions of an age of the deep sea and decided to embrace the Deep as its champion.",
+   "entity_ids": [
+    "n0004",
+    "n0054"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0061",
+   "text": "Yhorm the Giant became a Lord of Cinder by linking the first flame, but the Profaned Flame continued to rain down and devastate his capital regardless, destroying his people anyway.",
+   "entity_ids": [
+    "n0008",
+    "n0045",
+    "n0046"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0062",
+   "text": "After linking the flame, the Abyss Watchers' shared essence began to dry up and the abyss started corrupting their fortress and ranks; consumed by infighting, they forgot their duty afterward.",
+   "entity_ids": [
+    "n0009",
+    "n0020"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0063",
+   "text": "An unnamed mentor encouraged Prince Lothric to question the necessity of the endless cycle of sacrifice, fueling his decision to reject the flame.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0064",
+   "text": "The Road of Sacrifices was historically used to march condemned undead to the Cathedral of the Deep as food for Aldrich.",
+   "entity_ids": [
+    "n0004",
+    "n0017",
+    "n0110"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0065",
+   "text": "Pontiff Sulyvahn weakened and imprisoned Gwyndolin by unclear means, removing the last obstacle to his rule, then declared himself Pontiff of Irithyll, holding Gwyndolin captive in the Cathedral of Anor Londo.",
+   "entity_ids": [
+    "n0007",
+    "n0023",
+    "n0029"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0066",
+   "text": "Lorian willingly took on part of Prince Lothric's curse to share his burden, losing his own legs and voice as the price.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0067",
+   "text": "Vordt of the Boreal Valley was once an Outrider Knight of Irithyll serving under Pontiff Sulyvahn.",
+   "entity_ids": [
+    "n0007",
+    "n0027"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0068",
+   "text": "Prince Lothric and Prince Lorian, though expected to sacrifice themselves to link the First Flame, refused to do so, choosing to let the Age of Fire die rather than sacrifice themselves for a few more years, and retreated to the highest chamber of Lothric Castle, triggering the crisis.",
+   "entity_ids": [
+    "n0002",
+    "n0006",
+    "n0013",
+    "n0016"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 57,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0069",
+   "text": "In response to Lothric and Lorian's joint refusal to link the flame, the emergency bells tolled, summoning the old Lords of Cinder from their graves instead of new champions.",
+   "entity_ids": [
+    "n0002",
+    "n0006",
+    "n0042"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0070",
+   "text": "Four Lords of Cinder rose from death: Lothric of Carim, Aldrich Saint of the Deep, the Abyss Watchers, and Yhorm the Giant.",
+   "entity_ids": [
+    "n0004",
+    "n0008",
+    "n0009",
+    "n0101"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 58,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0071",
+   "text": "When even the proven Lords of Cinder refused to link the flame, the bells tolled once more, summoning the Unkindled, failed undead champions who had never become proper cinder.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 59,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0072",
+   "text": "Iudex Gundyr was once a champion who sought to link the fire but arrived too late, as it had already been linked by another.",
+   "entity_ids": [
+    "n0040"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0073",
+   "text": "By the time Aldrich rose and left for Irithyll, the Cathedral of the Deep had already fully fallen to corruption.",
+   "entity_ids": [
+    "n0004",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0074",
+   "text": "Aldrich's coffin behind the altar of the Cathedral of the Deep is found empty, since he departed for Irithyll immediately after rising.",
+   "entity_ids": [
+    "n0004",
+    "n0017"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0075",
+   "text": "The Dancer of the Boreal Valley was, like Vordt, once an Irithyllian Outrider Knight of old royal lineage before being transformed by Sulyvahn's cursed eye rings.",
+   "entity_ids": [
+    "n0007",
+    "n0027",
+    "n0030"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0076",
+   "text": "After Aldrich was resurrected as a Lord of Cinder and returned with greater power, Pontiff Sulyvahn, rather than opposing him, facilitated his march on Irithyll and capture of Anor Londo, striking a deal to offer him the imprisoned Gwyndolin to feast on in exchange for leaving Irithyll alone.",
+   "entity_ids": [
+    "n0004",
+    "n0007",
+    "n0023",
+    "n0029",
+    "n0039"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0077",
+   "text": "After the emergency bell tolled, Aldrich journeyed to Anor Londo to consume the imprisoned god Gwyndolin, slowly devouring him over what must have been an agonizing period.",
+   "entity_ids": [
+    "n0004",
+    "n0023",
+    "n0029"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 63,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0078",
+   "text": "When the Abyss Watchers were resurrected by the tolling bell, some had resisted abyssal corruption while others succumbed, leading the order into civil war with itself.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 65,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0079",
+   "text": "After defeating Aldrich, two Lords of Cinder (the Abyss Watchers and Aldrich) have fallen, leaving Yhorm the Giant and Prince Lothric unaccounted for.",
+   "entity_ids": [
+    "n0002",
+    "n0004",
+    "n0008",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 66,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0080",
+   "text": "Gael asks the Ashen One to enter the painting and reignite flame in the Painted World of Ariandel, a world that has forgotten fire, hoping two bearers of ash fulfill a prophecy of renewal.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0014"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0081",
+   "text": "When the Lords of Cinder were resurrected by the tolling of the emergency bell, Yhorm the Giant returned to find his capital unchanged, still in ruins.",
+   "entity_ids": [
+    "n0008",
+    "n0045"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0082",
+   "text": "Lothric's refusal to link the fire caused the First Flame to begin fading rapidly.",
+   "entity_ids": [
+    "n0002",
+    "n0016"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 86,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0083",
+   "text": "The Ashen One claims the cinders of Lothric, completing the set of four hunted Lords of Cinder: the Abyss Watchers, Aldrich, Yhorm, and Lothric.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0004",
+    "n0008",
+    "n0009"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 86,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0084",
+   "text": "After being resurrected, most of the Lords of Cinder remembered the pain of linking the fire and refused to return to their thrones; of the four raised, all except Lothric of Carim abandoned their thrones and refused to link the flame again.",
+   "entity_ids": [
+    "n0042",
+    "n0101"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0085",
+   "text": "The player's character is an Unkindled who rises from a grave in the Cemetery of Ash at the start of the game.",
+   "entity_ids": [
+    "n0001",
+    "n0018"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0086",
+   "text": "The Evangelists send captured undead from the Undead Settlement to the Cathedral of the Deep as food for Aldrich.",
+   "entity_ids": [
+    "n0004",
+    "n0017",
+    "n0052",
+    "n0081"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0087",
+   "text": "The cinders of a lord found within Aldrich's remains proved he had once linked the first flame.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0088",
+   "text": "Sister Frieda convinced Father Ariandel to use a bowl of his own blood to suppress the cleansing flame, allowing the painted world to rot rather than be renewed.",
+   "entity_ids": [
+    "n0003",
+    "n0114"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0089",
+   "text": "After three Lords of Cinder (Abyss Watchers, Aldrich, Yhorm) were defeated, only Prince Lothric remained unaccounted for.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0090",
+   "text": "Slave Knight Gael continues his search for the Dark Soul of Man pigment beyond the painting, eventually traveling to the Ringed City.",
+   "entity_ids": [
+    "n0014",
+    "n0024",
+    "n0075"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0091",
+   "text": "Gael's mission was to find the Pygmy Lords and claim the Dark Soul within them to bring its pigment to the Painter so she could create a new world.",
+   "entity_ids": [
+    "n0014",
+    "n0031",
+    "n0047",
+    "n0105"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0092",
+   "text": "Because the Pygmy Lords' blood had dried into dust, Gael slaughtered them and devoured their dried blood in an attempt to extract the Dark Soul's pigment.",
+   "entity_ids": [
+    "n0014",
+    "n0031",
+    "n0047"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 98,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0093",
+   "text": "Gwyn's firstborn son founded the Warriors of Sunlight, a covenant dedicated to cooperation and mutual aid, and trained Ornstein, who became his first knight.",
+   "entity_ids": [
+    "n0033",
+    "n0037",
+    "n0119"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 6,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0094",
+   "text": "The Ringed Knights are warriors who once served Gwyn's firstborn son before he was exiled and erased from history.",
+   "entity_ids": [
+    "n0037",
+    "n0109"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 12,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0095",
+   "text": "Sulyvahn joined the Dark Moon Blades, a covenant dedicated to protecting Gwyndolin, rising through the ranks while planning betrayal.",
+   "entity_ids": [
+    "n0007",
+    "n0023",
+    "n0073"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 33,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0096",
+   "text": "Sulyvahn created the Outrider Knights, warriors wearing rings that grant power while slowly transforming them into beasts and eroding their sanity.",
+   "entity_ids": [
+    "n0007",
+    "n0044"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0097",
+   "text": "Pontiff Sulyvahn stationed the Dancer of the Boreal Valley and a division of Outrider Knights in Lothric, with Vordt guarding the High Wall of Lothric and the Dancer guarding Lothric Castle, to sow chaos and guard against interference with his plans.",
+   "entity_ids": [
+    "n0007",
+    "n0013",
+    "n0027",
+    "n0030",
+    "n0044"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 36,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0098",
+   "text": "Archdeacon McDonnell and other Cathedral of the Deep leaders became corrupted by Aldrich's prophetic vision, turning the cathedral into a temple dedicated to him.",
+   "entity_ids": [
+    "n0004",
+    "n0017",
+    "n0057"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 37,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0099",
+   "text": "The Abyss Watchers were an elite order of Undead warriors who modeled themselves after Artorias, dedicating themselves to destroying the Abyss wherever it appeared.",
+   "entity_ids": [
+    "n0009",
+    "n0059"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0100",
+   "text": "The Corvian Knights serve Sister Frieda and hunt down and kill any refugees who pray for the cleansing flame's return.",
+   "entity_ids": [
+    "n0068",
+    "n0114"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0101",
+   "text": "Evangelists are clergy women from the Cathedral of the Deep who torment and harvest the undead in the Undead Settlement.",
+   "entity_ids": [
+    "n0017",
+    "n0052",
+    "n0081"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0102",
+   "text": "Ringed Knights are branded with rings of fire meant to seal the darkness within them.",
+   "entity_ids": [
+    "n0109"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0103",
+   "text": "The Way of White is a religious order dedicated to preserving the Age of Fire, teaching that linking the flame is a sacred, noble sacrifice.",
+   "entity_ids": [
+    "n0028"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0104",
+   "text": "The Dark Wraiths serve Darkstalker Kaathe and believe the Age of Dark is humanity's birthright, stolen by Gwyn's fear and pride.",
+   "entity_ids": [
+    "n0076",
+    "n0077"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0105",
+   "text": "The Sable Church of Londor, represented at Firelink Shrine by Yuria after Yoel's death, seeks to usurp the First Flame's power for humanity's own use rather than letting it die, a plan it has long pursued.",
+   "entity_ids": [
+    "n0025",
+    "n0053"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0106",
+   "text": "Nito, called the first of the dead, claimed a Lord Soul that gave him dominion over death.",
+   "entity_ids": [
+    "n0104"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0107",
+   "text": "The Witch of Izalith found the Soul of Life, becoming mother to the Flame Sorcerers and eventually the Daughters of Chaos.",
+   "entity_ids": [
+    "n0015"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0108",
+   "text": "Gwyn seized a Lord Soul of great brilliance that granted him power over lightning, becoming Lord of Sunlight.",
+   "entity_ids": [
+    "n0005"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0109",
+   "text": "The Furtive Pygmy found the fourth Lord Soul, the Dark Soul, a being so insignificant that history rarely mentions them.",
+   "entity_ids": [
+    "n0031",
+    "n0036"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 1,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0110",
+   "text": "Gwyn had three children: a firstborn son whose name was struck from history, Gwynevere, and Gwyndolin.",
+   "entity_ids": [
+    "n0005",
+    "n0023",
+    "n0086",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0111",
+   "text": "Gwynevere was called the Princess of Sunlight and was beloved and radiant.",
+   "entity_ids": [
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0112",
+   "text": "Gwyndolin was born a son but raised as a daughter, possessing an affinity for the moon rather than his father's sunlight.",
+   "entity_ids": [
+    "n0023"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0113",
+   "text": "Gwyn commanded four legendary knights: Dragon Slayer Ornstein, Hawkeye Gough, Lord's Blade Ciaran, and Artorias of the Abyss.",
+   "entity_ids": [
+    "n0005",
+    "n0033",
+    "n0059",
+    "n0090",
+    "n0100"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0114",
+   "text": "Dragon Slayer Ornstein had served under Gwyn's firstborn son during the war against the dragons.",
+   "entity_ids": [
+    "n0033",
+    "n0086"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0115",
+   "text": "Artorias of the Abyss walked alongside a great wolf companion named Sif.",
+   "entity_ids": [
+    "n0059",
+    "n0112"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0116",
+   "text": "Gwyn rewarded Seath for his betrayal of the dragons by naming him a duke, giving him a fragment of his own Lord Soul, and granting him the archives to research immortality.",
+   "entity_ids": [
+    "n0005",
+    "n0111"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0117",
+   "text": "Seath eventually went mad in his research, creating abominations out of jealousy over scaled dragons.",
+   "entity_ids": [
+    "n0111"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 4,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0118",
+   "text": "After Gwyn's death, Gwynevere left Anor Londo, presumably with her husband, the flame god Flann.",
+   "entity_ids": [
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0119",
+   "text": "Gwyndolin remained in Anor Londo, maintaining an illusion of Gwynevere's presence to keep humanity's hope and continue his father's mission of perpetuating the Age of Fire.",
+   "entity_ids": [
+    "n0005",
+    "n0023",
+    "n0087"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0120",
+   "text": "Yhorm the Giant ruled as king over a population of humans in the Profaned Capital, genuinely loving his people and trying to protect and stabilize them despite his massive size compared to them and their fear of giants.",
+   "entity_ids": [
+    "n0008",
+    "n0045"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0121",
+   "text": "Pontiff Sulyvahn was born in the Painted World of Ariandel, a realm accessible only through a scrap of canvas, meant to be a gentle refuge.",
+   "entity_ids": [
+    "n0003",
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0122",
+   "text": "Sulyvahn's sorcery description states he had little use for his frigid homeland since he had not yet experienced loss, suggesting an innate coldness.",
+   "entity_ids": [
+    "n0007"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0123",
+   "text": "As a young sorcerer, Sulyvahn left the Painted World and discovered the Profaned Capital and its unfading Profaned Flame, which ignited a burning ambition in him.",
+   "entity_ids": [
+    "n0007",
+    "n0045",
+    "n0046"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 31,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0124",
+   "text": "Sulyvahn traveled to Irithyll of the Boreal Valley, a once-glorious city of moon-worshipping sorcerers connected to Gwyndolin and the old gods.",
+   "entity_ids": [
+    "n0007",
+    "n0023",
+    "n0039"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 32,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0125",
+   "text": "Aldrich was originally a cleric who developed a taste for human flesh, becoming a bloated mass of sludge and darkness after consuming many people.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0126",
+   "text": "Aldrich believed an Age of the Deep Sea was coming and decided to accelerate its arrival by devouring gods to hasten the end of the Age of Fire.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0127",
+   "text": "Before linking the flame, Yhorm the Giant gave one Storm Ruler to his trusted friend, Siegward of Catarina, with instructions to use it against him if he ever returned as a threat.",
+   "entity_ids": [
+    "n0008",
+    "n0048",
+    "n0050"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0128",
+   "text": "Dragon Slayer Ornstein eventually left Anor Londo in search of the Nameless King, Gwyn's disgraced firstborn son.",
+   "entity_ids": [
+    "n0033",
+    "n0086"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0129",
+   "text": "Lothric was educated by the finest scholars in the Grand Archives, possibly including Pontiff Sulyvahn, who taught him doubts about the necessity of linking the flame.",
+   "entity_ids": [
+    "n0002",
+    "n0007",
+    "n0022"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0130",
+   "text": "Pontiff Sulyvahn crowned himself ruler of Irithyll of the Boreal Valley through force and cunning, wielding two enchanted greatswords imbued with fire and ghostly magic.",
+   "entity_ids": [
+    "n0007",
+    "n0039"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0131",
+   "text": "Lorian supported Prince Lothric's decision to reject the flame and followed him into isolation in the tower.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0132",
+   "text": "Prince Lothric, called the last hope of his line, was the culmination of generations of bloodline refinement, born frail but possessing tremendous magical power.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0133",
+   "text": "Prince Lothric's older brother Lorian was once the kingdom's greatest champion who slew the Demon Prince.",
+   "entity_ids": [
+    "n0002",
+    "n0006",
+    "n0011"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0134",
+   "text": "Lorian's victory over the Demon Prince left his great sword wreathed in flame, but the demon's curse crippled his legs and left him mute, leaving him unable to walk.",
+   "entity_ids": [
+    "n0006",
+    "n0011"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0135",
+   "text": "Lorian chose to share his younger brother Lothric's frailty curse through magic or a soul bond so Lothric would not bear it alone, and the two became inseparable, with Lorian carrying Lothric on his back while Lothric guided him with magic and strategy.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 56,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0136",
+   "text": "Lothric of Carim, also called Lleth, linked the flame and became a Lord of Cinder despite being a pygmy naturally aligned with darkness.",
+   "entity_ids": [
+    "n0101"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0137",
+   "text": "Aldrich earned the title of Lord of Cinder through sheer power despite never intending to serve the flame.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0138",
+   "text": "Yhorm the Giant linked the flame for a specific reason and was horrified to be awakened and asked to do it again.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0139",
+   "text": "The Ashen One is one such Unkindled, awakening in the Cemetery of Ash where they previously failed and died in a past age.",
+   "entity_ids": [
+    "n0001",
+    "n0018"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0140",
+   "text": "Lothric of Carim is the only Lord of Cinder who sits willingly on his throne at Firelink Shrine without being hunted down.",
+   "entity_ids": [
+    "n0012",
+    "n0101"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0141",
+   "text": "Lothric of Carim has had his legs cut off, possibly as punishment, sacrifice, or to prevent him from walking away like the other Lords of Cinder.",
+   "entity_ids": [
+    "n0101"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0142",
+   "text": "Lothric of Carim genuinely believes the Age of Fire must continue and fears the darkness and hollowing that would follow its end.",
+   "entity_ids": [
+    "n0101"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0143",
+   "text": "Upon being raised again as a Lord of Cinder, Yhorm returned to his own throne room in the ruined Profaned Capital rather than Firelink Shrine, waiting for Siegward to fulfill his promise and end him.",
+   "entity_ids": [
+    "n0008",
+    "n0045",
+    "n0048"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0144",
+   "text": "Lothric is the true target of the fight because he is the actual Lord of Cinder, while Lorian serves mainly as a weapon and distraction.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0145",
+   "text": "As Lothric dies, he remarks that his refusal of duty was unfair, acknowledging that he merely passed his burden to the Ashen One instead of avoiding it.",
+   "entity_ids": [
+    "n0001",
+    "n0002"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0146",
+   "text": "Ludleth of Courland is the only Lord of Cinder who willingly returned to his throne at Firelink Shrine after being resurrected.",
+   "entity_ids": [
+    "n0012",
+    "n0043"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0147",
+   "text": "Ludleth of Courland, who had remained seated on the fifth throne throughout the story, turns to ash once the other four thrones are filled, completing the set of five Lords of Cinder.",
+   "entity_ids": [
+    "n0012",
+    "n0043"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0148",
+   "text": "The Firekeeper declares the Ashen One the true heir of the Lords of Cinder, not merely a substitute for them.",
+   "entity_ids": [
+    "n0001",
+    "n0021"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0149",
+   "text": "Slave Knight Gael never aspired to be a hero and knew he wasn't strong enough to save the world, but tried anyway because someone he cared about needed help.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0150",
+   "text": "The Ashen One found a sword belonging to Anri of Astora among the ruins near Aldrich, suggesting Anri had tried to confront Aldrich before the Ashen One arrived.",
+   "entity_ids": [
+    "n0004",
+    "n0010"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0151",
+   "text": "Slave Knight Gael's journey took him through vast ages and impossible battles, all the way to the end of time itself.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0152",
+   "text": "At the Halfway Fortress on the Road of Sacrifices, the Ashen One meets Anri of Astora and the silent warrior Horace the Hushed.",
+   "entity_ids": [
+    "n0001",
+    "n0010",
+    "n0089",
+    "n0093"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0153",
+   "text": "Anri of Astora is also hunting the Lords of Cinder, like the Ashen One.",
+   "entity_ids": [
+    "n0001",
+    "n0010",
+    "n0042"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0154",
+   "text": "Anri of Astora and Horace the Hushed are specifically seeking to kill Aldrich, whom Anri calls a man-eating fiend, for his crimes.",
+   "entity_ids": [
+    "n0004",
+    "n0010",
+    "n0093"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0155",
+   "text": "Slave Knight Gael approaches the Ashen One in the Cathedral of the Deep carrying a fragment of a painting that serves as a doorway to another world.",
+   "entity_ids": [
+    "n0001",
+    "n0014"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0156",
+   "text": "Sister Frieda (Friede) was once an Ashen One who sought to link the first flame but failed and fled into the Painted World of Ariandel instead of continuing to try.",
+   "entity_ids": [
+    "n0114"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0157",
+   "text": "Sister Frieda is the eldest sister of the Sable Church of Londor and is the sibling of Yuria of Londor.",
+   "entity_ids": [
+    "n0025",
+    "n0053",
+    "n0114"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0158",
+   "text": "Father Ariandel is a giant, corrupted crow-like guardian who sheltered Sister Frieda within the painted world.",
+   "entity_ids": [
+    "n0003",
+    "n0114"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0159",
+   "text": "Sister Frieda imprisons the Painter, a young girl with the power to paint new worlds, in an attic to prevent her from creating a replacement realm.",
+   "entity_ids": [
+    "n0026",
+    "n0114"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0160",
+   "text": "High Priestess Emma, dying at the altar in the chapel, delivered her final message to the Ashen One, urging them to make Prince Lothric become a lord and save the world.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0038"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0161",
+   "text": "High Priestess Emma died immediately after giving the Ashen One the Basin of Vows and her final message.",
+   "entity_ids": [
+    "n0038"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0162",
+   "text": "The Painter decides to name the new world she will eventually create simply \"Ash.\"",
+   "entity_ids": [
+    "n0026"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0163",
+   "text": "In the end, Slave Knight Gael was corrupted and transformed into the very type of monster he had fought for so long to prevent.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0164",
+   "text": "Because of Slave Knight Gael's persistence through madness and corruption, the painter received the pigment she needed.",
+   "entity_ids": [
+    "n0014",
+    "n0026"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0165",
+   "text": "The Painter recognizes the dark soul-veined blood as Uncle Gael's final gift to her, though she does not ask what became of him.",
+   "entity_ids": [
+    "n0014",
+    "n0105"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0166",
+   "text": "In the Ashen Wasteland, Slave Knight Gael is found covered in blood among the desiccated Pygmy Lords, having drunk their dried blood in a mad attempt to gather fragments of the dark soul for the Painter's pigment.",
+   "entity_ids": [
+    "n0014",
+    "n0047"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0167",
+   "text": "The Fire Keeper tends the flame at Firelink Shrine, maintaining the connection to the First Flame and allowing bonfires to function.",
+   "entity_ids": [
+    "n0012",
+    "n0016",
+    "n0021"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0168",
+   "text": "Ludleth of Courland is frail and unable to walk or fight due to the toll of having linked the fire previously.",
+   "entity_ids": [
+    "n0043"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0169",
+   "text": "High Priestess Emma is an elderly steward who served Prince Lothric and the royal family.",
+   "entity_ids": [
+    "n0002",
+    "n0038"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0170",
+   "text": "Prince Lothric and Prince Lorian are called the Twin Princes, though they are not literal twins.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0171",
+   "text": "Lorian is the elder brother and was once the kingdom's greatest warrior, while Lothric is the younger, frail prince born to link the flame.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0172",
+   "text": "The Painted World of Ariandel is ruled by Father Ariandel, who flagellates himself to maintain the painting, and Sister Friede, who wields a scythe and claims to protect the painting.",
+   "entity_ids": [
+    "n0003",
+    "n0115"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0173",
+   "text": "Slave Knight Gael brings the Ashen One to the Painted World and introduces them to the Painter, a girl who needs fire, the dark soul of man as pigment, and help to create a new painting.",
+   "entity_ids": [
+    "n0001",
+    "n0014",
+    "n0026"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0174",
+   "text": "The Ringed City is a sanctuary built for the Pygmies, humanity's oldest ancestors, hidden at the very end of the world.",
+   "entity_ids": [
+    "n0024",
+    "n0108"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 0,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0175",
+   "text": "Gwyn established his seat of power at Anor Londo, a city of white stone bathed in eternal sunlight.",
+   "entity_ids": [
+    "n0005",
+    "n0029"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 3,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0176",
+   "text": "Filianore's Rest is a sanctum at the heart of the Ringed City where Filianore has slept for ages since her father placed her there.",
+   "entity_ids": [
+    "n0005",
+    "n0034",
+    "n0083"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0177",
+   "text": "Archdragon Peak is accessible only through meditation and a specific gesture, and is home to the Dragon Covenant, a sanctuary created by the Nameless King for those who wished to follow the dragons and transcend humanity to become dragons.",
+   "entity_ids": [
+    "n0037",
+    "n0056"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 10,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0178",
+   "text": "Farron Keep is a poisonous swamp region that acts as a natural barrier protecting the fortress and headquarters of the Undead Legion, the Abyss Watchers, and was once something greater.",
+   "entity_ids": [
+    "n0009",
+    "n0020"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0179",
+   "text": "The Dreg Heap is a chaotic landscape formed from the collapsed ruins of many different eras and kingdoms piled on top of each other.",
+   "entity_ids": [
+    "n0019"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0180",
+   "text": "Fragments of Lothric Castle and pieces of Anor Londo can be found jutting from the wreckage of the Dreg Heap.",
+   "entity_ids": [
+    "n0019"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0181",
+   "text": "After the Three Pillars fell, the Ashen One ascended via lift through a garden and bridge to the highest tower where Prince Lothric and Lorian waited.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0006"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0182",
+   "text": "The ashen desert of the far future contains the thrones where Pygmy Kings once ruled, now buried in dunes of gray ash.",
+   "entity_ids": [
+    "n0047"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0183",
+   "text": "The Ringed City takes place at the literal end of time and space, where all ages of the world collapse together in the Dreg Heap.",
+   "entity_ids": [
+    "n0019",
+    "n0024"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0184",
+   "text": "Firelink Shrine contains five great thrones meant to hold the Lords of Cinder before their final sacrifice.",
+   "entity_ids": [
+    "n0012",
+    "n0042"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0185",
+   "text": "The Undead Settlement is a place where kingdoms exile cursed and afflicted undead away from normal society.",
+   "entity_ids": [
+    "n0052"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0186",
+   "text": "The Undead Settlement and Firelink Shrine became recurring way stations across the ages where undead gather before journeying to link the flame.",
+   "entity_ids": [
+    "n0012",
+    "n0052"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0187",
+   "text": "The Crucifixion Woods surrounding the Road of Sacrifices are inhabited by insane undead who ambush travelers.",
+   "entity_ids": [
+    "n0070",
+    "n0110"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0188",
+   "text": "The catacombs of Carthus feature collapsing bridges, traps, reanimated skeleton warriors that reassemble after being destroyed, and giant rolling bone wheels.",
+   "entity_ids": [
+    "n0064"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0189",
+   "text": "Deep within the catacombs of Carthus, the architecture gives way to a natural cavern filled with a physical manifestation of the Abyss.",
+   "entity_ids": [
+    "n0064"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0190",
+   "text": "Beyond the Carthus catacombs lies a passage leading to the frozen valley of Irithyll of the Boreal Valley.",
+   "entity_ids": [
+    "n0039",
+    "n0064"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0191",
+   "text": "Irithyll of the Boreal Valley is a frozen city with silver spires, patrolled by Pontiff Knights and Outriders.",
+   "entity_ids": [
+    "n0039",
+    "n0044",
+    "n0107"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0192",
+   "text": "The Irithyll Dungeon is a network of cells and torture chambers beneath Irithyll where Pontiff Sulyvahn's regime imprisoned and disposed of threats to its authority.",
+   "entity_ids": [
+    "n0007",
+    "n0094"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0193",
+   "text": "The Profaned Capital is a ruined city covered in ash, with streets sunk into poisonous swamps, once ruled by Yhorm the Giant.",
+   "entity_ids": [
+    "n0008",
+    "n0045"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0194",
+   "text": "The Grand Archives of Lothric house generations of accumulated knowledge, but the books themselves are cursed and attack intruders.",
+   "entity_ids": [
+    "n0022"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0195",
+   "text": "The Painted World of Ariandel is a realm created on canvas, meant as a refuge for outcasts, but is found rotting with a corruption resembling scarlet rot.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0196",
+   "text": "The battle with the Demon Prince scorched Lorian's greatsword, leaving it permanently wreathed in flame.",
+   "entity_ids": [
+    "n0006",
+    "n0011"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0197",
+   "text": "Before linking the flame, Yhorm gave his friend Siegward of Catarina the Storm Ruler, a great sword designed to kill giants, with instructions to use it on Yhorm if he ever went mad or hollow.",
+   "entity_ids": [
+    "n0008",
+    "n0048",
+    "n0050"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 41,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0198",
+   "text": "Pontiff Sulyvahn gave his Outrider Knights cursed rings that gradually transformed them into beasts.",
+   "entity_ids": [
+    "n0007",
+    "n0027"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 55,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0199",
+   "text": "Pontiff Sulyvahn gave Aldrich a doll to ensure his safe passage through Irithyll's barriers to reach Anor Londo.",
+   "entity_ids": [
+    "n0004",
+    "n0007",
+    "n0029"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0200",
+   "text": "A coiled sword is lodged in Iudex Gundyr's chest, pinning him in place until it is removed.",
+   "entity_ids": [
+    "n0040"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0201",
+   "text": "Filianore holds an ancient cracked egg in her arms while she sleeps, which serves as the key to the illusions sustaining the Ringed City.",
+   "entity_ids": [
+    "n0024",
+    "n0034"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0202",
+   "text": "High Priestess Emma gives the Ashen One the title of Lord Seeker and the Small Lothric Banner, which grants passage to the Undead Settlement.",
+   "entity_ids": [
+    "n0001",
+    "n0038",
+    "n0052"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0203",
+   "text": "The Transposing Kiln, needed by Ludleth of Courland to reshape boss souls, is found hidden within the remains of the Cursed Greatwood.",
+   "entity_ids": [
+    "n0043",
+    "n0051",
+    "n0072"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0204",
+   "text": "Among Aldrich's remains lay a cleric's staff, hinting at his origins before becoming a monster.",
+   "entity_ids": [
+    "n0004"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0205",
+   "text": "High Priestess Emma gave the Ashen One the Basin of Vows, an artifact needed to access Lothric Castle.",
+   "entity_ids": [
+    "n0001",
+    "n0013",
+    "n0038",
+    "n0062"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0206",
+   "text": "The Ashen One frees the Painter, who reveals she needs a special pigment, the Dark Soul of Man, from her uncle Gael before she can paint a new world.",
+   "entity_ids": [
+    "n0001",
+    "n0014",
+    "n0026",
+    "n0075"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0207",
+   "text": "After Gael's death, his blood pools around his fallen body, glowing with the power of the Dark Soul that has shaped humanity since the Furtive Pygmy first claimed it; the Ashen One collects this Dark Soul-infused blood, marking the end of Gael's quest.",
+   "entity_ids": [
+    "n0001",
+    "n0014",
+    "n0031",
+    "n0036"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0208",
+   "text": "Among the remains of the Deacons of the Deep, the Ashen One finds a small doll that serves as the key to unlock the barrier protecting Irithyll.",
+   "entity_ids": [
+    "n0001",
+    "n0039",
+    "n0116"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0209",
+   "text": "Defeating the empowered Abyss Watcher yields Cinders of a Lord, one of the four Lord of Cinder souls needed to fill the thrones at Firelink Shrine.",
+   "entity_ids": [
+    "n0009",
+    "n0066"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0210",
+   "text": "Yhorm the Giant possessed two identical Storm Ruler greatswords capable of channeling the power of storms.",
+   "entity_ids": [
+    "n0008",
+    "n0050"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0211",
+   "text": "Pontiff Sulyvahn wields two great swords simultaneously: the Profaned Greatsword burning with unfading flame, and the Greatsword of Judgment representing his false loyalty to the Dark Moon Blades.",
+   "entity_ids": [
+    "n0007"
+   ],
+   "category": "weapon",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0212",
+   "text": "Darkeater Midir was originally tasked with protecting the Ringed City from the abyss, but was eventually corrupted by the darkness he guarded against.",
+   "entity_ids": [
+    "n0024",
+    "n0032"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0213",
+   "text": "The Abyss Watchers were an entire legion of warriors who drank from the blood of the wolf, linking their souls into one shared entity across many bodies.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 50,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0214",
+   "text": "The Abyss Watchers eventually became corrupted by the Abyss they hunted, turning some of them against each other in an endless internal battle.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0215",
+   "text": "Lorian cannot walk and instead teleports in bursts of flame, fighting with a blazing greatsword.",
+   "entity_ids": [
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0216",
+   "text": "Lorian, the crippled elder prince, fights the Ashen One in the Lothric Castle throne room to protect his brother Lothric.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0217",
+   "text": "After Lorian collapses, Lothric climbs onto his brother's back and the two fight together as a combined being; alternatively, Lothric supports Lorian with healing and augmenting spells and revives him when he falls.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0218",
+   "text": "While bonded together, Lothric casts miracles and homing soul projectiles while Lorian presses the physical assault with his flaming sword.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0219",
+   "text": "Lorian and Lothric are ultimately both defeated and die together, their bound souls reaching their end simultaneously.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0220",
+   "text": "Iudex Gundyr serves as a sentry who tests Unkindled travelers at the end of the Cemetery of Ash.",
+   "entity_ids": [
+    "n0018",
+    "n0040"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0221",
+   "text": "The Ashen One defeats Iudex Gundyr after pulling the coiled sword from his body, which releases him from his dormant state.",
+   "entity_ids": [
+    "n0001",
+    "n0040"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0222",
+   "text": "Yhorm the Giant retreated to his throne room, sitting with his great machete across his knees, waiting without purpose.",
+   "entity_ids": [
+    "n0008"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0223",
+   "text": "The Soul of Cinder is an entity formed from the merged souls of every Lord of Cinder who has ever linked the flame, acting as the final guardian of the first flame.",
+   "entity_ids": [
+    "n0049"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0224",
+   "text": "The Soul of Cinder wields the Firelink Greatsword, a coiled blade matching the Coiled Sword the Ashen One originally pulled from Iudex Gundyr.",
+   "entity_ids": [
+    "n0040",
+    "n0049",
+    "n0067",
+    "n0084"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0225",
+   "text": "During the fight, the Soul of Cinder shifts unpredictably between combat styles, including a knight's straight sword, a sorcerer's staff, a flaming curved blade for pyromancy, and a polearm paired with miracles.",
+   "entity_ids": [
+    "n0049"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0226",
+   "text": "In its final phase, the Soul of Cinder's coiled sword bursts into golden flame and its moveset shifts to channel the fighting style of Lord Gwyn himself.",
+   "entity_ids": [
+    "n0005",
+    "n0049"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0227",
+   "text": "Gwyn's channeled moveset within the Soul of Cinder includes leaping attacks covering great distances, crackling lightning bolts, and a plunging thrust originally used to slay dragons.",
+   "entity_ids": [
+    "n0005",
+    "n0049"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0228",
+   "text": "Vordt of the Boreal Valley guards the gate beneath the High Wall of Lothric, having become a beast-like creature due to the curse.",
+   "entity_ids": [
+    "n0013",
+    "n0027"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0229",
+   "text": "The Ashen One defeats the Soul of Cinder, causing the amalgamated armor of past champions to crumble into ash.",
+   "entity_ids": [
+    "n0001",
+    "n0049"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0230",
+   "text": "The Cursed Greatwood is a massive tree in the Undead Settlement that has absorbed the curses of countless undead, worshipped by villagers as a way to remove their afflictions.",
+   "entity_ids": [
+    "n0052",
+    "n0072"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0231",
+   "text": "The Ashen One defeats the Cursed Greatwood by destroying its cursed core after falling into a hidden altar pit beneath the village plaza.",
+   "entity_ids": [
+    "n0001",
+    "n0072"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0232",
+   "text": "After Aldrich's death, his monstrous form dissolved, revealing Gwyndolin's remains had finally stopped moving inside him.",
+   "entity_ids": [
+    "n0004",
+    "n0023"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0233",
+   "text": "When the Ashen One confronted Yhorm the Giant, a Storm Ruler greatsword lay near his throne, possibly placed deliberately by Yhorm himself.",
+   "entity_ids": [
+    "n0001",
+    "n0008",
+    "n0050"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0234",
+   "text": "In some versions of the fight, Siegward of Catarina arrives to help the Ashen One defeat Yhorm the Giant, honoring his old promise.",
+   "entity_ids": [
+    "n0001",
+    "n0008",
+    "n0048"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0235",
+   "text": "The Ashen One defeated Yhorm the Giant and claimed his cinders of a lord, marking the third Lord of Cinder dealt with.",
+   "entity_ids": [
+    "n0001",
+    "n0008"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0236",
+   "text": "Sir Vilhelm is a knight loyal to Sister Frieda who guards the deeper reaches of the Painted World of Ariandel.",
+   "entity_ids": [
+    "n0003",
+    "n0113",
+    "n0114"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0237",
+   "text": "The Dancer of the Boreal Valley, one of Pontiff Sulyvahn's Outrider Knights, appeared in the chapel after Emma's death to stop the Ashen One.",
+   "entity_ids": [
+    "n0001",
+    "n0007",
+    "n0030",
+    "n0038"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0238",
+   "text": "The Ashen One defeated the Dancer of the Boreal Valley, who collapsed into black ash.",
+   "entity_ids": [
+    "n0001",
+    "n0030"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0239",
+   "text": "The Dragon Slayer Armor, an ancient relic from the age of dragon-hunting knights, is animated by pilgrim butterflies and guards the bridge to the Grand Archives.",
+   "entity_ids": [
+    "n0022",
+    "n0079",
+    "n0106"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0240",
+   "text": "The Ashen One defeated the Dragon Slayer Armor, causing it to collapse and the controlling pilgrim butterflies to scatter.",
+   "entity_ids": [
+    "n0001",
+    "n0079",
+    "n0106"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0241",
+   "text": "A surviving Crystal Sage, the sibling of the one fought in the Cathedral of the Deep's woods, appears in the Grand Archives allied with Lothric.",
+   "entity_ids": [
+    "n0071"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0242",
+   "text": "The Ashen One defeated the surviving Crystal Sage in the Grand Archives.",
+   "entity_ids": [
+    "n0001",
+    "n0071"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0243",
+   "text": "The Ashen One fights Father Ariandel and Sister Frieda across a multi-phase battle, with Ariandel reigniting the suppressed flame to revive Frieda after her first defeat; in her final phase she transforms into Black Flame Frieda, becoming faster and more aggressive, having been revived twice before being finally defeated.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0114"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0244",
+   "text": "At the top of the Grand Archives, three elite warriors called the Three Pillars of the king's rule - Lion Knight Albert, Black Hand Kamui, and Cream Hild - guard the path to Prince Lothric.",
+   "entity_ids": [
+    "n0002",
+    "n0063",
+    "n0069",
+    "n0098"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0245",
+   "text": "The Ashen One defeated the Three Pillars (Albert, Kamui, and Cream Hild) one at a time on a balcony above the Grand Archives.",
+   "entity_ids": [
+    "n0001",
+    "n0063",
+    "n0069",
+    "n0098"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0246",
+   "text": "The Demon Prince is the last of the demons born from the chaos flame that originally consumed the Witch of Izalith during her failed attempt to recreate the First Flame.",
+   "entity_ids": [
+    "n0011",
+    "n0015"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0247",
+   "text": "The Demon Prince first appears as two demons fighting together before merging into a single more powerful being after their lesser forms are defeated.",
+   "entity_ids": [
+    "n0011"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0248",
+   "text": "Prince Lothric sits on a throne, pale, sickly, and physically weak, but possesses arcane abilities.",
+   "entity_ids": [
+    "n0002"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0249",
+   "text": "Lorian is Prince Lothric's elder brother, once a renowned knight, who knelt before the throne, having lost the use of his legs and voice.",
+   "entity_ids": [
+    "n0002",
+    "n0006"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0250",
+   "text": "Defeating the Demon Prince ends the legacy of the chaos flame, ensuring no more demons can spawn from that corrupted fire.",
+   "entity_ids": [
+    "n0011",
+    "n0015"
+   ],
+   "category": "boss",
+   "status": "inferred",
+   "chrono": 96,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0251",
+   "text": "At the bottom of the Dreg Heap waits the Demon Prince, formed when two lesser demons merge into one being after being defeated.",
+   "entity_ids": [
+    "n0011",
+    "n0019"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 97,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0252",
+   "text": "In the far future wasteland, Slave Knight Gael waits among the corpses of the Pygmy Lords he has slaughtered.",
+   "entity_ids": [
+    "n0014",
+    "n0047"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0253",
+   "text": "By the time the Ashen One finds him in the future wasteland, Gael's body has grown huge, twisted, and skeletal, with his red cape in tatters.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0254",
+   "text": "A dark sign is branded onto Gael's flesh, marking him as someone who has consumed power never meant for mortal beings; consuming the Dark Soul did not strengthen him but instead broke his mind and body, as the power was too great for any being to carry.",
+   "entity_ids": [
+    "n0014",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0255",
+   "text": "Gael's wounds would not close and the blood of the Dark Soul continually dripped from them.",
+   "entity_ids": [
+    "n0014",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0256",
+   "text": "Gael greets the Ashen One by demanding their Dark Soul, beginning the final boss battle of the game, fought across the largest arena in the series.",
+   "entity_ids": [
+    "n0001",
+    "n0014",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0257",
+   "text": "Gael fights using sword combinations from his long life of battle experience and fires bolts from a repeating crossbow between sword strikes.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0258",
+   "text": "As the fight progresses, a crack opens in Gael's chest and glowing red blood infused with the Dark Soul's essence begins pouring out.",
+   "entity_ids": [
+    "n0014",
+    "n0031"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0259",
+   "text": "In his later phase, Gael gains dark blood magic attacks, including corrupted blood explosions from jumping slams and homing bolts of tracking blood.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0260",
+   "text": "The Ashen One defeats Slave Knight Gael using skills and lessons learned from every previous battle of the journey.",
+   "entity_ids": [
+    "n0001",
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0261",
+   "text": "After being defeated, Gael's monstrous form fades, leaving behind simply an old knight who sacrificed everything for an unfulfilled goal.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0262",
+   "text": "The inner sanctum of the Cathedral of the Deep is guarded by the Deacons of the Deep, a congregation led by Archdeacon Royce.",
+   "entity_ids": [
+    "n0017",
+    "n0078"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0263",
+   "text": "During the fight with the Deacons of the Deep, a red glow representing a possessing evil soul jumps between deacon bodies, and only destroying the possessed body permanently ends the threat.",
+   "entity_ids": [
+    "n0078"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0264",
+   "text": "When the possessing evil soul animating the Deacons of the Deep is destroyed, the rest of the congregation collapses lifelessly.",
+   "entity_ids": [
+    "n0078"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0265",
+   "text": "The Ashen One fights through the chaotic civil war of the Abyss Watchers in the great hall of Farron Keep.",
+   "entity_ids": [
+    "n0001",
+    "n0009",
+    "n0020"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0266",
+   "text": "After the last Abyss Watcher falls, the order's shared soul coalesces into him, and he rises again empowered with the cinder's fire as a second phase of the boss fight.",
+   "entity_ids": [
+    "n0009"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0267",
+   "text": "Highlord Wolnir's golden bracelets hold back the Abyss's corruption and are his only vulnerability in battle.",
+   "entity_ids": [
+    "n0091"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0268",
+   "text": "When all of Highlord Wolnir's bracelets are destroyed, the Abyss fully claims him and drags him down into darkness, ending his existence.",
+   "entity_ids": [
+    "n0091"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0269",
+   "text": "Pontiff Sulyvahn fights the Ashen One with twin greatswords and can summon a phantom shadow clone of himself mid-battle that mirrors his movements.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0270",
+   "text": "The Ashen One defeats Pontiff Sulyvahn, ending his tyrannical rule over Irithyll of the Boreal Valley.",
+   "entity_ids": [
+    "n0001",
+    "n0007",
+    "n0039"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0271",
+   "text": "By the time the Ashen One reaches Anor Londo, Aldrich's lower body has dissolved into a slug-like sludge mass and he wields Gwyndolin's still-animate, partially eaten torso as a weapon and puppet.",
+   "entity_ids": [
+    "n0004",
+    "n0023",
+    "n0029"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0272",
+   "text": "In the fight against Aldrich, he uses stolen abilities from Gwyndolin including soul spears and twisted miracles, plus a manifested lifehunt scythe inspired by dream-visions of a hidden pale girl.",
+   "entity_ids": [
+    "n0004",
+    "n0023"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0273",
+   "text": "Defeating Aldrich causes him to dissolve, leaving behind a cleric's staff and the Cinders of a Lord, confirming his status as a Lord of Cinder.",
+   "entity_ids": [
+    "n0004",
+    "n0066"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0274",
+   "text": "The Dancer of the Boreal Valley wields one sword burning with phantom flame and another emanating cold dark mist.",
+   "entity_ids": [
+    "n0030"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0275",
+   "text": "The Dragon Slayer Armor wields a massive great axe and shield, both crackling with lightning.",
+   "entity_ids": [
+    "n0079"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0276",
+   "text": "Lion Knight Albert fights with disciplined, precise sword and shield technique in service to the king.",
+   "entity_ids": [
+    "n0098"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0277",
+   "text": "Black Hand Kamui is a royal assassin who fights with twin blades and extreme speed.",
+   "entity_ids": [
+    "n0063"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0278",
+   "text": "Cream Hild is a sorceress who provides magical support with crystal projectiles and energy bolts.",
+   "entity_ids": [
+    "n0069"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0279",
+   "text": "The battle with Slave Knight Gael has three phases: a bestial first phase, a more human and flame-empowered second phase, and a final phase with falling red lightning.",
+   "entity_ids": [
+    "n0014"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0280",
+   "text": "Ringing the great bell at Archdragon Peak summons the Nameless King for a boss battle with two phases: first riding the King of the Storm, then fighting alone after absorbing his dragon's soul.",
+   "entity_ids": [
+    "n0037",
+    "n0056",
+    "n0097"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0281",
+   "text": "After defeating the King of the Storm, the Nameless King dismounts and absorbs his dragon companion's soul before continuing the fight alone.",
+   "entity_ids": [
+    "n0037",
+    "n0097"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0282",
+   "text": "The Ashen One battles Halflight, Spear of the Church, and the optional superboss Darkeater Midir, a dragon corrupted by the abyss he long consumed.",
+   "entity_ids": [
+    "n0032",
+    "n0088"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0283",
+   "text": "Deformed angelic spirits in the Dreg Heap attack with beams of energy and are controlled by small insects that can be targeted to stop them.",
+   "entity_ids": [
+    "n0019"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0284",
+   "text": "The Cathedral of the Deep is inhabited by undead deacons, reanimated corpses used as offerings, devourers, and madmen driven insane by the Deep.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0285",
+   "text": "Flooded crypts beneath the Cathedral of the Deep are inhabited by giant slaves, massive humanoid creatures with chains, originally brought as laborers or prisoners.",
+   "entity_ids": [
+    "n0017"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0286",
+   "text": "Lothric Castle is filled with hollowed knights who continue to fight with the discipline they had in life, despite having lost their minds.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0287",
+   "text": "Shrieking stone gargoyles that once served as architectural decorations in Lothric Castle have been animated and attack intruders from above.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0288",
+   "text": "Two ancient wyverns guard a balcony in Lothric Castle, breathing fire and blocking passage to the upper reaches.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0289",
+   "text": "Pilgrim butterflies in Lothric Castle are the corrupted remains of pilgrims who once sought the castle or its archives, now transformed into ghostly floating creatures.",
+   "entity_ids": [
+    "n0013",
+    "n0106"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0290",
+   "text": "Some knights in Lothric Castle exhibit abyssal growths on their armor, showing that the Abyss's corruption has spread into the castle.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0291",
+   "text": "Cursed wax scholars, former researchers of the Grand Archives, now attack intruders rather than pursue knowledge.",
+   "entity_ids": [
+    "n0022"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0292",
+   "text": "Living bookshelves in the Grand Archives detach from walls and attack intruders.",
+   "entity_ids": [
+    "n0022"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0293",
+   "text": "After the Twin Princes are defeated, the Ashen One places their cinders on an empty throne at Firelink Shrine, conscripting them into service as Lords of Cinder.",
+   "entity_ids": [
+    "n0001",
+    "n0006"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0294",
+   "text": "After defeating the Soul of Cinder, the Ashen One faces multiple possible endings at the dying first flame: Link the Fire, usher in the End of Fire/Age of Dark, usurp the flame to become Lord of Hollows, or a hidden Unkindled/betrayal variant.",
+   "entity_ids": [
+    "n0001",
+    "n0016",
+    "n0041",
+    "n0049",
+    "n0055"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0295",
+   "text": "In the Link the Fire ending, the Ashen One touches the bonfire/first flame after defeating the Soul of Cinder and sacrifices themselves, becoming fuel for a weak, flickering flame that only briefly extends the Age of Fire and continues the endless cycle.",
+   "entity_ids": [
+    "n0001",
+    "n0016",
+    "n0049"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0296",
+   "text": "The Age of Dark (End of Fire) ending requires defeating Champion Gundyr in the Untended Graves to retrieve the Eyes of a Fire Keeper from a dark version of Firelink Shrine, then giving them to the Firekeeper so she can glimpse a world of darkness containing tiny dancing flames.",
+   "entity_ids": [
+    "n0001",
+    "n0021",
+    "n0065",
+    "n0118"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0297",
+   "text": "In the Age of Dark ending, the Firekeeper draws the last embers from the dying first flame into herself at the Kiln of the First Flame, extinguishing the Age of Fire completely and plunging the world into darkness.",
+   "entity_ids": [
+    "n0021",
+    "n0055"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0298",
+   "text": "In a secret variant of the Age of Dark ending, the Ashen One can strike down the Firekeeper after she draws out the flame and steal the last spark of fire for themselves, resulting in an unguarded, hollow Unkindled ending.",
+   "entity_ids": [
+    "n0001",
+    "n0021",
+    "n0055"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0299",
+   "text": "The Lord of Hollows (usurpation) ending is unlocked through a quest line involving Yoel of Londor, Yuria of Londor, and Anri of Astora, who offers to claim the first flame rather than feed it.",
+   "entity_ids": [
+    "n0001",
+    "n0010",
+    "n0053",
+    "n0120"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0300",
+   "text": "In the usurpation ending, the Ashen One absorbs the first flame into themselves via the dark sigils rather than linking or extinguishing it, becoming the Lord of Hollows and ruling a new era of undeath with a dark eclipse following them.",
+   "entity_ids": [
+    "n0001",
+    "n0041"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0301",
+   "text": "After Sister Frieda and Father Ariandel are defeated, the cleansing flame spreads through the Painted World of Ariandel, finally burning away its rot.",
+   "entity_ids": [
+    "n0003",
+    "n0114"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0302",
+   "text": "When the Ashen One touches Filianore's egg, it shatters and she awakens, shifting the world to a true end-time ashen desert where the Age of Fire has ended through exhaustion rather than choice or ritual.",
+   "entity_ids": [
+    "n0001",
+    "n0016",
+    "n0024",
+    "n0034"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 99,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0303",
+   "text": "After defeating Slave Knight Gael, the Ashen One claims his blood containing the concentrated dark soul of man and returns it to the Painter in Ariandel, who does not know what became of Gael.",
+   "entity_ids": [
+    "n0001",
+    "n0003",
+    "n0014",
+    "n0105"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0304",
+   "text": "The Painter begins mixing the Dark Soul's pigment, obtained through Gael's sacrifice, into her paints to create a new world unlike any previous painted world.",
+   "entity_ids": [
+    "n0014",
+    "n0031",
+    "n0105"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0305",
+   "text": "The Painter describes and promises that the new world she is creating will be cold, dark, and gentle, one that will eventually make someone a good home.",
+   "entity_ids": [
+    "n0105"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0306",
+   "text": "The Painter names her new painted world 'Ash,' honoring the Ashen One, Gael, and the ashen wasteland where the Dark Soul was claimed.",
+   "entity_ids": [
+    "n0001",
+    "n0014",
+    "n0060",
+    "n0105"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0307",
+   "text": "The creation of the painted world Ash is presented as a quiet alternative ending to Dark Souls 3, separate from the fire-linking, usurpation, or dark-ushering endings available at the Kiln of the First Flame.",
+   "entity_ids": [
+    "n0001",
+    "n0060"
+   ],
+   "category": "ending",
+   "status": "inferred",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0308",
+   "text": "The Ringed City DLC ends with the Ashen One sitting on a dune in the Ashen Wasteland, marking the point where the first flame has truly died and the Dark Souls cycle is broken.",
+   "entity_ids": [
+    "n0001",
+    "n0024"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0309",
+   "text": "The Lord of Hollows quest culminates in a dark wedding ceremony in Anor Londo where the Ashen One symbolically marries Anri by killing them, gaining Anri's dark sigils to seal the ritual.",
+   "entity_ids": [
+    "n0001",
+    "n0010"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0310",
+   "text": "The Unkindled, also called Ashen Ones, are tasked with hunting down and slaying the Lords of Cinder and forcibly returning their cinders to their thrones at Firelink Shrine, opening the path to the Kiln of the First Flame.",
+   "entity_ids": [
+    "n0001",
+    "n0012",
+    "n0042",
+    "n0051"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    },
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0311",
+   "text": "Lothric of Carim teaches the Ashen One the skill of transposing souls, allowing them to forge weapons and miracles from boss souls.",
+   "entity_ids": [
+    "n0001",
+    "n0101"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 60,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0312",
+   "text": "The Ashen One returns to Firelink Shrine and places the cinders of the Abyss Watchers, Aldrich, Yhorm, and Lothric upon four empty thrones.",
+   "entity_ids": [
+    "n0001",
+    "n0002",
+    "n0004",
+    "n0008",
+    "n0009",
+    "n0012"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 87,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0313",
+   "text": "The Firekeeper instructs the Ashen One to kneel before the bonfire and coiled sword at Firelink Shrine so the five seated lords can witness and acknowledge the Ashen One as their heir.",
+   "entity_ids": [
+    "n0001",
+    "n0012",
+    "n0021",
+    "n0067"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 88,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0314",
+   "text": "Power from the five occupied thrones surges into the bonfire, creating a vortex that transports the Ashen One and the Firekeeper from Firelink Shrine to the Kiln of the First Flame.",
+   "entity_ids": [
+    "n0001",
+    "n0012",
+    "n0021",
+    "n0051"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 89,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0315",
+   "text": "The Ashen One uses the coiled sword to light the first bonfire in the Cemetery of Ash, opening the path to Firelink Shrine.",
+   "entity_ids": [
+    "n0001",
+    "n0012",
+    "n0018"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 90,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0316",
+   "text": "Defeating Vordt of the Boreal Valley opens the gate leading from the High Wall of Lothric to the Undead Settlement.",
+   "entity_ids": [
+    "n0013",
+    "n0027",
+    "n0052"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 91,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0317",
+   "text": "The Painted World of Ariandel is meant to periodically burn away in a cleansing flame and be repainted anew, but this cycle has been deliberately stopped, causing the realm to rot.",
+   "entity_ids": [
+    "n0003"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 93,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0318",
+   "text": "Placing the Basin of Vows on the altar statue in the chapel activated a hidden mechanism, lowering a ladder up into Lothric Castle.",
+   "entity_ids": [
+    "n0013",
+    "n0062"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0319",
+   "text": "The Ashen One killed one wyvern in Lothric Castle by leaping from higher ground and stabbing it through the skull.",
+   "entity_ids": [
+    "n0001",
+    "n0013"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0320",
+   "text": "The second wyvern in Lothric Castle was controlled by a parasitic pilgrim insect; killing the insect caused the wyvern to stop moving.",
+   "entity_ids": [
+    "n0013"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 94,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0321",
+   "text": "A transitory symbol appears to the Ashen One after defeating the Soul of Cinder, guiding them toward the Ringed City via the Dreg Heap.",
+   "entity_ids": [
+    "n0001",
+    "n0019",
+    "n0024"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0322",
+   "text": "When the Ashen One touches and crumbles Filianore's egg, time unravels and reality shifts forward into the far future.",
+   "entity_ids": [
+    "n0001",
+    "n0034"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 97,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0323",
+   "text": "The Fire Keeper channels souls gathered by the Ashen One into power to help them grow stronger.",
+   "entity_ids": [
+    "n0001",
+    "n0021"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0324",
+   "text": "Ludleth of Courland acts as a transposer who can reshape the souls of powerful beings into weapons, shields, and spells using the Transposing Kiln.",
+   "entity_ids": [
+    "n0043",
+    "n0051"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0325",
+   "text": "Three great flame beacons stand in the Farron swamp, representing the Undead Legion's vigilance; relighting them in an old ritual of Farron opens the path to Farron Keep.",
+   "entity_ids": [
+    "n0009",
+    "n0020"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0326",
+   "text": "A magic barrier blocked Irithyll of the Boreal Valley until the Ashen One used the small doll obtained from the Deacons of the Deep.",
+   "entity_ids": [
+    "n0001",
+    "n0039",
+    "n0116"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0327",
+   "text": "The Storm Ruler greatsword can unleash gusts of thunderous wind capable of staggering Yhorm the Giant, who is otherwise resistant to conventional weapons.",
+   "entity_ids": [
+    "n0008",
+    "n0050"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0328",
+   "text": "The Dancer of the Boreal Valley alternates between slow, elegant attacks and a wild spinning spiral attack that sets the floor ablaze.",
+   "entity_ids": [
+    "n0030"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0329",
+   "text": "Pools of melted wax in the Grand Archives can be used to coat the head, creating a protective barrier against the cursed spirits inhabiting the books.",
+   "entity_ids": [
+    "n0022"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0330",
+   "text": "Undead who die repeatedly gradually lose their minds and memories, eventually becoming mindless Hollows.",
+   "entity_ids": [
+    "n0092",
+    "n0117"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0331",
+   "text": "Successful champions who linked the flame became Lords of Cinder, their bodies burned to ash while their souls fueled the flame for another age.",
+   "entity_ids": [
+    "n0042"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0332",
+   "text": "Champions who failed to become Lords of Cinder became Unkindled, ash lacking even the strength to be proper kindling.",
+   "entity_ids": [
+    "n0001"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0333",
+   "text": "Yoel of Londor offers the Ashen One free levels in exchange for accepting Dark Sigils, marks of the hollowing curse, until he dies after granting five levels and five sigils.",
+   "entity_ids": [
+    "n0001",
+    "n0120"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0334",
+   "text": "Among the debris of the Anor Londo cathedral, a familiar sword can be found that belongs to neither Aldrich nor Gwyndolin.",
+   "entity_ids": [
+    "n0029"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0335",
+   "text": "Defeating the Nameless King clears the perpetual storm over Archdragon Peak and reveals Ornstein's armor in the arena, suggesting Ornstein once searched for his original master.",
+   "entity_ids": [
+    "n0033",
+    "n0037",
+    "n0056"
+   ],
+   "category": "secret",
+   "status": "canon",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0336",
+   "text": "Lothric learned that the curse of the undead originated from Gwyn's first linking of the flame, and began questioning whether sacrificing himself would truly help the dying world.",
+   "entity_ids": [
+    "n0002",
+    "n0005"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 46,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0337",
+   "text": "The Ashen One's defeat of Pontiff Sulyvahn in his cathedral is portrayed as one of the few unambiguous victories in the game, removing a tyrant rather than ending a tragic figure, though it does not solve the underlying crisis of the dying flame, the curse, or the endless cycle.",
+   "entity_ids": [
+    "n0001",
+    "n0007"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 62,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0338",
+   "text": "In the Dreg Heap, everything that ever existed is slowly sinking toward a common grave at the bottom of reality.",
+   "entity_ids": [
+    "n0019"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 95,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0339",
+   "text": "The painted world of Ash is intended to break the repeating cycle of linking the flame, with no First Flame, Lords of Cinder, or unkindled required to sustain it.",
+   "entity_ids": [
+    "n0060"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 100,
+   "sources": [
+    {
+     "src_id": "src-3fa39680",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0340",
+   "text": "Every human carries a fragment of the original Dark Soul, a piece of darkness that grows stronger as the First Flame weakens.",
+   "entity_ids": [
+    "n0031"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0341",
+   "text": "Gwyn's linking of the flame set a precedent: whenever the flame faded again, a new champion would be found to link it anew, willing or not.",
+   "entity_ids": [
+    "n0005",
+    "n0016"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0342",
+   "text": "Some scholars believe Sulyvahn influenced or advised Prince Lothric, possibly contributing to the prince's decision to refuse linking the flame.",
+   "entity_ids": [
+    "n0002",
+    "n0007"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0343",
+   "text": "The Lord of Hollows ending is tied to Kaathe, a primordial serpent who previously sought an Age of Dark and learned that simply letting the flame die was not enough since it would always relight; instead the flame needed to be usurped and controlled by humanity.",
+   "entity_ids": [
+    "n0041",
+    "n0095"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0344",
+   "text": "The Painter promises to name her new painting 'Ash' in honor of those who helped her, and fans speculate it could connect to Bloodborne, Demon's Souls, or an entirely new world.",
+   "entity_ids": [
+    "n0026"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0345",
+   "text": "Dark Souls III never explicitly tells the player what the right choice is regarding the fate of the first flame, only showing the consequences of past choices.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0346",
+   "text": "The overall theme of Dark Souls III is that tragedy and hope are intertwined, with sacrifices that seem futile but ultimately matter.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  },
+  {
+   "id": "f0347",
+   "text": "The series conveys that endings are not the same as extinction, and that letting go of the old is necessary to make room for the new.",
+   "entity_ids": [
+    "n0016"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null,
+   "sources": [
+    {
+     "src_id": "src-c469c2a0",
+     "locator": ""
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "e001",
+   "order": 1,
+   "summary": "In the Age of Ancients, the world was formless and ruled by immortal everlasting dragons, with no life, death, or disparity.",
+   "fact_ids": [
+    "f0001",
+    "f0002"
+   ]
+  },
+  {
+   "id": "e002",
+   "order": 2,
+   "summary": "The First Flame appeared, introducing disparity (life/death, light/dark), and Hollows emerged drawn to its warmth.",
+   "fact_ids": [
+    "f0003",
+    "f0004"
+   ]
+  },
+  {
+   "id": "e003",
+   "order": 3,
+   "summary": "Four beings—Gwyn, the Witch of Izalith, Nito, and the Furtive Pygmy—found Lord Souls within the Flame; the Pygmy's Dark Soul was shattered into fragments that became humanity.",
+   "fact_ids": [
+    "f0005",
+    "f0006",
+    "f0106",
+    "f0107",
+    "f0108",
+    "f0109"
+   ]
+  },
+  {
+   "id": "e004",
+   "order": 4,
+   "summary": "The four Lord Soul-bearers, aided by the traitor dragon Seath the Scaleless, waged war and defeated the everlasting dragons, ending the Age of Ancients and beginning the Age of Fire.",
+   "fact_ids": [
+    "f0029",
+    "f0030",
+    "f0031",
+    "f0032",
+    "f0037"
+   ]
+  },
+  {
+   "id": "e005",
+   "order": 5,
+   "summary": "Gwyn rewarded Seath with dukedom and research privileges; Seath later went mad experimenting on immortality, driven by jealousy of true dragons.",
+   "fact_ids": [
+    "f0116",
+    "f0117"
+   ]
+  },
+  {
+   "id": "e006",
+   "order": 6,
+   "summary": "Gwyn built Anor Londo as the city of the gods and fathered three children: an unnamed firstborn son, Gwynevere, and Gwyndolin.",
+   "fact_ids": [
+    "f0175",
+    "f0110",
+    "f0111",
+    "f0112",
+    "f0035"
+   ]
+  },
+  {
+   "id": "e007",
+   "order": 7,
+   "summary": "Gwyn's firstborn son founded the Warriors of Sunlight and trained Ornstein, but later betrayed Gwyn by allying with dragons, becoming the exiled, erased Nameless King who tamed storm drakes and was served by the Ringed Knights.",
+   "fact_ids": [
+    "f0093",
+    "f0114",
+    "f0039",
+    "f0041",
+    "f0094",
+    "f0113"
+   ]
+  },
+  {
+   "id": "e008",
+   "order": 8,
+   "summary": "Fearing the dark-souled Pygmy Lords, Gwyn built the Ringed City as both sanctuary and prison at the end of the world, sending his daughter Filianore to guard it with an egg-seal and the Ringed Knights.",
+   "fact_ids": [
+    "f0008",
+    "f0028",
+    "f0033",
+    "f0174",
+    "f0176",
+    "f0102"
+   ]
+  },
+  {
+   "id": "e009",
+   "order": 9,
+   "summary": "The Four Kings built New Londo with a fragment of Gwyn's soul, a gift that eventually caused their downfall when the Abyss consumed the city.",
+   "fact_ids": [
+    "f0034"
+   ]
+  },
+  {
+   "id": "e010",
+   "order": 10,
+   "summary": "As the First Flame began to fade, Gwyn sacrificed himself at the Kiln of the First Flame, splitting his soul among servants and Seath and becoming the first Lord of Cinder, creating the Dark Sign curse of undeath.",
+   "fact_ids": [
+    "f0007",
+    "f0027",
+    "f0036"
+   ]
+  },
+  {
+   "id": "e011",
+   "order": 11,
+   "summary": "After Gwyn's death, Gwynevere left Anor Londo, and Gwyndolin stayed behind maintaining an illusion of her presence to sustain hope and the Age of Fire; the gods feared and locked away afflicted undead in asylums.",
+   "fact_ids": [
+    "f0118",
+    "f0119",
+    "f0038"
+   ]
+  },
+  {
+   "id": "e012",
+   "order": 12,
+   "summary": "Elsewhere, Artorias of the Abyss battled the Abyss alongside his wolf Sif, and his wolf-blood essence later bound a legion of undead warriors into the order that would become the Abyss Watchers, based in Farron Keep.",
+   "fact_ids": [
+    "f0040",
+    "f0099",
+    "f0178",
+    "f0213"
+   ]
+  },
+  {
+   "id": "e013",
+   "order": 13,
+   "summary": "Darkeater Midir, originally tasked with guarding the Ringed City from the Abyss, was eventually corrupted by the very darkness he protected against.",
+   "fact_ids": [
+    "f0212"
+   ]
+  },
+  {
+   "id": "e014",
+   "order": 14,
+   "summary": "Pontiff Sulyvahn was born in the Painted World of Ariandel, left as a young sorcerer, discovered the Profaned Capital's burning ambition-inspiring flame, then traveled to Irithyll, joined the Dark Moon Blades protecting Gwyndolin, and plotted betrayal.",
+   "fact_ids": [
+    "f0121",
+    "f0122",
+    "f0123",
+    "f0124",
+    "f0095"
+   ]
+  },
+  {
+   "id": "e015",
+   "order": 15,
+   "summary": "Sulyvahn weakened and imprisoned Gwyndolin, crowned himself Pontiff of Irithyll through force, created the cursed Outrider Knights (including the future Vordt and Dancer), and stationed forces in Lothric to guard his interests.",
+   "fact_ids": [
+    "f0065",
+    "f0130",
+    "f0096",
+    "f0198",
+    "f0067",
+    "f0075",
+    "f0097",
+    "f0191",
+    "f0192"
+   ]
+  },
+  {
+   "id": "e016",
+   "order": 16,
+   "summary": "Yhorm the Giant, descendant of an ancient conqueror, ruled the Profaned Capital's human population with genuine care despite their fear of him.",
+   "fact_ids": [
+    "f0045",
+    "f0120",
+    "f0193"
+   ]
+  },
+  {
+   "id": "e017",
+   "order": 17,
+   "summary": "A curse and meddling sorcerers unleashed the unquenchable Profaned Flame in Yhorm's capital, destroying all human inhabitants while Yhorm alone survived due to giant hardiness.",
+   "fact_ids": [
+    "f0009",
+    "f0052",
+    "f0055"
+   ]
+  },
+  {
+   "id": "e018",
+   "order": 18,
+   "summary": "In grief, Yhorm linked the First Flame hoping to protect his people, becoming a Lord of Cinder, but the Profaned Flame devastated his capital regardless; he gave his friend Siegward of Catarina the Storm Ruler to use against him if he ever turned.",
+   "fact_ids": [
+    "f0057",
+    "f0061",
+    "f0127",
+    "f0197"
+   ]
+  },
+  {
+   "id": "e019",
+   "order": 19,
+   "summary": "The Cathedral of the Deep's clergy, originally sealing the corrupting Deep, were gradually corrupted themselves and abandoned the Way of White to worship darkness.",
+   "fact_ids": [
+    "f0047",
+    "f0048",
+    "f0103"
+   ]
+  },
+  {
+   "id": "e020",
+   "order": 20,
+   "summary": "Aldrich, a cleric with a hunger for human flesh, was exiled to the Cathedral by Sulyvahn, became a bloated monster, was venerated as a saint, and was forced by the Cathedral to become a Lord of Cinder to control him.",
+   "fact_ids": [
+    "f0050",
+    "f0051",
+    "f0053",
+    "f0054",
+    "f0125",
+    "f0098"
+   ]
+  },
+  {
+   "id": "e021",
+   "order": 21,
+   "summary": "While burning in the flame, Aldrich envisioned an Age of the Deep Sea and embraced it, later believing he could hasten its arrival by devouring gods.",
+   "fact_ids": [
+    "f0060",
+    "f0126"
+   ]
+  },
+  {
+   "id": "e022",
+   "order": 22,
+   "summary": "The Abyss Watchers eventually linked the First Flame as one legion, becoming Lords of Cinder, but their shared essence dried up afterward, letting Abyss corruption spark internal civil war.",
+   "fact_ids": [
+    "f0056",
+    "f0062",
+    "f0078",
+    "f0214"
+   ]
+  },
+  {
+   "id": "e023",
+   "order": 23,
+   "summary": "Elsewhere, the Witch of Izalith's failed attempt to recreate the flame birthed chaos demons, including the eventual Demon Prince, one of which Lorian (Prince Lothric's brother) would later defeat, scorching his greatsword and leaving him crippled.",
+   "fact_ids": [
+    "f0059",
+    "f0133",
+    "f0134",
+    "f0196",
+    "f0246"
+   ]
+  },
+  {
+   "id": "e024",
+   "order": 24,
+   "summary": "The kingdom of Lothric was founded and bred over generations, guided by prophecy, to produce Prince Lothric as the perfect vessel to link the flame; Lorian bonded his soul to share his brother's curse.",
+   "fact_ids": [
+    "f0010",
+    "f0011",
+    "f0049",
+    "f0132",
+    "f0135",
+    "f0171",
+    "f0170"
+   ]
+  },
+  {
+   "id": "e025",
+   "order": 25,
+   "summary": "Educated by scholars (possibly including Sulyvahn) and encouraged by an unnamed mentor, Lothric learned of the curse's true origin and began doubting the necessity of sacrifice.",
+   "fact_ids": [
+    "f0129",
+    "f0336",
+    "f0063"
+   ]
+  },
+  {
+   "id": "e026",
+   "order": 26,
+   "summary": "When the time came, Lothric and Lorian jointly refused to link the flame and retreated into isolation atop Lothric Castle, causing the Age of Fire to fade rapidly.",
+   "fact_ids": [
+    "f0068",
+    "f0082",
+    "f0131"
+   ]
+  },
+  {
+   "id": "e027",
+   "order": 27,
+   "summary": "In response, the emergency bells tolled, resurrecting the old Lords of Cinder—Lothric of Carim, Aldrich, the Abyss Watchers, and Yhorm—but most refused to return to their thrones once they remembered the pain of linking.",
+   "fact_ids": [
+    "f0012",
+    "f0013",
+    "f0069",
+    "f0070",
+    "f0081",
+    "f0084",
+    "f0143",
+    "f0138",
+    "f0222"
+   ]
+  },
+  {
+   "id": "e028",
+   "order": 28,
+   "summary": "When even the Lords of Cinder refused, the bells tolled once more, summoning failed Unkindled champions, including the one who would become the player's character, to hunt them down.",
+   "fact_ids": [
+    "f0071",
+    "f0310"
+   ]
+  },
+  {
+   "id": "e029",
+   "order": 29,
+   "summary": "Ludleth of Courland, who had linked the flame once before of his own will, willingly returned to his throne at Firelink Shrine to await the new champion.",
+   "fact_ids": [
+    "f0046",
+    "f0146",
+    "f0168"
+   ]
+  },
+  {
+   "id": "e030",
+   "order": 30,
+   "summary": "The Ashen One, an Unkindled who had failed and died in a past age, awakens again in the Cemetery of Ash and lights the first bonfire, defeating the sentry Iudex Gundyr to open the path to Firelink Shrine.",
+   "fact_ids": [
+    "f0085",
+    "f0139",
+    "f0072",
+    "f0200",
+    "f0220",
+    "f0221",
+    "f0315"
+   ]
+  },
+  {
+   "id": "e031",
+   "order": 31,
+   "summary": "At Firelink Shrine, the Firekeeper tends the flame, and Ludleth teaches the Ashen One to transpose boss souls, beginning the hunt for the Lords of Cinder.",
+   "fact_ids": [
+    "f0167",
+    "f0184",
+    "f0311"
+   ]
+  },
+  {
+   "id": "e032",
+   "order": 32,
+   "summary": "Traveling through the Undead Settlement, Cathedral of the Deep, and surrounding lands, the Ashen One defeats the beast-cursed Vordt of the Boreal Valley and the Cursed Greatwood, opening paths forward.",
+   "fact_ids": [
+    "f0185",
+    "f0186",
+    "f0228",
+    "f0316",
+    "f0230",
+    "f0231",
+    "f0203"
+   ]
+  },
+  {
+   "id": "e033",
+   "order": 33,
+   "summary": "In the Cathedral of the Deep, where Evangelists harvested undead as food for Aldrich, the Ashen One meets Slave Knight Gael, who carries a painted fragment to another world, and learns of Anri and Horace's parallel hunt for Aldrich.",
+   "fact_ids": [
+    "f0086",
+    "f0064",
+    "f0101",
+    "f0155",
+    "f0152",
+    "f0153",
+    "f0154",
+    "f0150"
+   ]
+  },
+  {
+   "id": "e034",
+   "order": 34,
+   "summary": "The Ashen One passes through Farron Keep's Abyss Watchers' territory, the Carthus catacombs (ruled once by Highlord Wolnir, consumed by the Abyss), and reaches frozen Irithyll.",
+   "fact_ids": [
+    "f0043",
+    "f0044",
+    "f0188",
+    "f0189",
+    "f0190"
+   ]
+  },
+  {
+   "id": "e035",
+   "order": 35,
+   "summary": "Aldrich, having risen and left his empty coffin, had already journeyed to Anor Londo and slowly devoured the imprisoned god Gwyndolin, aided by Sulyvahn's doll granting him passage.",
+   "fact_ids": [
+    "f0073",
+    "f0074",
+    "f0076",
+    "f0077",
+    "f0199"
+   ]
+  },
+  {
+   "id": "e036",
+   "order": 36,
+   "summary": "The Ashen One defeats Aldrich in Anor Londo; his monstrous form dissolves, revealing Gwyndolin's remains inside and a cleric's staff hinting at his origin, confirming he had linked the flame.",
+   "fact_ids": [
+    "f0087",
+    "f0204",
+    "f0232"
+   ]
+  },
+  {
+   "id": "e037",
+   "order": 37,
+   "summary": "The Ashen One confronts and defeats Pontiff Sulyvahn in his cathedral, a rare unambiguous victory that removes a tyrant but does not resolve the dying flame's crisis.",
+   "fact_ids": [
+    "f0337"
+   ]
+  },
+  {
+   "id": "e038",
+   "order": 38,
+   "summary": "With the Abyss Watchers (fallen to their own civil war) and Aldrich defeated, the Ashen One travels to the ruined Profaned Capital, where Yhorm waits purposelessly on his throne with a Storm Ruler nearby.",
+   "fact_ids": [
+    "f0079",
+    "f0233"
+   ]
+  },
+  {
+   "id": "e039",
+   "order": 39,
+   "summary": "The Ashen One defeats Yhorm the Giant—sometimes aided by Siegward honoring his old promise—claiming the third Lord of Cinder's cinders.",
+   "fact_ids": [
+    "f0234",
+    "f0235",
+    "f0089"
+   ]
+  },
+  {
+   "id": "e040",
+   "order": 40,
+   "summary": "In a side journey, Gael leads the Ashen One into the Painted World of Ariandel, a realm of forgotten fire where Sister Frieda has suppressed the cleansing flame to let it rot rather than renew, imprisoning the Painter who could create a new world.",
+   "fact_ids": [
+    "f0017",
+    "f0080",
+    "f0088",
+    "f0156",
+    "f0157",
+    "f0158",
+    "f0159",
+    "f0172",
+    "f0195",
+    "f0100",
+    "f0317",
+    "f0236"
+   ]
+  },
+  {
+   "id": "e041",
+   "order": 41,
+   "summary": "The Ashen One defeats Sir Vilhelm, then Father Ariandel and Sister Frieda (who is revived twice before her final Black Flame form), finally letting the cleansing flame spread through Ariandel.",
+   "fact_ids": [
+    "f0243",
+    "f0301"
+   ]
+  },
+  {
+   "id": "e042",
+   "order": 42,
+   "summary": "The Ashen One frees the imprisoned Painter, who reveals she needs the Dark Soul of Man as pigment from her uncle Gael, and names her future world 'Ash.'",
+   "fact_ids": [
+    "f0206",
+    "f0162",
+    "f0173"
+   ]
+  },
+  {
+   "id": "e043",
+   "order": 43,
+   "summary": "Dying High Priestess Emma gives the Ashen One the Basin of Vows and the Small Lothric Banner, urging them to make Lothric a lord and save the world, before succumbing.",
+   "fact_ids": [
+    "f0160",
+    "f0161",
+    "f0169",
+    "f0202",
+    "f0205",
+    "f0318"
+   ]
+  },
+  {
+   "id": "e044",
+   "order": 44,
+   "summary": "The Dancer of the Boreal Valley, a fallen Irithyllian knight, confronts and is defeated by the Ashen One en route to Lothric Castle.",
+   "fact_ids": [
+    "f0237",
+    "f0238"
+   ]
+  },
+  {
+   "id": "e045",
+   "order": 45,
+   "summary": "Within Lothric Castle, the Ashen One slays two cursed wyverns and the ancient Dragon Slayer Armor guarding the bridge to the Grand Archives.",
+   "fact_ids": [
+    "f0319",
+    "f0320",
+    "f0239",
+    "f0240"
+   ]
+  },
+  {
+   "id": "e046",
+   "order": 46,
+   "summary": "In the cursed Grand Archives, the Ashen One defeats a surviving Crystal Sage allied with Lothric and the Three Pillars of the king's rule—Albert, Kamui, and Cream Hild—guarding the path upward.",
+   "fact_ids": [
+    "f0194",
+    "f0241",
+    "f0242",
+    "f0244",
+    "f0245"
+   ]
+  },
+  {
+   "id": "e047",
+   "order": 47,
+   "summary": "Ascending through a garden and bridge to the highest tower, the Ashen One finally confronts the bonded Twin Princes, Lothric and Lorian, who fight together as one.",
+   "fact_ids": [
+    "f0181",
+    "f0216",
+    "f0215",
+    "f0217",
+    "f0218",
+    "f0144"
+   ]
+  },
+  {
+   "id": "e048",
+   "order": 48,
+   "summary": "The Ashen One defeats Lorian and Lothric; as he dies, Lothric admits his refusal of duty merely passed the burden onward rather than solving it, and the Ashen One claims the final Lord of Cinder's cinders.",
+   "fact_ids": [
+    "f0145",
+    "f0219",
+    "f0083",
+    "f0293"
+   ]
+  },
+  {
+   "id": "e049",
+   "order": 49,
+   "summary": "The Ashen One returns to Firelink Shrine and places the cinders of the Abyss Watchers, Aldrich, Yhorm, and Lothric upon their thrones, completing the set alongside Ludleth, who then turns to ash.",
+   "fact_ids": [
+    "f0312",
+    "f0147"
+   ]
+  },
+  {
+   "id": "e050",
+   "order": 50,
+   "summary": "Kneeling before the bonfire, the Ashen One is acknowledged by the assembled Lords of Cinder and the Firekeeper as their true heir, and is drawn through a vortex of power to the Kiln of the First Flame.",
+   "fact_ids": [
+    "f0313",
+    "f0148",
+    "f0314"
+   ]
+  },
+  {
+   "id": "e051",
+   "order": 51,
+   "summary": "At the Kiln, now a graveyard of ash from fallen kingdoms with the First Flame reduced to an ember, the Ashen One faces the Soul of Cinder, an amalgam of every past Lord of Cinder, finally channeling Gwyn's own fighting style in its last phase.",
+   "fact_ids": [
+    "f0014",
+    "f0015",
+    "f0223",
+    "f0224",
+    "f0225",
+    "f0226",
+    "f0227"
+   ]
+  },
+  {
+   "id": "e052",
+   "order": 52,
+   "summary": "The Ashen One defeats the Soul of Cinder, causing its armor to crumble, and a transitory symbol appears guiding them toward the Ringed City through the collapsing Dreg Heap.",
+   "fact_ids": [
+    "f0229",
+    "f0321"
+   ]
+  },
+  {
+   "id": "e053",
+   "order": 53,
+   "summary": "In the Dreg Heap, where collapsed eras and kingdoms (fragments of Lothric Castle and Anor Londo) pile atop one another and everything sinks toward a common grave, the Ashen One battles deformed angelic spirits and the merged Demon Prince, the last remnant of the Witch of Izalith's chaos flame.",
+   "fact_ids": [
+    "f0018",
+    "f0179",
+    "f0180",
+    "f0338",
+    "f0283",
+    "f0246",
+    "f0247",
+    "f0251",
+    "f0250"
+   ]
+  },
+  {
+   "id": "e054",
+   "order": 54,
+   "summary": "Descending further to the literal end of time and space, the Ashen One reaches the Ringed City, a true sanctuary-prison for the Pygmy Lords at the edge of the world, where Filianore sleeps eternally holding her egg.",
+   "fact_ids": [
+    "f0183",
+    "f0016",
+    "f0201",
+    "f0177"
+   ]
+  },
+  {
+   "id": "e055",
+   "order": 55,
+   "summary": "Gael, having journeyed through vast ages searching for the Dark Soul of Man to bring to the Painter, had reached the Ringed City and ultimately slaughtered the desiccated Pygmy Lords, devouring their dried blood in a mad bid to extract the pigment.",
+   "fact_ids": [
+    "f0090",
+    "f0091",
+    "f0092",
+    "f0149",
+    "f0151"
+   ]
+  },
+  {
+   "id": "e056",
+   "order": 56,
+   "summary": "When the Ashen One touches and shatters Filianore's egg, the illusion sustaining the Ringed City vanishes, unraveling time and revealing the true far-future ashen wasteland, where a dark sun hangs over buried thrones of the Pygmy Kings.",
+   "fact_ids": [
+    "f0020",
+    "f0019",
+    "f0182",
+    "f0302",
+    "f0322"
+   ]
+  },
+  {
+   "id": "e057",
+   "order": 57,
+   "summary": "In this wasteland, the Ashen One finds Gael—now huge, twisted, and branded with a dark sign from consuming power never meant for mortals, his wounds endlessly bleeding dark-soul-infused blood.",
+   "fact_ids": [
+    "f0252",
+    "f0253",
+    "f0254",
+    "f0255",
+    "f0163"
+   ]
+  },
+  {
+   "id": "e058",
+   "order": 58,
+   "summary": "Gael demands the Ashen One's Dark Soul and the two fight across the largest arena yet, Gael unleashing sword combinations, crossbow bolts, and later corrupted blood magic as his chest cracks open.",
+   "fact_ids": [
+    "f0256",
+    "f0257",
+    "f0258",
+    "f0259"
+   ]
+  },
+  {
+   "id": "e059",
+   "order": 59,
+   "summary": "The Ashen One defeats Slave Knight Gael, whose monstrous form fades to reveal simply an old knight who sacrificed everything for an unfulfilled goal, and collects his Dark Soul-infused blood as his final gift.",
+   "fact_ids": [
+    "f0260",
+    "f0261",
+    "f0207",
+    "f0303",
+    "f0164",
+    "f0165",
+    "f0166"
+   ]
+  },
+  {
+   "id": "e060",
+   "order": 60,
+   "summary": "The Ashen One returns the blood to the Painter, who begins mixing it into her paints, promising to create a new world called 'Ash'—cold, dark, and gentle—intended to break the endless cycle of linking the flame.",
+   "fact_ids": [
+    "f0304",
+    "f0305",
+    "f0306",
+    "f0339",
+    "f0307"
+   ]
+  },
+  {
+   "id": "e061",
+   "order": 61,
+   "summary": "The Ringed City's story concludes with the Ashen One sitting upon a dune in the ashen wasteland, marking the point where the First Flame has truly died and the age-old cycle appears broken.",
+   "fact_ids": [
+    "f0308"
+   ]
+  },
+  {
+   "id": "e062",
+   "order": 62,
+   "summary": "Separately, at the Kiln of the First Flame, the Ashen One's fate could instead follow one of several other paths: sacrificing themselves to weakly Link the Fire and continue the cycle, or, after a hidden quest, drawing out the flame to usher in the Age of Dark via the Firekeeper.",
+   "fact_ids": [
+    "f0294",
+    "f0295",
+    "f0296",
+    "f0297"
+   ]
+  },
+  {
+   "id": "e063",
+   "order": 63,
+   "summary": "Alternatively, in a secret variant, the Ashen One could strike down the Firekeeper after she draws the flame and steal the ember for an unguarded, hollow Unkindled ending.",
+   "fact_ids": [
+    "f0298"
+   ]
+  },
+  {
+   "id": "e064",
+   "order": 64,
+   "summary": "Or, through a quest involving Yoel, Yuria, and Anri, the Ashen One could usurp the flame entirely, killing Anri in a dark ritual marriage to become the Lord of Hollows ruling a new undead era under an eternal eclipse.",
+   "fact_ids": [
+    "f0105",
+    "f0299",
+    "f0300",
+    "f0309",
+    "f0104"
+   ]
+  }
+ ]
+}

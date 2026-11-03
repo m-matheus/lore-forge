@@ -1,0 +1,743 @@
+{
+ "entities": [
+  {
+   "name": "El Gigante",
+   "kind": "boss",
+   "aliases": [
+    "Elgigante",
+    "Eligante"
+   ]
+  },
+  {
+   "name": "Leon S. Kennedy",
+   "kind": "character",
+   "aliases": [
+    "Leyon",
+    "Leon",
+    "Lyon"
+   ]
+  },
+  {
+   "name": "Luis Sera",
+   "kind": "character",
+   "aliases": [
+    "Luis Sarah",
+    "Lu",
+    "Louis Sarah",
+    "Luish"
+   ]
+  },
+  {
+   "name": "Bitores Mendez",
+   "kind": "boss",
+   "aliases": [
+    "Burausz Menddees",
+    "Borres Menddees",
+    "Menddees",
+    "Mendez"
+   ]
+  },
+  {
+   "name": "Ashley Graham",
+   "kind": "character",
+   "aliases": [
+    "Ashley"
+   ]
+  },
+  {
+   "name": "Salazar Castle",
+   "kind": "location",
+   "aliases": [
+    "the castle",
+    "Gothic Fortress"
+   ]
+  },
+  {
+   "name": "Ramon Salazar",
+   "kind": "character",
+   "aliases": [
+    "Salazar"
+   ]
+  },
+  {
+   "name": "Osmund Saddler",
+   "kind": "character",
+   "aliases": [
+    "Osman Sadler",
+    "Osman Saddler",
+    "the master"
+   ]
+  },
+  {
+   "name": "Los Illuminados Zealots",
+   "kind": "enemy",
+   "aliases": [
+    "Zealots",
+    "lost Illuminado Zealots"
+   ]
+  },
+  {
+   "name": "Armadura",
+   "kind": "enemy",
+   "aliases": [
+    "Armaduras",
+    "living suits of armor"
+   ]
+  },
+  {
+   "name": "Novistador",
+   "kind": "enemy",
+   "aliases": [
+    "Noistador",
+    "Noveistador",
+    "Novi Stardust"
+   ]
+  },
+  {
+   "name": "Queen Plaga",
+   "kind": "boss",
+   "aliases": [
+    "the queen",
+    "Queen Plagger"
+   ]
+  },
+  {
+   "name": "Las Plagas",
+   "kind": "item",
+   "aliases": [
+    "dominant species Plaga",
+    "the prehistoric fire",
+    "parasite"
+   ]
+  },
+  {
+   "name": "Jack Krauser",
+   "kind": "character",
+   "aliases": [
+    "Jack Krower",
+    "Krower",
+    "Krauser"
+   ]
+  },
+  {
+   "name": "Ada Wong",
+   "kind": "character",
+   "aliases": [
+    "Ada",
+    "Adah"
+   ]
+  },
+  {
+   "name": "Albert Wesker",
+   "kind": "character",
+   "aliases": [
+    "Wesker"
+   ]
+  },
+  {
+   "name": "Verdugo",
+   "kind": "boss",
+   "aliases": [
+    "The Vertigo",
+    "Verdugo",
+    "the executioner"
+   ]
+  },
+  {
+   "name": "Underground Mine",
+   "kind": "location",
+   "aliases": [
+    "the mines",
+    "underground excavation tunnels"
+   ]
+  },
+  {
+   "name": "Suppression Pills",
+   "kind": "item",
+   "aliases": [
+    "Lu's pills",
+    "chemical shield",
+    "suppression medicine"
+   ]
+  },
+  {
+   "name": "Abattoir",
+   "kind": "location",
+   "aliases": [
+    "municipal abattoire",
+    "slaughterhouse"
+   ]
+  },
+  {
+   "name": "Umbrella Corporation",
+   "kind": "faction",
+   "aliases": [
+    "Umbrella"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "In a quarry within the mountain perimeter, the cult unleashed a massive biological weapon called El Gigante.",
+   "entities": [
+    "El Gigante",
+    "Los Illuminados Zealots"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "El Gigante was a deformed humanoid monster created by fusing multiple Las Plagas strains into a single human host.",
+   "entities": [
+    "El Gigante",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "El Gigante's thick skin deflected standard ballistic attacks, requiring Leon to force the dominant plaga core to burst from its back to kill it.",
+   "entities": [
+    "El Gigante",
+    "Leon S. Kennedy",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Leon Kennedy climbed El Gigante and sliced the exposed parasite core, causing total cellular collapse of the host.",
+   "entities": [
+    "El Gigante",
+    "Leon S. Kennedy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The cult observed the battle with El Gigante from secret monitoring terminals, recording data on the creature's resilience.",
+   "entities": [
+    "El Gigante",
+    "Los Illuminados Zealots"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Luis Sera gave Leon Kennedy suppression pills he had engineered to slow the development of the Las Plagas larvae.",
+   "entities": [
+    "Luis Sera",
+    "Leon S. Kennedy",
+    "Suppression Pills",
+    "Las Plagas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "The suppression pills worked by blocking the parasite's access to the host's central nervous system, delaying loss of free will.",
+   "entities": [
+    "Suppression Pills",
+    "Las Plagas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Without the suppression pills, Leon Kennedy and Ashley Graham would have reached the terminal stage of plaga infection within hours.",
+   "entities": [
+    "Suppression Pills",
+    "Leon S. Kennedy",
+    "Ashley Graham"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Luis Sera developed the suppression pills using knowledge gained from his former work in Umbrella Corporation laboratories.",
+   "entities": [
+    "Luis Sera",
+    "Umbrella Corporation",
+    "Suppression Pills"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Taking the suppression pills caused Leon Kennedy acute side effects including internal hemorrhaging and mental fatigue.",
+   "entities": [
+    "Suppression Pills",
+    "Leon S. Kennedy"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "Leon Kennedy cornered village chief Bitores Mendez inside an abandoned municipal abattoir on the outskirts of the village.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Bitores Mendez",
+    "Abattoir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Trapped by Leon, Bitores Mendez underwent a full mutation in which his spine elongated into a massive centipede-like structure of wood and bone appendages.",
+   "entities": [
+    "Bitores Mendez"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Bitores Mendez's mutated form moved through the abattoir with supernatural speed, using his human torso as a pivot point.",
+   "entities": [
+    "Bitores Mendez",
+    "Abattoir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "After defeating mutated Bitores Mendez, Leon Kennedy recovered an artificial glass eye containing retinal scan data needed to open the castle's iron gates.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Bitores Mendez",
+    "Salazar Castle"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Bitores Mendez's death marked the transition point from the village section of the story into the castle investigation.",
+   "entities": [
+    "Bitores Mendez",
+    "Salazar Castle"
+   ],
+   "category": "history",
+   "status": "inferred",
+   "chrono": 35
+  },
+  {
+   "text": "Salazar Castle is a Gothic fortress built over ancient subterranean caverns where the first Castellan had entombed the parasites centuries earlier.",
+   "entities": [
+    "Salazar Castle"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Ramon Salazar retrofitted Salazar Castle's architecture to support the cult's biological research and to eliminate intruders.",
+   "entities": [
+    "Ramon Salazar",
+    "Salazar Castle"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Salazar Castle features mechanized walls, fire-breathing stone statues, deep pits, and spike-line traps designed to isolate intruders.",
+   "entities": [
+    "Salazar Castle"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Ramon Salazar monitored Leon Kennedy's progress through the castle from his central tower, reporting data to his master Osmund Saddler.",
+   "entities": [
+    "Ramon Salazar",
+    "Leon S. Kennedy",
+    "Osmund Saddler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Ramon Salazar used local laborers and cult zealots to excavate the petrified remains of ancient parasites beneath the castle.",
+   "entities": [
+    "Ramon Salazar",
+    "Underground Mine"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "Leon Kennedy used the glass eye recovered from Bitores Mendez to bypass a biometric security gate and enter the castle.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Bitores Mendez",
+    "Salazar Castle"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 36
+  },
+  {
+   "text": "The castle is defended by the Los Illuminados Zealots, a fanatical paramilitary wing with higher tactical discipline than the village Ganados.",
+   "entities": [
+    "Los Illuminados Zealots"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "The Zealots wear heavy iron shields and use medieval ballistas to isolate intruders.",
+   "entities": [
+    "Los Illuminados Zealots"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "Because Zealots willingly accepted their Las Plagas during ritual ceremonies, their parasites are highly aggressive and often burst as blade-wielding tentacles from their decapitated necks.",
+   "entities": [
+    "Los Illuminados Zealots",
+    "Las Plagas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "Zealot parasites can survive destruction of the host's brain and continue functioning as independent blade-wielding threats.",
+   "entities": [
+    "Los Illuminados Zealots",
+    "Las Plagas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 37
+  },
+  {
+   "text": "Leon Kennedy encountered Armaduras, living suits of ancestral armor, in the castle's trophy rooms.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Armadura",
+    "Salazar Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "An Armadura forms when a mature Las Plagas parasite lacking a host crawls inside an empty suit of armor and extends its nervous system into the joints to control it.",
+   "entities": [
+    "Armadura",
+    "Las Plagas"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "Because the parasite inside an Armadura is fully encased in iron, standard ballistic weapons are ineffective against it.",
+   "entities": [
+    "Armadura"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "Leon Kennedy discovered that removing an Armadura's helmet and using a flash grenade was the reliable way to destroy the exposed parasite.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Armadura"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 38
+  },
+  {
+   "text": "While exploring the castle's ritual chambers, Ashley Graham fell into a hidden wall trap set by Ramon Salazar and was separated from Leon Kennedy.",
+   "entities": [
+    "Ashley Graham",
+    "Ramon Salazar",
+    "Leon S. Kennedy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "Separated and alone, Ashley Graham's advanced Las Plagas growth caused severe hallucinations and left her vulnerable to Osmund Saddler's telepathic control.",
+   "entities": [
+    "Ashley Graham",
+    "Las Plagas",
+    "Osmund Saddler"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "Osmund Saddler used the dominant species Plaga to issue mental commands that bypassed an infected host's willpower, including Ashley Graham's.",
+   "entities": [
+    "Osmund Saddler",
+    "Ashley Graham",
+    "Las Plagas"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 39
+  },
+  {
+   "text": "Luis Sera obtained a pristine dominant Plaga sample and surgical blueprints needed to remove the parasites.",
+   "entities": [
+    "Luis Sera",
+    "Las Plagas"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Before Luis Sera could deliver the sample and blueprints to Leon Kennedy, Jack Krauser ambushed him in a ritual chamber and fatally stabbed him through the chest.",
+   "entities": [
+    "Luis Sera",
+    "Jack Krauser",
+    "Leon S. Kennedy"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "With his dying breaths, Luis Sera gave Leon Kennedy his personal laboratory key and expressed remorse for his past work with Umbrella Corporation.",
+   "entities": [
+    "Luis Sera",
+    "Leon S. Kennedy",
+    "Umbrella Corporation"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Luis Sera revealed that 30 years of his research had led to the destruction of his home and family.",
+   "entities": [
+    "Luis Sera"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Jack Krauser reported the death of Luis Sera and the retrieval of the Plaga sample to his handler, Albert Wesker.",
+   "entities": [
+    "Jack Krauser",
+    "Luis Sera",
+    "Albert Wesker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Leon Kennedy descended into underground mining tunnels beneath the castle, the primary source of the region's parasitic infection.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Underground Mine",
+    "Salazar Castle"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Generations of local miners were forced by the Salazar family to excavate petrified Las Plagas remains preserved in low-oxygen amber deposits.",
+   "entities": [
+    "Underground Mine",
+    "Las Plagas",
+    "Ramon Salazar"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "In the mine's smelting furnace, Leon Kennedy was forced to fight two El Gigantes simultaneously, using molten lead to defeat them.",
+   "entities": [
+    "Leon S. Kennedy",
+    "El Gigante",
+    "Underground Mine"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "In the castle's upper hive structure, Leon Kennedy encountered Novistadors, insect-human hybrid creatures.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Novistador",
+    "Salazar Castle"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Novistadors were created by Luis Sera's research, under Osmund Saddler's orders, by splicing human genetic material with parasitic insect DNA.",
+   "entities": [
+    "Novistador",
+    "Luis Sera",
+    "Osmund Saddler"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "Novistadors possess active camouflage allowing them to blend into the castle's stone corridors, and represent a shift in Saddler's research toward apex biological assassins.",
+   "entities": [
+    "Novistador",
+    "Osmund Saddler"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The center of the castle's insect infestation was a massive stationary organism called the Queen Plaga, anchored to the foundations as the nursery for Novistador swarms.",
+   "entities": [
+    "Queen Plaga",
+    "Novistador",
+    "Salazar Castle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Ramon Salazar's biological connection to the castle network made the Queen Plaga a primary node in the cult's telepathic frequency.",
+   "entities": [
+    "Queen Plaga",
+    "Ramon Salazar"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "When Leon Kennedy killed Ramon Salazar, the neural link to the Queen Plaga broke, causing catastrophic cellular collapse in the hive and surrounding Novistadors.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Ramon Salazar",
+    "Queen Plaga",
+    "Novistador"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Ada Wong operated secretly within Salazar Castle, hacking the security mainframe to unlock doors and barriers for Leon Kennedy without his knowledge.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy",
+    "Salazar Castle"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Ada Wong transmitted combat data and biological records to Albert Wesker while operating in the castle.",
+   "entities": [
+    "Ada Wong",
+    "Albert Wesker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Ada Wong intentionally withheld from Leon Kennedy the fact that Luis Sera had been killed by Jack Krauser.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy",
+    "Luis Sera",
+    "Jack Krauser"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 43
+  },
+  {
+   "text": "Ada Wong viewed Leon Kennedy as a useful tactical distraction that drew the attention of the cult's security forces while she pursued her own objectives.",
+   "entities": [
+    "Ada Wong",
+    "Leon S. Kennedy"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 41
+  },
+  {
+   "text": "Ramon Salazar unleashed a personal executioner called Verdugo to kill Leon Kennedy within the castle's subterranean tunnels.",
+   "entities": [
+    "Ramon Salazar",
+    "Verdugo",
+    "Leon S. Kennedy"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Verdugo was a genetic fusion of human DNA, insect attributes, and a dominant species Plaga host, resulting in a biological assassin with supernatural speed.",
+   "entities": [
+    "Verdugo",
+    "Las Plagas"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Verdugo possessed a segmented exoskeleton that was completely bulletproof against standard weaponry.",
+   "entities": [
+    "Verdugo"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47
+  },
+  {
+   "text": "Leon Kennedy encountered Verdugo during a standoff in an elevator within the castle's deep cooling chambers.",
+   "entities": [
+    "Leon S. Kennedy",
+    "Verdugo",
+    "Salazar Castle"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 47
+  }
+ ],
+ "_src": "src-1acd4d7c"
+}

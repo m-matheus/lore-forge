@@ -1,0 +1,780 @@
+{
+ "entities": [
+  {
+   "name": "Lorian",
+   "kind": "character",
+   "aliases": [
+    "Prince Lorian",
+    "Lorian, Elder Prince"
+   ]
+  },
+  {
+   "name": "Lothric",
+   "kind": "character",
+   "aliases": [
+    "Prince Lothric",
+    "Lothric, Younger Prince"
+   ]
+  },
+  {
+   "name": "Ashen One",
+   "kind": "character",
+   "aliases": [
+    "Unkindled",
+    "the Ashen One",
+    "Unkindled One"
+   ]
+  },
+  {
+   "name": "Firekeeper",
+   "kind": "character",
+   "aliases": [
+    "Fire Keeper"
+   ]
+  },
+  {
+   "name": "Ludleth of Courland",
+   "kind": "character",
+   "aliases": [
+    "Ludleth"
+   ]
+  },
+  {
+   "name": "Abyss Watchers",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Aldrich",
+   "kind": "boss",
+   "aliases": [
+    "Aldrich, Devourer of Gods"
+   ]
+  },
+  {
+   "name": "Yhorm",
+   "kind": "boss",
+   "aliases": [
+    "Yhorm the Giant"
+   ]
+  },
+  {
+   "name": "Soul of Cinder",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Gwyn",
+   "kind": "character",
+   "aliases": [
+    "Lord Gwyn"
+   ]
+  },
+  {
+   "name": "Firelink Shrine",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Kiln of the First Flame",
+   "kind": "location",
+   "aliases": [
+    "the Kiln"
+   ]
+  },
+  {
+   "name": "Coiled Sword",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Firelink Greatsword",
+   "kind": "weapon",
+   "aliases": []
+  },
+  {
+   "name": "Iudex Gundyr",
+   "kind": "boss",
+   "aliases": [
+    "Gundyr"
+   ]
+  },
+  {
+   "name": "Yuria of Londor",
+   "kind": "character",
+   "aliases": [
+    "Yuria"
+   ]
+  },
+  {
+   "name": "Anri of Astora",
+   "kind": "character",
+   "aliases": [
+    "Anri"
+   ]
+  },
+  {
+   "name": "Londor",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Slave Knight Gael",
+   "kind": "character",
+   "aliases": [
+    "Gael"
+   ]
+  },
+  {
+   "name": "Painted World of Ariandel",
+   "kind": "location",
+   "aliases": [
+    "Ariandel"
+   ]
+  },
+  {
+   "name": "Father Ariandel",
+   "kind": "boss",
+   "aliases": [
+    "Ariandel"
+   ]
+  },
+  {
+   "name": "Sister Frieda",
+   "kind": "boss",
+   "aliases": [
+    "Frieda",
+    "Black Flame Frieda"
+   ]
+  },
+  {
+   "name": "Sable Church of Londor",
+   "kind": "faction",
+   "aliases": [
+    "Sable Church"
+   ]
+  },
+  {
+   "name": "Corvian Knights",
+   "kind": "enemy",
+   "aliases": [
+    "Corvians"
+   ]
+  },
+  {
+   "name": "Sir Vilhelm",
+   "kind": "boss",
+   "aliases": [
+    "Vilhelm"
+   ]
+  },
+  {
+   "name": "The Painter",
+   "kind": "character",
+   "aliases": [
+    "painter of Ariandel"
+   ]
+  },
+  {
+   "name": "Dark Soul of Man",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Ringed City",
+   "kind": "location",
+   "aliases": [
+    "the Ringed City"
+   ]
+  },
+  {
+   "name": "Dreg Heap",
+   "kind": "location",
+   "aliases": [
+    "the Dreg Heap"
+   ]
+  },
+  {
+   "name": "Demon Prince",
+   "kind": "boss",
+   "aliases": []
+  },
+  {
+   "name": "Witch of Izalith",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Age of Fire",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Age of Dark",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Lord of Hollows",
+   "kind": "concept",
+   "aliases": [
+    "Dark Lord"
+   ]
+  },
+  {
+   "name": "Pygmies",
+   "kind": "faction",
+   "aliases": [
+    "humanity's oldest ancestors"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Lorian, the crippled elder prince, fights the Ashen One in the Lothric Castle throne room to protect his brother Lothric.",
+   "entities": [
+    "Lorian",
+    "Ashen One",
+    "Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Lorian cannot walk and instead teleports in bursts of flame, fighting with a blazing greatsword.",
+   "entities": [
+    "Lorian"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "After Lorian collapses, Lothric climbs onto his brother's back and the two fight together as a combined being.",
+   "entities": [
+    "Lorian",
+    "Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "While bonded together, Lothric casts miracles and homing soul projectiles while Lorian presses the physical assault with his flaming sword.",
+   "entities": [
+    "Lorian",
+    "Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Lothric is the true target of the fight because he is the actual Lord of Cinder, while Lorian serves mainly as a weapon and distraction.",
+   "entities": [
+    "Lothric",
+    "Lorian"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 85
+  },
+  {
+   "text": "Lorian and Lothric are ultimately both defeated and die together, their bound souls reaching their end simultaneously.",
+   "entities": [
+    "Lorian",
+    "Lothric"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "As Lothric dies, he remarks that his refusal of duty was unfair, acknowledging that he merely passed his burden to the Ashen One instead of avoiding it.",
+   "entities": [
+    "Lothric",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "The Ashen One claims the cinders of Lothric, completing the set of four hunted Lords of Cinder: the Abyss Watchers, Aldrich, Yhorm, and Lothric.",
+   "entities": [
+    "Ashen One",
+    "Lothric",
+    "Abyss Watchers",
+    "Aldrich",
+    "Yhorm"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 86
+  },
+  {
+   "text": "The Ashen One returns to Firelink Shrine and places the cinders of the Abyss Watchers, Aldrich, Yhorm, and Lothric upon four empty thrones.",
+   "entities": [
+    "Ashen One",
+    "Firelink Shrine",
+    "Abyss Watchers",
+    "Aldrich",
+    "Yhorm",
+    "Lothric"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "Ludleth of Courland, who had remained seated on the fifth throne throughout the story, turns to ash once the other four thrones are filled, completing the set of five Lords of Cinder.",
+   "entities": [
+    "Ludleth of Courland",
+    "Firelink Shrine"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 87
+  },
+  {
+   "text": "Ludleth of Courland had linked the first flame once before of his own free will, prior to the events of the game.",
+   "entities": [
+    "Ludleth of Courland"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The Firekeeper declares the Ashen One the true heir of the Lords of Cinder, not merely a substitute for them.",
+   "entities": [
+    "Firekeeper",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "The Firekeeper instructs the Ashen One to kneel before the bonfire and coiled sword at Firelink Shrine so the five seated lords can witness and acknowledge the Ashen One as their heir.",
+   "entities": [
+    "Firekeeper",
+    "Ashen One",
+    "Coiled Sword",
+    "Firelink Shrine"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "Power from the five occupied thrones surges into the bonfire, creating a vortex that transports the Ashen One and the Firekeeper from Firelink Shrine to the Kiln of the First Flame.",
+   "entities": [
+    "Firelink Shrine",
+    "Kiln of the First Flame",
+    "Ashen One",
+    "Firekeeper"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 89
+  },
+  {
+   "text": "The Kiln of the First Flame is the original place where Lord Gwyn first became a Lord of Cinder by sacrificing himself in the dying flame.",
+   "entities": [
+    "Kiln of the First Flame",
+    "Gwyn"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "By the time the Ashen One arrives, the Kiln of the First Flame resembles a graveyard of ash covering the ruins of fallen kingdoms from past cycles.",
+   "entities": [
+    "Kiln of the First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "At the center of the Kiln, the first flame itself has been reduced to a barely burning ember.",
+   "entities": [
+    "Kiln of the First Flame"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Soul of Cinder is an entity formed from the merged souls of every Lord of Cinder who has ever linked the flame, acting as the final guardian of the first flame.",
+   "entities": [
+    "Soul of Cinder"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Soul of Cinder wields the Firelink Greatsword, a coiled blade matching the Coiled Sword the Ashen One originally pulled from Iudex Gundyr.",
+   "entities": [
+    "Soul of Cinder",
+    "Firelink Greatsword",
+    "Coiled Sword",
+    "Iudex Gundyr"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "During the fight, the Soul of Cinder shifts unpredictably between combat styles, including a knight's straight sword, a sorcerer's staff, a flaming curved blade for pyromancy, and a polearm paired with miracles.",
+   "entities": [
+    "Soul of Cinder"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "In its final phase, the Soul of Cinder's coiled sword bursts into golden flame and its moveset shifts to channel the fighting style of Lord Gwyn himself.",
+   "entities": [
+    "Soul of Cinder",
+    "Gwyn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Gwyn's channeled moveset within the Soul of Cinder includes leaping attacks covering great distances, crackling lightning bolts, and a plunging thrust originally used to slay dragons.",
+   "entities": [
+    "Soul of Cinder",
+    "Gwyn"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "The Ashen One defeats the Soul of Cinder, causing the amalgamated armor of past champions to crumble into ash.",
+   "entities": [
+    "Ashen One",
+    "Soul of Cinder"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "After defeating the Soul of Cinder, the Ashen One faces three possible endings at the dying first flame: Link the Fire, usher in the Age of Dark, or usurp the flame to become Lord of Hollows.",
+   "entities": [
+    "Ashen One",
+    "Age of Fire",
+    "Age of Dark",
+    "Lord of Hollows"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "In the Link the Fire ending, the Ashen One sacrifices themselves into the first flame, becoming fuel for the fire and continuing the endless cycle of ages of fire.",
+   "entities": [
+    "Ashen One",
+    "Age of Fire"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The Age of Dark ending requires the Ashen One to have earlier found the Eyes of a Firekeeper from ages past and given them to the Firekeeper, letting her glimpse a world without fire.",
+   "entities": [
+    "Ashen One",
+    "Firekeeper"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "In the Age of Dark ending, the Firekeeper cradles the first flame and allows it to fade, ending the age of fire and plunging the world into darkness.",
+   "entities": [
+    "Firekeeper",
+    "Age of Dark"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "In an alternate version of the Age of Dark ending, the Ashen One can strike down the Firekeeper and take the dying flame for themselves, leaving the coming darkness without a guardian.",
+   "entities": [
+    "Ashen One",
+    "Firekeeper",
+    "Age of Dark"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "The usurpation ending is unlocked through Yuria of Londor's offer to claim the first flame rather than feed it, sealed by a secret ritual involving Anri of Astora.",
+   "entities": [
+    "Yuria of Londor",
+    "Anri of Astora",
+    "Ashen One"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "In the usurpation ending, the Ashen One absorbs the first flame into themselves and becomes the Lord of Hollows, ruling a new era where the undead reign.",
+   "entities": [
+    "Ashen One",
+    "Lord of Hollows"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Slave Knight Gael approaches the Ashen One in the Cathedral of the Deep carrying a fragment of a painting that serves as a doorway to another world.",
+   "entities": [
+    "Slave Knight Gael",
+    "Ashen One"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Gael asks the Ashen One to enter the painting and reignite flame in a painted world that has forgotten fire, hoping two bearers of ash fulfill a prophecy of renewal.",
+   "entities": [
+    "Slave Knight Gael",
+    "Ashen One"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Painted World of Ariandel is a frozen, snow-covered realm created as a refuge for forlorn and lost souls.",
+   "entities": [
+    "Painted World of Ariandel"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Painted World of Ariandel is meant to periodically burn away in a cleansing flame and be repainted anew, but this cycle has been deliberately stopped, causing the realm to rot.",
+   "entities": [
+    "Painted World of Ariandel"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Sister Frieda is an Unkindled who failed in her mission to link the fire and fled into the Painted World of Ariandel rather than continue trying.",
+   "entities": [
+    "Sister Frieda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Sister Frieda is the eldest sister of the Sable Church of Londor and is the sibling of Yuria of Londor.",
+   "entities": [
+    "Sister Frieda",
+    "Sable Church of Londor",
+    "Yuria of Londor"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Father Ariandel is a giant, corrupted crow-like guardian who sheltered Sister Frieda within the painted world.",
+   "entities": [
+    "Father Ariandel",
+    "Sister Frieda"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Sister Frieda convinced Father Ariandel to use a bowl of his own blood to suppress the cleansing flame, allowing the painted world to rot rather than be renewed.",
+   "entities": [
+    "Sister Frieda",
+    "Father Ariandel"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Corvian Knights serve Sister Frieda and hunt down and kill any refugees who pray for the cleansing flame's return.",
+   "entities": [
+    "Corvian Knights",
+    "Sister Frieda"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Sister Frieda imprisons the Painter, a young girl with the power to paint new worlds, in an attic to prevent her from creating a replacement realm.",
+   "entities": [
+    "Sister Frieda",
+    "The Painter"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "Sir Vilhelm is a knight loyal to Sister Frieda who guards the deeper reaches of the Painted World of Ariandel.",
+   "entities": [
+    "Sir Vilhelm",
+    "Sister Frieda",
+    "Painted World of Ariandel"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "The Ashen One frees the Painter, who reveals she needs a special pigment, the Dark Soul of Man, from her uncle Gael before she can paint a new world.",
+   "entities": [
+    "Ashen One",
+    "The Painter",
+    "Dark Soul of Man",
+    "Slave Knight Gael"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Ashen One battles Sister Frieda and Father Ariandel across multiple phases, with Ariandel reigniting the suppressed flame to revive Frieda after her first defeat.",
+   "entities": [
+    "Ashen One",
+    "Sister Frieda",
+    "Father Ariandel"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "In her final phase, Sister Frieda transforms into Black Flame Frieda, becoming faster and more aggressive before finally being defeated by the Ashen One.",
+   "entities": [
+    "Sister Frieda",
+    "Ashen One"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "After Sister Frieda and Father Ariandel are defeated, the cleansing flame spreads through the Painted World of Ariandel, finally burning away its rot.",
+   "entities": [
+    "Sister Frieda",
+    "Father Ariandel",
+    "Painted World of Ariandel"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "The Painter decides to name the new world she will eventually create simply \"Ash.\"",
+   "entities": [
+    "The Painter"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Slave Knight Gael continues his search for the Dark Soul of Man pigment beyond the painting, eventually traveling to the Ringed City.",
+   "entities": [
+    "Slave Knight Gael",
+    "Dark Soul of Man",
+    "Ringed City"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Ringed City is a sanctuary built for the Pygmies, humanity's oldest ancestors, hidden at the very end of the world.",
+   "entities": [
+    "Ringed City",
+    "Pygmies"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 0
+  },
+  {
+   "text": "Lord Gwyn sent those whose dark souls he feared most to the Ringed City.",
+   "entities": [
+    "Gwyn",
+    "Ringed City"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "A transitory symbol appears to the Ashen One after defeating the Soul of Cinder, guiding them toward the Ringed City via the Dreg Heap.",
+   "entities": [
+    "Ashen One",
+    "Ringed City",
+    "Dreg Heap"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "The Dreg Heap is a chaotic landscape where entire collapsed worlds and eras, including fragments of Lothric Castle and Anor Londo, have physically piled atop one another.",
+   "entities": [
+    "Dreg Heap"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "At the bottom of the Dreg Heap waits the Demon Prince, formed when two lesser demons merge into one being after being defeated.",
+   "entities": [
+    "Demon Prince",
+    "Dreg Heap"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "The Demon Prince is the last of the demons born from the chaos flame that originally consumed the Witch of Izalith.",
+   "entities": [
+    "Demon Prince",
+    "Witch of Izalith"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 15
+  }
+ ],
+ "_src": "src-3fa39680"
+}
