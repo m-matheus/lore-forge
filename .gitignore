@@ -19,6 +19,9 @@ channels/*/assets/overlays/*.mov
 channels/*/assets/overlays/src/
 channels/*/assets/music/*
 
+# Premiere keeps its own backups next to the project
+Adobe Premiere Pro Auto-Save/
+
 # OS / editor
 .DS_Store
 Thumbs.db
