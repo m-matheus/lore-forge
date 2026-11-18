@@ -48,7 +48,7 @@ Comenta qué pruebo en el próximo.
 
 ## 4. Configurações > Canal
 - **País:** Brasil.
-- **Palavras-chave:** `TheusPlays "GTA 6" "GTA VI" "GTA 6 sem spoiler" "segredos GTA 6" "dicas GTA 6" "guia GTA 6" "mundo aberto" gameplay`
+- **Palavras-chave:** `TheusPlays, GTA 6, GTA VI, GTA 6 sem spoiler, segredos GTA 6, dicas GTA 6, guia GTA 6, mundo aberto, gameplay`
 - **Configurações avançadas > Público:** "Não, este canal não é para crianças". O GTA VI é
   para maiores; marcar como infantil desliga comentários e recomendações.
 
