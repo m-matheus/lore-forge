@@ -19,9 +19,7 @@ mão no YouTube Studio (APO-40). A arte está em `assets/brand/` (ver `brand.md`
 **Descrição:**
 
 ```
-Eu vou lá ver pra você.
-
-GTA VI sem spoiler: segredos, lugares e testes. Eu entro no mapa, vou atrás do que você ficou curioso pra saber e mostro o que tem lá, sem estragar a história.
+GTA VI sem spoiler: segredos, testes, guias e os detalhes que passam batido.
 
 As séries do canal:
 • O Que Tem Lá? Eu vou até aquele lugar do mapa e mostro.
@@ -36,18 +34,14 @@ Comenta o que eu testo no próximo.
 
 Inglês:
 ```
-I'll go check it out for you.
-
-GTA VI with no spoilers: secrets, places and tests. I go into the map, track down what you were curious about and show you what's there, without ruining the story.
+GTA VI with no spoilers: secrets, tests, guides and the details everyone misses.
 
 Comment what I should test next.
 ```
 
 Espanhol:
 ```
-Yo voy a verlo por ti.
-
-GTA VI sin spoilers: secretos, lugares y pruebas. Entro al mapa, busco lo que tenías curiosidad por saber y te muestro lo que hay, sin arruinar la historia.
+GTA VI sin spoilers: secretos, pruebas, guías y los detalles que nadie nota.
 
 Comenta qué pruebo en el próximo.
 ```

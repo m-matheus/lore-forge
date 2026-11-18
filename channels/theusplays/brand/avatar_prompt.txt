@@ -2,14 +2,14 @@ Design a professional, high-quality logo mark for a YouTube gameplay channel: a 
 only, with no wordmark. The mark is built on the capital letter "{initials}", the channel's
 initial. The channel goes into open-world games to check things out for the viewer —
 hidden places, secrets, "can you actually do this?" tests and quick guides, always
-without story spoilers. Its motto is "I'll go and look for you". It will cover several
+without story spoilers. It will cover several
 games over time, so the mark must not reference any specific game. It will be used as
 the YouTube channel icon (square, shown cropped to a circle).
 
 THE MARK:
 A heavy, geometric capital "{initials}" with a thick, squared-off crossbar. Its stem tapers
 down into the point of a map location pin, with a small round hole near the tip like a
-real pin, so the mark reads both as the letter and as "I went there". The letter sits
+real pin, so the mark reads both as the letter and as a map pin. The letter sits
 inside one thick, plain circular ring that opens at the bottom where the pin point
 passes through it. The ring carries the silhouette when the icon is shrunk to 24 pixels.
 

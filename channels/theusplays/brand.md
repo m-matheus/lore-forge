@@ -1,8 +1,11 @@
 # TheusPlays — brand
 
-Eu vou lá ver pra você. A Portuguese gameplay channel (GTA VI first, other games later):
-secrets, places and tests, never story spoilers. YouTube: **TheusPlays**, `@theusplaysbr`
-(`@theusplays` belongs to an unrelated channel, inactive since 2017).
+A Portuguese gameplay channel (GTA VI first, other games later), never with story
+spoilers. YouTube: **TheusPlays**, `@theusplaysbr` (`@theusplays` belongs to an unrelated
+channel, inactive since 2017).
+
+No motto or tagline: the channel will make more kinds of video than exploration, so the
+name stands alone on the banner.
 
 This folder lives in lore-forge only so `loreforge channel brand` can build the assets.
 It moves to play-forge when that app exists (APO-44/APO-45). No lore pipeline runs here.
@@ -10,7 +13,7 @@ It moves to play-forge when that app exists (APO-44/APO-45). No lore pipeline ru
 ## Symbol
 A heavy geometric **T** whose stem ends in the point of a map pin, inside a plain ring
 that opens at the bottom for the point: ring plus point is the silhouette of a map
-pin, which is the channel's promise ("I went there"). The ring has no ticks on purpose:
+pin. The ring has no ticks on purpose:
 with ticks it read as a gun sight. Briefed in `brand/avatar_prompt.txt`.
 
 ## Colour
@@ -18,7 +21,7 @@ with ticks it read as a gun sight. Briefed in `brand/avatar_prompt.txt`.
 |---|---|---|
 | Background | `#07080A` | everything sits on near-black |
 | Wordmark | `#FFFFFF` | THEUS |
-| Yellow accent | `#FFD21F` | PLAYS, the tagline, the avatar mark, the banner route |
+| Yellow accent | `#FFD21F` | PLAYS, the avatar mark, the banner route |
 
 Lemon yellow, not Rockstar's orange-yellow, and never a letter inside a filled yellow
 square: the brand must not read as GTA or Rockstar.
@@ -41,4 +44,4 @@ how-forge thumbnails. The name is set in capitals as THEUS + PLAYS in two colour
 
 `--force` regenerates the two AI images; without it only the compositing is redone. On
 2026-11-18 two candidates of each were generated and the best kept (avatar without
-lettering, route clear of the tagline).
+lettering, route clear of the centre).
