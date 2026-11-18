@@ -1,0 +1,681 @@
+{
+ "entities": [
+  {
+   "name": "Ambrus",
+   "kind": "character",
+   "aliases": [
+    "Boyar Ambrus"
+   ]
+  },
+  {
+   "name": "Brencis",
+   "kind": "character",
+   "aliases": [
+    "Knyaz Brencis"
+   ]
+  },
+  {
+   "name": "Skender",
+   "kind": "character",
+   "aliases": [
+    "Knyaz Skender"
+   ]
+  },
+  {
+   "name": "Vale Sanguinar",
+   "kind": "location",
+   "aliases": [
+    "Vail Sanguis"
+   ]
+  },
+  {
+   "name": "Yulian Caudren",
+   "kind": "character",
+   "aliases": [
+    "Julian"
+   ]
+  },
+  {
+   "name": "Rosalia",
+   "kind": "character",
+   "aliases": [
+    "R."
+   ]
+  },
+  {
+   "name": "Katnika",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Bekir",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Coen",
+   "kind": "character",
+   "aliases": [
+    "Cohen",
+    "Kohan"
+   ]
+  },
+  {
+   "name": "Romulus",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Mycea",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Emanoil",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ion Borsa",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Vrakir",
+   "kind": "concept",
+   "aliases": [
+    "Rakier",
+    "Rakiri"
+   ]
+  },
+  {
+   "name": "Moroi",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Anahora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svartroad",
+   "kind": "location",
+   "aliases": [
+    "Svarogtrau"
+   ]
+  },
+  {
+   "name": "Leech Ghost",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Zanthi",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Anca",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Before being turned, Ambrus was a low-ranking mercenary soldier with no status in society.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "As a human, Ambrus suffered hardship and humiliation and came to hate Knyaz Skender.",
+   "entities": [
+    "Ambrus",
+    "Skender"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "When Ambrus stood up to Skender, Skender punished him by pouring boiling water down his throat and throwing him in a dungeon to die.",
+   "entities": [
+    "Ambrus",
+    "Skender"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "When Brencis invaded Vale Sanguinar, he found Ambrus dying in Skender's dungeon.",
+   "entities": [
+    "Brencis",
+    "Ambrus",
+    "Vale Sanguinar"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Brencis offered Ambrus a choice: die, or be turned and serve Brencis as his new master.",
+   "entities": [
+    "Brencis",
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Ambrus eagerly accepted Brencis's offer and became a Vrakir, serving as the right hand (boyar) of the Knyaz.",
+   "entities": [
+    "Ambrus",
+    "Brencis",
+    "Vrakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "After Ambrus was turned, he and Brencis invaded Vale Sanguinar together, targeting the royal nobles first.",
+   "entities": [
+    "Ambrus",
+    "Brencis",
+    "Vale Sanguinar"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Ambrus and Brencis killed Skender and most of the other nobles of Vale Sanguinar during the invasion.",
+   "entities": [
+    "Ambrus",
+    "Brencis",
+    "Skender",
+    "Vale Sanguinar"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Most nobles fought back against the invasion except Yulian Caudren, who knelt and kissed Ambrus's hand to pledge loyalty.",
+   "entities": [
+    "Yulian Caudren",
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Ambrus relished seeing the former nobility submit to him and enjoyed his new power as a Vrakir.",
+   "entities": [
+    "Ambrus",
+    "Vrakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 16
+  },
+  {
+   "text": "Before being turned, Ambrus had a lover named Rosalia who loved him deeply.",
+   "entities": [
+    "Ambrus",
+    "Rosalia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Rosalia waited for letters from Ambrus after one of his military campaigns, but his replies stopped coming.",
+   "entities": [
+    "Rosalia",
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Rosalia wrote to Ambrus saying she planned to travel to Svartroad to learn what happened to him.",
+   "entities": [
+    "Rosalia",
+    "Ambrus",
+    "Svartroad"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Rosalia eventually learned Ambrus had defied Skender and been imprisoned, and she wrote him a heartbroken letter believing she would never see him again.",
+   "entities": [
+    "Rosalia",
+    "Ambrus",
+    "Skender"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "After being turned into a Vrakir, Ambrus wrote to Rosalia telling her he had been reborn with the gift of eternal life and asking her to meet him on the night of the full moon.",
+   "entities": [
+    "Ambrus",
+    "Rosalia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Ambrus intended to turn Rosalia into a Vrakir so they could live together forever.",
+   "entities": [
+    "Ambrus",
+    "Rosalia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 14
+  },
+  {
+   "text": "Ambrus attempted to turn Rosalia, but the transformation failed and she became a Moroi instead of a Vrakir.",
+   "entities": [
+    "Ambrus",
+    "Rosalia",
+    "Moroi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Ambrus could not bring himself to kill Rosalia after she turned into a Moroi, so he abandoned her, leaving her violent and hungry for blood, with her old letters still on her body.",
+   "entities": [
+    "Ambrus",
+    "Rosalia",
+    "Moroi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "A woman named Katnika repeatedly wrote to Ambrus asking to be turned into a Vrakir, but Ambrus ignored her.",
+   "entities": [
+    "Katnika",
+    "Ambrus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Katnika eventually got her wish to be turned, but it was Bekir, not Ambrus, who turned her into a Moroi.",
+   "entities": [
+    "Katnika",
+    "Bekir",
+    "Moroi"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 17
+  },
+  {
+   "text": "Ambrus focused his efforts on running his draining dungeons and trying to earn Brencis's approval, feeling indebted to him for the gift of immortality.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "In Ambrus's draining dungeons, prisoners were hung upside down and drained of blood using leeches until death.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Any of Ambrus's subordinates who failed to maintain the dungeons properly were punished on the racks.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Beyond supplying blood to Brencis and the other boyars, Ambrus used his dungeons to exact revenge on the nobility of Vale Sanguinar who had wronged the common people.",
+   "entities": [
+    "Ambrus",
+    "Brencis",
+    "Vale Sanguinar"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ambrus ordered that the noble Romulus, who loved hunting and mutilated peasants for poaching, be dismembered piece by piece for each animal trophy he owned, then stitched back together by his wife and displayed publicly.",
+   "entities": [
+    "Ambrus",
+    "Romulus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ambrus ordered that the noble Mycea, who whipped his serfs for minor offenses, be forced to whip himself continuously until he stopped, at which point he would be drawn and quartered.",
+   "entities": [
+    "Ambrus",
+    "Mycea"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ambrus ordered that the noble Emanoil, who sold crops for gold while his peasants starved, have his melted valuables poured down his throat and his body denied burial.",
+   "entities": [
+    "Ambrus",
+    "Emanoil"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ambrus ordered that the noble Ion Borsa, who valued his hunting dogs and animals above his servants, be trampled by cows, doused in horse urine, and stuffed with sheep droppings before being displayed publicly.",
+   "entities": [
+    "Ambrus",
+    "Ion Borsa"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Ambrus's brutal punishments of corrupt nobles earned him the trust and favor of the common townspeople of Vale Sanguinar.",
+   "entities": [
+    "Ambrus",
+    "Vale Sanguinar"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Common townsfolk believed Ambrus would not harm ordinary people, only the rich and powerful, and defended him when others spoke against him.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Despite running draining dungeons for Brencis's blood supply, Ambrus refused to drink from that collected blood and instead kept his own personal 'blood cows' who willingly offered themselves to him.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Ambrus forced Yulian Caudren to beg on his knees for the 'honor' of having his blood drunk, using it as a form of psychological revenge for Yulian's earlier submission.",
+   "entities": [
+    "Ambrus",
+    "Yulian Caudren"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Ambrus mainly imprisoned old nobles, rich merchants, and corrupt monks in his dungeons, which made him seem like a lesser evil to the common people.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "Ambrus saw himself as having rid his people of evil and believed he was fundamentally different from the corrupt nobility he destroyed.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "theme",
+   "status": "inferred",
+   "chrono": 21
+  },
+  {
+   "text": "Ambrus's operations and reputation thrived as boyar until Coen began interfering with his draining dungeons.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "When Coen disrupted his dungeons, Ambrus retaliated by sending a message through drained noble corpses and publicly hanging nobles, blaming the deaths on Coen.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 61
+  },
+  {
+   "text": "Ambrus sent Coen a letter challenging him to an honorable duel to the death at the top of a hill by Marager, to be initiated by ringing an old bell at night.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "Ambrus valued honor and expected Coen, as a fellow Vrakir, to respect the terms of a fair duel.",
+   "entities": [
+    "Ambrus",
+    "Coen",
+    "Vrakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 62
+  },
+  {
+   "text": "If the player chooses, Coen can use Yulian Caudren to poison Ambrus instead of facing him in a fair duel, which shocks and disappoints Ambrus.",
+   "entities": [
+    "Coen",
+    "Ambrus",
+    "Yulian Caudren"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "Ambrus expresses admiration and respect for Coen in his letters, making the poisoning betrayal feel personal to him.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 63
+  },
+  {
+   "text": "When Coen defeats Ambrus, the player can choose to kill him outright or drain his blood and later meet his spirit in Anahora.",
+   "entities": [
+    "Coen",
+    "Ambrus",
+    "Anahora"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 64
+  },
+  {
+   "text": "In Anahora, Ambrus is shown as resentful that he only lived for two years after being turned, since to him living meant being powerful.",
+   "entities": [
+    "Ambrus",
+    "Anahora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "In Anahora, Ambrus becomes fearful and begs for mercy, appealing to Coen's humanity in his final desperate moments.",
+   "entities": [
+    "Ambrus",
+    "Coen",
+    "Anahora"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 65
+  },
+  {
+   "text": "Coen can choose to leave Ambrus to fade into a Leech Ghost and return to his maker, or invite him into an alliance.",
+   "entities": [
+    "Coen",
+    "Ambrus",
+    "Leech Ghost"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "The same choice to kill or invite Ambrus occurs even if Coen heads straight for the castle instead of dueling him at the hill.",
+   "entities": [
+    "Coen",
+    "Ambrus"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 66
+  },
+  {
+   "text": "If invited in, Ambrus acts like a supportive but melancholic companion to Coen, warning him of dangers and admiring his actions.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Extracted voice lines for Ambrus total less than 30 minutes of dialogue.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus's dialogue suggests he might have been willing to turn against Brencis and form an alliance with Coen instead.",
+   "entities": [
+    "Ambrus",
+    "Brencis",
+    "Coen"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ultimately Ambrus remains loyal to Brencis until the end because he feels he owes Brencis a debt for his immortal gift.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 67
+  },
+  {
+   "text": "Ambrus's chest armor bears a symbol similar to Brencis's armor, reflecting his lifelong pattern of serving others.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "A typical playthrough of the Ambrus storyline takes less than 10 minutes, which is seen as a missed opportunity for a deeper alliance questline.",
+   "entities": [
+    "Ambrus",
+    "Coen"
+   ],
+   "category": "production",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Among the three boyars, Ambrus is considered the most redeemable, since he mainly targeted corrupt nobles rather than innocents.",
+   "entities": [
+    "Ambrus",
+    "Zanthi",
+    "Bekir"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Ambrus, the boyar Bekir is characterized as a rapist who enjoyed hurting people for pleasure.",
+   "entities": [
+    "Bekir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Ambrus, the boyar Zanthi is characterized as someone who stole from and dismembered women.",
+   "entities": [
+    "Zanthi"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-b27b15e7"
+}

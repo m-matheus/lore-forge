@@ -1,0 +1,797 @@
+{
+ "entities": [
+  {
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": [
+    "Cohen of Lazlia"
+   ]
+  },
+  {
+   "name": "Brenus",
+   "kind": "character",
+   "aliases": [
+    "Princess",
+    "Brentis",
+    "Brentus"
+   ]
+  },
+  {
+   "name": "Isbrand",
+   "kind": "character",
+   "aliases": [
+    "Brand"
+   ]
+  },
+  {
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Anchor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Omnia",
+   "kind": "character",
+   "aliases": [
+    "Yonica",
+    "Leonica"
+   ]
+  },
+  {
+   "name": "Nish",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Farcus",
+   "kind": "character",
+   "aliases": [
+    "Focus"
+   ]
+  },
+  {
+   "name": "Dusko",
+   "kind": "character",
+   "aliases": [
+    "Dusk"
+   ]
+  },
+  {
+   "name": "Tournament Lord",
+   "kind": "character",
+   "aliases": [
+    "the vampire liege",
+    "Luna tournament host"
+   ]
+  },
+  {
+   "name": "Sara",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Craig",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Skull King",
+   "kind": "character",
+   "aliases": [
+    "ghostly Dawnwalker"
+   ]
+  },
+  {
+   "name": "Harica",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Helvia",
+   "kind": "character",
+   "aliases": [
+    "Hia"
+   ]
+  },
+  {
+   "name": "Vitio",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Baklan",
+   "kind": "character",
+   "aliases": [
+    "Baclan"
+   ]
+  },
+  {
+   "name": "Lazlia",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svatra",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Alton Market",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Crown Rock Knight",
+   "kind": "location",
+   "aliases": [
+    "Crown Rocket Knight"
+   ]
+  },
+  {
+   "name": "Dawnwalker",
+   "kind": "concept",
+   "aliases": [
+    "Dawn Walker"
+   ]
+  },
+  {
+   "name": "Vra Fang",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Rakiri",
+   "kind": "enemy",
+   "aliases": [
+    "wrongs",
+    "vampire spawn"
+   ]
+  },
+  {
+   "name": "The Sphere",
+   "kind": "item",
+   "aliases": []
+  },
+  {
+   "name": "Cohen's Father",
+   "kind": "character",
+   "aliases": [
+    "Dad"
+   ]
+  },
+  {
+   "name": "Vladimir",
+   "kind": "character",
+   "aliases": []
+  }
+ ],
+ "facts": [
+  {
+   "text": "Cohen's father trained him in hand-to-hand combat before revealing the plot against Brenus.",
+   "entities": [
+    "Cohen",
+    "Cohen's Father"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Vladimir conspired with men from Svatra to rise up against the vampire lord Brenus.",
+   "entities": [
+    "Vladimir",
+    "Brenus",
+    "Svatra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 8
+  },
+  {
+   "text": "Brenus had ended the village's taxes, tithes and chores in exchange for a pint of blood from a resident once every moon.",
+   "entities": [
+    "Brenus",
+    "Lazlia"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "When the village of Lazlia rose against him, Brenus had Cohen's family taken away and forced Cohen to watch, calling him a 'monster' for the uprising.",
+   "entities": [
+    "Brenus",
+    "Cohen",
+    "Lazlia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 9
+  },
+  {
+   "text": "Brenus turned Cohen at the silver mines by feeding him vampiric blood after the failed uprising.",
+   "entities": [
+    "Brenus",
+    "Cohen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Brenus told Cohen that resisting a sire's commanded blood-drinking made Cohen 'malformed' and a disappointing, deficient result of the vampiric gift.",
+   "entities": [
+    "Brenus",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Cohen survived being struck down by sunlight after his confrontation with Brenus, which Brenus had not expected.",
+   "entities": [
+    "Cohen",
+    "Brenus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 11
+  },
+  {
+   "text": "Anchor hid when Brenus's men attacked Lazlia and found only charred corpses when she returned.",
+   "entities": [
+    "Anchor",
+    "Lazlia",
+    "Brenus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Lazlia was sacked and burned, and its people disappeared without explanation after the failed uprising.",
+   "entities": [
+    "Lazlia",
+    "Brenus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Cohen remembers craving blood painfully after being turned, but afterward appeared to look like a normal human again.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Anchor explains that the standard vampiric transformation, called the Vra Fang, did not fully take hold on Cohen.",
+   "entities": [
+    "Cohen",
+    "Vra Fang"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 13
+  },
+  {
+   "text": "Omnia (also called Yonica) turned to forbidden magic from a secret library after praying for help against a plague ravaged by pilgrims and corpses.",
+   "entities": [
+    "Omnia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Omnia believed the devil answered her prayers in exchange for blood, leading her to attempt a magical ritual sigil.",
+   "entities": [
+    "Omnia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 19
+  },
+  {
+   "text": "Cohen and Anchor confronted Omnia as she attempted to complete a blood ritual, resulting in her death.",
+   "entities": [
+    "Cohen",
+    "Anchor",
+    "Omnia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "After Omnia's death, Cohen and Anchor discovered notes revealing her true intention was to lift a curse and free a group of cursed nuns.",
+   "entities": [
+    "Cohen",
+    "Anchor",
+    "Omnia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Anchor reveals that the nuns Omnia wanted to save had already been dead for a long time.",
+   "entities": [
+    "Anchor",
+    "Omnia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Cohen considered finishing Omnia's ritual himself despite the risk of death, but Anchor stopped him by taking the ritual notes.",
+   "entities": [
+    "Cohen",
+    "Anchor",
+    "Omnia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "A mysterious figure called the Skull King confronted Cohen, dismissing him as a 'half-breed' failed creation of Brenus.",
+   "entities": [
+    "Skull King",
+    "Cohen",
+    "Brenus"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Skull King claims to have a daughter named Harica who would be left 'doomed and alone' if he died.",
+   "entities": [
+    "Skull King",
+    "Harica"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "After being defeated, the Skull King describes an entity that wants to meld with his soul and strip away his personhood.",
+   "entities": [
+    "Skull King"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "The Skull King offers Cohen the choice to either let his soul be consumed by the entity or to invite the Skull King's essence into Cohen's own mind.",
+   "entities": [
+    "Skull King",
+    "Cohen"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Cohen initially refuses to invite the Skull King into his mind, and the Skull King is taken by the unknown force.",
+   "entities": [
+    "Cohen",
+    "Skull King"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 25
+  },
+  {
+   "text": "Lacra is a vampire of the Rakir bloodline who ambushed and tortured the soldier Nish for information.",
+   "entities": [
+    "Lacra",
+    "Nish"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Lacra reveals that Brenus's weak point is his own sire, a powerful and older vampire.",
+   "entities": [
+    "Lacra",
+    "Brenus",
+    "Isbrand"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Lacra says she has been trying to find a way to kill Brenus for a long time before meeting Cohen.",
+   "entities": [
+    "Lacra",
+    "Brenus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Nish reveals he was forced to serve Brenus as a soldier to protect his own village from suffering.",
+   "entities": [
+    "Nish",
+    "Brenus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 30
+  },
+  {
+   "text": "Cohen convinces Lacra to spare Nish's life after getting the information they needed.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Nish"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Lacra and Cohen agree to meet at a landmark called Crown Rock Knight to continue their search for Isbrand.",
+   "entities": [
+    "Lacra",
+    "Cohen",
+    "Crown Rock Knight"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 31
+  },
+  {
+   "text": "Cohen encounters a dying man who mistakes him for someone named Tobias and recognizes Cohen as a fellow Dawnwalker by his eyes.",
+   "entities": [
+    "Cohen",
+    "Dawnwalker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "The dying man possesses a broken sword and tells Cohen to seek smiths to reforge it, warning that something unseen is watching and growing inside Cohen.",
+   "entities": [
+    "Cohen"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 32
+  },
+  {
+   "text": "Cohen and companions Sara and Craig are attacked by a monstrous creature; Sara is critically wounded in the fight.",
+   "entities": [
+    "Cohen",
+    "Sara",
+    "Craig"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "Craig kills the wounded Sara himself, claiming she 'knew too much' and that vampire guards were coming.",
+   "entities": [
+    "Craig",
+    "Sara"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 35
+  },
+  {
+   "text": "A vampire Tournament Lord welcomes newly turned vampires as 'friends,' claiming they were all once human servants ('Verlin') like them.",
+   "entities": [
+    "Tournament Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Tournament Lord hosts a 'Luna tournament' where participants fight to retrieve a hidden coin from a maze under a willow tree.",
+   "entities": [
+    "Tournament Lord"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Winners of the Luna tournament are promised rewards including food, riches, and an invitation to the Tournament Lord's feast, while losers remain 'famine.'",
+   "entities": [
+    "Tournament Lord"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Tournament Lord forces a loser named Moth to retrieve a swallowed coin from another man's body via self-mutilation.",
+   "entities": [
+    "Tournament Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "The Tournament Lord offers Cohen a rare drink made from the blood of a baby girl, calling it a delicacy compared to common blood.",
+   "entities": [
+    "Tournament Lord",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Farcus, a nobleman turned into a vampire thrall, serves the Tournament Lord alongside his younger brother Dusko, who is described as 'damaged goods.'",
+   "entities": [
+    "Farcus",
+    "Dusko",
+    "Tournament Lord"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Cohen seeks a ring heirloom belonging to the Dresco family, which the Tournament Lord claims is not in his treasury.",
+   "entities": [
+    "Cohen",
+    "Tournament Lord"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "Cohen ultimately fights and kills the Tournament Lord after he reveals he recognizes Cohen as the one sabotaging his operation.",
+   "entities": [
+    "Cohen",
+    "Tournament Lord"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "After the Tournament Lord's death, Farcus thanks Cohen and asks for help finding his family's heirloom ring.",
+   "entities": [
+    "Farcus",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 42
+  },
+  {
+   "text": "The Tournament Lord claims he replaced an 'evil' predecessor called Lord Scander, but Cohen argues he merely replaced one tyrant with another.",
+   "entities": [
+    "Tournament Lord"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 41
+  },
+  {
+   "text": "A guard named Baklan told Lacra how to find a vampire-controlled village in search of information about Isbrand.",
+   "entities": [
+    "Baklan",
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 44
+  },
+  {
+   "text": "Cohen and Lacra travel to a village ruled by Rakiri soldiers to find the location of Isbrand.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The village elder, called Shime, demands that Cohen and Lacra prove their strength in combat before revealing Isbrand's location.",
+   "entities": [
+    "Lacra",
+    "Cohen",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 45
+  },
+  {
+   "text": "The village elder reveals Isbrand is trapped in a cave at the village's end, blocked by rock, where he is kept fed but never freed.",
+   "entities": [
+    "Isbrand"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 46
+  },
+  {
+   "text": "Isbrand has been imprisoned in a cave for two years, where small vampire-spawn creatures called 'wrongs' have been eating his regenerating limbs.",
+   "entities": [
+    "Isbrand",
+    "Rakiri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Lacra reveals that Brenus was her sire as well, making Isbrand effectively her 'grandfather' in the vampire hierarchy and Cohen her 'brother in blood.'",
+   "entities": [
+    "Lacra",
+    "Brenus",
+    "Isbrand",
+    "Cohen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 48
+  },
+  {
+   "text": "Cohen and Lacra kill the feral wrongs that were devouring Isbrand's body, ending their self-destructive feeding cycle.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand",
+    "Rakiri"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra says she needs time alone with Isbrand to find a way to restore him, implying a personal connection to his fate.",
+   "entities": [
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Lacra tells Cohen about another vampire named Vitio living in the Alton Market near the butcher shop in Svatra, who is unhappy with Brenus's rule.",
+   "entities": [
+    "Lacra",
+    "Vitio",
+    "Svatra",
+    "Alton Market"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 49
+  },
+  {
+   "text": "Cohen and Lacra enter a shared vision or memory-space to relive Isbrand's past using some form of blood-memory magic.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "In a memory, Isbrand is revealed to have been a Roman military commander before being turned into a vampire over ten centuries before the present day.",
+   "entities": [
+    "Isbrand"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "In another memory, Isbrand's wife Helvia rejects him after his transformation, refusing to go with him and choosing to burn rather than join him.",
+   "entities": [
+    "Isbrand",
+    "Helvia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "In a further memory, Isbrand is shown punishing Lacra and her allies for breaking vampire law, killing her companions and banishing her from his presence.",
+   "entities": [
+    "Isbrand",
+    "Lacra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "In the memory, Isbrand tells Lacra that 'the orcas' (an enforcing vampire faction) will hunt down those who break vampiric law.",
+   "entities": [
+    "Isbrand",
+    "Lacra"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 6
+  },
+  {
+   "text": "In that memory, Isbrand becomes empowered by a mysterious force at a certain place, gaining power he claims Lacra could have shared had she stayed loyal.",
+   "entities": [
+    "Isbrand",
+    "Lacra"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "Lacra, reliving the memory, finally understands and accepts that she cannot undo her past mistakes with Isbrand.",
+   "entities": [
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 7
+  },
+  {
+   "text": "After the memory sequence, Cohen and Lacra find the present-day, severely weakened Isbrand awake and aware, and Lacra offers to end his suffering, but he refuses her invitation to join with him.",
+   "entities": [
+    "Cohen",
+    "Lacra",
+    "Isbrand"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 52
+  },
+  {
+   "text": "The present Isbrand reveals a mysterious sphere artifact and demands Cohen submit to him in exchange for possibly helping find Cohen's family.",
+   "entities": [
+    "Isbrand",
+    "Cohen",
+    "The Sphere"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 54
+  },
+  {
+   "text": "Cohen refuses to bow to Isbrand, leading to a final confrontation between them.",
+   "entities": [
+    "Cohen",
+    "Isbrand"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 55
+  }
+ ],
+ "_src": "src-94d73d1d"
+}

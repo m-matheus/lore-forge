@@ -1,0 +1,319 @@
+{
+ "entities": [
+  {
+   "name": "Xanthe",
+   "kind": "character",
+   "aliases": [
+    "Mistress",
+    "Witch of the Keep"
+   ]
+  },
+  {
+   "name": "Harriclaire",
+   "kind": "character",
+   "aliases": [
+    "Harry Claire",
+    "Xanthe's daughter"
+   ]
+  },
+  {
+   "name": "Brennes",
+   "kind": "character",
+   "aliases": [
+    "Brenesus",
+    "Prince"
+   ]
+  },
+  {
+   "name": "Coen the Dawnwalker",
+   "kind": "character",
+   "aliases": [
+    "Dawnwalker",
+    "Coen"
+   ]
+  },
+  {
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Painted Door",
+   "kind": "location",
+   "aliases": [
+    "Painter Door",
+    "Cursed Door"
+   ]
+  },
+  {
+   "name": "Xanthe's Keep",
+   "kind": "location",
+   "aliases": [
+    "The Keep"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Xanthe kidnaps young women and keeps them hidden inside her keep.",
+   "entities": [
+    "Xanthe",
+    "Xanthe's Keep"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "To enter Xanthe's keep, Coen the Dawnwalker must use a special lantern on a statue beside a strange door.",
+   "entities": [
+    "Coen the Dawnwalker",
+    "Xanthe's Keep",
+    "The Painted Door"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A terrified servant guards the Painted Door and begs visitors not to touch or open it, fearing that doing so will summon the mistress of the keep.",
+   "entities": [
+    "The Painted Door",
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The servant at the keep feeds pieces of the kidnapped women to a dog kept somewhere in the boarded-up yard.",
+   "entities": [
+    "Xanthe's Keep"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe's home is boarded up completely, allowing no sunlight to enter.",
+   "entities": [
+    "Xanthe",
+    "Xanthe's Keep"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe used resin in rituals performed on the bodies of the kidnapped women.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe's daughter is named Harriclaire and wears a mask.",
+   "entities": [
+    "Harriclaire",
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe says Harriclaire is the one thing she lives for and the reason she continues to exist.",
+   "entities": [
+    "Xanthe",
+    "Harriclaire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe killed multiple kidnapped women because she believed it was necessary to keep Harriclaire alive.",
+   "entities": [
+    "Xanthe",
+    "Harriclaire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe claims that without her, Harriclaire would be lost or would die.",
+   "entities": [
+    "Xanthe",
+    "Harriclaire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe states that Harriclaire's soul remains intact, which she calls practically a miracle.",
+   "entities": [
+    "Xanthe",
+    "Harriclaire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe warns that nothing she creates or restores can last forever, at least not yet.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe hears mysterious voices that interrupt her and that she refuses to fully explain to Coen the Dawnwalker.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe implies that everyone eventually hears these voices and that no one has ever escaped them.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe reveals that Brennes was merely a convenience for her plans but has now become an obstacle.",
+   "entities": [
+    "Xanthe",
+    "Brennes"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe says Brennes seeks power he should not have and will not be able to control.",
+   "entities": [
+    "Xanthe",
+    "Brennes"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe states that Brennes endangered her daughter Harriclaire through his pursuit of forbidden power.",
+   "entities": [
+    "Xanthe",
+    "Brennes",
+    "Harriclaire"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe claims that ruling over peasants alone was not enough for Brennes; he desires something greater that she refuses to name.",
+   "entities": [
+    "Xanthe",
+    "Brennes"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe offers to help Coen the Dawnwalker defeat Brennes in exchange for her own survival and that of Harriclaire.",
+   "entities": [
+    "Xanthe",
+    "Coen the Dawnwalker",
+    "Brennes"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe tells Coen the Dawnwalker that sparing her is more convenient for her plans, not an act of reason or mercy.",
+   "entities": [
+    "Xanthe",
+    "Coen the Dawnwalker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe warns Coen the Dawnwalker that he does not understand what truly lies beneath the city or what Brennes is doing there.",
+   "entities": [
+    "Xanthe",
+    "Brennes",
+    "Coen the Dawnwalker"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brennes used Coen the Dawnwalker's family as leverage, removing them from the dungeon to ensure Coen's cooperation.",
+   "entities": [
+    "Brennes",
+    "Coen the Dawnwalker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brennes is aware that Coen the Dawnwalker is coming for him.",
+   "entities": [
+    "Brennes",
+    "Coen the Dawnwalker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Lacra is present when Xanthe strikes her deal with Coen the Dawnwalker and comments on his resourcefulness.",
+   "entities": [
+    "Lacra",
+    "Coen the Dawnwalker",
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe implies that Lacra answers to unnamed superiors who have significant influence over events.",
+   "entities": [
+    "Lacra",
+    "Xanthe"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe tells Coen the Dawnwalker that his heart remains regrettably human, suggesting he struggles with his transformation.",
+   "entities": [
+    "Xanthe",
+    "Coen the Dawnwalker"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-8dae92fc"
+}

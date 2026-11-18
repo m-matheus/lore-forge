@@ -1,0 +1,509 @@
+{
+ "entities": [
+  {
+   "name": "Coen of Lazlia",
+   "kind": "character",
+   "aliases": [
+    "Coen",
+    "Cohen"
+   ]
+  },
+  {
+   "name": "Francis",
+   "kind": "character",
+   "aliases": [
+    "Brand",
+    "Brenesh",
+    "the evil Kyaz"
+   ]
+  },
+  {
+   "name": "Lacra",
+   "kind": "character",
+   "aliases": [
+    "Lacro"
+   ]
+  },
+  {
+   "name": "Nebero",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Council of Orgas",
+   "kind": "faction",
+   "aliases": [
+    "the orgas"
+   ]
+  },
+  {
+   "name": "Luca",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Jana",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Anchor",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Morat",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Father Floren",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Leona",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Veil Sangora",
+   "kind": "location",
+   "aliases": [
+    "Veil Sangoro"
+   ]
+  },
+  {
+   "name": "Svatra",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Ourashi",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Rkeri",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Rockfalls range",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Dawnwalker",
+   "kind": "concept",
+   "aliases": [
+    "dawn walker"
+   ]
+  },
+  {
+   "name": "Arbiter",
+   "kind": "concept",
+   "aliases": []
+  },
+  {
+   "name": "Cobalt",
+   "kind": "enemy",
+   "aliases": [
+    "cobalts",
+    "kobolds"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Coen of Lazlia is a Dawnwalker, a being that drinks blood and grows more powerful at night.",
+   "entities": [
+    "Coen of Lazlia",
+    "Dawnwalker"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Francis calls Coen 'my son' during their final confrontation, implying a father-son relationship between them.",
+   "entities": [
+    "Francis",
+    "Coen of Lazlia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 85
+  },
+  {
+   "text": "Francis claims to have ruled or dominated others for hundreds of years before Coen's rebellion.",
+   "entities": [
+    "Francis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 80
+  },
+  {
+   "text": "Francis demands that Coen submit and bow to him, but Coen refuses.",
+   "entities": [
+    "Francis",
+    "Coen of Lazlia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 86
+  },
+  {
+   "text": "Francis warns Coen that defying him puts Coen's family at risk.",
+   "entities": [
+    "Francis",
+    "Coen of Lazlia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 86
+  },
+  {
+   "text": "Before his defeat, Francis secretly took steps to ensure he would have 'the last laugh' even after death.",
+   "entities": [
+    "Francis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 88
+  },
+  {
+   "text": "After the confrontation with Francis, a funeral is held for someone young who died, and Coen's mother is not told the truth about it.",
+   "entities": [
+    "Coen of Lazlia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 89
+  },
+  {
+   "text": "Coen ultimately defeats Francis in single combat without Lacra's assistance.",
+   "entities": [
+    "Coen of Lazlia",
+    "Francis",
+    "Lacra"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Years later, people tell stories of a lone hero who stormed Francis's castle and slew him, and these stories become half-believed legends.",
+   "entities": [
+    "Coen of Lazlia",
+    "Francis"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "After Francis's death, no one pays to maintain the city guard of Svatra, so it disbands.",
+   "entities": [
+    "Svatra",
+    "Francis"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "With the city guard gone, gangs of ruffians roam the streets of Svatra, and violence becomes common.",
+   "entities": [
+    "Svatra"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Without the ritual use of 'viceri blood', the plague returns to Veil Sangora after Francis's fall.",
+   "entities": [
+    "Veil Sangora",
+    "Francis"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "The Ourashi retreat permanently to villages high in the mountains after the events in Veil Sangora.",
+   "entities": [
+    "Ourashi",
+    "Veil Sangora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "After Francis's fall, shepherds occasionally experience rockslides, a sign that the Ourashi still exist nearby.",
+   "entities": [
+    "Ourashi"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Religious images and references to the god Rkeri are removed and forbidden following the events in Veil Sangora.",
+   "entities": [
+    "Rkeri",
+    "Veil Sangora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Anchor's relationship with Coen's father ends because the local priest disapproved of women like her.",
+   "entities": [
+    "Anchor",
+    "Father Floren"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "Monsters retreat into hiding after Francis's defeat but do not disappear entirely from Veil Sangora.",
+   "entities": [
+    "Veil Sangora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 96
+  },
+  {
+   "text": "The villagers of Veil Sangora eventually accept Luca despite her transformation into a beast.",
+   "entities": [
+    "Luca",
+    "Veil Sangora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Coen and Morat become close friends after the main conflict, despite disagreeing about the valley's future.",
+   "entities": [
+    "Coen of Lazlia",
+    "Morat"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Local fighters who hoped to retire peacefully after the monsters were gone instead find themselves dying in conflicts with other humans.",
+   "entities": [
+    "Morat"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "After Francis's defeat, Lacra leaves Veil Sangora, frustrated that Coen finished the fight without her help.",
+   "entities": [
+    "Lacra",
+    "Coen of Lazlia",
+    "Francis"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Lacra travels to distant lands after leaving Veil Sangora, continuously evading pursuers and causing destruction.",
+   "entities": [
+    "Lacra"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 98
+  },
+  {
+   "text": "Lacra served as Coen's first mentor, teaching him what he needed to know as a Dawnwalker.",
+   "entities": [
+    "Lacra",
+    "Coen of Lazlia"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 40
+  },
+  {
+   "text": "Coen prevents Anchor from finishing a ritual that was originally started by a character named Leona, due to unknown risks.",
+   "entities": [
+    "Coen of Lazlia",
+    "Anchor",
+    "Leona"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 93
+  },
+  {
+   "text": "A convent near Veil Sangora is avoided by locals, who hear the nuns singing at night as fog spreads around it.",
+   "entities": [
+    "Veil Sangora"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Coen, together with Lacra, kills every Cobalt (a kobold-like creature) in the Rockfalls mountain range.",
+   "entities": [
+    "Coen of Lazlia",
+    "Lacra",
+    "Cobalt",
+    "Rockfalls range"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Despite clearing the Rockfalls range of Cobalts, their caves remain dangerous, as other threats are hidden there.",
+   "entities": [
+    "Rockfalls range",
+    "Cobalt"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "By the end of his journey, Coen fully embraces his vampiric nature instead of fearing it.",
+   "entities": [
+    "Coen of Lazlia"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Coen's fate becomes permanently intertwined with his sister Luca's after her transformation.",
+   "entities": [
+    "Coen of Lazlia",
+    "Luca"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 97
+  },
+  {
+   "text": "Coen's mother shows some improvement in health for a few days after the main events, and Coen treasures this time with her.",
+   "entities": [
+    "Coen of Lazlia"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 94
+  },
+  {
+   "text": "Nebero is a Dawnwalker and an Arbiter who arrives in Veil Sangora shortly after Francis's defeat.",
+   "entities": [
+    "Nebero",
+    "Veil Sangora",
+    "Dawnwalker",
+    "Arbiter"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Nebero explains that an Arbiter is someone who resolves crises like the one that occurred in Veil Sangora.",
+   "entities": [
+    "Nebero",
+    "Arbiter"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Nebero serves the Council of Orgas, a group of superior Dawnwalkers who disapprove of Francis's claim to power.",
+   "entities": [
+    "Nebero",
+    "Council of Orgas",
+    "Francis"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Nebero explains that Luca's humanity cannot be restored, but she can survive and even thrive in moonlight as a transformed creature.",
+   "entities": [
+    "Nebero",
+    "Luca"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "The Council of Orgas wants to make Coen an offer he is expected not to refuse, viewing him as a rare and valuable Dawnwalker.",
+   "entities": [
+    "Council of Orgas",
+    "Coen of Lazlia"
+   ],
+   "category": "faction",
+   "status": "canon",
+   "chrono": 91
+  },
+  {
+   "text": "Coen agrees to answer the Council of Orgas's call after Nebero's offer.",
+   "entities": [
+    "Coen of Lazlia",
+    "Council of Orgas",
+    "Nebero"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Nebero gives Coen a letter with instructions and tells him he must leave before snow blocks the mountain passes.",
+   "entities": [
+    "Nebero",
+    "Coen of Lazlia"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Nebero mentions that Coen's sister 'cannot wait', implying another sibling is in danger elsewhere, setting up future events.",
+   "entities": [
+    "Nebero",
+    "Coen of Lazlia"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 92
+  },
+  {
+   "text": "Nebero stays behind in Veil Sangora to deal with the remaining followers and legacy of Francis.",
+   "entities": [
+    "Nebero",
+    "Francis",
+    "Veil Sangora"
+   ],
+   "category": "ending",
+   "status": "canon",
+   "chrono": 93
+  }
+ ],
+ "_src": "src-94d73d1d"
+}

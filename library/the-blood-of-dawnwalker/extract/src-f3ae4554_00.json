@@ -1,0 +1,479 @@
+{
+ "entities": [
+  {
+   "name": "Brencis",
+   "kind": "character",
+   "aliases": [
+    "Brises",
+    "Bransis",
+    "Brances",
+    "Brenes",
+    "Francis",
+    "Brrenus",
+    "Kaiser Beranius Lorentius"
+   ]
+  },
+  {
+   "name": "Ambrose",
+   "kind": "character",
+   "aliases": [
+    "Umbresses",
+    "Ambress"
+   ]
+  },
+  {
+   "name": "Zanthe",
+   "kind": "character",
+   "aliases": [
+    "Zanthi"
+   ]
+  },
+  {
+   "name": "Bakir",
+   "kind": "character",
+   "aliases": [
+    "Becker",
+    "Beckir"
+   ]
+  },
+  {
+   "name": "House Brencis",
+   "kind": "faction",
+   "aliases": [
+    "Brencis's clan",
+    "Brencis's lineage"
+   ]
+  },
+  {
+   "name": "Rome",
+   "kind": "location",
+   "aliases": [
+    "Roman Empire",
+    "Imperial Rome"
+   ]
+  },
+  {
+   "name": "Carpathians",
+   "kind": "location",
+   "aliases": [
+    "Carpathian Mountains"
+   ]
+  },
+  {
+   "name": "Cohen",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Dawnwalker Discord Bot",
+   "kind": "concept",
+   "aliases": [
+    "Dawn Walker bot"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Brencis was once a Roman senator and nobleman who was on track to become consul before his transformation into a vampire.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Before becoming a vampire, Brencis's original Roman name is transcribed in sources as Kaiser Beranius Lorentius.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 5
+  },
+  {
+   "text": "Brencis adopted the name 'Brencis' after his transformation, which is Slavic in origin.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "The name 'Brencis' is theorized to derive from the Slavic word 'breza', which was mistakenly interpreted by the game's creators as meaning 'laurel' or 'bay leaf', when it actually means 'birch tree' in Slavic languages.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In ancient Rome, a laurel crown (bay leaf wreath) was a symbol of triumph and victory worn by victorious generals and emperors.",
+   "entities": [
+    "Rome"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The tradition of wearing laurel crowns originated in Greek mythology and was later adopted by the Romans.",
+   "entities": [
+    "Rome"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that the developers of The Blood of Dawnwalker intended 'Brencis' to symbolically mean 'one crowned with laurel,' reflecting his status as a man of great accomplishment, but based this on an inaccurate translation.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Brencis was born in 131 AD during what is considered the golden era of the Roman Empire.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Brencis's family owned a vast landed estate in ancient Rome, complete with slaves, placing them among the wealthiest of the Roman elite.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 1
+  },
+  {
+   "text": "Brencis's noble status shaped his identity around the pursuit of social respect, influence, and legacy.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 2
+  },
+  {
+   "text": "Brencis's ambition to become consul suggests he was an intelligent, strategic thinker familiar with the politics of late Rome.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "inferred",
+   "chrono": 2
+  },
+  {
+   "text": "Brencis's story bridges two eras: Imperial Rome in 131 AD and the apocalyptic 14th century Carpathians, where the game's vampire plot takes place.",
+   "entities": [
+    "Brencis",
+    "Rome",
+    "Carpathians"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "The 14th century setting of The Blood of Dawnwalker is marked by collapse, plague, and widespread death across Europe.",
+   "entities": [
+    "Carpathians"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 50
+  },
+  {
+   "text": "Brencis is theorized to bring Roman ideals into the vampire world, including order through dominance, legacy through blood, and control through heraldry and hierarchy.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A message from the official Dawnwalker Discord bot refers to Brencis as 'your shepherd,' framing him as a caretaker figure to his followers.",
+   "entities": [
+    "Brencis",
+    "Dawnwalker Discord Bot"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Discord bot message states that before Brencis's arrival, people suffered plague, war, famine, and death, and that Brencis came to heal and protect them, in exchange for blood as a price for safety.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "A Latin verse associated with Brencis, translated into English, describes his followers offering to return his gifts of strength, hope, and medicine by letting him drink their blood as he drinks from them.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "location",
+   "status": "canon",
+   "chrono": 60
+  },
+  {
+   "text": "Brencis is interpreted as having built a cult rather than a traditional empire, using fear and ritual to maintain control over his followers.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's concept art depicts him with sickly, papery gray skin, sunken eyes, visible deformities, and ulcers on his scalp, appearing frozen in a state of decay.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "In early concept art Brencis was depicted with hair, but in his final in-game appearance he is bald with a smooth scalp.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "A fan-made 'redhead Brencis' image exists as a meme created by a Discord server member named Lord Dracula.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's armor is archaic and ceremonial but functional, featuring spikes and a grim, medieval-inspired stylization rather than authentic Roman design.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's armor includes a belt and robe with patterns reminiscent of Roman mosaics, suggesting an effort to preserve his Roman legacy visually.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's armor resembles Ambrose's armor in style, including chain mail and a chest plate, suggesting Brencis adapted to a more medieval aesthetic despite his Roman origins.",
+   "entities": [
+    "Brencis",
+    "Ambrose"
+   ],
+   "category": "item",
+   "status": "inferred",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's original concept art color scheme uses rich bronze and black tones to evoke nobility.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's armor features a stylized double-headed dragon emblem across his chest, theorized to be a distorted version of the Roman legionary standard, the aquila.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The double-headed dragon emblem on Brencis's armor is theorized to represent duality: the mortal and immortal aspects of his existence, his Roman origin versus his vampire future, or his inner conflict between discipline and monstrous hunger.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A jagged, tooth-like pattern appears at the center of the dragon emblem on both Brencis's and Ambrose's armor, possibly symbolizing vampire teeth, lineage, or house allegiance.",
+   "entities": [
+    "Brencis",
+    "Ambrose"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis founded the vampiric clan that Ambrose is now part of, based on shared heraldic symbolism between their armors.",
+   "entities": [
+    "Brencis",
+    "Ambrose"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Ambrose's version of the shared emblem is sleeker and more refined than Brencis's, suggesting the symbol and legacy evolved over time.",
+   "entities": [
+    "Brencis",
+    "Ambrose"
+   ],
+   "category": "item",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Unlike Brencis and Ambrose, the vampires Zanthe and Bakir do not wear the shared heraldic emblem, suggesting they may belong to different houses or have different motivations.",
+   "entities": [
+    "Zanthe",
+    "Bakir",
+    "Brencis",
+    "Ambrose"
+   ],
+   "category": "faction",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "A second, grayscale version of Brencis's concept art strips away color, possibly representing an alternate design option considered by the developers.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's armor includes spiked pauldrons, chain mail, and a detailed ceremonial blade at his hip, reinforcing his role as a commander and strategist rather than a mere nobleman.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis sees vampirism not merely as survival but as a new form of civilization, a twisted continuation of Roman order.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis's unfulfilled human ambition to become consul resurfaces in his vampiric goal of founding 'House Brencis' as a new form of empire.",
+   "entities": [
+    "Brencis",
+    "House Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis did not seek world domination over all mortals, which may explain why vampires in the game invaded only a small region rather than the whole world.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's psychological profile is theorized to be built on three patterns: parasitic existence, manipulation, and a belief in his own superiority.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis recruits followers through ideology and vision rather than brute force, offering them a place in his new vampiric order.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "It is theorized that Brencis presents himself as a messianic figure who brings order to a plague-ridden, chaotic Europe.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "Brencis's story is interpreted as a founding myth for vampire society, one that other vampires may revere, fear, or rebel against.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The analyst describes Brencis as both a cautionary tale and a power fantasy, a man who lost everything and rebuilt it amid the chaos of a plagued world.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "In The Blood of Dawnwalker, Brencis is framed not simply as a villain but as a founder-type character, akin to a ruler or father figure representing the caregiver archetype.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "theme",
+   "status": "theory",
+   "chrono": null
+  },
+  {
+   "text": "The analyst has previously created character analyses for Ambrose, Bakir, and Zanthe, and expresses anticipation for future lore on a character named Cohen.",
+   "entities": [
+    "Ambrose",
+    "Bakir",
+    "Zanthe",
+    "Cohen"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-f3ae4554"
+}

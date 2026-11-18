@@ -1,0 +1,749 @@
+{
+ "entities": [
+  {
+   "name": "Coen",
+   "kind": "character",
+   "aliases": [
+    "Dawnwalker",
+    "Penumbro"
+   ]
+  },
+  {
+   "name": "Brencis",
+   "kind": "boss",
+   "aliases": [
+    "Knyaz of Vale Sangora",
+    "Grotesque Ascendant",
+    "Caeso Burrienus Laurentius"
+   ]
+  },
+  {
+   "name": "Ambrus",
+   "kind": "boss",
+   "aliases": [
+    "The Right Fist of the Knyaz"
+   ]
+  },
+  {
+   "name": "Bakir",
+   "kind": "boss",
+   "aliases": [
+    "The Mad Khan"
+   ]
+  },
+  {
+   "name": "Xanthe",
+   "kind": "boss",
+   "aliases": [
+    "The Dark Mistress"
+   ]
+  },
+  {
+   "name": "Vrakhiri",
+   "kind": "faction",
+   "aliases": [
+    "Vrakhir"
+   ]
+  },
+  {
+   "name": "Murohns",
+   "kind": "faction",
+   "aliases": [
+    "Murohn"
+   ]
+  },
+  {
+   "name": "Vrakhiri Court",
+   "kind": "faction",
+   "aliases": []
+  },
+  {
+   "name": "Vale Sangora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Laslea Glen",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Griefberg Castle",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Anachora",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Maragir Wealds",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Lunar Manor",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svartrau Cathedral",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Boar's Back",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Briar Sloughs",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Svartrau City",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Rockfalls",
+   "kind": "location",
+   "aliases": []
+  },
+  {
+   "name": "Pieter, Retired Sellsword",
+   "kind": "enemy",
+   "aliases": [
+    "Pieter"
+   ]
+  },
+  {
+   "name": "Ravenous Bear",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "The Forgotten Guardian",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Vrakhiri Banneret",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Chief Jailor",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Cerbus the Scornful",
+   "kind": "enemy",
+   "aliases": [
+    "Cerbus"
+   ]
+  },
+  {
+   "name": "Rayko the Incorruptible",
+   "kind": "enemy",
+   "aliases": [
+    "Rayko"
+   ]
+  },
+  {
+   "name": "Murohn Malformed Monstrosity",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Pack Leader",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Renegade Bruiser",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Great Bog Wurm",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "The Bloodletter",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Munch-Munch",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Essence of Grief",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Almshouse Monstrosity",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Mihai",
+   "kind": "enemy",
+   "aliases": []
+  },
+  {
+   "name": "Rurg the Honourable",
+   "kind": "enemy",
+   "aliases": [
+    "Rurg"
+   ]
+  },
+  {
+   "name": "Ursul the Undefeated",
+   "kind": "enemy",
+   "aliases": [
+    "Ursul"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "The Blood of Dawnwalker is set in 14th century medieval Europe, in a region called Vale Sangora within the Carpathian area.",
+   "entities": [
+    "Vale Sangora"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the chaos of the Black Plague, high-ranking vampires known as Vrakhiri emerged from hiding and seized control of human settlements.",
+   "entities": [
+    "Vrakhiri"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "The ruling Vrakhiri imposed an oppressive 'blood tax' on the human peasantry.",
+   "entities": [
+    "Vrakhiri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "Vrakhiri are ancient, true-born or noble vampires known for high intelligence and immense power.",
+   "entities": [
+    "Vrakhiri"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Knyaz and Boyars are medieval political titles given to vampire lords who rule over territories.",
+   "entities": [
+    "Vrakhiri Court"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Murohns are feral, grotesque monstrosities created when a vampire's transformation fails or mutates uncontrollably.",
+   "entities": [
+    "Murohns"
+   ],
+   "category": "world",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Coen is the protagonist of The Blood of Dawnwalker, a being called a Dawnwalker or Penumbro who possesses both human and vampiric traits.",
+   "entities": [
+    "Coen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Coen is human during the day and transforms into a creature of blood at night.",
+   "entities": [
+    "Coen"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Coen has a limited amount of time to save his family while confronting the ruling Vrakhiri Court.",
+   "entities": [
+    "Coen",
+    "Vrakhiri Court"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis is the Knyaz of Vale Sangora, also known as the Grotesque Ascendant.",
+   "entities": [
+    "Brencis",
+    "Vale Sangora"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Brencis was born in 131 AD during the Roman Empire under the name Caeso Burrienus Laurentius.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Brencis survived for centuries hidden in the shadows before the 14th-century plague let him establish Vale Sangora as his personal domain.",
+   "entities": [
+    "Brencis",
+    "Vale Sangora"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "Brencis is the mastermind who turned Coen into a Dawnwalker, intending to use him as an ultimate weapon or vessel.",
+   "entities": [
+    "Brencis",
+    "Coen"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 20
+  },
+  {
+   "text": "Coen's first encounter with Brencis occurs in a narrative showcase fight at Laslea Glen during the prologue.",
+   "entities": [
+    "Coen",
+    "Brencis",
+    "Laslea Glen"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 21
+  },
+  {
+   "text": "The final battle against Brencis is a two-phase climax fight that takes place at Griefberg Castle and Anachora.",
+   "entities": [
+    "Brencis",
+    "Griefberg Castle",
+    "Anachora"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Brencis's intended tone in narration is authoritative, ancient, calm yet terrifyingly detached.",
+   "entities": [
+    "Brencis"
+   ],
+   "category": "production",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus holds the title of the Right Fist of the Knyaz, serving Brencis.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Unlike most ancient Vrakhiri, Ambrus was born a peasant human who endured years of humiliation and poverty.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus was turned into a vampire relatively recently compared to his Vrakhiri peers.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus hides a deep inferiority complex behind his immaculate clothing, perfect hair, and noble posture.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus desperately seeks to prove his worth to Knyaz Brencis.",
+   "entities": [
+    "Ambrus",
+    "Brencis"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus is fought in the Maragir Wealds region.",
+   "entities": [
+    "Ambrus",
+    "Maragir Wealds"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus is a highly aggressive swordmaster who uses fast dash strikes and blood-infused parries.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ambrus can be weakened before his duel if the player completes the side quest 'The Bittersweet Toast'.",
+   "entities": [
+    "Ambrus"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir is known as the Mad Khan among the Vrakhiri Court.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir was originally a warrior of the Central Asian steppes, among the Huns, who pillaged across Eurasia centuries ago.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 3
+  },
+  {
+   "text": "Even as a mortal, Bakir possessed an unquenchable thirst for slaughter.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "As a Vrakhir, Bakir despises hiding in secrecy and revels in bloodshed, demanding to be the center of attention.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir is fought at Lunar Manor.",
+   "entities": [
+    "Bakir",
+    "Lunar Manor"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir is a relentless brute-force fighter combining heavy weapon sweeps with erratic blood-magic charges.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe is called the Dark Mistress and is the oldest active member of the Vrakhiri Court.",
+   "entities": [
+    "Xanthe",
+    "Vrakhiri Court"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe was once a high priestess on a remote Greek island in antiquity.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 2
+  },
+  {
+   "text": "Centuries of decay have affected Xanthe's body and mind, causing her to whisper to unseen spirits.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Although Xanthe appears insane to mortals, she understands the fundamental cosmic nature of the world better than anyone else in the Vrakhiri Court.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe is fought at Svartrau Cathedral.",
+   "entities": [
+    "Xanthe",
+    "Svartrau Cathedral"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Xanthe's boss fight is widely considered the most punishing in the game, using blood-orb siphon mechanics, mirror illusions, and summoned Knight Bannerets to defend her altar.",
+   "entities": [
+    "Xanthe"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pieter is an aged mercenary veteran defending his village who has been driven mad by vampire blood contamination.",
+   "entities": [
+    "Pieter, Retired Sellsword"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Pieter is found in the Laslea Glen and Boar's Back region.",
+   "entities": [
+    "Pieter, Retired Sellsword",
+    "Laslea Glen",
+    "Boar's Back"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Ravenous Bear is a massive woodland predator mutated by drinking run-off Vrakhiri blood from nearby mass graves.",
+   "entities": [
+    "Ravenous Bear"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Forgotten Guardian is an ancient stone automaton left behind by a forgotten classical civilization.",
+   "entities": [
+    "The Forgotten Guardian"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Vrakhiri Banneret is a patrolling commander who enforces Brencis's blood tax.",
+   "entities": [
+    "Vrakhiri Banneret",
+    "Brencis"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Chief Jailor is a sadist appointed to manage human captives destined for blood harvests, found in the Briar Sloughs region.",
+   "entities": [
+    "Chief Jailor",
+    "Briar Sloughs"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Cerbus the Scornful is a rogue Vrakhir knight who was banished to the swamps of Briar Sloughs.",
+   "entities": [
+    "Cerbus the Scornful",
+    "Briar Sloughs"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rayko the Incorruptible is a former Holy Order paladin who succumbed to vampirism but still recites hymns during combat.",
+   "entities": [
+    "Rayko the Incorruptible"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Murohn Malformed Monstrosity is a terrifyingly distorted failed vampire mutation that lurks in deep bog caverns in Briar Sloughs.",
+   "entities": [
+    "Murohn Malformed Monstrosity",
+    "Briar Sloughs"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Pack Leader is a dire shadow-wolf alpha infused with vampiric essence, found in Briar Sloughs.",
+   "entities": [
+    "Pack Leader",
+    "Briar Sloughs"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Renegade Bruiser is an outlaw champion who rules over swamp bandits in Briar Sloughs.",
+   "entities": [
+    "Renegade Bruiser",
+    "Briar Sloughs"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Great Bog Wurm is a colossal subterranean serpent lurking beneath the marshes of the Maragir Wealds and Rockfalls region.",
+   "entities": [
+    "Great Bog Wurm",
+    "Maragir Wealds",
+    "Rockfalls"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Bloodletter is a Vrakhiri executioner specializing in blood magic rituals, found in the Maragir Wealds and Rockfalls region.",
+   "entities": [
+    "The Bloodletter",
+    "Maragir Wealds",
+    "Rockfalls"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Munch-Munch is a towering, ravenous ogre-like creature infesting mountain caves in the Maragir Wealds and Rockfalls region.",
+   "entities": [
+    "Munch-Munch",
+    "Maragir Wealds",
+    "Rockfalls"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Essence of Grief is a spectral manifestation of plague victims' agony, found in the Maragir Wealds and Rockfalls region.",
+   "entities": [
+    "Essence of Grief",
+    "Maragir Wealds",
+    "Rockfalls"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The Almshouse Monstrosity is a massive Murohn formed from infected plague victims trapped inside a quarantined asylum in Svartrau City.",
+   "entities": [
+    "Almshouse Monstrosity",
+    "Svartrau City"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Mihai is a legendary ancient knight resurrected as an undead guardian in Svartrau City.",
+   "entities": [
+    "Mihai",
+    "Svartrau City"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Rurg the Honourable is a duelist who challenges Coen to test his strength, found in Svartrau City.",
+   "entities": [
+    "Rurg the Honourable",
+    "Coen",
+    "Svartrau City"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Ursul the Undefeated is a former gladiatorial champion turned night hunter, found in Svartrau City.",
+   "entities": [
+    "Ursul the Undefeated",
+    "Svartrau City"
+   ],
+   "category": "enemy",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-0b7659d5"
+}

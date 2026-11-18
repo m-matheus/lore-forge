@@ -1,0 +1,343 @@
+{
+ "entities": [
+  {
+   "name": "Bakir",
+   "kind": "boss",
+   "aliases": [
+    "my lege",
+    "my liege",
+    "my lord"
+   ]
+  },
+  {
+   "name": "Fergus",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Arachia",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Ruran tribe",
+   "kind": "faction",
+   "aliases": [
+    "Ruran Kaganate"
+   ]
+  },
+  {
+   "name": "Luna Tournament",
+   "kind": "event",
+   "aliases": [
+    "the maze tournament"
+   ]
+  },
+  {
+   "name": "Minina",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Maisu",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "Martin",
+   "kind": "character",
+   "aliases": []
+  },
+  {
+   "name": "The Dawnwalker (protagonist)",
+   "kind": "character",
+   "aliases": [
+    "the moth",
+    "the masked contestant"
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "text": "Bakir hosts a tournament called the Luna Tournament, held inside a maze.",
+   "entities": [
+    "Bakir",
+    "Luna Tournament"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Contestants in the Luna Tournament hide their identities by wearing masks shaped like vermin, such as moths.",
+   "entities": [
+    "Luna Tournament",
+    "Bakir"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The goal of the Luna Tournament is to reach the heart of the maze, retrieve a hidden token, and present it to a boy.",
+   "entities": [
+    "Luna Tournament"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir refers to all tournament contestants as 'vermin' until they win, after which he calls them his 'friends'.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir tells contestants that the token is a precious coin hidden under a willow tree.",
+   "entities": [
+    "Bakir",
+    "Luna Tournament"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir declares that in the tournament biting, kicking, and cheating are all permitted and nothing is forbidden or dishonorable.",
+   "entities": [
+    "Bakir",
+    "Luna Tournament"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir warns that if no contestant retrieves the coin by dawn, all contestants will remain 'vermin'.",
+   "entities": [
+    "Bakir",
+    "Luna Tournament"
+   ],
+   "category": "mechanic",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Contestants who survive but do not win are promised an invitation to Bakir's feast.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "During the tournament, the protagonist spares a defeated opponent who begs for mercy so he can return to his son.",
+   "entities": [
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir mocks the protagonist's act of mercy, saying there is always room on his table for fools who show kindness.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "The protagonist becomes the last contestant standing in the tournament, winning the right to retrieve Bakir's coin.",
+   "entities": [
+    "The Dawnwalker (protagonist)",
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir reveals that the coin had been swallowed by one of the defeated contestants, and demands the protagonist cut it out of the body.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Fergus is Bakir's subordinate, threatened with having his tongue cut out for breaking a promise of discretion to the protagonist.",
+   "entities": [
+    "Fergus",
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "After winning, the protagonist is made to surrender both weapon and mask to Bakir's court as a condition of becoming his 'friend'.",
+   "entities": [
+    "The Dawnwalker (protagonist)",
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir gives the protagonist a drink that is revealed to be blood rather than wine.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir explains that the blood he serves comes from a single carefully selected donor, a baby girl, rather than mixed 'vile swill'.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir asks the protagonist how he would like to die, claiming the way a man wishes to die reveals his true nature.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir states that even his own kind cannot escape death, and recalls that his father was the only meal that ever gave him indigestion.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir shows the protagonist his treasury filled with gold, emeralds, fine weaponry, and ancient relics.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "item",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir claims that the treasure itself has no true value to him, and that what he truly values is power over others.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "theme",
+   "status": "canon",
+   "chrono": null
+  },
+  {
+   "text": "Bakir recounts that in his first life he served as advisor to the Kagan of the Ruran tribe.",
+   "entities": [
+    "Bakir",
+    "Ruran tribe"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 5
+  },
+  {
+   "text": "Bakir was captured by enemies of the Kagan, tortured, and eventually managed to escape.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 10
+  },
+  {
+   "text": "After escaping captivity, Bakir wandered the plains in a confused, half-mad state without purpose.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 12
+  },
+  {
+   "text": "Bakir was found and taken in by a being named Arachia, who turned him and also tortured him for pleasure.",
+   "entities": [
+    "Bakir",
+    "Arachia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 15
+  },
+  {
+   "text": "After roughly five years with Arachia, Bakir killed him, an act he describes as finally becoming a man instead of a pest.",
+   "entities": [
+    "Bakir",
+    "Arachia"
+   ],
+   "category": "history",
+   "status": "canon",
+   "chrono": 18
+  },
+  {
+   "text": "Near the end of their encounter, the protagonist is revealed to be a traitor working against Bakir.",
+   "entities": [
+    "The Dawnwalker (protagonist)",
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 90
+  },
+  {
+   "text": "Bakir offers the protagonist a form of death or 'homecoming,' which the protagonist declines.",
+   "entities": [
+    "Bakir",
+    "The Dawnwalker (protagonist)"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": 95
+  },
+  {
+   "text": "Bakir chooses to remain and be destroyed with his victims rather than accept the offered release, claiming he has experienced every horror except this one.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "boss",
+   "status": "canon",
+   "chrono": 99
+  },
+  {
+   "text": "Bakir claims to have experienced nearly every extreme of suffering and cruelty in his long life, including torturing others and being tortured himself.",
+   "entities": [
+    "Bakir"
+   ],
+   "category": "character",
+   "status": "canon",
+   "chrono": null
+  }
+ ],
+ "_src": "src-0850b9f5"
+}
