@@ -1,23 +1,23 @@
-A very wide, very dark, flat graphic background for a gaming channel banner: a stylized
-top-down map at night. Fine topographic contour lines and a faint street grid in dark
-charcoal grey, barely visible against near-black ({background}).
+A very wide, very dark, flat graphic background for a gaming channel banner. Near-black
+({background}) with a subtle fine grain. Energetic but clean, like a modern esports
+broadcast graphic: bold diagonal stripes and sharp angular slashes of vivid lemon yellow
+({accent}) on the far left and the far right of the image, with a few thin parallel
+diagonal yellow lines and a faint dark-charcoal halftone dot gradient around them.
 
-One vivid lemon yellow ({accent}) dashed route line crosses the whole image from left to
-right THROUGH THE VERTICAL MIDDLE, because on computers only a thin horizontal strip
-through the middle of the banner is shown:
-- it enters at the far left edge at about half the image height,
-- dips gently to about 60% of the height while it passes under the empty centre,
-- rises again and ends at a small yellow location pin near the far right edge, at about
-  half the image height,
-- with a few tiny yellow waypoint dots along it, mostly in the left and right thirds.
-Nothing else is yellow, and the top and bottom of the image are only faint map.
+Layout matters, because on computers only a thin horizontal strip through the vertical
+middle of the banner is shown: the yellow diagonal shapes on each side must cross the
+vertical middle of the image (from 35% to 65% of the height) so they are visible in that
+strip. They stay inside the outer 18% of the width on each side.
 
-The CENTRE must stay almost empty and dark: the middle 60% of the width, from 35% to 57%
-of the height, is a calm, plain expanse of map where text will be placed later. The route
-passes below that area, never through it.
+Across the whole background, including the centre, add one faint texture in dark
+charcoal grey and low contrast: a scattered pattern of small plus-shaped game controller
+D-pad crosses, at a few small sizes and slight rotations, spread evenly like confetti.
+White text will be placed in the centre later and must stay perfectly readable, so the
+centre has no shapes other than that faint texture.
 
-Modern, minimal, vector-like; the only colour is the yellow. Do not imitate Grand Theft
-Auto or Rockstar Games: no pink or orange sunset, no palm trees, no neon, no star, no
-recognizable city or coastline.
+Modern, minimal, vector-like; the only colour is the yellow, and the texture is not
+yellow. No map, no route, no pin. No game references beyond the D-pad crosses: no
+controllers, no characters, no weapons, no cars, no city. Do not imitate Grand Theft Auto
+or Rockstar Games: no pink or orange sunset, no palm trees, no neon, no star.
 
 ABSOLUTELY NO TEXT, no letters, no numbers, no logos, no borders.

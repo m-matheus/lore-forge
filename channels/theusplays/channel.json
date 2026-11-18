@@ -3,13 +3,17 @@
   "slug": "theusplays",
   "language": "pt",
   "thumbnail": {
-    "title_font": "assets/fonts/title.ttf",
-    "badge_font": "assets/fonts/title.ttf",
+    "title_font": "assets/fonts/Bungee-Regular.ttf",
+    "badge_font": "assets/fonts/Montserrat-ExtraBold.ttf",
     "title_color": "#FFFFFF",
     "badge_color": "#FFD21F"
   },
   "brand": {
-    "accent_suffix": "Plays"
+    "accent_suffix": "Plays",
+    "banner_dim": false,
+    "banner_veil": 90,
+    "wordmark_height": 0.096,
+    "wordmark_tracking": 0.04
   },
   "base_tags": [
     "theusplays",

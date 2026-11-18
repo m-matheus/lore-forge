@@ -55,6 +55,21 @@ def test_run_builds_the_video_watermark_and_skips_the_podcast_cover(tmp_path):
     assert Image.open(made["banner"]).size == (2560, 1440)
 
 
+def test_banner_keeps_the_art_colours_when_the_night_grade_is_off(tmp_path):
+    yellow = (255, 210, 31)
+    art = tmp_path / "art.png"
+    Image.new("RGB", (1536, 1024), yellow).save(art)
+
+    flat = _channel(tmp_path, brand={"banner_dim": False, "banner_veil": 0})
+    B.build_banner(flat, art, tmp_path / "flat.png")
+    graded = _channel(tmp_path)
+    B.build_banner(graded, art, tmp_path / "graded.png")
+
+    corner = (5, 5)                                            # far from the name
+    assert Image.open(tmp_path / "flat.png").getpixel(corner) == yellow
+    assert sum(Image.open(tmp_path / "graded.png").getpixel(corner)) < sum(yellow)
+
+
 def test_theusplays_channel_loads():
     ch = load_channel("theusplays")
     assert ch.language == "pt"

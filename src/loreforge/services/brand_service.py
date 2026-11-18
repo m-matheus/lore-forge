@@ -139,15 +139,25 @@ def _glow(img: Image.Image, layer: Image.Image, radius: int = 18) -> None:
 
 
 def wordmark_layer(channel: Channel, size: tuple[int, int], *, height_frac: float,
-                   centre: tuple[float, float], tagline: bool) -> Image.Image:
-    """The channel name (and optionally the tagline) as its own RGBA layer."""
+                   centre: tuple[float, float], tagline: bool,
+                   tracking: float = 0.14) -> Image.Image:
+    """The channel name (and optionally the tagline) as its own RGBA layer.
+
+    ``tracking`` is the letter spacing in em. Without a tagline the name's capitals are
+    centred on ``centre``."""
     w, h = size
     layer = Image.new("RGBA", size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
     font = _font(channel, max(12, int(h * height_frac)))
     cx, cy = centre[0] * w, centre[1] * h
-    _tracked_runs(draw, (cx, cy - font.size * 0.7), name_runs(channel), font, font.size * 0.14)
-    if tagline and channel.tagline:
+    with_tagline = bool(tagline and channel.tagline)
+    if with_tagline:
+        top = cy - font.size * 0.7
+    else:
+        _, cap_top, _, cap_bottom = font.getbbox("H")
+        top = cy - (cap_top + cap_bottom) / 2
+    _tracked_runs(draw, (cx, top), name_runs(channel), font, font.size * tracking)
+    if with_tagline:
         small = _font(channel, max(10, int(font.size * 0.26)))
         _tracked_text(draw, (cx, cy + font.size * 0.6), channel.tagline.upper(), small,
                       channel.thumbnail.badge_color, small.size * 0.35)
@@ -204,20 +214,25 @@ def build_banner(channel: Channel, art_path: Path, out: Path) -> Path:
     art = art.resize((round(art.width * scale), round(art.height * scale)), Image.LANCZOS)
     left, top = (art.width - BANNER[0]) // 2, (art.height - BANNER[1]) // 2
     img = art.crop((left, top, left + BANNER[0], top + BANNER[1]))
-    img = ImageEnhance.Color(ImageEnhance.Brightness(img).enhance(0.72)).enhance(0.8)
+    brand = channel.brand
+    if brand.banner_dim:
+        img = ImageEnhance.Color(ImageEnhance.Brightness(img).enhance(0.72)).enhance(0.8)
 
-    veil = Image.new("RGBA", BANNER, (0, 0, 0, 0))
-    sw, sh = BANNER_SAFE
-    ImageDraw.Draw(veil).rectangle(
-        [(BANNER[0] - sw) // 2, (BANNER[1] - sh) // 2,
-         (BANNER[0] + sw) // 2, (BANNER[1] + sh) // 2], fill=(5, 6, 9, 185))
-    veiled = img.copy()
-    veiled.alpha_composite(veil.filter(ImageFilter.GaussianBlur(90)))
-    # The veil only darkens: on art that is already near-black in the centre it would
-    # otherwise lift it and leave a visible box around the wordmark.
-    img = ImageChops.darker(img, veiled)
+    if brand.banner_veil:
+        veil = Image.new("RGBA", BANNER, (0, 0, 0, 0))
+        sw, sh = BANNER_SAFE
+        ImageDraw.Draw(veil).rectangle(
+            [(BANNER[0] - sw) // 2, (BANNER[1] - sh) // 2,
+             (BANNER[0] + sw) // 2, (BANNER[1] + sh) // 2], fill=(5, 6, 9, brand.banner_veil))
+        veiled = img.copy()
+        veiled.alpha_composite(veil.filter(ImageFilter.GaussianBlur(90)))
+        # The veil only darkens: on art that is already near-black in the centre it would
+        # otherwise lift it and leave a visible box around the wordmark.
+        img = ImageChops.darker(img, veiled)
 
-    words = wordmark_layer(channel, BANNER, height_frac=0.085, centre=(0.5, 0.47), tagline=True)
+    words = wordmark_layer(channel, BANNER, height_frac=brand.wordmark_height,
+                           centre=(0.5, 0.47 if channel.tagline else 0.5), tagline=True,
+                           tracking=brand.wordmark_tracking)
     _glow(img, words, 26)
     img.alpha_composite(words)
     img.convert("RGB").save(out, quality=92)

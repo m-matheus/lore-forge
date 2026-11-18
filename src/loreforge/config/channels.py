@@ -144,6 +144,12 @@ class BrandSpec(BaseModel):
     # together ("TheusPlays" -> THEUS in title_color, PLAYS in badge_color). Empty draws
     # the whole name in title_color.
     accent_suffix: str = ""
+    # Banner treatment. The defaults are Midnight Realm's night grade: the art is darkened
+    # and desaturated, and a veil darkens the safe area behind the name.
+    banner_dim: bool = True
+    banner_veil: int = 185              # veil opacity, 0-255; 0 turns it off
+    wordmark_height: float = 0.085      # font size as a fraction of the banner height
+    wordmark_tracking: float = 0.14     # letter spacing, in em
 
 
 class SpotifyNoticeSpec(BaseModel):
