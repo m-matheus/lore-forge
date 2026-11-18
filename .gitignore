@@ -15,6 +15,9 @@ venv/
 
 # App output (runs) and heavy media
 output/
+# Research merge cache: keyed by the hash of its input, so every new source orphans the
+# old files. extract/ stays tracked: each rebuild of a game's lore bible reads all of it.
+library/*/merge/
 channels/*/assets/overlays/*.mov
 channels/*/assets/overlays/src/
 channels/*/assets/music/*
