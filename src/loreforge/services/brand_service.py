@@ -9,8 +9,11 @@ way you would brief a designer — two directions, one accent colour, a legibili
 and the two initials are part of the drawing rather than type set over it.
 
 Sizes follow YouTube's requirements: 800x800 avatar, 2560x1440 banner with the 1546x423
-centre area that survives on every device, and a full-frame watermark matching the
-video resolution.
+centre area that survives on every device, a 150x150 video watermark for YouTube Studio,
+and a full-frame watermark matching the video resolution for the edit.
+
+Each channel can bring its own two briefs (``channel.brand``); the constants below are the
+fallback, written for Midnight Realm.
 """
 from __future__ import annotations
 
@@ -25,9 +28,11 @@ from loreforge.integrations.media import run_ffmpeg
 
 AVATAR = 800
 BACKGROUND = (7, 8, 10, 255)   # #07080A, the near-black everything else sits on
+BACKGROUND_HEX = "#07080A"
 BANNER = (2560, 1440)
 BANNER_SAFE = (1546, 423)        # centred area visible on every device
 PODCAST_COVER = 3000             # Spotify's maximum; the minimum is 1400
+VIDEO_WATERMARK = 150            # YouTube Studio's video watermark: square, 150x150, under 1 MB
 
 AVATAR_PROMPT = """
 Design a professional, high-quality logo for a YouTube channel called "{name}".
@@ -93,18 +98,40 @@ def _font(channel: Channel, size: int) -> ImageFont.FreeTypeFont:
     return ImageFont.load_default()
 
 
-def _tracked_text(draw: ImageDraw.ImageDraw, xy, text: str, font, fill, tracking: float,
-                  centre: bool = True) -> float:
-    """Draw text with letter spacing (Pillow has none). Returns the width drawn."""
-    widths = [draw.textlength(ch, font=font) for ch in text]
-    total = sum(widths) + tracking * max(0, len(text) - 1)
+def _tracked_runs(draw: ImageDraw.ImageDraw, xy, runs: list[tuple[str, str]], font,
+                  tracking: float, centre: bool = True) -> float:
+    """Draw ``(text, fill)`` runs as one line with letter spacing (Pillow has none).
+    Returns the width drawn."""
+    chars = [(ch, fill) for text, fill in runs for ch in text]
+    widths = [draw.textlength(ch, font=font) for ch, _ in chars]
+    total = sum(widths) + tracking * max(0, len(chars) - 1)
     x, y = xy
     if centre:
         x -= total / 2
-    for ch, w in zip(text, widths):
+    for (ch, fill), w in zip(chars, widths):
         draw.text((x, y), ch, font=font, fill=fill)
         x += w + tracking
     return total
+
+
+def _tracked_text(draw: ImageDraw.ImageDraw, xy, text: str, font, fill, tracking: float,
+                  centre: bool = True) -> float:
+    """Draw text with letter spacing (Pillow has none). Returns the width drawn."""
+    return _tracked_runs(draw, xy, [(text, fill)], font, tracking, centre)
+
+
+def name_runs(channel: Channel) -> list[tuple[str, str]]:
+    """The upper-cased channel name as ``(text, colour)`` runs.
+
+    With ``brand.accent_suffix`` set, the suffix is drawn in the accent colour so a name
+    that runs two words together still reads as two ("THEUS" + "PLAYS").
+    """
+    name = channel.name.upper()
+    suffix = channel.brand.accent_suffix.upper()
+    head = name[:len(name) - len(suffix)]
+    if suffix and head and name.endswith(suffix):
+        return [(head, channel.thumbnail.title_color), (suffix, channel.thumbnail.badge_color)]
+    return [(name, channel.thumbnail.title_color)]
 
 
 def _glow(img: Image.Image, layer: Image.Image, radius: int = 18) -> None:
@@ -119,8 +146,7 @@ def wordmark_layer(channel: Channel, size: tuple[int, int], *, height_frac: floa
     draw = ImageDraw.Draw(layer)
     font = _font(channel, max(12, int(h * height_frac)))
     cx, cy = centre[0] * w, centre[1] * h
-    _tracked_text(draw, (cx, cy - font.size * 0.7), channel.name.upper(), font,
-                  channel.thumbnail.title_color, font.size * 0.14)
+    _tracked_runs(draw, (cx, cy - font.size * 0.7), name_runs(channel), font, font.size * 0.14)
     if tagline and channel.tagline:
         small = _font(channel, max(10, int(font.size * 0.26)))
         _tracked_text(draw, (cx, cy + font.size * 0.6), channel.tagline.upper(), small,
@@ -133,9 +159,19 @@ def initials(channel: Channel) -> str:
     return "".join(w[0] for w in channel.name.split() if w[0].isalpha()).upper()[:3]
 
 
+def _brief(channel: Channel, rel: str, fallback: str) -> str:
+    """The channel's brief at ``rel`` (or ``fallback``) with the brand values filled in."""
+    return channel.read_text(rel, fallback).strip().format(
+        name=channel.name.upper(), initials=initials(channel),
+        background=BACKGROUND_HEX, accent=channel.thumbnail.badge_color)
+
+
 def avatar_prompt(channel: Channel) -> str:
-    return AVATAR_PROMPT.format(name=channel.name.upper(), initials=initials(channel),
-                                background="#07080A", accent=channel.thumbnail.badge_color)
+    return _brief(channel, channel.brand.avatar_prompt, AVATAR_PROMPT)
+
+
+def banner_prompt(channel: Channel) -> str:
+    return _brief(channel, channel.brand.banner_prompt, BANNER_PROMPT)
 
 
 def build_avatar(channel: Channel, art_path: Path, out: Path) -> Path:
@@ -153,6 +189,14 @@ def build_avatar(channel: Channel, art_path: Path, out: Path) -> Path:
     return out
 
 
+def build_video_watermark(avatar: Path, out: Path) -> Path:
+    """The avatar shrunk to YouTube Studio's video watermark: the corner mark on every
+    video that subscribes the viewer when clicked. Not the watermark burned into the edit."""
+    img = Image.open(avatar).convert("RGB")
+    img.resize((VIDEO_WATERMARK, VIDEO_WATERMARK), Image.LANCZOS).save(out)
+    return out
+
+
 def build_banner(channel: Channel, art_path: Path, out: Path) -> Path:
     """2560x1440 banner with the wordmark and tagline inside the safe area."""
     art = Image.open(art_path).convert("RGBA")
@@ -167,7 +211,11 @@ def build_banner(channel: Channel, art_path: Path, out: Path) -> Path:
     ImageDraw.Draw(veil).rectangle(
         [(BANNER[0] - sw) // 2, (BANNER[1] - sh) // 2,
          (BANNER[0] + sw) // 2, (BANNER[1] + sh) // 2], fill=(5, 6, 9, 185))
-    img.alpha_composite(veil.filter(ImageFilter.GaussianBlur(90)))
+    veiled = img.copy()
+    veiled.alpha_composite(veil.filter(ImageFilter.GaussianBlur(90)))
+    # The veil only darkens: on art that is already near-black in the centre it would
+    # otherwise lift it and leave a visible box around the wordmark.
+    img = ImageChops.darker(img, veiled)
 
     words = wordmark_layer(channel, BANNER, height_frac=0.085, centre=(0.5, 0.47), tagline=True)
     _glow(img, words, 26)
@@ -217,10 +265,8 @@ def build_podcast_cover(channel: Channel, logo_art: Path, scene_art: Path, out: 
 
     words = Image.new("RGBA", (side, side), (0, 0, 0, 0))
     draw = ImageDraw.Draw(words)
-    name = channel.name.upper()
-    font, tracking = _fit_font(channel, draw, name, side * 0.84, 0.12)
-    _tracked_text(draw, (side / 2, side * 0.69), name, font,
-                  channel.thumbnail.title_color, tracking)
+    font, tracking = _fit_font(channel, draw, channel.name.upper(), side * 0.84, 0.12)
+    _tracked_runs(draw, (side / 2, side * 0.69), name_runs(channel), font, tracking)
     if channel.tagline:
         tag = channel.tagline.upper()
         small, small_tracking = _fit_font(channel, draw, tag, side * 0.80, 0.22)
@@ -294,10 +340,14 @@ def build_watermark(channel: Channel, out: Path) -> Path:
     font = _font(channel, max(12, int(h * 0.021)))
     right = w * (1 - channel.look.watermark.margin_frac)
     y = h * channel.look.watermark.margin_frac
-    for i, line in enumerate(channel.name.upper().split()):
-        width = sum(draw.textlength(c, font=font) for c in line) + font.size * 0.2 * (len(line) - 1)
-        _tracked_text(draw, (right - width, y + i * font.size * 1.3), line, font,
-                      channel.thumbnail.title_color, font.size * 0.2, centre=False)
+    runs = name_runs(channel)
+    # A two-colour name stays on one line; a plain one stacks a word per line.
+    lines = [runs] if len(runs) > 1 else [[(word, runs[0][1])] for word in runs[0][0].split()]
+    for i, line in enumerate(lines):
+        text = "".join(t for t, _ in line)
+        width = sum(draw.textlength(c, font=font) for c in text) + font.size * 0.2 * (len(text) - 1)
+        _tracked_runs(draw, (right - width, y + i * font.size * 1.3), line, font,
+                      font.size * 0.2, centre=False)
     img.save(out)
     return out
 
@@ -332,12 +382,15 @@ def run(channel: Channel, *, force: bool = False, on_log=None) -> dict:
     banner_art = brand_dir / "banner_art.png"
     if force or not banner_art.exists():
         log("Generating the banner art...")
-        openai_images.generate_image(BANNER_PROMPT, banner_art, on_log=log)
+        openai_images.generate_image(banner_prompt(channel), banner_art, on_log=log)
 
     made["avatar"] = str(build_avatar(channel, avatar_art, brand_dir / "avatar.png"))
+    made["video_watermark"] = str(build_video_watermark(Path(made["avatar"]),
+                                                        brand_dir / "video_watermark.png"))
     made["banner"] = str(build_banner(channel, banner_art, brand_dir / "banner.png"))
-    made["podcast_cover"] = str(build_podcast_cover(channel, avatar_art, banner_art,
-                                                    brand_dir / "podcast_cover.jpg"))
+    if channel.spotify_url:   # Spotify show art only for channels with a podcast
+        made["podcast_cover"] = str(build_podcast_cover(channel, avatar_art, banner_art,
+                                                        brand_dir / "podcast_cover.jpg"))
     made["watermark"] = str(build_watermark(channel, channel.path(channel.look.watermark.file)))
     made["band"] = str(build_band(channel, channel.path(channel.thumbnail.band)))
     if channel.spotify_link:

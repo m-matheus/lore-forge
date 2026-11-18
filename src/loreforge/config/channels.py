@@ -131,6 +131,21 @@ class ThumbnailSpec(BaseModel):
     badge_template: str = "2+ HOUR | {game_upper} LORE | {channel_upper}"
 
 
+class BrandSpec(BaseModel):
+    """What ``loreforge channel brand`` needs beyond the thumbnail colours and fonts.
+
+    The two image briefs are channel-relative text files sent to the model verbatim,
+    after filling ``{name}``, ``{initials}``, ``{background}`` and ``{accent}``. A missing
+    file falls back to the built-in brief, written for Midnight Realm.
+    """
+    avatar_prompt: str = "brand/avatar_prompt.txt"
+    banner_prompt: str = "brand/banner_prompt.txt"
+    # Trailing part of the name drawn in the accent colour, for names that run two words
+    # together ("TheusPlays" -> THEUS in title_color, PLAYS in badge_color). Empty draws
+    # the whole name in title_color.
+    accent_suffix: str = ""
+
+
 class SpotifyNoticeSpec(BaseModel):
     """The "also on Spotify" lower third near the start of every video, plus its QR code."""
     file: str = "assets/spotify/notice.mov"   # the mogrt, exported once from Premiere with alpha
@@ -155,6 +170,7 @@ class Channel(BaseModel):
     edit: EditSpec = Field(default_factory=EditSpec)
     music: MusicSpec = Field(default_factory=MusicSpec)
     thumbnail: ThumbnailSpec = Field(default_factory=ThumbnailSpec)
+    brand: BrandSpec = Field(default_factory=BrandSpec)
     base_tags: list[str] = Field(default_factory=list)
     spotify_url: str = ""   # the podcast feed; empty leaves the Spotify line out of descriptions
     spotify_notice: SpotifyNoticeSpec = Field(default_factory=SpotifyNoticeSpec)

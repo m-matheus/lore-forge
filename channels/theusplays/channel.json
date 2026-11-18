@@ -1,0 +1,20 @@
+{
+  "name": "TheusPlays",
+  "slug": "theusplays",
+  "language": "pt",
+  "tagline": "Eu vou lá ver pra você",
+  "thumbnail": {
+    "title_font": "assets/fonts/title.ttf",
+    "badge_font": "assets/fonts/title.ttf",
+    "title_color": "#FFFFFF",
+    "badge_color": "#FFD21F"
+  },
+  "brand": {
+    "accent_suffix": "Plays"
+  },
+  "base_tags": [
+    "theusplays",
+    "gameplay",
+    "sem spoiler"
+  ]
+}

@@ -1,0 +1,35 @@
+Design a professional, high-quality logo mark for a YouTube gameplay channel: a symbol
+only, with no wordmark. The mark is built on the capital letter "{initials}", the channel's
+initial. The channel goes into open-world games to check things out for the viewer —
+hidden places, secrets, "can you actually do this?" tests and quick guides, always
+without story spoilers. Its motto is "I'll go and look for you". It will cover several
+games over time, so the mark must not reference any specific game. It will be used as
+the YouTube channel icon (square, shown cropped to a circle).
+
+THE MARK:
+A heavy, geometric capital "{initials}" with a thick, squared-off crossbar. Its stem tapers
+down into the point of a map location pin, with a small round hole near the tip like a
+real pin, so the mark reads both as the letter and as "I went there". The letter sits
+inside one thick, plain circular ring that opens at the bottom where the pin point
+passes through it. The ring carries the silhouette when the icon is shrunk to 24 pixels.
+
+The ring is plain: no ticks, no notches, no crosshair lines, nothing at the 12, 3 or 9
+o'clock positions. It must never read as a gun sight, scope or target reticle.
+
+TECHNICAL REQUIREMENTS:
+- The image contains exactly one letterform, the "{initials}". Do NOT write the channel
+  name, any word, any other letter or any number anywhere: nothing under, over or beside
+  the mark.
+- Square 1:1 composition, the mark centred both ways with a generous margin on every
+  side (the icon is cropped to a circle), works at 800x800px minimum
+- Flat near-black background ({background}), no texture, no vignette
+- Exactly one accent colour: vivid lemon yellow ({accent}). Nothing else is coloured.
+- Do not imitate Grand Theft Auto or Rockstar Games: never put the letter inside a filled
+  yellow square or rounded square, no star, no Pricedown-style lettering, no pink or
+  orange sunset gradient, no palm trees
+- Clean edges, high contrast — must be legible at 88x88px and still read at 24x24px
+- Professional logo quality, as if drawn by a senior brand designer at a creative agency
+- Flat colour only: no gradients, no bevel, no 3D, no drop shadow, no glow, no lens flare
+
+Output: the mark centred on its dark square background. No mockups, no phone screens,
+no merchandise, no presentation boards, no text. Just the clean mark on its dark background.

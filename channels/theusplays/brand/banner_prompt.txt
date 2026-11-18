@@ -1,0 +1,23 @@
+A very wide, very dark, flat graphic background for a gaming channel banner: a stylized
+top-down map at night. Fine topographic contour lines and a faint street grid in dark
+charcoal grey, barely visible against near-black ({background}).
+
+One vivid lemon yellow ({accent}) dashed route line crosses the whole image from left to
+right THROUGH THE VERTICAL MIDDLE, because on computers only a thin horizontal strip
+through the middle of the banner is shown:
+- it enters at the far left edge at about half the image height,
+- dips gently to about 60% of the height while it passes under the empty centre,
+- rises again and ends at a small yellow location pin near the far right edge, at about
+  half the image height,
+- with a few tiny yellow waypoint dots along it, mostly in the left and right thirds.
+Nothing else is yellow, and the top and bottom of the image are only faint map.
+
+The CENTRE must stay almost empty and dark: the middle 60% of the width, from 35% to 57%
+of the height, is a calm, plain expanse of map where text will be placed later. The route
+passes below that area, never through it.
+
+Modern, minimal, vector-like; the only colour is the yellow. Do not imitate Grand Theft
+Auto or Rockstar Games: no pink or orange sunset, no palm trees, no neon, no star, no
+recognizable city or coastline.
+
+ABSOLUTELY NO TEXT, no letters, no numbers, no logos, no borders.

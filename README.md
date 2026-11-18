@@ -14,8 +14,12 @@ python -m venv .venv
 pip install -e ".[dev]"
 copy .env.example .env        # fill in the keys + YOUTUBE_COOKIES_FILE
 loreforge channel prepare     # one-time: LUT, film overlay, vignette
-loreforge channel brand       # avatar, banner, watermark, thumbnail band
+loreforge channel brand       # avatar, banner, watermarks, thumbnail band
 ```
+
+`channel brand` reads the two image briefs from `channels/{slug}/brand/avatar_prompt.txt` and
+`banner_prompt.txt` when they exist, and falls back to the Midnight Realm ones otherwise.
+`channels/theusplays/` is here only to build the TheusPlays brand until play-forge exists.
 
 Requires `ffmpeg`/`ffprobe` on PATH. Keep yt-dlp current (`pip install -U yt-dlp`): if
 downloads die with HTTP 403 around 10%, that's YouTube's PO token; see the notes in
@@ -80,7 +84,7 @@ differ, so measure yours: the first chunk's log line prints its length, and
 output/{YYYYMMDD}-{slug}/
   project.json   sources/   research/   script/   audio/   footage/   thumbnail/   premiere/
 library/{game}/lore_bible.json      # per game, reused across videos
-channels/{slug}/                    # channel.json, brand.md, style_guide.md, banned_phrases.txt, templates/, assets/, reference/
+channels/{slug}/                    # channel.json, brand.md, brand/, style_guide.md, banned_phrases.txt, templates/, assets/, reference/
 ```
 
 ## The look in Premiere
