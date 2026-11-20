@@ -19,7 +19,8 @@ loreforge channel brand       # avatar, banner, watermarks, thumbnail band
 
 `channel brand` reads the two image briefs from `channels/{slug}/brand/avatar_prompt.txt` and
 `banner_prompt.txt` when they exist, and falls back to the Midnight Realm ones otherwise.
-`channels/theusplays/` is here only to build the TheusPlays brand until play-forge exists.
+The TheusPlays brand was built here and its folder now lives in play-forge; copy it back to
+`channels/` to rebuild the art.
 
 Requires `ffmpeg`/`ffprobe` on PATH. Keep yt-dlp current (`pip install -U yt-dlp`): if
 downloads die with HTTP 403 around 10%, that's YouTube's PO token; see the notes in

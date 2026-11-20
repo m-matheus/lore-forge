@@ -1,6 +1,6 @@
 from PIL import Image
 
-from loreforge.config.channels import Channel, load_channel
+from loreforge.config.channels import Channel
 from loreforge.services import brand_service as B
 
 
@@ -68,11 +68,3 @@ def test_banner_keeps_the_art_colours_when_the_night_grade_is_off(tmp_path):
     corner = (5, 5)                                            # far from the name
     assert Image.open(tmp_path / "flat.png").getpixel(corner) == yellow
     assert sum(Image.open(tmp_path / "graded.png").getpixel(corner)) < sum(yellow)
-
-
-def test_theusplays_channel_loads():
-    ch = load_channel("theusplays")
-    assert ch.language == "pt"
-    assert B.initials(ch) == "T"
-    assert "{" not in B.avatar_prompt(ch) and "{" not in B.banner_prompt(ch)
-    assert ch.path(ch.thumbnail.title_font).exists()
